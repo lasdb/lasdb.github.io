@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="lasdb">
+{% include head.html %}
+<body>
+    {% include header.html %}
+	 <div class="container">
+	        <span class="col-sm-1"></span>
+	        <section class="jumbotron col-xs-12 col-sm-10">
+	            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+	                <!-- Indicators -->
+	                <ol class="carousel-indicators">
+	                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+	                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+	                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	                </ol>
+
+	                <!-- Wrapper for slides -->
+
+	           	<!--  OPTIONAL CAPTION FOR CARROUSEL ITEM
+	           	<div class="carousel-caption">
+	                <h3>Image 2</h3>
+	                <p class="hidden-xs">nasdlas als asdla laskdmv askd kasl</p>
+	            </div>
+	           	-->
+	                <div class="carousel-inner" role="listbox">
+	                    <div class="item active">
+	                        <a target="_blank" href="http://lasdb2017.com">
+	                            <img src="img/carrousel-meeting2017.jpg" alt="img">
+	                        </a>
+	                    </div>
+	                    <div class="item">
+	                        <a href="https://facebook.com/lasdb.development">
+	                            <img src="img/carrousel-fb.png" alt="img fb">
+	                        </a>
+	                    </div>
+	                    <div class="item">
+	                    	<a href="pages/previous-meetings.html">
+	                        	<img src="img/carrousel-poster.jpg" alt="img">
+	                        	<div class="carousel-caption">
+	                				<h3 class="hidden-xs">Meeting 2015<br>Santos, Brazil</h3>
+	            				</div>
+	            			</a>	     
+	                    </div>
+	                </div>
+
+	                <!-- Controls -->
+	                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+	                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+	                    <span class="sr-only">Previous</span>
+	                </a>
+	                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+	                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+	                    <span class="sr-only">Next</span>
+	                </a>
+	            </div>
+	        </section>
+	        <span class="col-sm-1"></span>
+	    </div>
+	    <div class="container-fluid">
+	        <section class="news">
+	            <div class="row">
+	                <div class="col-sm-9">    
+	                    {{content}}
+	                </div>
+	                {% include sidebar.html %}
+	            </div>
+	        </section>
+	    </div>
+	    {% include footer.html %}
+		{% include scripts.html %}
+	  </body>
+</html>

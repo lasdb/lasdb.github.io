@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div ng-controller="NewsController as lasdb" class="row ng-cloak">
+    <h2 class="page-header" id="page-news-header">News and Events</h2>
+    <div class=" col-xs-12" ng-repeat="noticia in lasdb.mNoticias">
+        <div class="panel panel-default noticia" ng-attr-id="[[$index]]">
+            <div class="panel-heading">
+                <h3>[[noticia.title]]</h3>
+            </div>
+            <div class="panel-body">
+                <img ng-src="[[noticia.imageBg]]" ng-show="noticia.imageBg.length>2"/>
+                <p style="font-weight:bold; font-size: 1.2em;"> [[noticia.subtitle]] </p>
+                <p> [[noticia.body]] </p>
+                <p> Website:
+                    <a target="_blank" ng-href="[[noticia.URL]]"> [[noticia.URL]] </a>
+                </p>
+                <p> Posted on [[noticia.date]] </p>
+            </div>
+        </div>
+    </div>
+</div>

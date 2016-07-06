@@ -1,0 +1,22 @@
+---
+layout: home
+---
+
+<h2 class="page-header">Latest News</h2>
+<div class="row" ng-controller="NewsController as lasdb">
+    <div class=" col-xs-12 col-sm-6 ng-cloak" ng-repeat="noticia in lasdb.mNoticias   | limitTo:4">
+        <div class="panel panel-default">
+            <div class="panel-heading"> 
+                <h3> [[noticia.title]] </h3> 
+            </div>
+            <div class="panel-body" style="padding-top:0; padding-bottom:0;">
+                <img ng-src="[[noticia.imageSm]]" ng-show="noticia.imageSm.length>2" class="news-pic"/>
+                <p style="font-weight:bold; font-size: 1.2em;"> [[noticia.subtitle]] </p>
+                <p> [[noticia.body|limitTo:100]]
+                    <span ng-show="noticia.body.length>144">...</span>
+                </p>
+                <a ng-href="[['pages/news.html#'+ $index]]" class="btn btn-default">Learn More</a>
+            </div>
+        </div>
+    </div>
+ </div>

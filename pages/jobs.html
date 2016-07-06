@@ -1,0 +1,16 @@
+---
+layout: default
+---
+ 
+<div class="panel panel-default">
+    <h2 class="page-header" id="page-title"> Positions, Jobs and Opportunities </h2> 
+    <div class="panel-body" ng-controller="JobController as lasdb">
+        <div class="ng-cloak" ng-repeat="job in lasdb.jobs">
+            <h3> [[job.title]] </h3>
+            <h4> [[job.subtitle]] </h4>
+            <p> [[job.body]] </p>
+            <p><a target="_blank" ng-href="[[job.URL]]"> [[job.URL]] </a><p>
+            <p style="border-bottom: 3px solid #515151; padding-bottom: 20px;"> Posted on [[job.date]] </p>
+        </div>
+    </div>
+</div>
