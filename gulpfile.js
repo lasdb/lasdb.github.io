@@ -36,12 +36,20 @@ gulp.task('browser-sync', ['jekyll-build'], function() {
     });
 });
 
+
+gulp.task('autoprefix', function(){
+    return gulp.src('css/main.css')
+        .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
+        .pipe(gulp.dest('css/'))
+        .pipe(browserSync.reload({stream:true}));
+});
 /**
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-    gulp.watch(['*.html','css/*.css','js/*.js', '_layouts/*.html', '_includes/*.html','img/*'], ['jekyll-rebuild']);
+    gulp.watch('css/*.css', ['autoprefix','jekyll-rebuild']);
+    gulp.watch(['*.html','js/*.js', '_layouts/*.html', '_includes/*.html','img/*', 'pages/*.html'], ['jekyll-rebuild']);
 });
 
 /**
