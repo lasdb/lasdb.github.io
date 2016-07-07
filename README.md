@@ -1,4 +1,3 @@
-
 ------- WORKFLOW ----------
 
 1- 	Make changes of files
@@ -9,14 +8,14 @@
 			cd c:/users/alumno/desktop/lasdb_jekyll/_site
 			git status
 
-	For all files except modified images:
+3-	For all files except modified images:
 			
 			git add filename
 
 			git commit -m "message"
 			git push origin master
 
-	Then push the jekyll repo:
+4-	Then push the jekyll repo:
 
 			cd ..
 			git status
