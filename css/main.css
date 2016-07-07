@@ -344,7 +344,31 @@ h3.course-title {
     color:#20497d;
 }
 
+h3.modal-title {
+    font-weight: bold;
+    padding: 0;
+}
+ .modal-header {
+    padding-bottom: 5px;
+ }
 
+
+.modal-dialog {
+    margin-right: auto;
+    margin-left: auto;
+}
+.modal-btn {
+    float: right;
+    margin-right: 20%;
+}
+
+.modal-lg {
+    max-width: 80%;
+}
+
+.modal-body>img {
+    margin: 0 auto;
+}
 /*******************************************
             MEDIA QUERIES
 *******************************************/
