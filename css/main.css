@@ -344,6 +344,24 @@ h3.course-title {
     color:#20497d;
 }
 
+.btn-pic {
+    background-color:#C2C2C2;
+    border-color: #A1A1A1;
+    font-weight: 600;
+    color: black;
+}
+
+.btn-pic:hover,
+.btn-pic:active,
+.btn-pic:focus,
+.btn-pic:active:focus,
+.btn-pic:active:hover {
+    background-color: #515151;
+    font-weight: 600;
+    color: black;
+}
+
+
 h3.modal-title {
     font-weight: bold;
     padding: 0;
