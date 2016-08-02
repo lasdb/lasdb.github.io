@@ -33,6 +33,24 @@
 		URL: 'http://www.smallbrains.org'
 	},
 	{
+		title:'Latin American Zebrafish Course',
+		date:'1/6/16',
+		subtitle: 'IV LAZEN Course. Porto Alegre, Brazil. December, 2016.',
+		body: 'The main aims of the network are to promote the use of the experimental model, to facilitate the exchange materials and to foster advanced training of young scientists in the region.',
+		imageSm: 'img/news/lazen-sm.jpg',
+		imageBg: '../img/news/lazen-bg.jpg',
+		URL: 'http://lazen.fcien.edu.uy/home'
+	},
+	{
+		title:'Argentina: Workshop Developmental and Cellular Biology',
+		date:'1/6/16',
+		subtitle: 'October 27-29, 2016. Chascomus, Buenos Aires, Argentina',
+		body: 'Taller de Biología Celular y del Desarrollo',
+		imageSm: 'img/news/chas-sm.jpg',
+		imageBg: '../img/news/chas-bg.jpg',
+		URL:'http://tallerbcd.wix.com/tallerbcd' 
+	},
+	{
 		title:'Funding for model' + "-" + 'organism databases in trouble',
 		date:'26/6/16',
 		subtitle: 'Support Model Organism Databases',
@@ -51,24 +69,6 @@
 		URL:'http://www.sdbonline.org/2016mtg'
 	},
 	{
-		title:'Argentina: Workshop Developmental and Cellular Biology',
-		date:'1/6/16',
-		subtitle: 'October 27-29, 2016. Chascomus, Buenos Aires, Argentina',
-		body: 'Taller de Biología Celular y del Desarrollo',
-		imageSm: 'img/news/chas-sm.jpg',
-		imageBg: '../img/news/chas-bg.jpg',
-		URL:'http://tallerbcd.wix.com/tallerbcd' 
-	},
-	{
-		title:'Latin American Zebrafish Course',
-		date:'1/6/16',
-		subtitle: 'IV LAZEN Course. Porto Alegre, Brazil. December, 2016.',
-		body: 'The main aims of the network are to promote the use of the experimental model, to facilitate the exchange materials and to foster advanced training of young scientists in the region.',
-		imageSm: 'img/news/lazen-sm.jpg',
-		imageBg: '../img/news/lazen-bg.jpg',
-		URL: 'http://lazen.fcien.edu.uy/home'
-	},
-	{
 		title:'ISDB Meeting 2017',
 		date:'1/6/16',
 		subtitle: '18th International Congress of Developmental Biology. Singapore. 18 - 22 June 2017',
@@ -85,6 +85,18 @@
 	});
 
 var jobList = [
+	{
+		title:'Postdoc Univ. Católica de Chile',
+		date:'2/8/16',
+		subtitle: 'Investigador Postdoctoral',
+		body: 'Para trabajar en “Función de Lin28 y la hormona tiroidea en el desarrollo perinatal de ratón”. ' +
+			  'Los interesados dirigir CURRICULUM VITAE y PUBLICACIONES a: '+
+			  'Juan Larraín jlarrain@bio.puc.cl', 
+		par2: 'P. Universidad Católica de Chile. ' +
+			  'Laboratorio de Biología del Desarrollo y Regeneración. '+
+			  'Facultad de Ciencias Biológicas',
+		URL: 'http://laboratoriolarrain.uc.cl/people.html'
+	},
 	{
 		title:'Postdoc Positions in Chile',
 		date:'1/6/16',
