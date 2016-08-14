@@ -35,7 +35,7 @@
 	{
 		title:'Latin American Zebrafish Course',
 		date:'1/6/16',
-		subtitle: 'IV LAZEN Course. Porto Alegre, Brazil. December, 2016.',
+		subtitle: 'IV LAZEN Course. Porto Alegre, Brazil. December 5-10th, 2016.',
 		body: 'The main aims of the network are to promote the use of the experimental model, to facilitate the exchange materials and to foster advanced training of young scientists in the region.',
 		imageSm: 'img/news/lazen-sm.jpg',
 		imageBg: '../img/news/lazen-bg.jpg',
@@ -86,6 +86,13 @@
 
 var jobList = [
 	{
+		title:'Doctoral position, Sao Paulo',
+		date:'12/08/16',
+		subtitle: 'EvoDevo lab in São Paulo (IB-USP, Brazil)',
+		body: 'Please submit your letter of interest, updated CV, and contact information of three references to Federico Brown (fdbrown@usp.br) http://zoologia.ib.usp.br/evodevo2/',
+		URL: 'https://www.dropbox.com/s/sevb440pdbz1m9g/flier_DD2017-FDB_v2.pdf?dl=0'
+	},
+	{
 		title:'Postdoc Univ. Católica de Chile',
 		date:'2/8/16',
 		subtitle: 'Investigador Postdoctoral',
@@ -107,6 +114,11 @@ var jobList = [
 		title:'See Job Opportunities at The Node',
 		date:'',
 		URL: 'http://thenode.biologists.com/category/jobs'
+	},
+	{
+		title:'See Job Opportunities at SDB',
+		date:'',
+		URL: 'http://www.sdbonline.org/job_opportunities'
 	}
 	]
 
