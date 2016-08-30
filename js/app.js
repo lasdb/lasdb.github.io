@@ -24,13 +24,22 @@
 
 	var noticias = [
 	{
-		title:'Small Brains, Big Ideas: Practical Course',
-		date:'26/6/16',
-		subtitle: 'November 10th to 19th, 2016. Universidad de Chile, Universidad de Valparaiso',
-		body: 'Deadline for applications: July 30th, 2016. The course will consist of lectures and hands'+'-'+'on laboratory exercises that will expose Latin­American students and junior Faculty to the use of invertebrates model systems in modern neuroscience and biomedical research.',
-		imageSm: 'img/news/smallbrain-sm.jpg',
-		imageBg: '../img/news/smallbrain-bg.jpg',
-		URL: 'http://www.smallbrains.org'
+		title:'Eddy De Robertis, Doctor Honoris Causa, UdelaR, Uruguay',
+		date:'1/6/16',
+		subtitle: 'Honoris Causa para Eddy de Robertis, experto mundial en diferenciación celular',
+		body: 'El 1 de setiembre a las 10:30 horas la Universidad de la República, Uruguay entregará a Eddy De Robertis el Doctorado Honoris Causa por sus aportes significativos al desarrollo de las ciencias médicas en Uruguay y la creación de conocimiento original que ha tenido impacto universal. De Robertis nació en Massachusetts pero vivió en Uruguay desde los tres años y hasta graduarse en 1971 con Medalla de Oro en la Facultad de Medicina de la Udelar. Como se expresa en la solicitud de las facultades de Medicina y de Ciencias: «La red bioquímica de señalización extracelular descubierta por De Robertis determina la diferenciación dorso-ventral en prácticamente todos los animales, y ha proveído un nuevo paradigma en el estudio de la evolución». La ceremonia será en el Paraninfo de la Udelar. Conferencia: “BIOLOGÍA MOLECULAR, EVOLUCIÓN Y DESARROLLO: DE MONTEVIDEO A LOS ANGELES” Dr. Eddy De Robertis (UCLA, CA, USA). Miércoles 31 de agosto, 17.00 horas. Salón de actos, Facultad de Medicina. UdeR, Montevideo',
+		imageSm: 'img/news/DeRobertis-sm.jpg',
+		imageBg: '../img/news/DeRobertis-bg.jpg',
+		URL:'http://www.udelar.edu.uy/prensa/renderItem/itemId/39375/refererPageId/12' 
+	},
+	{
+		title:'Argentina: Workshop Developmental and Cellular Biology',
+		date:'1/6/16',
+		subtitle: 'October 27-29, 2016. Chascomus, Buenos Aires, Argentina',
+		body: 'Taller de Biología Celular y del Desarrollo',
+		imageSm: 'img/news/chas-sm.jpg',
+		imageBg: '../img/news/chas-bg.jpg',
+		URL:'http://tallerbcd.wix.com/tallerbcd' 
 	},
 	{
 		title:'Latin American Zebrafish Course',
@@ -42,13 +51,13 @@
 		URL: 'http://lazen.fcien.edu.uy/home'
 	},
 	{
-		title:'Argentina: Workshop Developmental and Cellular Biology',
-		date:'1/6/16',
-		subtitle: 'October 27-29, 2016. Chascomus, Buenos Aires, Argentina',
-		body: 'Taller de Biología Celular y del Desarrollo',
-		imageSm: 'img/news/chas-sm.jpg',
-		imageBg: '../img/news/chas-bg.jpg',
-		URL:'http://tallerbcd.wix.com/tallerbcd' 
+		title:'Small Brains, Big Ideas: Practical Course',
+		date:'26/6/16',
+		subtitle: 'November 10th to 19th, 2016. Universidad de Chile, Universidad de Valparaiso',
+		body: 'Deadline for applications: July 30th, 2016. The course will consist of lectures and hands'+'-'+'on laboratory exercises that will expose Latin­American students and junior Faculty to the use of invertebrates model systems in modern neuroscience and biomedical research.',
+		imageSm: 'img/news/smallbrain-sm.jpg',
+		imageBg: '../img/news/smallbrain-bg.jpg',
+		URL: 'http://www.smallbrains.org'
 	},
 	{
 		title:'Funding for model' + "-" + 'organism databases in trouble',
