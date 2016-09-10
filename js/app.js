@@ -24,13 +24,13 @@
 
 	var noticias = [
 	{
-		title:'Eddy De Robertis, Doctor Honoris Causa, UdelaR, Uruguay',
-		date:'1/6/16',
-		subtitle: 'Honoris Causa para Eddy de Robertis, experto mundial en diferenciación celular',
-		body: 'El 1 de setiembre a las 10:30 horas la Universidad de la República, Uruguay entregará a Eddy De Robertis el Doctorado Honoris Causa por sus aportes significativos al desarrollo de las ciencias médicas en Uruguay y la creación de conocimiento original que ha tenido impacto universal. De Robertis nació en Massachusetts pero vivió en Uruguay desde los tres años y hasta graduarse en 1971 con Medalla de Oro en la Facultad de Medicina de la Udelar. Como se expresa en la solicitud de las facultades de Medicina y de Ciencias: «La red bioquímica de señalización extracelular descubierta por De Robertis determina la diferenciación dorso-ventral en prácticamente todos los animales, y ha proveído un nuevo paradigma en el estudio de la evolución». La ceremonia será en el Paraninfo de la Udelar. Conferencia: “BIOLOGÍA MOLECULAR, EVOLUCIÓN Y DESARROLLO: DE MONTEVIDEO A LOS ANGELES” Dr. Eddy De Robertis (UCLA, CA, USA). Miércoles 31 de agosto, 17.00 horas. Salón de actos, Facultad de Medicina. UdeR, Montevideo',
+		title:'Eddy De Robertis, Doctor Honoris Causa at UdelaR, Uruguay',
+		date:'1/9/16',
+		subtitle: '',
+		body: 'On September 1st  Professor Eddy de Robertis was granted the Doctor Honoris Causa degree by the Universidad de la República in Montevideo, Uruguay, for his  outstanding role in the development of Medical Sciences in Uruguay and his scientific contributions with worldwide impact to universal knowledge.  Eddy de Robertis is Distinguished Professor and Norman F. Sprague Chair of Molecular Oncology at the Department of Biological Chemistry, University of California, Los Angeles (UCLA), and Investigator of the Howard Hughes Medical Institute. He devoted his professional life to investigate the molecular mechanisms of embryonic development, has been one of the main mentors of the LASDB when the Society was created in 2003, and currently he is a very active member of the External Board of our Society. Congratulations Eddy!!',
 		imageSm: 'img/news/DeRobertis-sm.jpg',
 		imageBg: '../img/news/DeRobertis-bg.jpg',
-		URL:'http://www.udelar.edu.uy/prensa/renderItem/itemId/39375/refererPageId/12' 
+		URL:'http://www.universidad.edu.uy/prensa/renderItem/itemId/39442/refererPageId/12' 
 	},
 	{
 		title:'Argentina: Workshop Developmental and Cellular Biology',
@@ -49,6 +49,15 @@
 		imageSm: 'img/news/lazen-sm.jpg',
 		imageBg: '../img/news/lazen-bg.jpg',
 		URL: 'http://lazen.fcien.edu.uy/home'
+	},
+	{
+		title:'Expanding C. elegans research:  First Latin American Worm Meeting',
+		date:'10/9/16',
+		subtitle: 'February 22nd to 24th, 2017.  Institut Pasteur, Montevideo, Uruguay.',
+		body: 'The Objectives of the Meeting are: to integrate a Latin American Worm Community, to provide an integrated and updated view on C.elegans research, to encourage discussion and foster collaborations among our labs, to provide knowledge on cutting edge methodologies and technologies for worm research. Check meeting webpage for confirmed speakers and important deadlines. ICGEB grants are available for students/young researchers',
+		imageSm: 'img/news/worm-sm.jpg',
+		imageBg: '../img/news/worm-bg.jpg',
+		URL: 'http://pasteur.uy/en/last-news/first-latin-american-worm-meeting'
 	},
 	{
 		title:'Small Brains, Big Ideas: Practical Course',
