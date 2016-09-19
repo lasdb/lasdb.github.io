@@ -36,16 +36,16 @@
 		title:'Argentina: Workshop Developmental and Cellular Biology',
 		date:'1/6/16',
 		subtitle: 'October 27-29, 2016. Chascomus, Buenos Aires, Argentina',
-		body: 'Taller de Biología Celular y del Desarrollo',
+		body: 'This workshop intends to integrate cell and developmental biologists working in Argentina and beyond.  One of its goals is to provide an informal and dynamic environment for discussions and presentations of students, post-docs, young and established researchers. Fellowships will be available. Deadline: September 30',
 		imageSm: 'img/news/chas-sm.jpg',
 		imageBg: '../img/news/chas-bg.jpg',
 		URL:'http://tallerbcd.wix.com/tallerbcd' 
 	},
 	{
-		title:'Latin American Zebrafish Course',
+		title:'Latin American Zebrafish Network Course and Symposium',
 		date:'1/6/16',
-		subtitle: 'IV LAZEN Course. Porto Alegre, Brazil. December 5-10th, 2016.',
-		body: 'The main aims of the network are to promote the use of the experimental model, to facilitate the exchange materials and to foster advanced training of young scientists in the region.',
+		subtitle: 'LAZEN COURSE December 5-8, 2016. LAZEN SYMPOSIUM December 9-10, 2016. Porto Alegre, Brazil.',
+		body: 'The course will include practical training for selected young investigators based on the potential application of the new learned skills. The International Symposium will be open to undergraduate and graduate students, professionals and investigators of all fields. The program includes lectures and round-tables to foster interaction and practical discussions on the use of zebrafish in several fields. Deadline, Abstract Submission: September 30. Applications to the Course should received by October 15th. More information and updates: Webpage:   http://lazen.fcien.edu.uy/home . Webpage Symposium:  http://eventos.pucrs.br/zebrafish2016/ . Facebook:   https://www.facebook.com/lazen2016',
 		imageSm: 'img/news/lazen-sm.jpg',
 		imageBg: '../img/news/lazen-bg.jpg',
 		URL: 'http://lazen.fcien.edu.uy/home'
