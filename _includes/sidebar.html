@@ -12,11 +12,15 @@
             <a href="{{site.baseurl}}/pages/jobs.html">
                 <p style="font-weight:bold; margin-top: 30px; font-size: 1.2em;">POSITIONS</p>
                 <ul style="padding-left:10px; border-bottom: 3px solid #515151;">
-                    <div class="ng-cloak" ng-controller="JobController as lasdb">
-                        <li ng-repeat="job in lasdb.jobs">     
-                            <p> [[job.title +'. '+ job.subtitle]] </p>
-                        </li>
-                    </div>
+                    {% for post in site.posts %}
+                        {% if post.categories contains 'jobs' %}
+                            {% for job in post.jobs limit:4 %}
+                                <li>     
+                                    <p> {{job.title}}.  {{job.subtitle}} </p>
+                                </li>
+                            {% endfor %}
+                        {% endif %}
+                    {% endfor %}
                 </ul>
             </a>
             <div id="newsletter">

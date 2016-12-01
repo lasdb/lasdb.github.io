@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+
+<div class="row">
+    <h2 class="page-header" id="page-news-header">News and Events</h2>
+    {% for noticia in page.news%}
+        <div class=" col-xs-12">
+            <div class="panel panel-default noticia" id={{forloop.index}}>
+                <div class="panel-heading">
+                    <h3>{{noticia.title}}</h3>
+                </div>
+                <div class="panel-body">
+                    <img src= {{noticia.imageBg}} />
+                    <p style="font-weight:bold; font-size: 1.2em;"> {{noticia.subtitle}} </p>
+                    <p> {{noticia.body}} </p>
+                    <p> Website:
+                        <a target="_blank" href={{noticia.URL}}> {{noticia.URL}} </a>
+                    </p>
+                    <p> Posted on {{noticia.date}} </p>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="panel panel-default">
+    <h2 class="page-header" id="page-title"> Positions, Jobs and Opportunities </h2> 
+    <div class="panel-body">
+    	{% for job in page.jobs %}
+            <h3> {{job.title}} </h3>
+            <h4> {{job.subtitle}} </h4>
+            <p>{{job.body}}</p>
+            {% if job.par2.size > 2 %}
+            	<p>{{job.par2}}</p>
+			{% endif %}
+            <p><a target="_blank" href={{job.URL}}> {{job.URL}} </a><p>
+            <p style="border-bottom: 3px solid #515151; padding-bottom: 20px;"> Posted on {{job.date}} </p>
+        {% endfor %}
+    </div>
+</div>
