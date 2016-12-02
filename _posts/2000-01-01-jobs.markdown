@@ -10,7 +10,6 @@ jobs:
     subtitle: 'EvoDevo lab in São Paulo (IB-USP, Brazil)'
     body: 'Please submit your letter of interest, updated CV, and contact information of three references to Federico Brown (fdbrown@usp.br) http://zoologia.ib.usp.br/evodevo2/'
     URL: 'https://www.dropbox.com/s/sevb440pdbz1m9g/flier_DD2017-FDB_v2.pdf?dl=0'
-
   - title: 'Postdoc Univ. Católica de Chile'
     date: '2/8/16'
     subtitle: 'Investigador Postdoctoral'
