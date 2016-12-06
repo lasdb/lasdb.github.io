@@ -15,7 +15,7 @@ news:
   - title: 'ISDB Meeting 2017'
     date: '1/6/16'
     subtitle: '18th International Congress of Developmental Biology. Singapore. 18 - 22 June 2017'
-    body: 'International Society for Developmental Biology Meeting.  Check the updated list of confirmed speakers. Abstract submission is opne.' 
+    body: 'International Society for Developmental Biology Meeting.  Check the updated list of confirmed speakers. Abstract submission is open.' 
     imageSm: 'img/news/isdb-sm.png'
     imageBg: '../img/news/isdb-bg.png'
     URL: 'http://isdb2017.com/'
