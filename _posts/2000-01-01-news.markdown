@@ -28,7 +28,7 @@ news:
     URL: 'http://lazen.fcien.edu.uy/home'
   - title: 'International Society for Stem Cell Research Meeting'
     date: '5/12/16'
-    subtitle: 'ISSCR 2017 June 14-17, 2016. Boston, USA.'
+    subtitle: 'ISSCR 2017 June 14-17, 2017. Boston, USA.'
     body: 'Abstract submission and registration is now open for the ISSCR 2017 annual meeting in Boston, 14-17 June. Nearly 4,000 stem cell researchers from around the world will come together to share breakthrough discoveries in stem cell science and regenerative medicine. As a researcher, you are invited to share your science at the meeting by submitting an abstract. Connect with leaders and peers in the field, and engage with the cutting-edge science and technology that is transforming human health'
     imageSm: 'img/news/isscr-sm.jpg'
     imageBg: '../img/news/isscr-bg.jpg'
