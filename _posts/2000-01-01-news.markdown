@@ -13,7 +13,7 @@ news:
     imageBg: '../img/news/worm-bg.jpg'
     URL: 'http://pasteur.uy/en/last-news/first-latin-american-worm-meeting'
   - title: 'MBL Embryology Course Marine Biological Lab at Woods Hole'
-    date: '5/12/16'
+    date: '20/12/17'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 14-17, 2017. Application: February 1, 2017'
     body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. 
 Directors: Rich Schneider (University of California San Francisco) and David Sherwood (Duke University)'
