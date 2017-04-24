@@ -5,6 +5,12 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
   - title: 'Doctoral position, Sao Paulo'
     date: '12/08/16'
     subtitle: 'EvoDevo lab in São Paulo (IB-USP, Brazil)'
@@ -16,12 +22,6 @@ jobs:
     body: 'Para trabajar en “Función de Lin28 y la hormona tiroidea en el desarrollo perinatal de ratón”. Los interesados dirigir CURRICULUM VITAE y PUBLICACIONES a: Juan Larraín jlarrain@bio.puc.cl' 
     par2: 'P. Universidad Católica de Chile. Laboratorio de Biología del Desarrollo y Regeneración. Facultad de Ciencias Biológicas'
     URL: 'http://laboratoriolarrain.uc.cl/people.html'
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
   - title: 'Postdoc Positions in Chile'
     date: '1/6/16'
     subtitle: 'VISUAL D Postdoctoral Positions 2016'
