@@ -1,12 +1,16 @@
 <div class="hidden-xs col-sm-3">
     <div class="panel panel-default" id="sidebar">
         <div class="panel-body">
+            <a href="{{site.baseurl}}/pages/pay-annual-dues.html">
+                <p style="font-weight:bold; margin-top: 30px; font-size: 1.2em;">PAY YOUR ANNUAL MEMBERSHIP</p>
+                <ul style="padding-left:10px; border-bottom: 3px solid #515151;"></ul>
+            </a>
             <a target="_blank" href="http://www.lasdb2017.com">
                 <img src="{{site.baseurl}}/img/sidebar-meeting2017.jpg"/>
                 <p  style="font-weight:bold; padding-bottom: 15px; padding-top: 10px; border-bottom: 3px solid #515151">
                     Medellín, Colombia <br>
                     October 9-13,  2017 <br>
-                    lasdb2017.com <br>
+                    lasdb2017.com <br> <br>
                 <img src="{{site.baseurl}}/img/sidebar-speakers2017.jpg"/>
                 </p>
             </a>
@@ -15,7 +19,7 @@
                 <ul style="padding-left:10px; border-bottom: 3px solid #515151;">
                     {% for post in site.posts %}
                         {% if post.categories contains 'jobs' %}
-                            {% for job in post.jobs limit:4 %}
+                            {% for job in post.jobs limit:2 %}
                                 <li>     
                                     <p> {{job.title}}.  {{job.subtitle}} </p>
                                 </li>
