@@ -6,7 +6,7 @@ categories: news
 permalink: pages/news.html
 news:
   - title: 'LASDB Meeting 2017. Medellin, Colombia.'
-    date: '18/4/17'
+    date: '3/5/17'
     subtitle: 'EXTENDED DEADLINES FOR LASDB2017'
     body: 'Abstract submission: May 22.  LASDB Fellowship application: May 22.  ICGEB Fellowship application: June 3. Early registration: July 31. Please visit the meeting webpage.' 
     imageSm: 'img/news/extended-sm.jpg'
