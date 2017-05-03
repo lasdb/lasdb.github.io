@@ -14,7 +14,7 @@ news:
     URL: 'http://www.lasdb2017.com/'
   - title: 'Pay your Annual Dues'
     date: '25/4/17'
-    subtitle: 'LASDB Membership'
+    subtitle: 'LASDB Annual Membership Dues'
     body: 'It is our policy to keep the LASDB annual membership fees as low as possible. Nevertheless, the budget of the Society depends mostly on the timely payment of these fees. We have set up a Paypal account so you can pay with credit card. To make the payment please use the link shown below' 
     imageSm: 'img/news/pay-dues-sm.jpg'
     imageBg: '../img/news/pay-dues-sm.jpg'
