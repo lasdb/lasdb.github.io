@@ -22,7 +22,7 @@ news:
   - title: 'LASDB Meeting 2017. Medellin, Colombia. October 9-13'
     date: '18/4/17'
     subtitle: 'LASDB and ICGEB Fellowships. Deadlines: June 3'
-    body: 'Fellowships for grad students, postdocs and early career scientists sponsored by the International Centre for Genetic Engineering and Biotechnology (ICGEB) and LASDB. Please see that ICGEB and LASDB fellowships are two separate application forms! Abstract submission is May 22. Check Lasdb2017 Meeting wesite' 
+    body: 'Fellowships for grad students, postdocs and early career scientists sponsored by the International Centre for Genetic Engineering and Biotechnology (ICGEB) and LASDB/SDB. Please see that ICGEB and LASDB/SDB fellowships are two separate application forms! Abstract submission is May 22. Check Lasdb2017 Meeting wesite' 
     imageSm: 'img/news/fellowship2017-sm.jpg'
     imageBg: '../img/news/fellowship2017-bg.jpg'
     URL: 'http://www.lasdb2017.com/'
