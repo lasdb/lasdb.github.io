@@ -5,6 +5,12 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Postdoc position. Heart development'
+    date: '12/6/17'
+    subtitle: 'University of North Carolina. Corton lab.'
+    body: 'Fully funded postdoctoral positions are presently available in the Conlon Lab whose studies focus on identifying the molecular networks that are essential for early heart development and how alterations in these networks lead to congenital heart disease. For these studies, we use a highly integrated approach that incorporates developmental, genetic, proteomic, biochemical and molecular based studies in mouse, Xenopus and stem cells. Recent advances and projects of interest in the Conlon lab include studies that define the cellular and molecular events that lead to cardiac septation, those that explore cardiac interaction networks as determinants of transcriptional specificity, the mechanism and function of cardiac transcriptional repression networks and, the regulatory networks of cardiac morphogenesis.' 
+    par2: 'Job Requirements:  Candidates should have recently obtained or be about to obtain a Ph.D. or M.D. in a field of biological science and should have a strong publication record. Outstanding and highly motivated candidates should apply by email to Dr. Frank L. Conlon and include a CV/resume, three references and description of your specific interest in our research programs.'
+    URL: 'http://www.unc.edu/~fconlon/'
   - title: 'See Job Opportunities at The Node'
     date: ''
     URL: 'http://thenode.biologists.com/category/jobs'
