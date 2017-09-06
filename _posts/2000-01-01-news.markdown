@@ -5,6 +5,13 @@ date:   2000-01-01 00:00:00
 categories: news
 permalink: pages/news.html
 news:
+  - title: 'Chilean Developmental Biology Network'
+    date: '1/6/17'
+    subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
+    body: '"Red de Investigadores en Biología del Desarrollo" (RiBiD - Chile) is composed by researchers in the field of Developmental Biology, Stem Cells, Regeneration and Aging. The goal are to foster the scientific interaction in Chile, promote the participation of young researchers and students, and the collaboration between groups. The 4th Meeting of RiBiD will be held at the Pontificia Universidad Católica de Chile in Santiago in January 2018. More information will be available soon in the webpage.'
+    imageSm: 'img/news/chile-RiBiD-sm.jpg'
+    imageBg: '../img/news/chile-RiBiD-bg.jpg'
+    URL: 'http://ribidchile.wixsite.com/ribid'  
   - title: 'International Developmental Biology Course'
     date: '21/5/17'
     subtitle: 'CIMARQ-Quintay, Chile. 9-21th January 2018'
@@ -19,13 +26,6 @@ news:
     imageSm: 'img/news/Australia-sm.jpg'
     imageBg: '../img/news/Australia-bg.jpg'
     URL: 'http://www.armi.org.au/get-involved/public-events/regenerative-medicine-and-developmental-biology-symposium-series-abc'
-  - title: 'Chilean Developmental Biology Network'
-    date: '1/6/17'
-    subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
-    body: '"Red de Investigadores en Biología del Desarrollo" (RiBiD - Chile) is composed by researchers in the field of Developmental Biology, Stem Cells, Regeneration and Aging. The goal are to foster the scientific interaction in Chile, promote the participation of young researchers and students, and the collaboration between groups. The 4th Meeting of RiBiD will be held at the Pontificia Universidad Católica de Chile in Santiago in January 2018. More information will be available soon in the webpage.'
-    imageSm: 'img/news/chile-RiBiD-sm.jpg'
-    imageBg: '../img/news/chile-RiBiD-bg.jpg'
-    URL: 'http://ribidchile.wixsite.com/ribid'  
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
     subtitle: 'Mechanism of Development. Latin America Special Issue'
