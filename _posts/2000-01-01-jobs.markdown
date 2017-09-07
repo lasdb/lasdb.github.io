@@ -5,6 +5,15 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Assistant Professor. Invertebrate Developmental Biology'
+    date: '6/9/17'
+    subtitle: 'Southern Connecticut State University'
+    body: 'The Biology Department at Southern Connecticut State University invites applicants for a full-time, tenure-track position in Invertebrate Developmental Biology at the Assistant Professor level.  We seek candidates that will offer general biology courses for non-majors and majors and courses in developmental biology for undergraduate and graduate students, as well as courses that support the B.S. program in Biotechnology.  The Biology Department offers the B.S. and B.A. degrees in Biology, the B.S. degree in Biology with teacher-certification (7-12), the B.S. degree in Biotechnology, the M.S. in Biology, and a post-baccalaureate program for initial teacher certification.  Please see our website at http://www.southernct.edu/biology for more information.' 
+    par2: 'Brief Description of Duties/Responsibilities:
+Candidates must be committed to teaching within a vibrant and demanding public liberal arts and sciences environment.  Tenure-track faculty at SCSU are expected to conduct research/creative activity in their area of expertise.  Creative activities include mentoring student research leading to publication of theses, publishing articles in academic and professional journals, seeking funding in support of research and teaching needs, and contributing to workshops and conferences. <br>
+Required Qualifications:  Candidates must have earned a Ph.D. by the time of appointment in developmental biology or a related field and possess experience teaching at the university level. <br>
+Application Process: Please send electronically a cover letter, curriculum vitae, statement of research interests and plans, statement of teaching philosophy and interests, three letters of recommendation, representative reprints, teaching evaluations, and any other evidence of teaching effectiveness to:  Biology Search Committee Chair at BIOsearch1@southernct.edu.  Please include your personal contact information along with a work address on your CV.  In order for your application to be given full consideration, all materials must be received by Monday, October 16, 2017.  The position will remain open until filled.'
+    URL: 'https://www.southernct.edu/faculty-staff/hr/jobs/AS-Biology-Invertebrate-Developmental-Biologist-Assistant-Professor.html'
   - title: 'Postdoc position. Heart development'
     date: '12/6/17'
     subtitle: 'University of North Carolina. Conton Lab.'
