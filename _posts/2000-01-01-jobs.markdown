@@ -5,6 +5,13 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Postdoc position in genetic control of patterning in the early mammalian embryo'
+    date: '15/9/17'
+    subtitle: 'Srinivas lab in the University of Oxford'
+    body: 'Three year Wellcome funded postdoc position available in the Srinivas lab in the University of Oxford, to investigate patterning in the early post-implantation mouse embryo. We are looking for someone who is enthusiastic about using multi-disciplinary approaches including fluorescent reporters, advanced imaging and single cell sequencing to study the molecular mechanisms controlling early embryonic patterning.' 
+    par2: 'Apply online before 25th September, 2017 http://tinyurl.com/ssLab-postdoc
+Email informal enquiries to: shankar.srinivas@dpag.ox.ac.uk.'
+    URL: 'http://tinyurl.com/ssLab-postdoc'
   - title: 'Assistant Professor. Invertebrate Developmental Biology'
     date: '6/9/17'
     subtitle: 'Southern Connecticut State University'
