@@ -12,9 +12,7 @@ jobs:
 The candidate will develop novel single cell profiling technologies, and apply them to study neuronal development. Additional neuronal development studies will also be carried out. The single cell profiling technology development part of this project will be carried out in close collaboration with the Genomics Miniaturization Technology Unit (Plessy; RIKEN Center for Life Science Technologies, Yokohama, Japan).' 
     par2: 'A demonstrated record of technical and intellectual molecular biology excellence is the primary criterion for this position. The candidate is expected to play a leading role in a collaborative team, and a proven ability to function effectively in a team will be also considered in the selection process.
 Interested postdoctoral researchers are encouraged to send an email containing 1) a curriculum vitae including publications and names of three references, 2) a short description of skills and experience to Adrian Moore (adrianm@brain.riken.jp). Working level English is required. Japanese language skills are not a requirement.'
-    URL: 'http://www.brain.riken.jp/en/faculty/details/31 <br>
-          http://population-transcriptomics.org/  <br>
-          http://singlecell.riken.jp/en/'
+    URL: 'http://www.brain.riken.jp/en/faculty/details/31'
   - title: 'Postdoc position in genetic control of patterning in the early mammalian embryo'
     date: '16/9/17'
     subtitle: 'Srinivas lab in the University of Oxford'
