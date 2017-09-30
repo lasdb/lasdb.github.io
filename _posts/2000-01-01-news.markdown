@@ -12,7 +12,6 @@ news:
     imageSm: 'img/news/chile-RiBiD-sm.jpg'
     imageBg: '../img/news/chile-RiBiD-bg.jpg'
     URL: 'http://ribidchile.wixsite.com/ribid'  
-
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
     subtitle: 'Mechanism of Development. Latin America Special Issue'
@@ -20,7 +19,6 @@ news:
     imageSm: 'img/news/MOD2017-sm.jpg'
     imageBg: '../img/news/MOD2017-bg.gif'
     URL: 'https://www.journals.elsevier.com/mechanisms-of-development/call-for-papers/call-for-paper-developmental-biology-in-latin-america?utm_source=External&utm_medium=banner&utm_campaign=MOD_SI_LA_2018'
-
 - title: 'International Developmental Biology Course'
     date: '21/5/17'
     subtitle: 'CIMARQ-Quintay, Chile. 9-21th January 2018'
@@ -35,7 +33,6 @@ news:
     imageSm: 'img/news/satellite-course-sm.jpg'
     imageBg: '../img/news/satellite-course-bg.jpg'
     URL: 'http://www.lasdb2017.com/course.html'
-
   - title: 'Regenerative Medicine and Developmental Biology Symposium. Australia, Brazil, Chile'
     date: '20/6/17'
     subtitle: '9–10 October 2017. Monash University. Australia'
