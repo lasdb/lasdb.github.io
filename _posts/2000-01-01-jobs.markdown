@@ -5,6 +5,16 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Postdoc and Ph.D. positions'
+    date: '1/10/17'
+    subtitle: 'Research Unit Sensory Biology & Organogenesis Helmholtz Zentrum München'
+    body: 'The López-Schier laboratory at the Helmholtz Zentrum Munich in Germany is seeking creative and highly motivated PhD students or postdoctoral scholars to work within our group.' 
+    par2: 'We currently have 4 fully funded openings for the following projects:
+1. Cellular and genetic bases of organ formation, including cell packing and tissue remodelling. We single-cell transcriptional profiling, genome engineering using CRISPR/Cas9 and quantitative live imaging data using light-sheet microscopy. Preference will be given to candidates with theoretical or practical knowledge in cell biology or biophysics.
+2. Control of cell number and diversity in sensory organs. Candidates should have a strong theoretical background in cell biology, and a good command of computer programming.
+3. Stem cells and organ regeneration, including organ size and proportions. We use state of the art optical imaging, optogenetics and genome engineering to unravel what triggers the regenerative response after tissue injury. This project is ideal for a candidate with studies in biology, informatics, or with experience in computer programming.
+4. Stem cells and organ pattern formation, including cell packing. Using high-resolution cellular tracking and machine learning, we attempt to understand how cells self-organize during organ repair and to predict cellular behavior. This project is ideal for a candidate with studies in informatics, mathematics, or experience in machine learning.'
+    URL: 'http://thenode.biologists.com/phd-postdoctoral-positions/jobs/'
   - title: 'Molecular Biologist Position Opening'
     date: '15/9/17'
     subtitle: 'RIKEN Brain Science Institute'
