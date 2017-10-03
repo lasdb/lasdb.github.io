@@ -28,7 +28,7 @@ news:
     URL: 'http://biodesarrollo.unab.cl/'
   - title: '@LASDB_DevBiol'
     date: '2/10/17'
-    subtitle: 'Follow LASDB in Twitter'
+    subtitle: 'LASDB on Twitter. Follow @LASDB_DevBiol'
     body: '' 
     imageSm: 'img/news/twitter-sm.png'
     imageBg: '../img/news/twitter-bg.png'
