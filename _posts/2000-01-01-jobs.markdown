@@ -19,6 +19,7 @@ Our laboratory has uncovered how the external respiratory organs and the main en
   - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
     date: '22/10/17'
     subtitle: '' 
+    body: '     '
     par2: '     '
     URL: 'https://utampa.wd1.myworkdayjobs.com/en-US/Faculty/job/Tampa/Assistant-Professor-of-Biology--Developmental-Biologist-_R0001530'
     
