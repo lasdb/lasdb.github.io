@@ -25,7 +25,7 @@ PhD preferred (advanced ABD candidates considered), prior teaching and research 
 Salary for this position is competitive and commensurate with experience.
 Review of applications will begin November 1, 2017, and continue until the position is filled.
 Limited start-up packages and modest research space are available for tenure-track positions.'
-    par2: 'The University of Tampa is a medium-sized, comprehensive, residentially-based private institution of 8,913 undergraduate and graduate students.  The University is ideally situated on a beautiful 110-acre campus next to the Hillsborough River, adjacent to Tampa's dynamic central business district, which is a growing, vibrant, diverse metropolitan area.  UT reflects this vibrancy; with 20 consecutive years of enrollment growth UT boasts 229 student organizations, a multicultural student body from 50 states and 140 countries, and Top Tier ranking in U.S. News and World Report.'
+    par2: ''
     URL: 'https://utampa.wd1.myworkdayjobs.com/en-US/Faculty/job/Tampa/Assistant-Professor-of-Biology--Developmental-Biologist-_R0001530'
     
   - title: 'Postdoc and Ph.D. positions'
