@@ -18,7 +18,7 @@ Our laboratory has uncovered how the external respiratory organs and the main en
 
   - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
     date: '22/10/17'
-    subtitle: '' 
+    subtitle: 'Tenure track position in developmental biology at the rank of Assistant Professor starting in August 2018' 
     body: 'Primary responsibilities will include an undergraduate teaching load of 12 contact hours per semester.  The candidate is expected to teach introductory biology for majors, an upper division course in developmental biology, and other courses as needed.  
 Secondarily, the candidate is expected to engage in scholarly and research activity that involves undergraduates, advise students, and provide service to the department, college, university and broader community. Research activities must yield peer-reviewed publications. 
 PhD preferred (advanced ABD candidates considered), prior teaching and research experience with undergraduates is desirable. 
