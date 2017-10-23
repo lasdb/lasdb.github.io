@@ -5,6 +5,17 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Ph.D. position. Centro Andaluz de Biología del Desarrollo, Spain'
+    date: '22/10/17'
+    subtitle: 'Evolution of the gene networks controlling organogenesis'
+    body: 'The positions are highly competitive and the application process has two phases. In the first round the students should apply to the program, and in the second, those selected will be allowed to chose lab, one being offered by Gene regulation and morphogenesis lab, James Castelli-Gair Hombría PI. Email enquiries to: jcashom@upo.es.' 
+    par2: 'Organs evolve to perform their functions more efficiently, allowing organisms to adapt to changing environments and to explore new niches. Despite the acceptance of these premises, there are no models to analyse how these adaptations happened. Taking advantage of the deep knowledge our laboratory has on the cellular and molecular processes controlling the organogenesis of the endocrine glands and the respiratory organs of Drosophila, we will study how organogenesis evolved in related species. For this purpose we will analyse species with defined organ differences and study how the differential regulation of genes controlling Drosophila organogenesis has varied between species to give rise to new shapes and organ associations while maintaining the basic function. We will take advantage of advances in genome sequencing and novel genetic tools like Crispr that allow probing the function of homologous genes in non model organisms.
+Arthropods have occupied all niches on earth and have some of the most successful groups. This has been achieved through the development of segment specific organs that specialized as different species occupied novel environments, as exemplified by the four times aquatic
+Arthropods adapted to terrestrial life. This resulted in a number of organs that, evolving from preexisting ones, have adapted their organogenetic networks to perform their function in different environments.
+Drosophila has become one of the best models to study from the cellular and molecular point of view how organogenesis unfolds and this is the ideal starting point to understand how related species may have modified pre-existing organogenetic gene networks for adaptation.
+Our laboratory has uncovered how the external respiratory organs and the main endocrine organs develop. We propose to use comparative organogenesis of these organs to analyse how organ evolution occurred through medium and large evolutionary distances.'
+    URL: 'https://obrasociallacaixa.org/el/educacion-becas/becas-de-posgrado/inphinit/programme-description'
+    URL: 'http://www.cabd.es/en-research_groups-11-21-cell-integration-of-diverse-genetic-inputs-during-the-morphogenesis-of-complex-organs-summary.html'
   - title: 'Postdoc and Ph.D. positions'
     date: '1/10/17'
     subtitle: 'Research Unit Sensory Biology & Organogenesis Helmholtz Zentrum München'
