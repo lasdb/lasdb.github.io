@@ -16,7 +16,7 @@ Drosophila has become one of the best models to study from the cellular and mole
 Our laboratory has uncovered how the external respiratory organs and the main endocrine organs develop. We propose to use comparative organogenesis of these organs to analyse how organ evolution occurred through medium and large evolutionary distances.'
     URL: 'http://www.cabd.es/en-research_groups-11-21-cell-integration-of-diverse-genetic-inputs-during-the-morphogenesis-of-complex-organs-summary.html'
 
-  - title: 'Assistant Professor Developmental Biologist. University of Tampa, Florida, USA'
+  - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
     date: '22/10/17'
     subtitle: '' 
     par2: 'The University of Tampa is a medium-sized, comprehensive, residentially-based private institution of 8,913 undergraduate and graduate students.  The University is ideally situated on a beautiful 110-acre campus next to the Hillsborough River, adjacent to Tampa's dynamic central business district, which is a growing, vibrant, diverse metropolitan area.  UT reflects this vibrancy; with 20 consecutive years of enrollment growth UT boasts 229 student organizations, a multicultural student body from 50 states and 140 countries, and "Top Tier" ranking in U.S. News and World Report.'
