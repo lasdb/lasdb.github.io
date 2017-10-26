@@ -5,6 +5,14 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Postdoctoral Fellowship in annelid Evo-Devo. Three year funding'
+    date: '25/10/17'
+    subtitle: 'Clark University, Worcester, Massachusetts USA'
+    body: 'The Meyer lab at Clark University (http://wordpress.clarku.edu/nmeyer/) seeks a postdoctoral research fellow to investigate the molecular control of neural fate specification in annelids. Successful candidates will have expertise in developmental biology, evo-devo, and molecular biology. Experience working with marine organisms, microinjection, CRISPR/Cas9, transcriptomic data, and/or statistical analyses also is desirable but not required. Additionally, the Meyer lab is interested in candidates who can contribute to diversity of the academic community through development of outreach programs for the local community or that have experience in mentoring students from historically underrepresented communities.' 
+    par2: 'Applicants should submit a cover letter explaining your interest in the position and qualifications, a curriculum vitae, a statement of research interests, two key publications, and contact information for three references in one electronic file by email to Dr. Néva Meyer (nmeyer@clarku.edu). Further information is available by contacting Dr. Meyer by email or phone (508-793-7476). Review of applications will begin immediately and will continue until the position is filled, but candidates able to start on or before January 15, 2018 will be given preference. This is a three-year position with 
+the possibility of extension pending funding.'
+    URL: 'http://wordpress.clarku.edu/nmeyer/'
+
   - title: 'Ph.D. position. Centro Andaluz de Biología del Desarrollo, Spain'
     date: '22/10/17'
     subtitle: 'Evolution of the gene networks controlling organogenesis'
