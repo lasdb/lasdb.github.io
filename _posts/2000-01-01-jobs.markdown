@@ -5,6 +5,15 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: 'Posdoc position "Neural Crest, development and evolution"'
+    date: '30/10/17'
+    subtitle: 'Sophie Creuzet Lab at NeuroPSI(Gif-sur-Yvette, France)'
+    body: 'The project is focused on the implication of neural crest9derived meninges in brain homeostasis. It aims at understanding how the cephalic neural crest (CNC), a multipotent structure, which provides the developing forebrain with meninges and a functional microvasculature, exerts a deterministic role in the biology and physiology of choroid plexus, and regulates the production of cerebro9spinal fluid. More specifically, our project aims at understanding how the dysfunctions of CNC cells, and the meninges they form, could affect the development of the intracerebral vascular network and eventually cause neurodevelopmental defects.' 
+    par2: 'Highly qualified and motivated candidate, who have completed a PhD in Developmental Biology or in Neurosciences, and with the following research skills are encouraged to apply: strong background in molecular and cellular developmental biology; good knowledge in neurobiology of cognitive functions  experience in microsurgical manipulations of embryonic tissues, cell cultures ; immunocyto and histochemistry; imaging (acquisition and treatment) ; English (written and spoken)
+Team working skills; Organizational skills and motivation; Autonomy in project management
+The position is funded for 18 months by the Foundation for Medical Research (FRM); expected starting in January 2018. Applications will be considered until mid November 2017 if the position is not yet filled. Please send a CV, three references, and a motivation letter to: sophie.creuzet@inaf.cnrs-gif.fr'
+    URL: ''
+    
   - title: 'Postdoctoral Fellowship in annelid Evo-Devo. Three year funding'
     date: '25/10/17'
     subtitle: 'Clark University, Worcester, Massachusetts USA'
