@@ -30,7 +30,8 @@ news:
   - title: 'International Developmental Biology Course'
     date: '21/5/17'
     subtitle: 'CIMARQ-Quintay, Chile. 9-21th January 2018'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st August 2017. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. Website: http://biodesarrollo.unab.cl. Twitter: DevBioQuintay.  Facebook: DevBio Course Quintay.' 
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st August 2017. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. Website: http://biodesarrollo.unab.cl. Twitter: DevBioQuintay.  Facebook: DevBio Course Quintay.<br>
+    Registration to the Mini-Symposium (17 January 2017) is open to all Chilean and Latin American developmental biologists (deadline December 12, 2017) at http://biodesarrollo.unab.cl/mini-symposium-registration' 
     imageSm: 'img/news/quintay2018-sm.jpg'
     imageBg: '../img/news/quintay2018-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
