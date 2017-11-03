@@ -15,10 +15,11 @@ news:
   - title: 'Chilean Developmental Biology Network'
     date: '1/6/17'
     subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
-    body: '"Red de Investigadores en Biología del Desarrollo" (RiBiD - Chile) is composed by researchers in the field of Developmental Biology, Stem Cells, Regeneration and Aging. The goal are to foster the scientific interaction in Chile, promote the participation of young researchers and students, and the collaboration between groups. The 4th Meeting of RiBiD will be held at the Pontificia Universidad Católica de Chile in Santiago in January 2018. More information will be available soon in the webpage.'
+    body: '"Red de Investigadores en Biología del Desarrollo" (RiBiD - Chile) is composed by researchers in the field of Developmental Biology, Stem Cells, Regeneration and Aging. The goal are to foster the scientific interaction in Chile, promote the participation of young researchers and students, and the collaboration between groups. <br>
+    The 4th Meeting of RiBiD will be held at the Biomedical Neuroscience Institute at the Universidad de Chile in Santiago. Registration is open. More information is available in the webpage.'
     imageSm: 'img/news/chile-RiBiD-sm.jpg'
     imageBg: '../img/news/chile-RiBiD-bg.jpg'
-    URL: 'http://ribidchile.wixsite.com/ribid'  
+    URL: 'http://ribidchile.wixsite.com/ribid/4to-encuentro-2018'  
   - title: '@LASDB_DevBiol'
     date: '2/10/17'
     subtitle: 'LASDB on Twitter. Follow @LASDB_DevBiol'
