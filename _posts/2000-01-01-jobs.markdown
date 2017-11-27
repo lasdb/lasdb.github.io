@@ -5,6 +5,14 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
+  - title: ' Doctoral Program in Neurobiology of Universidad Mayor, Chile'
+    date: '27/11/17'
+    subtitle: 'ADMISION 2018. Deadline: 3 de enero'
+    body: 'Programas Especiales: Intercambio académico, Biomedicina y Salud, Transferencia tecnológica. Herramientas bioinformáticas. Uso de animales transgénicos.
+Beneficios del Programa: Becas de Arancel y Contrato de Planta. Becas de apoyo pasantías externas.' 
+    par2: 'Lineas de Investigación: Desarrollo del Sistema Nervioso. Fisiología del Sistema Nervioso y Periférico. Enfermedades Neuro degenerativas. Fisiología del sistema nervioso en modelos animales. Mecanismos celulares y moleculares. Desarrollo de terapia génica y farmacológicas. Neurobiología traslacional y Neuroinmunología. Análisis masivo de datos (genómica, proteómica, metabolómica). Aspectos moleculares del envejecimiento. Metabolismo neuronal.'
+    URL: 'https://www.umayor.cl/um/doctorado-en-neurociencia/'
+    
   - title: 'Posdoc position "Neural Crest, development and evolution"'
     date: '30/10/17'
     subtitle: 'Sophie Creuzet Lab at NeuroPSI(Gif-sur-Yvette, France)'
@@ -18,8 +26,7 @@ The position is funded for 18 months by the Foundation for Medical Research (FRM
     date: '25/10/17'
     subtitle: 'Clark University, Worcester, Massachusetts USA'
     body: 'The Meyer lab at Clark University (http://wordpress.clarku.edu/nmeyer/) seeks a postdoctoral research fellow to investigate the molecular control of neural fate specification in annelids. Successful candidates will have expertise in developmental biology, evo-devo, and molecular biology. Experience working with marine organisms, microinjection, CRISPR/Cas9, transcriptomic data, and/or statistical analyses also is desirable but not required. Additionally, the Meyer lab is interested in candidates who can contribute to diversity of the academic community through development of outreach programs for the local community or that have experience in mentoring students from historically underrepresented communities.' 
-    par2: 'Applicants should submit a cover letter explaining your interest in the position and qualifications, a curriculum vitae, a statement of research interests, two key publications, and contact information for three references in one electronic file by email to Dr. Néva Meyer (nmeyer@clarku.edu). Further information is available by contacting Dr. Meyer by email or phone (508-793-7476). Review of applications will begin immediately and will continue until the position is filled, but candidates able to start on or before January 15, 2018 will be given preference. This is a three-year position with 
-the possibility of extension pending funding.'
+    par2: 'Applicants should submit a cover letter explaining your interest in the position and qualifications, a curriculum vitae, a statement of research interests, two key publications, and contact information for three references in one electronic file by email to Dr. Néva Meyer (nmeyer@clarku.edu). Further information is available by contacting Dr. Meyer by email or phone (508-793-7476). Review of applications will begin immediately and will continue until the position is filled, but candidates able to start on or before January 15, 2018 will be given preference. This is a three-year position with the possibility of extension pending funding.'
     URL: 'http://wordpress.clarku.edu/nmeyer/'
 
   - title: 'Ph.D. position. Centro Andaluz de Biología del Desarrollo, Spain'
