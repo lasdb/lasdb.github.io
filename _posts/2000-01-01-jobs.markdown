@@ -40,18 +40,6 @@ Drosophila has become one of the best models to study from the cellular and mole
 Our laboratory has uncovered how the external respiratory organs and the main endocrine organs develop. We propose to use comparative organogenesis of these organs to analyse how organ evolution occurred through medium and large evolutionary distances.'
     URL: 'http://www.cabd.es/en-research_groups-11-21-cell-integration-of-diverse-genetic-inputs-during-the-morphogenesis-of-complex-organs-summary.html'
 
-  - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
-    date: '22/10/17'
-    subtitle: 'Tenure track position in developmental biology at the rank of Assistant Professor starting in August 2018' 
-    body: 'Primary responsibilities will include an undergraduate teaching load of 12 contact hours per semester.  The candidate is expected to teach introductory biology for majors, an upper division course in developmental biology, and other courses as needed.  
-Secondarily, the candidate is expected to engage in scholarly and research activity that involves undergraduates, advise students, and provide service to the department, college, university and broader community. Research activities must yield peer-reviewed publications. 
-PhD preferred (advanced ABD candidates considered), prior teaching and research experience with undergraduates is desirable. 
-Salary for this position is competitive and commensurate with experience.
-Review of applications will begin November 1, 2017, and continue until the position is filled.
-Limited start-up packages and modest research space are available for tenure-track positions.'
-    par2: ''
-    URL: 'https://utampa.wd1.myworkdayjobs.com/en-US/Faculty/job/Tampa/Assistant-Professor-of-Biology--Developmental-Biologist-_R0001530'
-    
   - title: 'Postdoc and Ph.D. positions'
     date: '1/10/17'
     subtitle: 'Research Unit Sensory Biology & Organogenesis Helmholtz Zentrum München'
@@ -62,6 +50,7 @@ Limited start-up packages and modest research space are available for tenure-tra
 3. Stem cells and organ regeneration, including organ size and proportions. We use state of the art optical imaging, optogenetics and genome engineering to unravel what triggers the regenerative response after tissue injury. This project is ideal for a candidate with studies in biology, informatics, or with experience in computer programming.
 4. Stem cells and organ pattern formation, including cell packing. Using high-resolution cellular tracking and machine learning, we attempt to understand how cells self-organize during organ repair and to predict cellular behavior. This project is ideal for a candidate with studies in informatics, mathematics, or experience in machine learning.'
     URL: 'http://thenode.biologists.com/phd-postdoctoral-positions/jobs/'
+
   - title: 'Molecular Biologist Position Opening'
     date: '15/9/17'
     subtitle: 'RIKEN Brain Science Institute'
@@ -70,6 +59,7 @@ The candidate will develop novel single cell profiling technologies, and apply t
     par2: 'A demonstrated record of technical and intellectual molecular biology excellence is the primary criterion for this position. The candidate is expected to play a leading role in a collaborative team, and a proven ability to function effectively in a team will be also considered in the selection process.
 Interested postdoctoral researchers are encouraged to send an email containing 1) a curriculum vitae including publications and names of three references, 2) a short description of skills and experience to Adrian Moore (adrianm@brain.riken.jp). Working level English is required. Japanese language skills are not a requirement.'
     URL: 'http://www.brain.riken.jp/en/faculty/details/31'
+
   - title: 'Postdoc position. Heart development'
     date: '12/6/17'
     subtitle: 'University of North Carolina. Conton Lab.'
@@ -82,6 +72,19 @@ Interested postdoctoral researchers are encouraged to send an email containing 1
   - title: 'See Job Opportunities at SDB'
     date: ''
     URL: 'http://www.sdbonline.org/job_opportunities'
+
+  - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
+    date: '22/10/17'
+    subtitle: 'Tenure track position in developmental biology at the rank of Assistant Professor starting in August 2018' 
+    body: 'Primary responsibilities will include an undergraduate teaching load of 12 contact hours per semester.  The candidate is expected to teach introductory biology for majors, an upper division course in developmental biology, and other courses as needed.  
+Secondarily, the candidate is expected to engage in scholarly and research activity that involves undergraduates, advise students, and provide service to the department, college, university and broader community. Research activities must yield peer-reviewed publications. 
+PhD preferred (advanced ABD candidates considered), prior teaching and research experience with undergraduates is desirable. 
+Salary for this position is competitive and commensurate with experience.
+Review of applications will begin November 1, 2017, and continue until the position is filled.
+Limited start-up packages and modest research space are available for tenure-track positions.'
+    par2: ''
+    URL: 'https://utampa.wd1.myworkdayjobs.com/en-US/Faculty/job/Tampa/Assistant-Professor-of-Biology--Developmental-Biologist-_R0001530'
+    
   - title: 'Postdoc position in genetic control of patterning in the early mammalian embryo'
     date: '16/9/17'
     subtitle: 'Srinivas lab in the University of Oxford'
