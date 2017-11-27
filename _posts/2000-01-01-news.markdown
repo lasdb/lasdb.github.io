@@ -16,7 +16,7 @@ news:
     date: '1/6/17'
     subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
     body: '"Red de Investigadores en Biología del Desarrollo" (RiBiD - Chile) is composed by researchers in the field of Developmental Biology, Stem Cells, Regeneration and Aging. The goal are to foster the scientific interaction in Chile, promote the participation of young researchers and students, and the collaboration between groups. <br>
-    The 4th Meeting of RiBiD will be held at the Biomedical Neuroscience Institute at the Universidad de Chile in Santiago. Registration is open. More information is available in the webpage.'
+    The 4th Meeting of RiBiD will be held at the Biomedical Neuroscience Institute at the Universidad de Chile in Santiago. Registration is open until December 8, 2017. More information is available in the webpage.'
     imageSm: 'img/news/chile-RiBiD-sm.jpg'
     imageBg: '../img/news/chile-RiBiD-bg.jpg'
     URL: 'http://ribidchile.wixsite.com/ribid/4to-encuentro-2018'  
