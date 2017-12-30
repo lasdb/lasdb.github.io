@@ -11,7 +11,7 @@ jobs:
     body: 'Programas Especiales: Intercambio académico, Biomedicina y Salud, Transferencia tecnológica. Herramientas bioinformáticas. Uso de animales transgénicos.
 Beneficios del Programa: Becas de Arancel y Contrato de Planta. Becas de apoyo pasantías externas.' 
     par2: 'Lineas de Investigación: Desarrollo del Sistema Nervioso. Fisiología del Sistema Nervioso y Periférico. Enfermedades Neuro degenerativas. Fisiología del sistema nervioso en modelos animales. Mecanismos celulares y moleculares. Desarrollo de terapia génica y farmacológicas. Neurobiología traslacional y Neuroinmunología. Análisis masivo de datos (genómica, proteómica, metabolómica). Aspectos moleculares del envejecimiento. Metabolismo neuronal.'
-    URL: 'https://www.umayor.cl/um/doctorado-en-neurociencia/'
+    URL: 'https://www.umayor.cl/um/doctorado-en-neurociencia-es/14761'
     
   - title: 'Posdoc position "Neural Crest, development and evolution"'
     date: '30/10/17'
