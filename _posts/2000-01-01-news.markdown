@@ -26,7 +26,7 @@ news:
     imageSm: 'img/news/SDB-sm.png'
     imageBg: '../img/news/SDB2018-bg.jpg'
     URL: 'http://www.sdbonline.org/2018mtg'
-   - title: 'Chilean Developmental Biology Network'
+  - title: 'Chilean Developmental Biology Network'
     date: '1/6/17'
     subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
     body: '"Red de Investigadores en Biología del Desarrollo" (RiBiD - Chile) is composed by researchers in the field of Developmental Biology, Stem Cells, Regeneration and Aging. The goal are to foster the scientific interaction in Chile, promote the participation of young researchers and students, and the collaboration between groups. <br>
