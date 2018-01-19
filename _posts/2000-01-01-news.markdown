@@ -7,7 +7,7 @@ permalink: pages/news.html
 news:
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
-    subtitle: 'Mechanism of Development. Latin America Special Issue'
+    subtitle: 'Mechanism of Development. Latin America Special Issue. Deadline: March 31, 2018'
     body: 'Mechanisms of Development, the official journal of the International Society of Developmental Biologists (ISDB) is pleased to announce the preparation of Special Issues including studies from authors affiliated to regional founding societies. Submissions are encouraged from all members of the LASDB, participants of the 9th Meeting of the LASDB to be held in Medellin, Colombia, as well as any other interested authors and collaborators in Latin America.  Original and Review articles are accepted. All manuscripts will undergo peer-review to determine their suitability for publication.  EXTENDED DEADLINE: MARCH 31, 2018'
     imageSm: 'img/news/MOD2017-sm.jpg'
     imageBg: '../img/news/MOD2017b-bg.jpg'
