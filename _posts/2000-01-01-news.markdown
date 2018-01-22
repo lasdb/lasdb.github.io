@@ -19,6 +19,15 @@ news:
     imageSm: 'img/news/mbl-sm.jpg'
     imageBg: '../img/news/mbl-bg.jpg'
     URL: 'http://www.mbl.edu/education/courses/embryology/'
+    
+  - title: 'Latin American Zebrafish Network Course and Symposium'
+    date: '22/1/17'
+    subtitle: 'ICGEB-LAZEN. 4-12 May 2018, Cuernavaca, México. Application: March 1, 2018'
+    body: 'The ICGEB-LAZEN Course and Symposium aims to promote international collaboration and free sharing of resources and experience among research groups interested in using zebrafish as a research model. It is expected that participants will gain knowledge in state-of-the-art techniques in fish husbandry, gene editing, optogenetics, gene expression analysis and advanced visualization and behavioral studies that can be applied in their home country laboratories.'
+    imageSm: 'img/news/lazen2018-sm.jpg'
+    imageBg: '../img/news/lazen2018-bg.jpg'
+    URL: 'http://www.icgeb.org/mexico-zebrafish-2018.html'
+    
   - title: 'SDB 2018 Annual Meeting'
     date: '10/1/18'
     subtitle: 'Portland, Oregon. July 20-24, 2018'
