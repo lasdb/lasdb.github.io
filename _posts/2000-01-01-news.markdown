@@ -35,6 +35,26 @@ news:
     imageSm: 'img/news/SDB-sm.png'
     imageBg: '../img/news/SDB2018-bg.jpg'
     URL: 'http://www.sdbonline.org/2018mtg'
+
+  - title: 'REPORT: Chilean Developmental Biology Network'
+    date: '30/1/17'
+    subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
+    body: '"The IV RiBiD-Chile (Red de Investigadores en Biología del Desarrollo) meeting was held at the School of Medicine of Universidad deChile last 5th January. Around a hundred of researchers met and attended 15 talks, including plenary lectures by Prof Roberto Mayor (UCL, UK) and Guillermo Lanuza (Instituto Leloir, Argentina).<br>
+This meeting had the goal to bring together the Chilean scientific community working in developmental biology, stem cell biology, regeneration and ageing. But more important, it was the opportunity for undergraduate and graduate students to show their scientific work and get feedback from experienced scientists. We believe that during these meetings, new collaborations and opportunities will arise for our scientific community.<br>
+We hope for the future to continue growing as a community and to keep organizing exciting meeting every summer.'
+    imageSm: 'img/news/chile-RiBiD-sm.jpg'
+    imageBg: '../img/news/ribid-report-bg.jpg'
+    URL: 'http://ribidchile.wixsite.com/ribid/4to-encuentro-2018'  
+    
+  - title: 'REPORT: LASDB Meeting 2017'
+    date: '30/1/17'
+    subtitle: 'Medellin, Colombia. October 9-13, 2017'
+    body: 'The IX LASDB2017 meeting was held in Medellín (Colombia) last October 2017. This was the first time Colombia, a megabiodiverse country at the core of the Americas, hosted the meeting. During five days a scientifically vibrant and diverse meeting was the platform to openly exchange ideas, consolidate common goals and promote collaboration among representatives from around 100 different research groups, many of them based in Latin America. The meeting for sure has served to inspire the current and following generations of Latin American Developmental Biologists. 
+As a measure of the success we can highlight: 1) 250 attendees from all over the world, 2) the participation of 34 outstanding invited speakers, including Sir John Gurdon, Nobel Laureate in Physiology or Medicine 2012, as well as the presentation of 42 short talks and 82 posters, 3) the convening of two parallel satellite courses with 30 students from Latin America and abroad in "current topics and emerging models in developmental biology" and in "genomics and transcriptomics in non-model species". The next LASDB meeting will be held in Buenos Aires, Argentina, in 2019. Looking forward to meeting you there.'
+    imageSm: 'img/news/fellowship2017-sm.jpg'
+    imageBg: '../img/news/fellowship2017-bg.jpg'
+    URL: 'http://www.lasdb2017.com'  
+    
   - title: 'Chilean Developmental Biology Network'
     date: '1/6/17'
     subtitle: '4th Meeting RiBiD, Santiago, Chile. 5th January 2018'
