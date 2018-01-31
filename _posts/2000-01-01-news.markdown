@@ -46,6 +46,15 @@ We hope for the future to continue growing as a community and to keep organizing
     imageBg: '../img/news/ribid-report-bg.jpg'
     URL: 'http://ribidchile.wixsite.com/ribid/4to-encuentro-2018'  
     
+  - title: 'LASDB in social networks'
+    date: '2/10/17'
+    subtitle: 'Follow @LASDB_DevBiol in Twitter and @lasdb.development in Instagram'
+    body: '@LASDB_DevBiol  on Twitter !!  https://twitter.com/LASDB_DevBiol <br> 
+    @lasdb.development on Instagram !!  https://www.instagram.com/lasdb.development/' 
+    imageSm: 'img/news/twitter-sm.png'
+    imageBg: '../img/news/twitter-instagram-bg.png'
+    URL: 'https://twitter.com/LASDB_DevBiol'
+    
   - title: 'REPORT: LASDB Meeting 2017'
     date: '30/1/17'
     subtitle: 'Medellin, Colombia. October 9-13, 2017'
@@ -63,13 +72,7 @@ As a measure of the success we can highlight: 1) 250 attendees from all over the
     imageSm: 'img/news/chile-RiBiD-sm.jpg'
     imageBg: '../img/news/chile-RiBiD-bg.jpg'
     URL: 'http://ribidchile.wixsite.com/ribid/4to-encuentro-2018'  
-  - title: '@LASDB_DevBiol'
-    date: '2/10/17'
-    subtitle: 'LASDB on Twitter. Follow @LASDB_DevBiol'
-    body: '' 
-    imageSm: 'img/news/twitter-sm.png'
-    imageBg: '../img/news/twitter-bg.png'
-    URL: 'https://twitter.com/LASDB_DevBiol'
+
   - title: 'International Developmental Biology Course'
     date: '21/5/17'
     subtitle: 'CIMARQ-Quintay, Chile. 9-21th January 2018. Mini-Symposium 17th January 2017.'
