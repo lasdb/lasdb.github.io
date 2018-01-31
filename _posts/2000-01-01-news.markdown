@@ -31,7 +31,7 @@ news:
   - title: 'SDB 2018 Annual Meeting'
     date: '10/1/18'
     subtitle: 'Portland, Oregon. July 20-24, 2018'
-    body: 'Society for Developmental Biology 77th Annual Meeting'
+    body: 'Society for Developmental Biology 77th Annual Meeting <br>'
     imageSm: 'img/news/SDB-sm.png'
     imageBg: '../img/news/SDB2018-bg.jpg'
     URL: 'http://www.sdbonline.org/2018mtg'
