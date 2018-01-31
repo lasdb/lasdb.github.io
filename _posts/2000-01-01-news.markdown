@@ -51,7 +51,7 @@ We hope for the future to continue growing as a community and to keep organizing
     subtitle: 'Medellin, Colombia. October 9-13, 2017'
     body: 'The IX LASDB2017 meeting was held in Medellín (Colombia) last October 2017. This was the first time Colombia, a megabiodiverse country at the core of the Americas, hosted the meeting. During five days a scientifically vibrant and diverse meeting was the platform to openly exchange ideas, consolidate common goals and promote collaboration among representatives from around 100 different research groups, many of them based in Latin America. The meeting for sure has served to inspire the current and following generations of Latin American Developmental Biologists. 
 As a measure of the success we can highlight: 1) 250 attendees from all over the world, 2) the participation of 34 outstanding invited speakers, including Sir John Gurdon, Nobel Laureate in Physiology or Medicine 2012, as well as the presentation of 42 short talks and 82 posters, 3) the convening of two parallel satellite courses with 30 students from Latin America and abroad in "current topics and emerging models in developmental biology" and in "genomics and transcriptomics in non-model species". The next LASDB meeting will be held in Buenos Aires, Argentina, in 2019. Looking forward to meeting you there.'
-    imageSm: 'img/news/fellowship2017-sm.jpg'
+    imageSm: 'img/news/fellowship2017-sm-b.jpg'
     imageBg: '../img/news/fellowship2017-bg.jpg'
     URL: 'http://www.lasdb2017.com'  
     
