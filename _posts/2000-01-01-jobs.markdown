@@ -14,7 +14,7 @@ individuals who recently obtained a PhD. or MD degree and have a strong backgrou
 mammalian vascular, molecular and developmental biology are encouraged to apply.' 
     par2: 'Interested individuals should send their curriculum vitae, a brief description of their research
 interests, and the names of three references to:
-Guillermo Oliver, Ph.D. Thomas D Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Developmental Biology
+Guillermo Oliver, Ph.D. <br>Thomas D Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Developmental Biology
 Northwestern University Feinberg School of Medicine. 303 East Superior Street,10-107. Chicago, Illinois 60611 <br>
 Email: guillermo.oliver@northwestern.edu'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
