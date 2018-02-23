@@ -19,6 +19,13 @@ Northwestern University Feinberg School of Medicine. 303 East Superior Street,10
 Email: guillermo.oliver@northwestern.edu'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
     
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+    
   - title: 'Doctoral Program in Neurobiology of Universidad Mayor, Chile'
     date: '27/11/17'
     subtitle: 'ADMISION 2018. Deadline: 3 de enero'
@@ -80,12 +87,6 @@ Interested postdoctoral researchers are encouraged to send an email containing 1
     body: 'Fully funded postdoctoral positions are presently available in the Conlon Lab whose studies focus on identifying the molecular networks that are essential for early heart development and how alterations in these networks lead to congenital heart disease. For these studies, we use a highly integrated approach that incorporates developmental, genetic, proteomic, biochemical and molecular based studies in mouse, Xenopus and stem cells. Recent advances and projects of interest in the Conlon lab include studies that define the cellular and molecular events that lead to cardiac septation, those that explore cardiac interaction networks as determinants of transcriptional specificity, the mechanism and function of cardiac transcriptional repression networks and, the regulatory networks of cardiac morphogenesis.' 
     par2: 'Job Requirements:  Candidates should have recently obtained or be about to obtain a Ph.D. or M.D. in a field of biological science and should have a strong publication record. Outstanding and highly motivated candidates should apply by email to Dr. Frank L. Conlon and include a CV/resume, three references and description of your specific interest in our research programs.'
     URL: 'http://www.unc.edu/~fconlon/'
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
     date: '22/10/17'
