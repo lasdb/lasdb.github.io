@@ -5,56 +5,55 @@ date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
 jobs:
-  - title: 'POSTDOCTORAL POSITION IN LYMPHATIC VASCULATURE DEVELOPMENT'
-    date: '22/2/18'
-    subtitle: 'Guillermo Oliver Lab. Northwestern University. Chicago, IL, USA'
-    body: 'POSTDOCTORAL POSITION is immediately available to study different aspects of lymphatic vasculature development using a variety of available mouse models. Highly motivated individuals who recently obtained a PhD. or MD degree and have a strong background in mammalian vascular, molecular and developmental biology are encouraged to apply.' 
-    par2: 'Interested individuals should send their curriculum vitae, a brief description of their research interests, and the names of three references to: Guillermo Oliver, Ph.D. <br>Thomas D Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Developmental Biology Northwestern University Feinberg School of Medicine. 303 East Superior Street,10-107. Chicago, Illinois 60611 <br>
+  - title: 'POSTDOCTORAL POSITION IN LYMPHATIC VASCULATURE DEVELOPMENT'
+    date: '22/2/18'
+    subtitle: 'Guillermo Oliver Lab. Northwestern University. Chicago, IL, USA'
+    body: 'POSTDOCTORAL POSITION is immediately available to study different aspects of lymphatic
+vasculature development using a variety of available mouse models. Highly motivated
+individuals who recently obtained a PhD. or MD degree and have a strong background in
+mammalian vascular, molecular and developmental biology are encouraged to apply.'
+    par2: 'Interested individuals should send their curriculum vitae, a brief description of their research
+interests, and the names of three references to:
+Guillermo Oliver, Ph.D. <br>Thomas D Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Developmental Biology
+Northwestern University Feinberg School of Medicine. 303 East Superior Street,10-107. Chicago, Illinois 60611 <br>
 Email: guillermo.oliver@northwestern.edu'
-    URL: 'http://labs.feinberg.northwestern.edu/oliver/'
+    URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
-  - title: 'Postdoctoral fellow to study Wnt signaling and cell polarity'
-    date: '27/2/18'
-    subtitle: 'Sokol lab. Department of Cell, Developmental and Regenerative Biology, Icahn School of Medicine at Mount Sinai, New York'
-    body: 'A postdoctoral position is available in the Sokol laboratory in the Department of Cell, Developmental and Regenerative Biology, Icahn School of Medicine at Mount Sinai, New York.  Our group uses live imaging, genome editing and proximity biotinylation approaches to assess cell signaling and lineage decisions during gastrulation and neural development.  We also interested in the roles of the centrosome and cilia in epithelial cell polarity and asymmetric cell divisions in Xenopus, zebrafish and mammalian progenitor cells. See the description of our interests at <br> http://labs.icahn.mssm.edu/sokollab/ <br> http://icahn.mssm.edu/profiles/sergei-y-sokol.' 
-    par2: 'Preference will be given to motivated applicants with strong background in cell biology, bioinformatics and biochemistry, who published a first-author paper as a result of their graduate work.  Interested candidates may send their CV, list of publications and three references to Dr. Sergei Sokol  (sergei.sokol@mssm.edu).'
-    URL: 'http://labs.icahn.mssm.edu/sokollab/'
-    
-  - title: 'See Job Opportunities at The Node'
+  - title: 'See Job Opportunities at The Node'
     date: ''
     URL: 'http://thenode.biologists.com/category/jobs'
   - title: 'See Job Opportunities at SDB'
     date: ''
     URL: 'http://www.sdbonline.org/job_opportunities'
-    
+
   - title: 'Doctoral Program in Neurobiology of Universidad Mayor, Chile'
     date: '27/11/17'
     subtitle: 'ADMISION 2018. Deadline: 3 de enero'
     body: 'Programas Especiales: Intercambio académico, Biomedicina y Salud, Transferencia tecnológica. Herramientas bioinformáticas. Uso de animales transgénicos.
-Beneficios del Programa: Becas de Arancel y Contrato de Planta. Becas de apoyo pasantías externas.' 
+Beneficios del Programa: Becas de Arancel y Contrato de Planta. Becas de apoyo pasantías externas.'
     par2: 'Lineas de Investigación: Desarrollo del Sistema Nervioso. Fisiología del Sistema Nervioso y Periférico. Enfermedades Neuro degenerativas. Fisiología del sistema nervioso en modelos animales. Mecanismos celulares y moleculares. Desarrollo de terapia génica y farmacológicas. Neurobiología traslacional y Neuroinmunología. Análisis masivo de datos (genómica, proteómica, metabolómica). Aspectos moleculares del envejecimiento. Metabolismo neuronal.'
     URL: 'https://www.umayor.cl/um/doctorado-en-neurociencia-es/14761'
-    
+
   - title: 'Posdoc position "Neural Crest, development and evolution"'
     date: '30/10/17'
     subtitle: 'Sophie Creuzet Lab at NeuroPSI(Gif-sur-Yvette, France)'
-    body: 'The project is focused on the implication of neural crest9derived meninges in brain homeostasis. It aims at understanding how the cephalic neural crest (CNC), a multipotent structure, which provides the developing forebrain with meninges and a functional microvasculature, exerts a deterministic role in the biology and physiology of choroid plexus, and regulates the production of cerebro9spinal fluid. More specifically, our project aims at understanding how the dysfunctions of CNC cells, and the meninges they form, could affect the development of the intracerebral vascular network and eventually cause neurodevelopmental defects.' 
+    body: 'The project is focused on the implication of neural crest9derived meninges in brain homeostasis. It aims at understanding how the cephalic neural crest (CNC), a multipotent structure, which provides the developing forebrain with meninges and a functional microvasculature, exerts a deterministic role in the biology and physiology of choroid plexus, and regulates the production of cerebro9spinal fluid. More specifically, our project aims at understanding how the dysfunctions of CNC cells, and the meninges they form, could affect the development of the intracerebral vascular network and eventually cause neurodevelopmental defects.'
     par2: 'Highly qualified and motivated candidate, who have completed a PhD in Developmental Biology or in Neurosciences, and with the following research skills are encouraged to apply: strong background in molecular and cellular developmental biology; good knowledge in neurobiology of cognitive functions  experience in microsurgical manipulations of embryonic tissues, cell cultures ; immunocyto and histochemistry; imaging (acquisition and treatment) ; English (written and spoken)
 Team working skills; Organizational skills and motivation; Autonomy in project management
 The position is funded for 18 months by the Foundation for Medical Research (FRM); expected starting in January 2018. Applications will be considered until mid November 2017 if the position is not yet filled. Please send a CV, three references, and a motivation letter to: sophie.creuzet@inaf.cnrs-gif.fr'
     URL: ''
-    
+
   - title: 'Postdoctoral Fellowship in annelid Evo-Devo. Three year funding'
     date: '25/10/17'
     subtitle: 'Clark University, Worcester, Massachusetts USA'
-    body: 'The Meyer lab at Clark University (http://wordpress.clarku.edu/nmeyer/) seeks a postdoctoral research fellow to investigate the molecular control of neural fate specification in annelids. Successful candidates will have expertise in developmental biology, evo-devo, and molecular biology. Experience working with marine organisms, microinjection, CRISPR/Cas9, transcriptomic data, and/or statistical analyses also is desirable but not required. Additionally, the Meyer lab is interested in candidates who can contribute to diversity of the academic community through development of outreach programs for the local community or that have experience in mentoring students from historically underrepresented communities.' 
+    body: 'The Meyer lab at Clark University (http://wordpress.clarku.edu/nmeyer/) seeks a postdoctoral research fellow to investigate the molecular control of neural fate specification in annelids. Successful candidates will have expertise in developmental biology, evo-devo, and molecular biology. Experience working with marine organisms, microinjection, CRISPR/Cas9, transcriptomic data, and/or statistical analyses also is desirable but not required. Additionally, the Meyer lab is interested in candidates who can contribute to diversity of the academic community through development of outreach programs for the local community or that have experience in mentoring students from historically underrepresented communities.'
     par2: 'Applicants should submit a cover letter explaining your interest in the position and qualifications, a curriculum vitae, a statement of research interests, two key publications, and contact information for three references in one electronic file by email to Dr. Néva Meyer (nmeyer@clarku.edu). Further information is available by contacting Dr. Meyer by email or phone (508-793-7476). Review of applications will begin immediately and will continue until the position is filled, but candidates able to start on or before January 15, 2018 will be given preference. This is a three-year position with the possibility of extension pending funding.'
     URL: 'http://wordpress.clarku.edu/nmeyer/'
 
   - title: 'Ph.D. position. Centro Andaluz de Biología del Desarrollo, Spain'
     date: '22/10/17'
     subtitle: 'Evolution of the gene networks controlling organogenesis'
-    body: 'The positions are highly competitive and the application process has two phases. In the first round the students should apply to the program, and in the second, those selected will be allowed to chose lab, one being offered by Gene regulation and morphogenesis lab, James Castelli-Gair Hombría PI. Email enquiries to: jcashom@upo.es. See also: https://obrasociallacaixa.org/el/educacion-becas/becas-de-posgrado/inphinit/programme-description and http://www.cabd.es/en-research_groups-11-21-cell-integration-of-diverse-genetic-inputs-during-the-morphogenesis-of-complex-organs-summary.html' 
+    body: 'The positions are highly competitive and the application process has two phases. In the first round the students should apply to the program, and in the second, those selected will be allowed to chose lab, one being offered by Gene regulation and morphogenesis lab, James Castelli-Gair Hombría PI. Email enquiries to: jcashom@upo.es. See also: https://obrasociallacaixa.org/el/educacion-becas/becas-de-posgrado/inphinit/programme-description and http://www.cabd.es/en-research_groups-11-21-cell-integration-of-diverse-genetic-inputs-during-the-morphogenesis-of-complex-organs-summary.html'
     par2: 'Organs evolve to perform their functions more efficiently, allowing organisms to adapt to changing environments and to explore new niches. Despite the acceptance of these premises, there are no models to analyse how these adaptations happened. Taking advantage of the deep knowledge our laboratory has on the cellular and molecular processes controlling the organogenesis of the endocrine glands and the respiratory organs of Drosophila, we will study how organogenesis evolved in related species. For this purpose we will analyse species with defined organ differences and study how the differential regulation of genes controlling Drosophila organogenesis has varied between species to give rise to new shapes and organ associations while maintaining the basic function. We will take advantage of advances in genome sequencing and novel genetic tools like Crispr that allow probing the function of homologous genes in non model organisms.
 Arthropods have occupied all niches on earth and have some of the most successful groups. This has been achieved through the development of segment specific organs that specialized as different species occupied novel environments, as exemplified by the four times aquatic
 Arthropods adapted to terrestrial life. This resulted in a number of organs that, evolving from preexisting ones, have adapted their organogenetic networks to perform their function in different environments.
@@ -65,7 +64,7 @@ Our laboratory has uncovered how the external respiratory organs and the main en
   - title: 'Postdoc and Ph.D. positions'
     date: '1/10/17'
     subtitle: 'Research Unit Sensory Biology & Organogenesis Helmholtz Zentrum München'
-    body: 'The López-Schier laboratory at the Helmholtz Zentrum Munich in Germany is seeking creative and highly motivated PhD students or postdoctoral scholars to work within our group.' 
+    body: 'The López-Schier laboratory at the Helmholtz Zentrum Munich in Germany is seeking creative and highly motivated PhD students or postdoctoral scholars to work within our group.'
     par2: 'We currently have 4 fully funded openings for the following projects:
 1. Cellular and genetic bases of organ formation, including cell packing and tissue remodelling. We single-cell transcriptional profiling, genome engineering using CRISPR/Cas9 and quantitative live imaging data using light-sheet microscopy. Preference will be given to candidates with theoretical or practical knowledge in cell biology or biophysics.
 2. Control of cell number and diversity in sensory organs. Candidates should have a strong theoretical background in cell biology, and a good command of computer programming.
@@ -77,7 +76,7 @@ Our laboratory has uncovered how the external respiratory organs and the main en
     date: '15/9/17'
     subtitle: 'RIKEN Brain Science Institute'
     body: 'The Laboratory for Genetic Control of Neuronal Architecture (Moore; RIKEN Brain Science Institute, Tokyo, Japan) is recruiting a skilled molecular biologist.
-The candidate will develop novel single cell profiling technologies, and apply them to study neuronal development. Additional neuronal development studies will also be carried out. The single cell profiling technology development part of this project will be carried out in close collaboration with the Genomics Miniaturization Technology Unit (Plessy; RIKEN Center for Life Science Technologies, Yokohama, Japan).' 
+The candidate will develop novel single cell profiling technologies, and apply them to study neuronal development. Additional neuronal development studies will also be carried out. The single cell profiling technology development part of this project will be carried out in close collaboration with the Genomics Miniaturization Technology Unit (Plessy; RIKEN Center for Life Science Technologies, Yokohama, Japan).'
     par2: 'A demonstrated record of technical and intellectual molecular biology excellence is the primary criterion for this position. The candidate is expected to play a leading role in a collaborative team, and a proven ability to function effectively in a team will be also considered in the selection process.
 Interested postdoctoral researchers are encouraged to send an email containing 1) a curriculum vitae including publications and names of three references, 2) a short description of skills and experience to Adrian Moore (adrianm@brain.riken.jp). Working level English is required. Japanese language skills are not a requirement.'
     URL: 'http://www.brain.riken.jp/en/faculty/details/31'
@@ -85,33 +84,33 @@ Interested postdoctoral researchers are encouraged to send an email containing 1
   - title: 'Postdoc position. Heart development'
     date: '12/6/17'
     subtitle: 'University of North Carolina. Conton Lab.'
-    body: 'Fully funded postdoctoral positions are presently available in the Conlon Lab whose studies focus on identifying the molecular networks that are essential for early heart development and how alterations in these networks lead to congenital heart disease. For these studies, we use a highly integrated approach that incorporates developmental, genetic, proteomic, biochemical and molecular based studies in mouse, Xenopus and stem cells. Recent advances and projects of interest in the Conlon lab include studies that define the cellular and molecular events that lead to cardiac septation, those that explore cardiac interaction networks as determinants of transcriptional specificity, the mechanism and function of cardiac transcriptional repression networks and, the regulatory networks of cardiac morphogenesis.' 
+    body: 'Fully funded postdoctoral positions are presently available in the Conlon Lab whose studies focus on identifying the molecular networks that are essential for early heart development and how alterations in these networks lead to congenital heart disease. For these studies, we use a highly integrated approach that incorporates developmental, genetic, proteomic, biochemical and molecular based studies in mouse, Xenopus and stem cells. Recent advances and projects of interest in the Conlon lab include studies that define the cellular and molecular events that lead to cardiac septation, those that explore cardiac interaction networks as determinants of transcriptional specificity, the mechanism and function of cardiac transcriptional repression networks and, the regulatory networks of cardiac morphogenesis.'
     par2: 'Job Requirements:  Candidates should have recently obtained or be about to obtain a Ph.D. or M.D. in a field of biological science and should have a strong publication record. Outstanding and highly motivated candidates should apply by email to Dr. Frank L. Conlon and include a CV/resume, three references and description of your specific interest in our research programs.'
     URL: 'http://www.unc.edu/~fconlon/'
 
   - title: 'Assistant Professor Developmental Biologist, University of Tampa, Florida, USA'
     date: '22/10/17'
-    subtitle: 'Tenure track position in developmental biology at the rank of Assistant Professor starting in August 2018' 
+    subtitle: 'Tenure track position in developmental biology at the rank of Assistant Professor starting in August 2018'
     body: 'Primary responsibilities will include an undergraduate teaching load of 12 contact hours per semester.  The candidate is expected to teach introductory biology for majors, an upper division course in developmental biology, and other courses as needed.  
-Secondarily, the candidate is expected to engage in scholarly and research activity that involves undergraduates, advise students, and provide service to the department, college, university and broader community. Research activities must yield peer-reviewed publications. 
-PhD preferred (advanced ABD candidates considered), prior teaching and research experience with undergraduates is desirable. 
+Secondarily, the candidate is expected to engage in scholarly and research activity that involves undergraduates, advise students, and provide service to the department, college, university and broader community. Research activities must yield peer-reviewed publications.
+PhD preferred (advanced ABD candidates considered), prior teaching and research experience with undergraduates is desirable.
 Salary for this position is competitive and commensurate with experience.
 Review of applications will begin November 1, 2017, and continue until the position is filled.
 Limited start-up packages and modest research space are available for tenure-track positions.'
     par2: ''
     URL: 'https://utampa.wd1.myworkdayjobs.com/en-US/Faculty/job/Tampa/Assistant-Professor-of-Biology--Developmental-Biologist-_R0001530'
-    
+
   - title: 'Postdoc position in genetic control of patterning in the early mammalian embryo'
     date: '16/9/17'
     subtitle: 'Srinivas lab in the University of Oxford'
-    body: 'Three year Wellcome funded postdoc position available in the Srinivas lab in the University of Oxford, to investigate patterning in the early post-implantation mouse embryo. We are looking for someone who is enthusiastic about using multi-disciplinary approaches including fluorescent reporters, advanced imaging and single cell sequencing to study the molecular mechanisms controlling early embryonic patterning.' 
+    body: 'Three year Wellcome funded postdoc position available in the Srinivas lab in the University of Oxford, to investigate patterning in the early post-implantation mouse embryo. We are looking for someone who is enthusiastic about using multi-disciplinary approaches including fluorescent reporters, advanced imaging and single cell sequencing to study the molecular mechanisms controlling early embryonic patterning.'
     par2: 'Apply online before 25th September, 2017 http://tinyurl.com/ssLab-postdoc
 Email informal enquiries to: shankar.srinivas@dpag.ox.ac.uk.'
     URL: 'http://tinyurl.com/ssLab-postdoc'
   - title: 'Assistant Professor. Invertebrate Developmental Biology'
     date: '6/9/17'
     subtitle: 'Southern Connecticut State University'
-    body: 'The Biology Department at Southern Connecticut State University invites applicants for a full-time, tenure-track position in Invertebrate Developmental Biology at the Assistant Professor level.  We seek candidates that will offer general biology courses for non-majors and majors and courses in developmental biology for undergraduate and graduate students, as well as courses that support the B.S. program in Biotechnology.  The Biology Department offers the B.S. and B.A. degrees in Biology, the B.S. degree in Biology with teacher-certification (7-12), the B.S. degree in Biotechnology, the M.S. in Biology, and a post-baccalaureate program for initial teacher certification.  Please see our website at http://www.southernct.edu/biology for more information.' 
+    body: 'The Biology Department at Southern Connecticut State University invites applicants for a full-time, tenure-track position in Invertebrate Developmental Biology at the Assistant Professor level.  We seek candidates that will offer general biology courses for non-majors and majors and courses in developmental biology for undergraduate and graduate students, as well as courses that support the B.S. program in Biotechnology.  The Biology Department offers the B.S. and B.A. degrees in Biology, the B.S. degree in Biology with teacher-certification (7-12), the B.S. degree in Biotechnology, the M.S. in Biology, and a post-baccalaureate program for initial teacher certification.  Please see our website at http://www.southernct.edu/biology for more information.'
     par2: 'Brief Description of Duties/Responsibilities:
 Candidates must be committed to teaching within a vibrant and demanding public liberal arts and sciences environment.  Tenure-track faculty at SCSU are expected to conduct research/creative activity in their area of expertise.  Creative activities include mentoring student research leading to publication of theses, publishing articles in academic and professional journals, seeking funding in support of research and teaching needs, and contributing to workshops and conferences. <br>
 Required Qualifications:  Candidates must have earned a Ph.D. by the time of appointment in developmental biology or a related field and possess experience teaching at the university level. <br>
@@ -125,13 +124,12 @@ Application Process: Please send electronically a cover letter, curriculum vitae
   - title: 'Postdoc Univ. Católica de Chile'
     date: '2/8/16'
     subtitle: 'Investigador Postdoctoral'
-    body: 'Para trabajar en “Función de Lin28 y la hormona tiroidea en el desarrollo perinatal de ratón”. Los interesados dirigir CURRICULUM VITAE y PUBLICACIONES a: Juan Larraín jlarrain@bio.puc.cl' 
+    body: 'Para trabajar en “Función de Lin28 y la hormona tiroidea en el desarrollo perinatal de ratón”. Los interesados dirigir CURRICULUM VITAE y PUBLICACIONES a: Juan Larraín jlarrain@bio.puc.cl'
     par2: 'P. Universidad Católica de Chile. Laboratorio de Biología del Desarrollo y Regeneración. Facultad de Ciencias Biológicas'
     URL: 'http://laboratoriolarrain.uc.cl/people.html'
   - title: 'Postdoc Positions in Chile'
     date: '1/6/16'
     subtitle: 'VISUAL D Postdoctoral Positions 2016'
     body: 'VISUAL-D, a recently formed research initiative funded by the Chilean government for the visualisation and manipulation of signal and forces in developing tissues, is seeking proactive candidates with experience in developmental biology and/or morphogenesis, ideally (but not required) in zebrafish, willing to create new projects that associate developmental biology/morphogenesis with mathematics/computing/physics in a trans disciplinary scientific environment. Applicants must be about to finish or have a Ph.D. (awarded within the last 4 years) and a demonstrated track record of publications. To apply, applicants should send a full CV and a short statement of research interests to Prof. Miguel Concha (mconcha@med.uchile.cl) by July 1st 2016.For more information, please download the pdf file (https://www.dropbox.com/s/az4m2x7lubg2r0g/Postdoc%20anouncement_VisualD%2016May2016.pdf?dl=0)'
-    
----
 
+---
