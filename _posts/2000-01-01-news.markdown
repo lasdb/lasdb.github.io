@@ -5,13 +5,7 @@ date:   2000-01-01 00:00:00
 categories: news
 permalink: pages/news.html
 news:
-  - title: 'International Developmental Biology Course. Quintay, January 2018'
-    date: '1/5/18'
-    subtitle: 'Post at The Node'
-    body: 'Congratulation to the organizers of the 2018 edition of the Quintay Dev Biol Course !! This course is a truly career-changing experience for Latin America Developmental Biology students. <br> The 21 students of of the Quintay 2018 Course just published a post at The Node.<br>
-    imageSm: 'img/news/quintay2018-sm.jpg'
-    imageBg: '../img/news/quintay2018post-bg.jpg'
-    URL: 'http://thenode.biologists.com/tracing-the-origins-of-developmental-biology-in-latin-america/events/'
+
 
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
