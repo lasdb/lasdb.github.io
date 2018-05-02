@@ -5,7 +5,6 @@ date:   2000-01-01 00:00:00
 categories: news
 permalink: pages/news.html
 news:
-
   - title: 'International Developmental Biology Course. Quintay, January 2018'
     date: '1/5/18'
     subtitle: 'Post at The Node'
