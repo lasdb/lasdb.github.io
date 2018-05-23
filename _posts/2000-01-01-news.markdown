@@ -24,6 +24,15 @@ The course was initiated in 1999 when Roberto Mayor was working in Chile and it 
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'http://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply'
  
+  - title: 'Vote for a Development cover from the Quintay Course'
+    date: '23/5/18'
+    subtitle: 'Pick your favorite image'
+    body: 'In January, students from across the Americas gathered in Chile to participate in the International Course on Developmental Biology, an EMBO Practical Course held at the Marine Biology Station of Quintay (CIMARQ). In the course of two weeks of intensive training  (you can read a wonderful summary of the meeting from the students in this previous Node post), the students generated some beautiful images of development in different species.  We’re excited to launch a competition to pick an image taken by the students to become the cover of an issue of Development, and thus immortalised in print and on screen! <br>
+Just pick your favourite image at The Node poll'
+    imageSm: 'img/news/pickcover-sm.jpg'
+    imageBg: '../img/news/pickcover-bg.jpg'
+    URL: 'http://thenode.biologists.com/vote-for-a-development-cover-from-the-quintay-international-course-on-developmental-biology/photo/'
+
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
     subtitle: 'Mechanism of Development. Latin America Special Issue. Deadline: March 31, 2018'
