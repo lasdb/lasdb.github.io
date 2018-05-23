@@ -33,6 +33,15 @@ Just pick your favourite image at The Node poll'
     imageBg: '../img/news/pickcover-bg.jpg'
     URL: 'http://thenode.biologists.com/vote-for-a-development-cover-from-the-quintay-international-course-on-developmental-biology/photo/'
 
+  - title: 'Meeting: Embryonic-Extraembryonic Interactions: from Genetics to Environment'
+    date: '23/5/18'
+    subtitle: 'BSDB Meeting. 10-13 September 2018, Oxford, UK'
+    body: 'This is the third in a series of international workshops on the extraembryonic-embryonic interface, bringing together researchers that address this topic through a wide array of approaches in diverse research organisms:  from epigenetics to morphogenesis, and from mice and marsupials to beetles and bugs!
+The workshop style of the meeting allows for extensive discussion and informal interactions.  In addition to short oral presentations from selected abstracts, poster presenters will also have the opportunity to provide two-minute platform introductions to their posters during a dedicated session.  Active, lively participation has been a hallmark of these workshops.'
+    imageSm: 'img/news/EEM-sm.jpg'
+    imageBg: '../img/news/EEM-bg.jpg'
+    URL: 'http://www.bsdbautumn2018.co.uk'
+    
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
     subtitle: 'Mechanism of Development. Latin America Special Issue. Deadline: March 31, 2018'
