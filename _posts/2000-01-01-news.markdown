@@ -6,6 +6,18 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2018'
+    date: '10/6/18'
+    subtitle: '4th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 17-19 October 2018'
+    body: 'The IVth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in October 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
+More information will be available soon in the webpage and social networks <br>
+Website: http://tallerbcd.wixsite.com/tallerbcd.  
+Facebook TBCD: https://www.facebook.com/groups/652849584757962/.  
+Twitter @tallerBCD: https://twitter.com/tallerBCD. '
+    imageSm: 'img/news/chascomus-sm.jpg'
+    imageBg: '../img/news/chascomus-bg.jpg'
+    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+    
   - title: 'International Developmental Biology Course. Quintay, January 2018'
     date: '1/5/18'
     subtitle: 'Post at The Node'
@@ -23,15 +35,6 @@ The course was initiated in 1999 when Roberto Mayor was working in Chile and it 
     imageSm: 'img/news/pew-sm.jpg'
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'http://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply'
- 
-  - title: 'Vote for a Development cover from the Quintay Course'
-    date: '23/5/18'
-    subtitle: 'Pick your favorite image'
-    body: 'In January, students from across the Americas gathered in Chile to participate in the International Course on Developmental Biology, an EMBO Practical Course held at the Marine Biology Station of Quintay (CIMARQ). In the course of two weeks of intensive training  (you can read a wonderful summary of the meeting from the students in this previous Node post), the students generated some beautiful images of development in different species.  We’re excited to launch a competition to pick an image taken by the students to become the cover of an issue of Development, and thus immortalised in print and on screen! <br>
-Just pick your favourite image at The Node poll'
-    imageSm: 'img/news/pickcover-sm.jpg'
-    imageBg: '../img/news/pickcover-bg.jpg'
-    URL: 'http://thenode.biologists.com/vote-for-a-development-cover-from-the-quintay-international-course-on-developmental-biology/photo/'
 
   - title: 'Meeting: Embryonic-Extraembryonic Interactions: from Genetics to Environment'
     date: '23/5/18'
@@ -41,6 +44,15 @@ The workshop style of the meeting allows for extensive discussion and informal i
     imageSm: 'img/news/EEM-sm.jpg'
     imageBg: '../img/news/EEM-bg.jpg'
     URL: 'http://www.bsdbautumn2018.co.uk'
+
+  - title: 'Vote for a Development cover from the Quintay Course'
+    date: '23/5/18'
+    subtitle: 'Pick your favorite image'
+    body: 'In January, students from across the Americas gathered in Chile to participate in the International Course on Developmental Biology, an EMBO Practical Course held at the Marine Biology Station of Quintay (CIMARQ). In the course of two weeks of intensive training  (you can read a wonderful summary of the meeting from the students in this previous Node post), the students generated some beautiful images of development in different species.  We’re excited to launch a competition to pick an image taken by the students to become the cover of an issue of Development, and thus immortalised in print and on screen! <br>
+Just pick your favourite image at The Node poll'
+    imageSm: 'img/news/pickcover-sm.jpg'
+    imageBg: '../img/news/pickcover-bg.jpg'
+    URL: 'http://thenode.biologists.com/vote-for-a-development-cover-from-the-quintay-international-course-on-developmental-biology/photo/'
     
   - title: 'Call for papers: Developmental Biology in Latin America'
     date: '3/3/17'
