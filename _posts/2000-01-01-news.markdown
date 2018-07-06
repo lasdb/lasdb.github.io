@@ -17,6 +17,19 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD. '
     imageSm: 'img/news/chascomus-sm.jpg'
     imageBg: '../img/news/chascomus-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+
+  - title: 'MEXICO. Meeting Sociedad Mexicana de Biología del Desarrollo'
+    date: '5/7/18'
+    subtitle: '2-6 October, Puebla, México'
+    body: 'La Sociedad Mexicana de Biología del Desarrollo (SMBD) invita a participar en el XIII Congreso Nacional y I Congreso Internacional de Biología del Desarrollo, que se llevara acabo en la Ciudad de Chautla Puebla, en el hotel ExHacienda de Chautla. 
+entre el 2 y 6 de octubre de 2018. El congreso incluirá conferencias de invitados extranjeros. Habrá 6 simposios, pláticas cortas por  estudiantes y postdocs y presentacion de trabajos en posters.
+Más informacion puede encontrarse en la webpage.'
+Website: http://congreso.smbd.org.mx/2018/.  
+Facebook: https://www.facebook.com/SMEXBD.  
+Twitter @SocMexBioDes: https://twitter.com/SocMexBioDes '
+    imageSm: 'img/news/Mex2018-sm.jpg'
+    imageBg: '../img/news/Mex2018-bg.jpg'
+    URL: 'http://congreso.smbd.org.mx/2018/'
     
   - title: 'International Developmental Biology Course. Quintay, January 2018'
     date: '1/5/18'
