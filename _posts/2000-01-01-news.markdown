@@ -11,9 +11,9 @@ news:
     subtitle: '4th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 17-19 October 2018'
     body: 'The IVth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in October 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
 More information will be available soon in the webpage and social networks <br>
-Website: http://tallerbcd.wixsite.com/tallerbcd.  
-Facebook TBCD: https://www.facebook.com/groups/652849584757962/.  
-Twitter @tallerBCD: https://twitter.com/tallerBCD. '
+Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
+Facebook TBCD: https://www.facebook.com/groups/652849584757962/  <br>
+Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageSm: 'img/news/chascomus-sm.jpg'
     imageBg: '../img/news/chascomus-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
@@ -22,10 +22,10 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD. '
     date: '5/7/18'
     subtitle: '2-6 October, Puebla, México'
     body: 'La Sociedad Mexicana de Biología del Desarrollo (SMBD) invita a participar en el XIII Congreso Nacional y I Congreso Internacional de Biología del Desarrollo, que se llevara acabo en la Ciudad de Chautla Puebla, en el hotel ExHacienda de Chautla. 
-entre el 2 y 6 de octubre de 2018. El congreso incluirá conferencias de invitados extranjeros. Habrá 6 simposios, pláticas cortas por  estudiantes y postdocs y presentacion de trabajos en posters.
+entre el 2 y 6 de octubre de 2018. El congreso incluirá conferencias de invitados extranjeros. Habrá 6 simposios, pláticas cortas por  estudiantes y postdocs y presentacion de trabajos en posters.<br>
 Más informacion puede encontrarse en la webpage.
-Website: http://congreso.smbd.org.mx/2018/.  
-Facebook: https://www.facebook.com/SMEXBD.  
+Website: http://congreso.smbd.org.mx/2018/  <br>
+Facebook: https://www.facebook.com/SMEXBD  <br>
 Twitter @SocMexBioDes: https://twitter.com/SocMexBioDes '
     imageSm: 'img/news/Mex2018-sm.jpg'
     imageBg: '../img/news/Mex2018-bg.jpg'
