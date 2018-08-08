@@ -49,7 +49,15 @@ For more information, go to the LAZEN website: http://lazen.fcien.edu.uy'
     imageSm: 'img/news/pew-sm.jpg'
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'http://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply'
-
+ 
+  - title: 'ACAL-PAS workshop, book'
+    date: '23/5/18'
+    subtitle: ''
+    body: 'Book of the workshop Cell Biology in Latin América, organized by the Academia de Ciencias de América Latina and Pontifical Academy of Sciences. Eddy De Robertis recomends to pay attention to the last chapter.'
+    imageSm: 'img/news/PAS-ACAL-Workshop-sm.jpg'
+    imageBg: '../img/news/PAS-ACAL-Workshop-sm.jpg'
+    URL: 'http://lasdb-development.org/pdfs/2018-Scripta-Varia-137-PAS-ACAL-Workshop.pdf'
+    
   - title: 'International Developmental Biology Course. Quintay, January 2018'
     date: '1/5/18'
     subtitle: 'Post at The Node'
