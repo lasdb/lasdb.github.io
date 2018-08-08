@@ -51,7 +51,7 @@ For more information, go to the LAZEN website: http://lazen.fcien.edu.uy'
     URL: 'http://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply'
  
   - title: 'ACAL-PAS workshop, book'
-    date: '23/5/18'
+    date: '9/8/18'
     subtitle: ''
     body: 'Book of the workshop Cell Biology in Latin América, organized by the Academia de Ciencias de América Latina and Pontifical Academy of Sciences. Eddy De Robertis recomends to pay attention to the last chapter. Follow the link below to download the pdf file.'
     imageSm: 'img/news/PAS-ACAL-Workshop-sm.jpg'
