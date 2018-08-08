@@ -32,7 +32,7 @@ Twitter @SocMexBioDes: https://twitter.com/SocMexBioDes '
     URL: 'http://congreso.smbd.org.mx/2018/'
     
   - title: 'Report: V Latin America Zebrafish Network Course and Symposium'
-    date: '1/5/18'
+    date: '7/8/18'
     subtitle: 'LAZEN 2018'
     body: 'Last May, the beautiful city of Cuernavaca, Mexico, received the Latin American community of zebrafish students and researchers in the fifth edition of the Latin American Zebrafish Network (LAZEN) Course and Meeting, organized locally by Enrique Salas, Denhí Schnabel, Fernando López Casillas and Hilda Lomelí.  LAZEN was born in 2010, in an initially timid initiative by four LASDB-member researchers from Argentina, Brazil, Chile and Uruguay, that quickly grew to become a thriving and adaptable forum for all regional zebrafish researchers, well beyond developmental biology. <br>
 The activity started with a full-time 7-day hands-on course, where some international instructors introduced a selected group of students to the current essential experimental approaches in zebrafish research, including CRISPR-based genome editing, transgenesis, optogenetics, techniques for cell and tissue labeling, confocal microscopy and live imaging. Lectures were also interspersed among the practicals. Students came from all over Latin America, with representatives from Argentina, Brazil, Colombia, Mexico, Peru, Venezuela and Uruguay, in addition to a participant from Egypt. Strategically positioned social activities helped to immediately generate a highly collaborative and friendly environment among students and instructors, who spent together more than 12 hours a day.<br>
