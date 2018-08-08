@@ -31,6 +31,25 @@ Twitter @SocMexBioDes: https://twitter.com/SocMexBioDes '
     imageBg: '../img/news/Mex2018-bg.jpg'
     URL: 'http://congreso.smbd.org.mx/2018/'
     
+  - title: 'Report: V Latin America Zebrafish Network Course and Symposium'
+    date: '1/5/18'
+    subtitle: 'LAZEN 2018'
+    body: 'Last May, the beautiful city of Cuernavaca, Mexico, received the Latin American community of zebrafish students and researchers in the fifth edition of the Latin American Zebrafish Network (LAZEN) Course and Meeting, organized locally by Enrique Salas, Denhí Schnabel, Fernando López Casillas and Hilda Lomelí.  LAZEN was born in 2010, in an initially timid initiative by four LASDB-member researchers from Argentina, Brazil, Chile and Uruguay, that quickly grew to become a thriving and adaptable forum for all regional zebrafish researchers, well beyond developmental biology. <br>
+The activity started with a full-time 7-day hands-on course, where some international instructors introduced a selected group of students to the current essential experimental approaches in zebrafish research, including CRISPR-based genome editing, transgenesis, optogenetics, techniques for cell and tissue labeling, confocal microscopy and live imaging. Lectures were also interspersed among the practicals. Students came from all over Latin America, with representatives from Argentina, Brazil, Colombia, Mexico, Peru, Venezuela and Uruguay, in addition to a participant from Egypt. Strategically positioned social activities helped to immediately generate a highly collaborative and friendly environment among students and instructors, who spent together more than 12 hours a day.<br>
+The meeting was short (2 days) but intensive, with the participation of all the instructors and several other invited speakers, in a perfect balance of regional and international researchers, as well as covering an ever-growing diversity. Funding for both events was provided by ICGEB, UNU-Biolac and UNAM. During the meeting, a new network Board was elected, and the place for the VI LAZEN Course and Meeting was designated, coincident with LAZEN’s 10th anniversary in 2020: Peru.<br>
+For more information, go to the LAZEN website: http://lazen.fcien.edu.uy'
+    imageSm: 'img/news/lazen2018-rep-sm.jpg'
+    imageBg: '../img/news/lazen2018-rep-bg.jpg'
+    URL: 'http://lazen.fcien.edu.uy'
+ 
+  - title: 'Pew Latin America Postdoctoral Fellowships 2019'
+    date: '23/5/18'
+    subtitle: 'Deadline: noon EST on Sept. 28, 2018'
+    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by noon EST on Sept. 28, 2018.'
+    imageSm: 'img/news/pew-sm.jpg'
+    imageBg: '../img/news/pew-bg.jpg'
+    URL: 'http://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply'
+
   - title: 'International Developmental Biology Course. Quintay, January 2018'
     date: '1/5/18'
     subtitle: 'Post at The Node'
@@ -40,14 +59,6 @@ The course was initiated in 1999 when Roberto Mayor was working in Chile and it 
     imageSm: 'img/news/quintay2018post-sm.jpg'
     imageBg: '../img/news/quintay2018post-bg.jpg'
     URL: 'http://thenode.biologists.com/tracing-the-origins-of-developmental-biology-in-latin-america/events/'
- 
-  - title: 'Pew Latin America Postdoctoral Fellowships 2019'
-    date: '23/5/18'
-    subtitle: 'Deadline: noon EST on Sept. 28, 2018'
-    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by noon EST on Sept. 28, 2018.'
-    imageSm: 'img/news/pew-sm.jpg'
-    imageBg: '../img/news/pew-bg.jpg'
-    URL: 'http://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply'
 
   - title: 'Meeting: Embryonic-Extraembryonic Interactions: from Genetics to Environment'
     date: '23/5/18'
