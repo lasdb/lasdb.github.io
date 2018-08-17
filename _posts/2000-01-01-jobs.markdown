@@ -14,10 +14,10 @@ Last Publications: Letelier et al. (2018a) Nat Genetics, Letelier et al (2018b) 
     par2: 'Job position description: 
 We offer a one-year renewable contract and full support to apply for external funding. Given the interdisciplinary character of the project above described, we are seeking talented and highly motivated postdoctoral researchers with a background either in Developmental Biology or in Biophysics. Previous experience with teleost models will be well received. The candidates should have good communication skills, critical for ensuring the success of the team effort. We offer an adequate environment to mature scientifically and eventually to become independent scientists. The CABD is thematically focused on the topic of Cellular and Developmental Biology, and is well equipped in terms of infrastructure, particularly for imaging analyses. Our research unit, the department of Gene Regulation and Morphogenesis was recently awarded with the María de Maeztu distinction of excellence. A series of external seminars by prominent Spanish and international speakers are organized on a weekly basis. In addition, a biweekly series of seminars allow PhD students and postdoctorals to present their work. English is the official language in the CABD as well as in our internal seminars, as international researchers are frequent visitors/members in our group. <br>
 Contact information:  Juan R. Martínez-Morales. Gene regulation and Morphogenesis Department CABD. (CSIC/UPO). Seville, Spain.
-Email: jrmarmor@upo.es
+Email: jrmarmor@upo.es <br>
 Web pages : <br>
-http://cellcollectives.com/dt_doctors/control-of-epithelial-morphogenesis-in-vertebrates/
-http://www.cabd.es/en-research_groups-97-221-control-of-epithelial-morphogenesis-in-vertebrates-<br>summary.html'
+http://cellcollectives.com/dt_doctors/control-of-epithelial-morphogenesis-in-vertebrates/ <br>
+http://www.cabd.es/en-research_groups-97-221-control-of-epithelial-morphogenesis-in-vertebrates-summary.html'
     URL: 'http://cellcollectives.com/dt_doctors/control-of-epithelial-morphogenesis-in-vertebrates'
 
   - title: 'POSTDOCTORAL POSITION IN LYMPHATIC VASCULATURE DEVELOPMENT'
