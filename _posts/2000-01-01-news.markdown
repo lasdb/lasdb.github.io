@@ -18,6 +18,15 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageBg: '../img/news/chascomus-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
+  - title: 'Symposium: Exploring Genomic Landscapes'
+    date: '27/9/18'
+    subtitle: 'January 10-12, 2019. San Pedro de Atacama, Chile'
+    body: 'This workshop is intended to expose young Latin American scientists to cutting edge work done by colleagues around the world in the area of genomics and gene expression regulation. To provide a wide diversity of models and mechanisms, we have selected speakers working on animal, plant and microbial systems and have strived to balance this diversity in the sessions. We provide ample time for discussion of speakers with young investigators at poster sessions and during our field activity. For the latter event, we will travel to a site in the Atacama Desert where scientists of the CGR are carrying out a 10-year long project aimed at characterizing the genomes of desert plants, animals and soil microorganisms. <br>
+http://www.atacamagenomes.cl/ '
+    imageSm: 'img/news/atacama-sm.jpg'
+    imageBg: '../img/news/atacama-bg.jpg'
+    URL: 'http://www.atacamagenomes.cl/'
+
   - title: 'MEXICO. Meeting Sociedad Mexicana de Biología del Desarrollo'
     date: '5/7/18'
     subtitle: '2-6 October 2018, Puebla, México'
