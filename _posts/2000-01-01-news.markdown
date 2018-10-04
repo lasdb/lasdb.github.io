@@ -27,11 +27,11 @@ http://www.atacamagenomes.cl/ '
     imageBg: '../img/news/atacama-bg.jpg'
     URL: 'http://www.atacamagenomes.cl/'
 
-  - title: 'Course "Optics, forces & development"'
+  - title: 'Course Optics, forces & development'
     date: '2/10/18'
     subtitle: '25 March-5 April, Santiago, Chile'
     body: 'This Course aims at training a selected group of students, postdocs and junior investigators in theoretical and practical aspects of in vivo microscopy and strategies for the visualization and manipulation of forces in developing tissues. It offers a stimulating inter-disciplinary environment that gathers specialists from the fields of developmental biology, physics, computer science, & electrical engineering. Topics: Optics and in vivo imaging, image processing and analysis, cell and tissue mechanics, physical modelling, cell migration and tissue morphogenesis, fish embryo models (zebrafish, killifish).<br>
-Deadline: Submit your application on-line at https://www.icgeb.org/course-application-chile-optics-2019.html by 29 November 2018
+Deadline: Submit your application on-line at https://www.icgeb.org/course-application-chile-optics-2019.html by 29 November 2018'
     imageSm: 'img/news/OpticsDevel-sm.jpg'
     imageBg: '../img/news/OpticsDevel-bg.jpg'
     URL: 'http://www.icgeb.org/chile-optics-2019.html'
