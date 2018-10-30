@@ -6,6 +6,40 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'Course Optics, forces & development'
+    date: '2/10/18'
+    subtitle: '25 March-5 April, Santiago, Chile'
+    body: 'This Course aims at training a selected group of students, postdocs and junior investigators in theoretical and practical aspects of in vivo microscopy and strategies for the visualization and manipulation of forces in developing tissues. It offers a stimulating inter-disciplinary environment that gathers specialists from the fields of developmental biology, physics, computer science, & electrical engineering. Topics: Optics and in vivo imaging, image processing and analysis, cell and tissue mechanics, physical modelling, cell migration and tissue morphogenesis, fish embryo models (zebrafish, killifish).<br>
+Deadline: Submit your application on-line at https://www.icgeb.org/course-application-chile-optics-2019.html by 29 November 2018'
+    imageSm: 'img/news/OpticsDevel-sm.jpg'
+    imageBg: '../img/news/OpticsDevel-bg.jpg'
+    URL: 'http://www.icgeb.org/chile-optics-2019.html'
+
+  - title: 'Symposium: Exploring Genomic Landscapes'
+    date: '27/9/18'
+    subtitle: 'January 10-12, 2019. San Pedro de Atacama, Chile'
+    body: 'This workshop is intended to expose young Latin American scientists to cutting edge work done by colleagues around the world in the area of genomics and gene expression regulation. To provide a wide diversity of models and mechanisms, we have selected speakers working on animal, plant and microbial systems and have strived to balance this diversity in the sessions. We provide ample time for discussion of speakers with young investigators at poster sessions and during our field activity. For the latter event, we will travel to a site in the Atacama Desert where scientists of the CGR are carrying out a 10-year long project aimed at characterizing the genomes of desert plants, animals and soil microorganisms. <br>
+http://www.atacamagenomes.cl/ '
+    imageSm: 'img/news/atacama-sm.jpg'
+    imageBg: '../img/news/atacama-bg.jpg'
+    URL: 'http://www.atacamagenomes.cl/'
+
+  - title: 'Bridging cell and tissue mechanics to fate specification in developments'
+    date: '30/10/18'
+    subtitle: 'EMBO Workshop. 02 – 05 April 2019. Santiago, Chile'
+    body: 'This Workshop will bring together a cross-disciplinary collection of researchers from cell and developmental biology, tissue biophysics and theoretical physics, with the overarching goal of understanding how cells build tissues across scales during development. The workshop aims to establish mechanistic links between cell/tissue mechanics and cell fate specification during development, providing a forum for scientific interactions, the cross-fertilization of ideas, the fostering of new collaborations and the development of strategies to address emerging technical needs and close existing gaps in knowledge. The scientific content will thematically progress from cellular mechanics, to mechanics of tissue morphogenesis, to the integration of mechanics with cell fate, and ending with addressing how cell fate and self-organization can be coupled in an emergent tissue. Selected abstracts will be chosen for short talks and presented during poster sessions. '
+    imageSm: 'img/news/cell-tissue-mechanics-sm.jpg'
+    imageBg: '../img/news/cell-tissue-mechanics-sm.jpg'
+    URL: 'http://meetings.embo.org/event/19-cell-tissue-mechanics'
+
+  - title: 'Course: Small Brains, Big Ideas'
+    date: '30/10/18'
+    subtitle: 'Santiago, Las Cruces and Valparaíso, Chile. April 5-13/2019'
+    body: 'The “Small Brains, Big Ideas” course is aimed at students and early stage investigators who need to gain first hand experience in the use of these invertebrate model systems. Application period ends December 30th, 2018. Updated information can be found at the course webpage'
+    imageSm: 'img/news/small-brains-2019-sm.jpg'
+    imageBg: '../img/news/small-brains-2019-bg.jpg'
+    URL: 'http://smallbrains.org/'
+
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2018'
     date: '10/6/18'
     subtitle: '4th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 17-19 October 2018'
@@ -17,24 +51,6 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageSm: 'img/news/chascomus-sm.jpg'
     imageBg: '../img/news/chascomus-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
-
-  - title: 'Symposium: Exploring Genomic Landscapes'
-    date: '27/9/18'
-    subtitle: 'January 10-12, 2019. San Pedro de Atacama, Chile'
-    body: 'This workshop is intended to expose young Latin American scientists to cutting edge work done by colleagues around the world in the area of genomics and gene expression regulation. To provide a wide diversity of models and mechanisms, we have selected speakers working on animal, plant and microbial systems and have strived to balance this diversity in the sessions. We provide ample time for discussion of speakers with young investigators at poster sessions and during our field activity. For the latter event, we will travel to a site in the Atacama Desert where scientists of the CGR are carrying out a 10-year long project aimed at characterizing the genomes of desert plants, animals and soil microorganisms. <br>
-http://www.atacamagenomes.cl/ '
-    imageSm: 'img/news/atacama-sm.jpg'
-    imageBg: '../img/news/atacama-bg.jpg'
-    URL: 'http://www.atacamagenomes.cl/'
-
-  - title: 'Course Optics, forces & development'
-    date: '2/10/18'
-    subtitle: '25 March-5 April, Santiago, Chile'
-    body: 'This Course aims at training a selected group of students, postdocs and junior investigators in theoretical and practical aspects of in vivo microscopy and strategies for the visualization and manipulation of forces in developing tissues. It offers a stimulating inter-disciplinary environment that gathers specialists from the fields of developmental biology, physics, computer science, & electrical engineering. Topics: Optics and in vivo imaging, image processing and analysis, cell and tissue mechanics, physical modelling, cell migration and tissue morphogenesis, fish embryo models (zebrafish, killifish).<br>
-Deadline: Submit your application on-line at https://www.icgeb.org/course-application-chile-optics-2019.html by 29 November 2018'
-    imageSm: 'img/news/OpticsDevel-sm.jpg'
-    imageBg: '../img/news/OpticsDevel-bg.jpg'
-    URL: 'http://www.icgeb.org/chile-optics-2019.html'
 
   - title: 'MEXICO. Meeting Sociedad Mexicana de Biología del Desarrollo'
     date: '5/7/18'
