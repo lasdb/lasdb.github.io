@@ -6,15 +6,6 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'Course Optics, forces & development'
-    date: '2/10/18'
-    subtitle: '25 March-5 April, Santiago, Chile'
-    body: 'This Course aims at training a selected group of students, postdocs and junior investigators in theoretical and practical aspects of in vivo microscopy and strategies for the visualization and manipulation of forces in developing tissues. It offers a stimulating inter-disciplinary environment that gathers specialists from the fields of developmental biology, physics, computer science, & electrical engineering. Topics: Optics and in vivo imaging, image processing and analysis, cell and tissue mechanics, physical modelling, cell migration and tissue morphogenesis, fish embryo models (zebrafish, killifish).<br>
-Deadline: Submit your application on-line at https://www.icgeb.org/course-application-chile-optics-2019.html by 29 November 2018'
-    imageSm: 'img/news/OpticsDevel-sm.jpg'
-    imageBg: '../img/news/OpticsDevel-bg.jpg'
-    URL: 'http://www.icgeb.org/chile-optics-2019.html'
-
   - title: 'Symposium: Exploring Genomic Landscapes'
     date: '27/9/18'
     subtitle: 'January 10-12, 2019. San Pedro de Atacama, Chile'
@@ -23,6 +14,15 @@ http://www.atacamagenomes.cl/ '
     imageSm: 'img/news/atacama-sm.jpg'
     imageBg: '../img/news/atacama-bg.jpg'
     URL: 'http://www.atacamagenomes.cl/'
+
+  - title: 'Course Optics, forces & development'
+    date: '2/10/18'
+    subtitle: '25 March-5 April, Santiago, Chile'
+    body: 'This Course aims at training a selected group of students, postdocs and junior investigators in theoretical and practical aspects of in vivo microscopy and strategies for the visualization and manipulation of forces in developing tissues. It offers a stimulating inter-disciplinary environment that gathers specialists from the fields of developmental biology, physics, computer science, & electrical engineering. Topics: Optics and in vivo imaging, image processing and analysis, cell and tissue mechanics, physical modelling, cell migration and tissue morphogenesis, fish embryo models (zebrafish, killifish).<br>
+Deadline: Submit your application on-line at https://www.icgeb.org/course-application-chile-optics-2019.html by 29 November 2018'
+    imageSm: 'img/news/OpticsDevel-sm.jpg'
+    imageBg: '../img/news/OpticsDevel-bg.jpg'
+    URL: 'http://www.icgeb.org/chile-optics-2019.html'
 
   - title: 'Bridging cell and tissue mechanics to fate specification in developments'
     date: '30/10/18'
