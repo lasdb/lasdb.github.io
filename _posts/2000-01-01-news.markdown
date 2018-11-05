@@ -14,7 +14,7 @@ Any of you can nominate a candidate. Nominations should be sent directly to the 
 The LASDB Prize Selection Committee is formed by Eric Wieschaus, Marianne Bronner, Angela Nieto, Alfonso Martinez Arias, Eddy de Robertis, Ruth Lehmann, Maria Leptin, Claudio Stern, Alejandro Sanchez Alvarado, Guillermo Oliver, Roberto Mayor and Pablo Wappner. 
 <br> 
 Thanking in advance and looking forward for nominations.'
-    imageSm: 'img/news/lasdb-sm.jpg'
+    imageSm: 'img/news/LASDB-sm.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
   - title: 'Symposium: Exploring Genomic Landscapes'
