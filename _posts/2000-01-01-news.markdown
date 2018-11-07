@@ -63,6 +63,29 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageBg: '../img/news/chascomus2018-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
+  - title: 'REPORT. Meeting Sociedad Mexicana de Biología del Desarrollo'
+    date: '6/11/18'
+    subtitle: '2-6 October 2018, Puebla, México'
+    body: 'Last October, the Mexican Society of Development Biology (SMBD) organized its XIII National Congress and also its first International Congress in Ex-hacienda of Chautla in Puebla, Mexico. This is a fantastic place to be isolated in a relaxed environment that allowed participants to talk about science, creating a highly collaborative and friendly environment to exchange ideas. The aim of this conference was to bring developmental biologists from other parts of the world to encourage students interested in this topic to attend the congress. On the other hand, a large number of young researchers who have arrived in Mexico as newly hired researchers were invited with the idea that they had the opportunity to present their work and also to generate collaboration opportunities with foreign and national groups.  
+This congress brought together 35 experts, 16 which were nationals and 19 internationals. The talks were divided into 8 keynote and 27 short talks. The speakers came from Argentina, Brazil, Chile, Germany, Israel, Spain, the United States, the United Kingdom, and Portugal. The International Society of Development Biologists supported to SMBD with the ISDB-MOD Lecture to bring Ginés Morata of the Center of Molecular Biology CSIC of the Autonomous University of Madrid, Spain. <br>
+Website: http://congreso.smbd.org.mx/2018/  <br>
+Facebook: https://www.facebook.com/SMEXBD  <br>
+Twitter @SocMexBioDes: https://twitter.com/SocMexBioDes '
+    imageSm: 'img/news/Mex2018-sm.jpg'
+    imageBg: '../img/news/Mex2018rep-bg.jpg'
+    URL: 'http://congreso.smbd.org.mx/2018/'
+
+  - title: 'Report: V Latin America Zebrafish Network Course and Symposium'
+    date: '7/8/18'
+    subtitle: 'LAZEN 2018'
+    body: 'Last May, the beautiful city of Cuernavaca, Mexico, received the Latin American community of zebrafish students and researchers in the fifth edition of the Latin American Zebrafish Network (LAZEN) Course and Meeting, organized locally by Enrique Salas, Denhí Schnabel, Fernando López Casillas and Hilda Lomelí.  LAZEN was born in 2010, in an initially timid initiative by four LASDB-member researchers from Argentina, Brazil, Chile and Uruguay, that quickly grew to become a thriving and adaptable forum for all regional zebrafish researchers, well beyond developmental biology. <br>
+The activity started with a full-time 7-day hands-on course, where some international instructors introduced a selected group of students to the current essential experimental approaches in zebrafish research, including CRISPR-based genome editing, transgenesis, optogenetics, techniques for cell and tissue labeling, confocal microscopy and live imaging. Lectures were also interspersed among the practicals. Students came from all over Latin America, with representatives from Argentina, Brazil, Colombia, Mexico, Peru, Venezuela and Uruguay, in addition to a participant from Egypt. Strategically positioned social activities helped to immediately generate a highly collaborative and friendly environment among students and instructors, who spent together more than 12 hours a day.<br>
+The meeting was short (2 days) but intensive, with the participation of all the instructors and several other invited speakers, in a perfect balance of regional and international researchers, as well as covering an ever-growing diversity. Funding for both events was provided by ICGEB, UNU-Biolac and UNAM. During the meeting, a new network Board was elected, and the place for the VI LAZEN Course and Meeting was designated, coincident with LAZEN’s 10th anniversary in 2020: Peru.<br>
+For more information, go to the LAZEN website: http://lazen.fcien.edu.uy'
+    imageSm: 'img/news/lazen2018-rep-sm.jpg'
+    imageBg: '../img/news/lazen2018-rep-bg.jpg'
+    URL: 'http://lazen.fcien.edu.uy'
+
   - title: 'MEXICO. Meeting Sociedad Mexicana de Biología del Desarrollo'
     date: '5/7/18'
     subtitle: '2-6 October 2018, Puebla, México'
@@ -87,18 +110,6 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageSm: 'img/news/chascomus-sm.jpg'
     imageBg: '../img/news/chascomus-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
-
-
-  - title: 'Report: V Latin America Zebrafish Network Course and Symposium'
-    date: '7/8/18'
-    subtitle: 'LAZEN 2018'
-    body: 'Last May, the beautiful city of Cuernavaca, Mexico, received the Latin American community of zebrafish students and researchers in the fifth edition of the Latin American Zebrafish Network (LAZEN) Course and Meeting, organized locally by Enrique Salas, Denhí Schnabel, Fernando López Casillas and Hilda Lomelí.  LAZEN was born in 2010, in an initially timid initiative by four LASDB-member researchers from Argentina, Brazil, Chile and Uruguay, that quickly grew to become a thriving and adaptable forum for all regional zebrafish researchers, well beyond developmental biology. <br>
-The activity started with a full-time 7-day hands-on course, where some international instructors introduced a selected group of students to the current essential experimental approaches in zebrafish research, including CRISPR-based genome editing, transgenesis, optogenetics, techniques for cell and tissue labeling, confocal microscopy and live imaging. Lectures were also interspersed among the practicals. Students came from all over Latin America, with representatives from Argentina, Brazil, Colombia, Mexico, Peru, Venezuela and Uruguay, in addition to a participant from Egypt. Strategically positioned social activities helped to immediately generate a highly collaborative and friendly environment among students and instructors, who spent together more than 12 hours a day.<br>
-The meeting was short (2 days) but intensive, with the participation of all the instructors and several other invited speakers, in a perfect balance of regional and international researchers, as well as covering an ever-growing diversity. Funding for both events was provided by ICGEB, UNU-Biolac and UNAM. During the meeting, a new network Board was elected, and the place for the VI LAZEN Course and Meeting was designated, coincident with LAZEN’s 10th anniversary in 2020: Peru.<br>
-For more information, go to the LAZEN website: http://lazen.fcien.edu.uy'
-    imageSm: 'img/news/lazen2018-rep-sm.jpg'
-    imageBg: '../img/news/lazen2018-rep-bg.jpg'
-    URL: 'http://lazen.fcien.edu.uy'
  
   - title: 'Pew Latin America Postdoctoral Fellowships 2019'
     date: '23/5/18'
