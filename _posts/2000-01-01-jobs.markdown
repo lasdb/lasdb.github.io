@@ -7,7 +7,7 @@ permalink: /pages/jobs.html
 jobs:
 
   - title: 'Postdoc, PhD and visiting faculty for Math-DevBio Center'
-    date: '22/2/18'
+    date: '4/11/18'
     subtitle: 'NSF-Simons Center for Quantitative Biology. Northwestern University.'
     body: 'The NSF-Simons Center for Quantitative Biology is a place where mathematical scientists and developmental biologists intensely work together on a broad range of questions arising from investigations into the biology of animal development. Our team of investigators is studying high dimensional and dynamic phenomena by using imaging, sequencing, and other technologies. Our aim is to make important new discoveries about the emergent properties of growth and development.'
     par2: 'Project one of this center is a Xenopus project that has proteomics, single cell genomics and quantitative imaging components, and is focused on neural crest origins and pluripotency.<br>
@@ -16,6 +16,13 @@ jobs:
 3) Finally, we have short term visiting fellowships for faculty interested in coming to interact with center faculty for a few weeks or a few months.<br>
 For more information, please contact Carole LaBonne, Chair Dept. of Molecular Biosciences, NU (clabonne@northwestern.edu) and explore the center web site: http://www.quantitativebiology.northwestern.edu'
     URL: 'http://www.quantitativebiology.northwestern.edu/'
+
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Postdoctoral position. Centro Andaluz de Biología del Desarrollo (CABD), Seville.'
     date: '17/8/18'
@@ -48,13 +55,6 @@ Email: guillermo.oliver@northwestern.edu'
     par2: 'Preference will be given to motivated applicants with strong background in cell biology, bioinformatics and biochemistry, who published a first-author paper as a result of their graduate work.  Interested candidates may send their CV, list of publications and three references to Dr. Sergei Sokol  (sergei.sokol@mssm.edu)'
     URL: 'http://labs.icahn.mssm.edu/sokollab/'
     
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
-
   - title: 'Doctoral Program in Neurobiology of Universidad Mayor, Chile'
     date: '27/11/17'
     subtitle: 'ADMISION 2018. Deadline: 3 de enero'
