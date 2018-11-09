@@ -24,6 +24,16 @@ For more information, please contact Carole LaBonne, Chair Dept. of Molecular Bi
     par2: 'This programme is divided into two different frames: a) INPhINIT-Incoming: deadline 6/2/2019, and b) INPhINIT-Retaining:deadline 27/2/2019'
     URL: 'http://www.inphinitlacaixa.org/'
 
+  - title: 'Project Manager ERC project reLIVE'
+    date: 8/11/18'
+    subtitle: 'Institut de Génomique Fonctionnelle de Lyon, France'
+    body: 'The team of Michalis Averof, at the Institut de Génomique Fonctionnelle de Lyon (IGFL) in France, is
+seeking to recruit a Project Manager for the project ‘reLIVE’. The project investigates the mechanisms of
+limb regeneration in a new experimental model, the crustacean Parhyale hawaiensis. It is funded by an
+ERC Advanced Grant from January 2017 to December 2021.'
+    par2: 'Check the link for more information'
+    URL: 'https://www.averof-lab.org/web/news_files/ERC_project_manager_Nov2018.pdf?fbclid=IwAR09TAGDhdNn7TJZGSZxsACqIlklnKWPqmNeYWZbXd9MLQeyl-gzD_3VzI0'
+    
   - title: 'See Job Opportunities at The Node'
     date: ''
     URL: 'http://thenode.biologists.com/category/jobs'
