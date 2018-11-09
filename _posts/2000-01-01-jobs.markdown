@@ -17,6 +17,13 @@ jobs:
 For more information, please contact Carole LaBonne, Chair Dept. of Molecular Biosciences, NU (clabonne@northwestern.edu) and explore the center web site: http://www.quantitativebiology.northwestern.edu'
     URL: 'http://www.quantitativebiology.northwestern.edu/'
 
+  - title: 'Doctoral Caixa Fellowships'
+    date: '7/11/18'
+    subtitle: 'Spain and Portugal'
+    body: 'The doctoral fellowship programme INPhINIT “la Caixa” is devoted to attracting talented Early-Stage Researchers—of any nationality—who wish to pursue doctoral studies in Spanish or Portuguese territory.  http://www.inphinitlacaixa.org/'
+    par2: 'This programme is divided into two different frames: a) INPhINIT-Incoming: deadline 6/2/2019, and b) INPhINIT-Retaining:deadline 27/2/2019'
+    URL: 'http://www.inphinitlacaixa.org/'
+
   - title: 'See Job Opportunities at The Node'
     date: ''
     URL: 'http://thenode.biologists.com/category/jobs'
