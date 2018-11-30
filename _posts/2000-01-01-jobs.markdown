@@ -6,6 +6,13 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'PhD position'
+    date: '29/11/18'
+    subtitle: 'Meyer Lab at Clark University, Worcester, MA USA beginning August 2019'
+    body: 'Research in Dr. Meyer’s lab is currently focused on understanding how the central nervous system develops in annelids with the goal of gaining a better understanding of how nervous systems evolved.'
+    par2: 'Please read the complete post at https://wordpress.clarku.edu/nmeyer/'
+    URL: 'https://wordpress.clarku.edu/nmeyer/'
+
   - title: 'Postdoc, PhD and visiting faculty for Math-DevBio Center'
     date: '4/11/18'
     subtitle: 'NSF-Simons Center for Quantitative Biology. Northwestern University.'
