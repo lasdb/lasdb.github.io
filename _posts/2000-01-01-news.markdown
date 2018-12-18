@@ -40,6 +40,16 @@ Deadline: Submit your application on-line at https://www.icgeb.org/course-applic
     imageBg: '../img/news/small-brains-2019-bg.jpg'
     URL: 'http://smallbrains.org/'
 
+  - title: 'Course: Muscle Development and Evolution'
+    date: '17/12/18'
+    subtitle: 'Universidad de Chile. Facultad de Ciencias. January 3-8, 2019'
+    body: 'Curso gratuito, dictado en español. Interesados portular por email a Alexander Vargas, alexvargas@uchile.cl adjuntando CV y motivacion.<br>
+Curso a carge de Rui Diogo. <br>
+Howard University College of Medicine and Faculty at the Center for the Advanced Study of Hominid Paleobiology of George Washington University.'
+    imageSm: 'img/news/MuscleUChile-sm.jpg'
+    imageBg: '../img/news/MuscleUChile-bg.jpg'
+    URL: ''
+
   - title: 'REPORT: Developmental and Cell Biology Meeting 2018. ARGENTINA'
     date: '31/10/18'
     subtitle: 'TBCD. Chascomus, Argentina. 17-19 October 2018'
