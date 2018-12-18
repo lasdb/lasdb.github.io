@@ -48,7 +48,7 @@ Curso a carge de Rui Diogo. <br>
 Howard University College of Medicine and Faculty at the Center for the Advanced Study of Hominid Paleobiology of George Washington University.'
     imageSm: 'img/news/MuscleUChile-sm.jpg'
     imageBg: '../img/news/MuscleUChile-bg.jpg'
-    URL: ''
+    URL: 'https://vargaslab.wordpress.com/'
 
   - title: 'REPORT: Developmental and Cell Biology Meeting 2018. ARGENTINA'
     date: '31/10/18'
