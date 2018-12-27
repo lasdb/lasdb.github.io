@@ -8,7 +8,7 @@ news:
 
   - title: 'MBL Embryology Course 2019 at Woods Hole'
     date: '26/12/18'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 2-July 15, 2019. <br>Application deadline: February 1, 2018'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 2-July 15, 2019. <br>Application deadline: February 1, 2019'
     body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Rich Schneider (University of California San Francisco) and David Sherwood (Duke University)'
     imageSm: 'img/news/mbl-sm.jpg'
     imageBg: '../img/news/mbl-bg.jpg'
