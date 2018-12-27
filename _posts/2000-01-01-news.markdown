@@ -14,6 +14,15 @@ news:
     imageBg: '../img/news/mbl-bg.jpg'
     URL: 'http://www.mbl.edu/education/courses/embryology/'
 
+  - title: 'MoD Special issue on “Developmental Biology in Latin America”'
+    date: '26/12/18'
+    subtitle: 'Mechanisms on Development, Latin American issue, 2018'
+    body: 'This special issue of Mechanism of Development is dedicated to Developmental Biology performed in Latin America. There has been enormous progress of Dev Biol in recent years. A rise in the number of papers published in Latin America, including those comprised in this special issue, alongside the increasing number of young scientists choosing to establish their laboratories in Latin America demonstrates an exciting progress.'
+    imageSm: 'img/news/MoDissue-sm.jpg'
+    imageBg: '../img/news/MoDissue-bg.jpg'
+    URL: 'https://www.sciencedirect.com/journal/mechanisms-of-development/vol/154/suppl/C'
+
+
   - title: 'Symposium: Exploring Genomic Landscapes'
     date: '27/9/18'
     subtitle: 'January 10-12, 2019. San Pedro de Atacama, Chile'
