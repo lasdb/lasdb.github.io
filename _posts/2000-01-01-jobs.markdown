@@ -6,6 +6,13 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Doctoral and Postdoctoral positions'
+    date: '15/3/19'
+    subtitle: 'Regenerative Biology of the eye. Del Rio-Tsonis Lab. Miami Universiti, OH, USA'
+    body: 'Doctoral and Postdoctoral positions available immediately to conduct research in the area of regenerative biology of the eye using classical salamander and chick embryo model organisms. The lab currently has two NIH funded projects focused on using molecular tools such as morpholino and CRISPRCas technology, as well as transcriptomics, proteomics, Chip/Seq analysis, methylome analyses, and conventional cell culture and cell biology techniques. The goal is to identify genetic and epigenetic switches required to induce retina and lens regeneration in non-competent tissues/animals.  In addition, the lab is part of the Center for Visual Sciences at Miami University: http://www.units.miamioh.edu/visualsciences/index.php. .'
+    par2: 'Looking for highly motivated individuals with a passion for science and with appropriate experience in cell/developmental/molecular biology.  Send letter of application, curriculum vitae, brief description of research interests, and names and contact information of three references to Dr. Katia Del Rio-Tsonis by email to delriok@miamioh.edu. Screening of applications will begin immediately and will continue until positions are filled. Miami University is an EOE/AA employer'
+    URL: 'https://www.eyeregenerationlab.com/positions-open'
+
   - title: 'PhD position'
     date: '29/11/18'
     subtitle: 'Meyer Lab at Clark University, Worcester, MA USA beginning August 2019'
@@ -24,6 +31,13 @@ jobs:
 For more information, please contact Carole LaBonne, Chair Dept. of Molecular Biosciences, NU (clabonne@northwestern.edu) and explore the center web site: http://www.quantitativebiology.northwestern.edu'
     URL: 'http://www.quantitativebiology.northwestern.edu/'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+    
   - title: 'Doctoral Caixa Fellowships'
     date: '7/11/18'
     subtitle: 'Spain and Portugal'
@@ -41,13 +55,6 @@ ERC Advanced Grant from January 2017 to December 2021.'
     par2: 'Check the link for more information'
     URL: 'https://www.averof-lab.org/web/news_files/ERC_project_manager_Nov2018.pdf?fbclid=IwAR09TAGDhdNn7TJZGSZxsACqIlklnKWPqmNeYWZbXd9MLQeyl-gzD_3VzI0'
     
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
-
   - title: 'Postdoctoral position. Centro Andaluz de Biología del Desarrollo (CABD), Seville.'
     date: '17/8/18'
     subtitle: 'Juan R. Martinez-Morales Lab is recruiting competitive postdoctoral researchers to participate in an interdisciplinary project on comparative tissue morphogenesis.'
