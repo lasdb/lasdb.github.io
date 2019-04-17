@@ -8,7 +8,7 @@ news:
 
   - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
     date: '6/4/19'
-    subtitle: '22-26 October 2019. Rosario, Argentina. Satelite to LASDB Meeting'
+    subtitle: '22-26 October 2019. Rosario, Argentina. Satellite to LASDB Meeting'
     body: 'The course will focus on the molecular processes controlling growth and development in multicellular organisms with an emphasis on the mechanisms controlling gene expression. Theoretical and practical modules of the program will show modern views and approaches to developmental biology and span a variety of model organisms including plants and animals. The course will be held the week before the 2019 LASDB Meeting in Buenos Aires, Argentina.'
     imageSm: '../img/news/Rosario-2019-sm.jpg'
     imageBg: '../img/news/Rosario-2019-bg.jpg'
