@@ -46,7 +46,6 @@ news:
     imageBg: '../img/news/MoDissue-bg.jpg'
     URL: 'https://www.sciencedirect.com/journal/mechanisms-of-development/vol/154/suppl/C'
 
-
   - title: 'Symposium: Exploring Genomic Landscapes'
     date: '27/9/18'
     subtitle: 'January 10-12, 2019. San Pedro de Atacama, Chile'
