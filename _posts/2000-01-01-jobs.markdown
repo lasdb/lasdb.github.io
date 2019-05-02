@@ -6,7 +6,7 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
-  - title: 'Postdoctoral positions'
+  - title: 'Postdoctoral position'
     date: '1/5/19'
     subtitle: 'Airway development. Sinner’s lab, Cincinnati Children’s Hospital Medical Center, USA'
     body: 'The laboratory of Dr. Debora Sinner is seeking to recruit a highly motivated postdoctoral fellow to perform research on the molecular and cellular basis of the large airway formation. Dr. Sinner’s lab is part of the division of Neonatology and Pulmonary Biology at Cincinnati Children’s Hospital Medical Center. Dr. Sinner’s lab focuses on understanding the mechanisms that drive the normal and pathological differentiation and function of distinct cell types of the trachea and bronchi by using mouse genetics, genomics approaches, functional in vivo, in vitro studies and microscopy. We also have the unique opportunity to validate experimental findings in patient tissue samples.'
