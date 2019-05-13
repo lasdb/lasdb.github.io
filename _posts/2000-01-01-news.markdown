@@ -10,10 +10,10 @@ news:
     date: '6/4/19'
     subtitle: '22-26 October 2019. Rosario, Argentina. Satellite to LASDB Meeting'
     body: 'The course will focus on the molecular processes controlling growth and development in multicellular organisms with an emphasis on the mechanisms controlling gene expression. Theoretical and practical modules of the program will show modern views and approaches to developmental biology and span a variety of model organisms including plants and animals. The course will be held the week before the 2019 LASDB Meeting in Buenos Aires, Argentina.
-    Poster: https://github.com/lasdb/lasdb.github.io/blob/master/pdfs/2019-course-Rosario.pdf'
+    Poster: http://lasdb-development.org/pdfs/2019-course-Rosario.pdf'
     imageSm: '../img/news/Rosario-2019-sm.jpg'
     imageBg: '../img/news/Rosario-2019-bg.jpg'
-    URL: 'https://www.icgeb.org/courses/course-control-mechanisms-of-gene-expression-in-eukaryotic-model-organisms/'
+    URL: 'http://lasdb2019.com/satellite-course-2019/'
 
   - title: 'Pew Latin America Postdoctoral Fellowships 2020'
     date: '18/4/19'
