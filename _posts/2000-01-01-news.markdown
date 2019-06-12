@@ -31,6 +31,14 @@ news:
     imageBg: '../img/news/quintay2020-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
+  - title: 'Australia-Brazil-Chile Regenerative Medicine and Developmental Biology Symposium'
+    date: '12/6/19'
+    subtitle: '9-10 September 2019. Campos do Jordão, SP, Brazil'
+    body: 'The ABC Symposium aims to promote new scientific collaborations and strengthen existing academic connections in the fields of Developmental Biology, Regeneration and Molecular/Cell Biology. After two successful Symposia in 2017 (Australia) and 2018 (Chile), in 2019 the FeSBE Annual Meeting is hosting the third ABC Regenerative Medicine and Developmental Biology Symposium in Campos do Jordão – Brazil.'
+    imageSm: 'img/news/ABC2019-sm.jpg'
+    imageBg: '../img/news/ABC2019-bg.jpg'
+    URL: 'http://www2.fesbe.org.br/eventos/fesbe-anual-2019/programa/'
+
   - title: 'MBL Embryology Course 2019 at Woods Hole'
     date: '26/12/18'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 2-July 15, 2019. <br>Application deadline: February 1, 2019'
