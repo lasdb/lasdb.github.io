@@ -28,7 +28,7 @@ news:
     subtitle: 'It is our great pleasure to announce that Eugenia del Pino was awarded the LASDB Prize 2019 !!.'
     body: 'Please follow this link http://lasdb-development.org/pages/prize.html' 
     imageSm: 'img/news/delPino-prize-sm.png'
-    imageBg: '../img/newsdelPino-prize-bg.png'
+    imageBg: '../img/news/delPino-prize-bg.png'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
   - title: 'Australia-Brazil-Chile Regenerative Medicine and Developmental Biology Symposium'
