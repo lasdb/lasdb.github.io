@@ -26,7 +26,8 @@ news:
   - title: 'LASDB Prize in Developmental Biology 2019'
     date: '2/5/19'
     subtitle: 'It is our great pleasure to announce that Eugenia del Pino was awarded the LASDB Prize 2019 !!.'
-    body: 'Please follow this link http://lasdb-development.org/pages/prize.html' 
+    body: 'Please follow this link:  
+    <a href="http://lasdb-development.org/pages/prize.html">LASDB Prize in DevBiol</a>' 
     imageSm: 'img/news/delPino-prize-sm.png'
     imageBg: '../img/news/delPino-prize-bg.png'
     URL: 'http://lasdb-development.org/pages/prize.html'
