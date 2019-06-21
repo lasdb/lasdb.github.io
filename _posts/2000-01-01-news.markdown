@@ -40,14 +40,6 @@ news:
     imageBg: '../img/news/ABC2019-bg.jpg'
     URL: 'http://www2.fesbe.org.br/eventos/fesbe-anual-2019/programa/'
 
-  - title: 'Pew Latin America Postdoctoral Fellowships 2020'
-    date: '18/4/19'
-    subtitle: 'Deadline: noon EST on Sept. 25, 2019'
-    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by noon EST on Sept. 25, 2019.'
-    imageSm: 'img/news/pew-sm.jpg'
-    imageBg: '../img/news/pew2-bg.jpg'
-    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows'
-
   - title: '6th Latin American Zebrafish Network Course and Symposium'
     date: '20/6/19'
     subtitle: 'Lima, March 14-27 2020 (course) and Cusco, March 29- April 2, 2020 (symposium)'
@@ -56,6 +48,14 @@ news:
     imageSm: 'img/news/lazen2020-sm.jpg'
     imageBg: '../img/news/lazen2020-bg.jpg'
     URL: 'http://lazen.fcien.edu.uy/'
+
+  - title: 'Pew Latin America Postdoctoral Fellowships 2020'
+    date: '18/4/19'
+    subtitle: 'Deadline: noon EST on Sept. 25, 2019'
+    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by noon EST on Sept. 25, 2019.'
+    imageSm: 'img/news/pew-sm.jpg'
+    imageBg: '../img/news/pew2-bg.jpg'
+    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows'
 
   - title: 'MBL Embryology Course 2019 at Woods Hole'
     date: '26/12/18'
