@@ -6,6 +6,15 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+  - title: 'MBL Practical Course in Developmental Biology'
+    date: '22/4/19'
+    subtitle: 'CIMARQ-Quintay, Chile. 6-18th January 2020'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2019. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. Website: http://biodesarrollo.unab.cl. Twitter: DevBioQuintay.  Facebook: DevBio Course Quintay.' 
+    imageSm: 'img/news/quintay2020-sm.jpg'
+    imageBg: '../img/news/quintay2020-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
+    
   - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
     date: '6/4/19'
     subtitle: '22-26 October 2019. Rosario, Argentina. Satellite to LASDB Meeting'
@@ -14,14 +23,6 @@ news:
     imageSm: '../img/news/Rosario-2019-sm.jpg'
     imageBg: '../img/news/Rosario-2019-bg.jpg'
     URL: 'http://lasdb2019.com/satellite-course-2019/'
-
-  - title: 'EMBO Practical Course in Developmental Biology'
-    date: '22/4/19'
-    subtitle: 'CIMARQ-Quintay, Chile. 6-18th January 2020'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2019. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. Website: http://biodesarrollo.unab.cl. Twitter: DevBioQuintay.  Facebook: DevBio Course Quintay.' 
-    imageSm: 'img/news/quintay2020-sm.jpg'
-    imageBg: '../img/news/quintay2020-bg.jpg'
-    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'LASDB Prize in Developmental Biology 2019'
     date: '2/5/19'
