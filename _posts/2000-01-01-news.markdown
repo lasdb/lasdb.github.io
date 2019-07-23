@@ -33,7 +33,7 @@ news:
     imageBg: '../img/news/delPino-prize-bg.png'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
-  - title: 'Australia-Brazil-Chile Regenerative Medicine and Developmental Biology Symposium'
+  - title: 'Australia-Brazil-Chile Regenerative and Developmental Biology Symposium'
     date: '12/6/19'
     subtitle: '9-10 September 2019. Campos do Jordão, SP, Brazil'
     body: 'The ABC Symposium aims to promote new scientific collaborations and strengthen existing academic connections in the fields of Developmental Biology, Regeneration and Molecular/Cell Biology. After two successful Symposia in 2017 (Australia) and 2018 (Chile), in 2019 the FeSBE Annual Meeting is hosting the third ABC Regenerative Medicine and Developmental Biology Symposium in Campos do Jordão – Brazil.'
