@@ -12,7 +12,7 @@ news:
     subtitle: 'CIMARQ-Quintay, Chile. 6-18th January 2020. Extended deadline August 28.'
     body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 28th August 2019. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. Website: http://biodesarrollo.unab.cl. Twitter: DevBioQuintay.  Facebook: DevBio Course Quintay.' 
     imageSm: 'img/news/quintay2020-sm.jpg'
-    imageBg: '../img/news/quintay2020b-bg.jpg'
+    imageBg: '../img/news/Quintay2020b-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'LASDB Prize in Developmental Biology 2019'
