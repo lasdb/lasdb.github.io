@@ -37,7 +37,7 @@ The meeting is an excellent opportunity for American labs to get an integrated a
   - title: 'Juan Riesgo-Escovar'
     date: '6/11/19'
     subtitle: 'New President of LASDB'
-    body: 'The LASDB General Assembry appinted Juan Riesgo-Escovar as the new President of the Society !<br><br>
+    body: 'The LASDB General Assembry appinted Juan Riesgo-Escovar as the new President of the Society!<br><br>
     Dear members of the LASDB. <br>
 We just had a great meeting in Buenos Aires to cap the end of October, and it really was the confirmation of Spring. A great deal of cutting-edge and exciting science was discussed, showing how vibrant and alive the LASDB is, and we look forward with anticipation to the next meeting, in two years time. This time there was a record of participation, and most to those attending were students, who discussed their work at length in the poster sessions. Already, many people how attended as students in the first LASDB meetings are now researchers, demonstrating the positive effect that the LASDB meetings and associated courses have had over its sixteen years of existence. We hope to continue on all those trends in the future, bringing ever more first rate science and students and PIs together, expanding developmental biology in the region, in an ever growing virtuous circle. Kudos to this last meeting organizers, and to the bright future of developmental biology in the region. As president of the LASDB, I really hope to continue all these positive trends, and greatly appreciate the confidence deposited in me.<br>
 Juan Riesgo-Escovar' 
