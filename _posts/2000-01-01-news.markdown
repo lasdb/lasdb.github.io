@@ -27,11 +27,11 @@ The meeting is an excellent opportunity for American labs to get an integrated a
 
   - title: 'LASDB Prize in Developmental Biology 2019'
     date: '2/5/19'
-    subtitle: 'It is our great pleasure to announce that Eugenia del Pino was awarded the LASDB Prize 2019 !!.'
+    subtitle: 'Eugenia del Pino was awarded the LASDB Prize 2019 !!.'
     body: 'Please follow this link:  
     <a href="http://lasdb-development.org/pages/prize.html">LASDB Prize in DevBiol</a>' 
-    imageSm: 'img/news/delPino-prize-sm.png'
-    imageBg: '../img/news/delPino-prize-bg.png'
+    imageSm: 'img/news/Eugenia-del-Pino-sm.jpg'
+    imageBg: '../img/news/Eugenia-del-Pino-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
     
   - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
