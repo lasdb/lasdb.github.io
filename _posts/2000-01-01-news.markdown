@@ -34,7 +34,7 @@ The meeting is an excellent opportunity for American labs to get an integrated a
     imageBg: '../img/news/Eugenia-del-Pino-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
-  - title: 'Juan Riesgo-Excovar'
+  - title: 'Juan Riesgo-Escovar'
     date: '6/11/19'
     subtitle: 'New President of LASDB'
     body: 'The LASDB General Assembry appinted Juan Riesgo-Escovar as the new President of the Society !<br><br>
