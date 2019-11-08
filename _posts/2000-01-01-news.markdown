@@ -15,6 +15,16 @@ news:
     imageBg: '../img/news/lazen2020-bg.jpg'
     URL: 'http://lazen.fcien.edu.uy/'
 
+  - title: 'Expanding C. elegans research:  Second Latin American Worm Meeting'
+    date: '11/8/19'
+    subtitle: 'February 19-21, 2020. Rosario, Argentina'
+    body: 'C. elegans researchers from Argentina, Uruguay, Brazil, Chile and Mexico that have confirmed attendance to this Symposium have enthusiastically received this initiative. The impact of this project it is not limited to a small group of scientists in Argentina, the host country, but towards the whole scientific community in Latin America. Since C. elegans is largely used to unravel mechanisms conserved throughout the animal kingdom, the interest for the meeting extends to scientist working on other models. 
+In particular, we strongly believe that undergraduates and graduate students, young and consolidated investigators from our region will greatly benefit from the direct interaction with American leader scientists in the C. elegans field. To maximize student participation, we plan to devote a significant proportion of the budget to cover student´s travel and accommodation expenses. 
+The meeting is an excellent opportunity for American labs to get an integrated and updated view on C. elegans research , providing knowledge on cutting edge methodologies and technologies. It will encourage discussion and future collaborations among the participants, which could strengthen collaborations and training for Latin-American labs.'
+    imageSm: 'img/news/worm-2020-sm.jpg'
+    imageBg: '../img/news/worm-2020-bg.jpg'
+    URL: 'https://lawm2020.webnode.es/'
+
   - title: 'LASDB Prize in Developmental Biology 2019'
     date: '2/5/19'
     subtitle: 'It is our great pleasure to announce that Eugenia del Pino was awarded the LASDB Prize 2019 !!.'
@@ -358,6 +368,7 @@ As a measure of the success we can highlight: 1) 250 attendees from all over the
     imageSm: 'img/news/chow-sm.jpg'
     imageBg: '../img/news/chow-bg.jpg'
     URL: 'http://www.sciencedirect.com/science/article/pii/S0012160616308363'
+    
   - title: 'Expanding C. elegans research:  First Latin American Worm Meeting'
     date: '10/9/16'
     subtitle: 'February 22nd to 24th, 2017.  Institut Pasteur, Montevideo, Uruguay.'
@@ -365,6 +376,7 @@ As a measure of the success we can highlight: 1) 250 attendees from all over the
     imageSm: 'img/news/worm-sm.jpg'
     imageBg: '../img/news/worm-bg.jpg'
     URL: 'http://pasteur.uy/en/last-news/first-latin-american-worm-meeting'
+    
   - title: 'MBL Embryology Course Marine Biological Lab at Woods Hole'
     date: '22/12/16'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 14-17, 2017. Application: February 1, 2017'
