@@ -43,7 +43,7 @@ We just had a great meeting in Buenos Aires to cap the end of October, and it re
 Juan Riesgo-Escovar' 
     imageSm: 'img/news/Riesgo_Escovar-sm.png'
     imageBg: '../img/news/Riesgo_Escovar-sm.png'
-    URL: ''
+    URL: 'http://lasdb-development.org/pages/board.html'
     
   - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
     date: '6/4/19'
