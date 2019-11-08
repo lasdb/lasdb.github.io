@@ -33,15 +33,6 @@ The meeting is an excellent opportunity for American labs to get an integrated a
     imageSm: 'img/news/Eugenia-del-Pino-sm.jpg'
     imageBg: '../img/news/Eugenia-del-Pino-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
-    
-  - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
-    date: '6/4/19'
-    subtitle: '22-26 October 2019. Rosario, Argentina. Satellite to LASDB Meeting'
-    body: 'The course will focus on the molecular processes controlling growth and development in multicellular organisms with an emphasis on the mechanisms controlling gene expression. Theoretical and practical modules of the program will show modern views and approaches to developmental biology and span a variety of model organisms including plants and animals. The course will be held the week before the 2019 LASDB Meeting in Buenos Aires, Argentina.
-    Poster: http://lasdb-development.org/pdfs/2019-course-Rosario.pdf'
-    imageSm: '../img/news/Rosario-2019-sm.jpg'
-    imageBg: '../img/news/Rosario-2019-bg.jpg'
-    URL: 'http://lasdb2019.com/satellite-course-2019/'
 
   - title: 'Juan Riesgo-Excovar'
     date: '6/11/19'
@@ -53,6 +44,15 @@ Juan Riesgo-Escovar'
     imageSm: 'img/news/Riesgo_Escovar-sm.png'
     imageBg: '../img/news/Riesgo_Escovar-sm.png'
     URL: ''
+    
+  - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
+    date: '6/4/19'
+    subtitle: '22-26 October 2019. Rosario, Argentina. Satellite to LASDB Meeting'
+    body: 'The course will focus on the molecular processes controlling growth and development in multicellular organisms with an emphasis on the mechanisms controlling gene expression. Theoretical and practical modules of the program will show modern views and approaches to developmental biology and span a variety of model organisms including plants and animals. The course will be held the week before the 2019 LASDB Meeting in Buenos Aires, Argentina.
+    Poster: http://lasdb-development.org/pdfs/2019-course-Rosario.pdf'
+    imageSm: '../img/news/Rosario-2019-sm.jpg'
+    imageBg: '../img/news/Rosario-2019-bg.jpg'
+    URL: 'http://lasdb2019.com/satellite-course-2019/'
 
   - title: 'MBL Practical Course in Developmental Biology'
     date: '22/4/19'
