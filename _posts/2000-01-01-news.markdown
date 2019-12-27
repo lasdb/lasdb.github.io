@@ -44,7 +44,16 @@ Juan Riesgo-Escovar'
     imageSm: 'img/news/Riesgo_Escovar-sm.png'
     imageBg: '../img/news/Riesgo_Escovar-sm.png'
     URL: 'http://lasdb-development.org/pages/board.html'
-    
+
+  - title: '2021 ISDB Congress'
+    date: '27/12/19'
+    subtitle: 'Algarve, Portugal. October 17-21, 2021'
+    body: 'The next meeting of the International Society of Developmental Biologists will happen in less than two years from now in Algarve, Portugal, October 17-21, 2021. The congress will take place at a seaside resort, with excellent congress facilities allowing maximal interaction among participants and very affordable onsite accommodation for all. In addition to keynote talks, the venue is prepared to run 3 parallel symposia, and we expect to cover a large variety of topics in Developmental Biology.
+More information will be available at the ISDB webpage.'
+    imageSm: '../img/news/ISDB2021-sm.jpg'
+    imageBg: '../img/news/ISDB2021-bg.jpg'
+    URL: 'http://www.developmental-biology.org/news/2019-isdb-meeting-algarve/'
+
   - title: 'ICGEB Course "Control mechanisms of gene expression in eukaryotic model organisms"'
     date: '6/4/19'
     subtitle: '22-26 October 2019. Rosario, Argentina. Satellite to LASDB Meeting'
