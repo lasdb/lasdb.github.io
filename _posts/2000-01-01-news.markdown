@@ -27,8 +27,8 @@ The meeting is an excellent opportunity for American labs to get an integrated a
 
   - title: 'Frontiers in Reproduction Course'
     date: '2/1/20'
-    subtitle: 'MBL, Woods Hole Course, USA.  April - June, 2020'
-    body: 'Looking to be trained in current concepts in all areas of Reproductive Biology?  Apply now for this six-week laboratory and lecture course at Marine Biological Laboratory @MBLScience.  The deadline is January 16. Follow the link below.'
+    subtitle: 'MBL, Woods Hole Course, USA.  April 25 - June 7, 2020'
+    body: 'Deadline is January 16. Looking to be trained in current concepts in all areas of Reproductive Biology?  Apply now for this six-week laboratory and lecture course at Marine Biological Laboratory @MBLScience.  Follow the link below.'
     imageSm: '../img/news/Reprod2020-sm.jpg'
     imageBg: '../img/news/Reprod2020-bg.jpg'
     URL: 'https://www.mbl.edu/education/courses/frontiers-in-reproduction/'
