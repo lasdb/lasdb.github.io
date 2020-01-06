@@ -6,6 +6,25 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Multiple research positions in Mechanobiology of Development.'
+    date: '6/1/20'
+    subtitle: 'Project: Multiscale mechanics and self-organizing processes in developing systems. Leadership: Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Institutions: Pontificia Universidad Católica de Chile and Universidad de Chile'
+    body: 'The interdisciplinary research team of the Anillo for Developmental Mechanobiology (DevMech) project
+is seeking highly motivated and creative individuals to be involved in an exciting interdisciplinary project
+aiming to understand the mechanical bases of biological processes driving embryonic development.'
+    par2: 'We are looking for three highly motivated and enthusiastic PhD students (with Conicyt or own
+Scholarships), two research fellows (postdocs) and one engineer to work in strongly interconnected
+teams. Furthermore, we offer two research assistants’ positions to support the scientific effort of the
+experimentalists. We also accept the application of undergraduate students to conduct an exciting
+internship of minimum 1 year in our laboratories. Highly motivated individual with background in either
+one of the following disciplines cell biology, development, microscopy, bioengineering, mathematical
+modelling are strongly encouraged to apply. Previous experience with one or more of the following topics
+will be an advantage: cell biology, stem cell research, developmental biology, mechanobiology,
+microscopy, image analysis, microfabrication, microfluidics and tissue engineering. A good level of written
+and spoken English is mandatory. To apply please send an email to andrea.ravasio@uc.cl including a letter of interest, Curriculum Vitae and a short description of previous experience. For more information and for
+any questions, contact us at andrea.ravasio@uc.cl.'
+    URL: ''
+
   - title: 'Postdoctoral position'
     date: '1/5/19'
     subtitle: 'Airway development. Sinner’s lab, Cincinnati Children’s Hospital Medical Center, USA'
