@@ -23,7 +23,7 @@ will be an advantage: cell biology, stem cell research, developmental biology, m
 microscopy, image analysis, microfabrication, microfluidics and tissue engineering. A good level of written
 and spoken English is mandatory. To apply please send an email to andrea.ravasio@uc.cl including a letter of interest, Curriculum Vitae and a short description of previous experience. For more information and for
 any questions, contact us at andrea.ravasio@uc.cl.'
-    URL: ''
+    URL: 'https://github.com/lasdb/lasdb.github.io/blob/master/pdfs/2020-Positions-Mech-biol-Devel.pdf'
 
   - title: 'Postdoctoral position'
     date: '1/5/19'
