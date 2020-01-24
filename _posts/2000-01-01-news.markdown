@@ -7,8 +7,8 @@ permalink: pages/news.html
 news:
 
   - title: 'MBL Embryology Course 2020 at Woods Hole'
-    date: '22/1/19'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 31 – July 13, 2020. <br>Application deadline: February 11, 2019'
+    date: '23/1/19'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 31 – July 13, 2020. <br>Application deadline: February 11, 2020'
     body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
     imageSm: 'img/news/mbl-sm.jpg'
     imageBg: '../img/news/mbl-bg.jpg'
