@@ -6,6 +6,25 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+  - title: 'Society of Developmental Biologists 2020 Annual Meeting'
+    date: '3/1/20'
+    subtitle: 'Chicago, USA. July 9-13, 2020'
+    body: 'The SDB 79th Annual Meeting organized by Society for Developmental Biology (SDB) will be held from July 09 - 13, 2020 at Hyatt Regency Chicago, Chicago, Illinois, USA. Details will be posted soon in SDB webpage.'
+    imageSm: '../img/news/SDB2020-sm.jpg'
+    imageBg: '../img/news/SDB2020-bg.jpg'
+    URL: 'https://www.sdbonline.org/'
+
+  - title: '2021 ISDB Congress'
+    date: '27/12/19'
+    subtitle: 'Algarve, Portugal. October 17-21, 2021'
+    body: 'The next meeting of the International Society of Developmental Biologists will happen in less than two years from now in Algarve, Portugal, October 17-21, 2021. The congress will take place at a seaside resort, with excellent congress facilities allowing maximal interaction among participants and very affordable onsite accommodation for all. In addition to keynote talks, the venue is prepared to run 3 parallel symposia, and we expect to cover a large variety of topics in Developmental Biology.
+More information will be available at the ISDB webpage.'
+    imageSm: '../img/news/ISDB2021-sm.jpg'
+    imageBg: '../img/news/ISDB2021-bg.jpg'
+    URL: 'http://www.developmental-biology.org/news/2019-isdb-meeting-algarve/'
+
+
   - title: 'MBL Embryology Course 2020 at Woods Hole'
     date: '23/1/19'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 31 – July 13, 2020. <br>Application deadline: February 11, 2020'
@@ -52,23 +71,6 @@ Juan Riesgo-Escovar'
     imageSm: 'img/news/Riesgo_Escovar-sm.png'
     imageBg: '../img/news/Riesgo_Escovar-sm.png'
     URL: 'http://lasdb-development.org/pages/board.html'
-
-  - title: 'Society of Developmental Biologists 2020 Annual Meeting'
-    date: '3/1/20'
-    subtitle: 'Chicago, USA. July 9-13, 2020'
-    body: 'The SDB 79th Annual Meeting organized by Society for Developmental Biology (SDB) will be held from July 09 - 13, 2020 at Hyatt Regency Chicago, Chicago, Illinois, USA. Details will be posted soon in SDB webpage.'
-    imageSm: '../img/news/SDB2020-sm.jpg'
-    imageBg: '../img/news/SDB2020-bg.jpg'
-    URL: 'https://www.sdbonline.org/'
-
-  - title: '2021 ISDB Congress'
-    date: '27/12/19'
-    subtitle: 'Algarve, Portugal. October 17-21, 2021'
-    body: 'The next meeting of the International Society of Developmental Biologists will happen in less than two years from now in Algarve, Portugal, October 17-21, 2021. The congress will take place at a seaside resort, with excellent congress facilities allowing maximal interaction among participants and very affordable onsite accommodation for all. In addition to keynote talks, the venue is prepared to run 3 parallel symposia, and we expect to cover a large variety of topics in Developmental Biology.
-More information will be available at the ISDB webpage.'
-    imageSm: '../img/news/ISDB2021-sm.jpg'
-    imageBg: '../img/news/ISDB2021-bg.jpg'
-    URL: 'http://www.developmental-biology.org/news/2019-isdb-meeting-algarve/'
 
   - title: 'Frontiers in Reproduction Course'
     date: '2/1/20'
