@@ -9,11 +9,16 @@ news:
 
   - title: 'Society of Developmental Biologists 2020 Annual Meeting'
     date: '3/1/20'
-    subtitle: 'Chicago, USA. July 9-13, 2020'
-    body: 'The SDB 79th Annual Meeting organized by Society for Developmental Biology (SDB) will be held from July 09 - 13, 2020 at Hyatt Regency Chicago, Chicago, Illinois, USA. Details will be posted soon in SDB webpage.'
-    imageSm: '../img/news/SDB2020-sm.jpg'
-    imageBg: '../img/news/SDB2020-bg.jpg'
-    URL: 'https://www.sdbonline.org/'
+    subtitle: 'ONLINE. July 9-16, 2020'
+    body: 'The SDB 79th Annual Meeting is Going Virtual!  The dates will be extended to accommodate the change from an in-person meeting to a completely virtual event: July 9 - 12, 2020 for talks and July 13 –16, 2020 for poster presentations.  Scheduling and information on presentations will be forthcoming. Lower registration and abstract submission fees will be in effect. <br>
+Important Deadlines <br>
+May 6, 2020 Abstract Submission (For Short Talks, Hilde Mangold Postdoctoral Symposium and Best Student Poster Competition)<br>
+May 18, 2020 Late Abstract Submission (For Poster Presentation ONLY) Abstract Withdrawal <br>
+June 8, 2020  Pre-Meeting Registration <br>
+July 9-16, 2020 Online Annual Meeting Details will be posted soon in SDB webpage.'
+    imageSm: '../img/news/SDB2020online-sm.jpg'
+    imageBg: '../img/news/SDB2020onine-bg.jpg'
+    URL: 'https://www.sdbonline.org/2020mtg'
 
   - title: '2021 ISDB Congress'
     date: '27/12/19'
