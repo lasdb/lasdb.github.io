@@ -8,7 +8,7 @@ news:
 
 
   - title: 'Society of Developmental Biologists 2020 Annual Meeting'
-    date: '3/1/20'
+    date: '4/27/20'
     subtitle: 'ONLINE. July 9-16, 2020'
     body: 'The SDB 79th Annual Meeting is Going Virtual!  The dates will be extended to accommodate the change from an in-person meeting to a completely virtual event: July 9 - 12, 2020 for talks and July 13 –16, 2020 for poster presentations.  Scheduling and information on presentations will be forthcoming. Lower registration and abstract submission fees will be in effect. <br>
 Important Deadlines <br>
