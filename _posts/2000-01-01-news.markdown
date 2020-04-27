@@ -17,7 +17,7 @@ May 18, 2020 Late Abstract Submission (For Poster Presentation ONLY) Abstract Wi
 June 8, 2020  Pre-Meeting Registration <br>
 July 9-16, 2020 Online Annual Meeting Details will be posted soon in SDB webpage.'
     imageSm: '../img/news/SDB2020online-sm.jpg'
-    imageBg: '../img/news/SDB2020onine-bg.jpg'
+    imageBg: '../img/news/SDB2020online-bg.jpg'
     URL: 'https://www.sdbonline.org/2020mtg'
 
   - title: '2021 ISDB Congress'
