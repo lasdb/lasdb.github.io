@@ -18,8 +18,8 @@ news:
     date: '05/08/20'
     subtitle: 'Developmental biology and adjacent. Posted by The Node '
     body: 'Various organisations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded.'
-    imageSm: '../img/news/onlinetalks.jpg'
-    imageBg: '../img/news/onlinetalks.jpg'
+    imageSm: '../img/news/onlinetalks-sm.jpg'
+    imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
     
   - title: '2021 ISDB Congress'
