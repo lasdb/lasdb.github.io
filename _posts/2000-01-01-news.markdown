@@ -14,6 +14,14 @@ news:
     imageBg: '../img/news/Neuromesodermal-bg.jpg'
     URL: 'https://meetings.embo.org/event/20-progenitors'
 
+  - title: 'List of virtual talks, seminars, forums'
+    date: '05/08/20'
+    subtitle: 'Developmental biology and adjacent. Posted by The Node '
+    body: 'Various organisations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded.'
+    imageSm: '../img/news/onlinetalks.jpg'
+    imageBg: '../img/news/onlinetalks.jpg'
+    URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
+    
   - title: '2021 ISDB Congress'
     date: '27/12/19'
     subtitle: 'Algarve, Portugal. October 17-21, 2021'
