@@ -6,6 +6,22 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Two postdoc positions, São Paulo, Brazil'
+    date: '6/1/20'
+    subtitle: 'Laboratory of the Biochemistry of Cell Signalling, University of São Paulo’s Institute of Chemistry, Brazil'
+    body: 'The main goal of the laboratory is to understand the signaling pathways that lead to pain to guide the development of new non-opioid analgesics. We aim to study signaling pathways involved in the embryonic development of components of the pain system and the signal transduction processes involved in nociceptive pain mediated by Nerve Growth factor (NGF) and the kinase activated by this growth factor, TrkA.<br>
+In another subproject we study the role of the kinase PKMzeta in synaptic remodeling in chronic pain'
+    par2: 'Requirements: <br>
+The applicant should have obtained a PhD degree for less than seven years and be well acquainted with molecular and cell biology. As one of the projects focuses on Developmental Biology, previous experience in this field is desirable but not strictly necessary.<br>
+To apply, please submit applications to deborah@iq.usp.br including:<br>
+1) Academic curriculum, including contact information for 2-3 references;<br>
+2) Cover letter stating your aims and motivation for applying for the position.<br>
+Application deadline August 30, 2020.<br>
+This opportunity is open to candidates of any nationalities. The selected candidate will receive a FAPESP’s Post-Doctoral fellowship in the amount of R$ 7,373.10 monthly and a research contingency fund, equivalent to 15% of the annual value of the fellowship which should be spent in items directly related to the research activity.<br>
+Details regarding Postdoctoral fellowships by FAPESP can be found at http://www.fapesp.br/en/postdoc. <br>
+More information about the fellowship is at fapesp.br/oportunidades/3789'
+    URL: 'http://www.fapesp.br/oportunidades/caracterizacao_e_desenvolvimento_de_novos_moduladores_das_vias_da_trka_e_pkmz_na_dor_inflamatoria_e_cronica/3789/'
+
   - title: 'Multiple research positions in Mechanobiology of Development.'
     date: '6/1/20'
     subtitle: 'Project: Multiscale mechanics and self-organizing processes in developing systems. Leadership: Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Institutions: Pontificia Universidad Católica de Chile and Universidad de Chile'
