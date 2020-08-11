@@ -7,18 +7,6 @@ permalink: pages/news.html
 news:
 
 
-  - title: 'Society of Developmental Biologists 2020 Annual Meeting'
-    date: '4/27/20'
-    subtitle: 'ONLINE. July 9-16, 2020'
-    body: 'The SDB 79th Annual Meeting is Going Virtual!  The dates will be extended to accommodate the change from an in-person meeting to a completely virtual event: July 9 - 12, 2020 for talks and July 13 –16, 2020 for poster presentations.  Scheduling and information on presentations will be forthcoming. Lower registration and abstract submission fees will be in effect. <br>
-Important Deadlines <br>
-May 6, 2020 Abstract Submission (For Short Talks, Hilde Mangold Postdoctoral Symposium and Best Student Poster Competition)<br>
-May 18, 2020 Late Abstract Submission (For Poster Presentation ONLY) Abstract Withdrawal <br>
-June 8, 2020  Pre-Meeting Registration <br>
-July 9-16, 2020 Online Annual Meeting Details will be posted soon in SDB webpage.'
-    imageSm: '../img/news/SDB2020online-sm.jpg'
-    imageBg: '../img/news/SDB2020online-bg.jpg'
-    URL: 'https://www.sdbonline.org/2020mtg'
 
   - title: '2021 ISDB Congress'
     date: '27/12/19'
@@ -29,14 +17,14 @@ More information will be available at the ISDB webpage.'
     imageBg: '../img/news/ISDB2021-bg.jpg'
     URL: 'http://www.developmental-biology.org/news/2019-isdb-meeting-algarve/'
 
-
-  - title: 'MBL Embryology Course 2020 at Woods Hole'
-    date: '23/1/19'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 31 – July 13, 2020. <br>Application deadline: February 11, 2020'
-    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
-    imageSm: 'img/news/mbl-sm.jpg'
-    imageBg: '../img/news/mbl-bg.jpg'
-    URL: 'http://www.mbl.edu/education/courses/embryology/'
+  - title: 'LASDB 2019. Buenos Aires, Argentina; October 28-31, 2019'
+    date: '27/01/20'
+    subtitle: 'Brief Report
+    body: 'LASDB-2019 was an exciting meeting. We received 310 delegates from 16 countries including Argentina, Chile, Brazil, Uruguay, Colombia, Ecuador, México, USA, UK, Germany, Austria, Australia, Spain, France, Sweden and Singapore. Fifty four fellowships for students and postdocs were awarded, to partially cover their registration, lodging and transportation costs. The congress included 3 Keynote Lectures, 27 talks distributed in 8 sessions, 12 short talks selected from abstracts, and 16 Flash talks selected from posters. The Congress also included two poster sessions, where lively scientific discussions took place. Four poster prizes were awarded.<br>
+    Follow the ling to see photos and program LASDB-2019'
+    imageSm: '../img/news/lasdb2019report-sm.jpg'
+    imageBg: '../img/news/lasdb2019report-bg.jpg'
+    URL: 'http://lasdb-development.org/pages/previous-meetings.html'
 
   - title: '6th Latin American Zebrafish Network Course and Symposium'
     date: '20/6/19'
@@ -76,6 +64,27 @@ Juan Riesgo-Escovar'
     imageSm: 'img/news/Riesgo_Escovar-sm.png'
     imageBg: '../img/news/Riesgo_Escovar-sm.png'
     URL: 'http://lasdb-development.org/pages/board.html'
+
+  - title: 'Society of Developmental Biologists 2020 Annual Meeting'
+    date: '4/27/20'
+    subtitle: 'ONLINE. July 9-16, 2020'
+    body: 'The SDB 79th Annual Meeting is Going Virtual!  The dates will be extended to accommodate the change from an in-person meeting to a completely virtual event: July 9 - 12, 2020 for talks and July 13 –16, 2020 for poster presentations.  Scheduling and information on presentations will be forthcoming. Lower registration and abstract submission fees will be in effect. <br>
+Important Deadlines <br>
+May 6, 2020 Abstract Submission (For Short Talks, Hilde Mangold Postdoctoral Symposium and Best Student Poster Competition)<br>
+May 18, 2020 Late Abstract Submission (For Poster Presentation ONLY) Abstract Withdrawal <br>
+June 8, 2020  Pre-Meeting Registration <br>
+July 9-16, 2020 Online Annual Meeting Details will be posted soon in SDB webpage.'
+    imageSm: '../img/news/SDB2020online-sm.jpg'
+    imageBg: '../img/news/SDB2020online-bg.jpg'
+    URL: 'https://www.sdbonline.org/2020mtg'
+    
+  - title: 'MBL Embryology Course 2020 at Woods Hole'
+    date: '23/1/19'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 31 – July 13, 2020. <br>Application deadline: February 11, 2020'
+    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
+    imageSm: 'img/news/mbl-sm.jpg'
+    imageBg: '../img/news/mbl-bg.jpg'
+    URL: 'http://www.mbl.edu/education/courses/embryology/'
 
   - title: 'Frontiers in Reproduction Course'
     date: '2/1/20'
