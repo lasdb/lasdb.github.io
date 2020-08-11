@@ -22,6 +22,14 @@ Details regarding Postdoctoral fellowships by FAPESP can be found at http://www.
 More information about the fellowship is at fapesp.br/oportunidades/3789'
     URL: 'http://www.fapesp.br/oportunidades/caracterizacao_e_desenvolvimento_de_novos_moduladores_das_vias_da_trka_e_pkmz_na_dor_inflamatoria_e_cronica/3789/'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
   - title: 'Multiple research positions in Mechanobiology of Development.'
     date: '6/1/20'
     subtitle: 'Project: Multiscale mechanics and self-organizing processes in developing systems. Leadership: Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Institutions: Pontificia Universidad Católica de Chile and Universidad de Chile'
@@ -47,14 +55,6 @@ any questions, contact us at andrea.ravasio@uc.cl.'
     body: 'The Martín-Durán lab is looking for a motivated student willing to apply to a CONACYT (Mexico) or CONICYT (Chile) grant to conduct a PhD in my lab. Research in the Martín-Durán lab focuses on uncovering the mechanisms underpinning the evolution of developmental strategies in spiral cleaving animals (e.g. annelids, molluscs, flatworms). The proposed research project for the CONACYT/CONICYT student aims to understand the role of the protein CTCF in establishing the 3D genome architecture in marine annelid worms.'
     par2: 'Please read the complete post at https://www.findaphd.com/phds/project/uncovering-3d-genome-architecture-in-annelid-worms/?p105195. For more information, please visit https://martinduranlab.com or contact Chema at chema.martin@qmul.ac.uk'
     URL: 'https://www.findaphd.com/phds/project/uncovering-3d-genome-architecture-in-annelid-worms/?p105195'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Postdoctoral position'
     date: '1/5/19'
