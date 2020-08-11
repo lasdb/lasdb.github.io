@@ -49,7 +49,7 @@ More information will be available at the ISDB webpage.'
     imageBg: '../img/news/lazen2020-bg.jpg'
     URL: 'https://www.lazenperu2020.org/'
 
-  - title: 'Expanding C. elegans research:  Second Latin American Worm Meeting'
+  - title: 'Second Latin American Worm Meeting'
     date: '11/8/19'
     subtitle: 'February 19-21, 2020. Rosario, Argentina'
     body: 'C. elegans researchers from Argentina, Uruguay, Brazil, Chile and Mexico that have confirmed attendance to this Symposium have enthusiastically received this initiative. The impact of this project it is not limited to a small group of scientists in Argentina, the host country, but towards the whole scientific community in Latin America. Since C. elegans is largely used to unravel mechanisms conserved throughout the animal kingdom, the interest for the meeting extends to scientist working on other models. 
