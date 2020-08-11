@@ -10,8 +10,8 @@ news:
     date: '05/08/20'
     subtitle: 'Virtual EMBO Workshop. REGISTRATION DEADLINE 20 August 2020'
     body: 'This EMBO Workshop is intended to cover the most recent work on the different aspects of the biology of a group of axial progenitors, often referred to as neuromesodermal progenitors (NMPs), that play a fundamental role in the development of vertebrate embryos. We will stimulate discussions on the normal development and regeneration potential of these cells by bringing together a diverse group of researchers studying the activity of NMPs in a variety of animal models with those developing robust protocols to induce NMPs from pluripotent cells of mouse and human origin, as well as methods to further direct them towards specific cell lineages. An additional important goal for this workshop is to include researchers working on biological processes or cell-types exhibiting features that might suggest involvement of NMP-like activities, despite the fact that this cell-type is not the primary focus of their research. We expect this EMBO Workshop to act as a catalyst for interactions among researchers working in a variety of experimental paradigms in order to expand our knowledge of NMPs and their potential for regenerative medicine approaches in humans.'
-    imageSm: '../img/news/ISDB2021-sm.jpg'
-    imageBg: '../img/news/ISDB2021-bg.jpg'
+    imageSm: '../img/news/Neuromesodermal-sm.jpg'
+    imageBg: '../img/news/Neuromesodermal-bg.jpg'
     URL: 'https://meetings.embo.org/event/20-progenitors'
 
   - title: '2021 ISDB Congress'
