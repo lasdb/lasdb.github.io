@@ -31,7 +31,7 @@ More information will be available at the ISDB webpage.'
     imageBg: '../img/news/ISDB2021-bg.jpg'
     URL: 'http://www.developmental-biology.org/news/2019-isdb-meeting-algarve/'
 
-  - title: 'LASDB 2019. Buenos Aires, Argentina; October 28-31, 2019'
+  - title: 'LASDB 2019. Buenos Aires, Argentina'
     date: '27/01/20'
     subtitle: 'Brief Report'
     body: 'LASDB-2019 was an exciting meeting. We received 310 delegates from 16 countries including Argentina, Chile, Brazil, Uruguay, Colombia, Ecuador, México, USA, UK, Germany, Austria, Australia, Spain, France, Sweden and Singapore. Fifty four fellowships for students and postdocs were awarded, to partially cover their registration, lodging and transportation costs. The congress included 3 Keynote Lectures, 27 talks distributed in 8 sessions, 12 short talks selected from abstracts, and 16 Flash talks selected from posters. The Congress also included two poster sessions, where lively scientific discussions took place. Four poster prizes were awarded.<br>
