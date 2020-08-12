@@ -21,7 +21,19 @@ news:
     imageSm: '../img/news/onlinetalks-sm.jpg'
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
-    
+ 
+   - title: 'IJDB, Latin America Dev Biol issue'
+    date: '12/08/20'
+    subtitle: 'online'
+    body: 'The Latin American Society for Developmental Biology:
+A Successful History20 years of the Practical Course of Developmental Biology in Latin America:
+From Santiago to Quintay, via Juquehy, Buenos Aires and Montevideo.
+    http://www.ijdb.ehu.es/web/paper/200019mz/the-latin-american-society-for-developmental-biology-a-successful-history
+    http://www.ijdb.ehu.es/web/paper/200049rm/20-years-of-the-practical-course-of-developmental-biology-in-latin-america-from-santiago-to-quintay-via-juquehy-buenos-aires-and-montevideo'
+    imageSm: '../img/news/ijdb-sm.jpg'
+    imageBg: '../img/news/ijdb-bg.jpg'
+    URL: 'http://www.ijdb.ehu.es/web/issues/contents/vol/52/issue/Next'
+ 
   - title: '2021 ISDB Congress'
     date: '27/12/19'
     subtitle: 'Algarve, Portugal. October 17-21, 2021'
