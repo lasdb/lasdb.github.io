@@ -42,7 +42,7 @@ More information will be available at the ISDB webpage.'
 
   - title: '6th Latin American Zebrafish Network Course and Symposium'
     date: '20/6/19'
-    subtitle: 'Lima, March 14-27 2020 (course) and Cusco, March 29- April 2, 2020 (symposium).'
+    subtitle: 'Lima and Cusco, Perú. March, 2020.'
     body: 'Early Registration and Abstract Submission Deadline: February 14. <br>The LAZEN Course and Symposium aims to promote international collaboration and free sharing of resources and experience among research groups interested in using zebrafish as a research model. It is expected that participants will gain knowledge in state-of-the-art techniques in fish husbandry, gene editing, optogenetics, gene expression analysis and advanced visualization and behavioral studies that can be applied in their home country laboratories.
     More information email: info-lazen2020@upch.pe and Twitter: @ZebrafishLatino'
     imageSm: 'img/news/lazen2020-sm.jpg'
