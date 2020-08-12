@@ -22,6 +22,13 @@ news:
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
  
+   - title: 'IJDB, Latin America Dev Biol issue'
+    date: '12/08/20'
+    subtitle: 'articles in press'
+    body: 'Articles of the special Latin American issue of the International Journal Developmental Biology are being posted online.'
+    imageSm: '../img/news/ijdb-sm.jpg'
+    imageBg: '../img/news/ijdb-bg.jpg'
+    URL: 'http://www.ijdb.ehu.es/web/issues/contents/vol/52/issue/Next'
 
  
   - title: '2021 ISDB Congress'
