@@ -34,7 +34,7 @@ news:
 
   - title: 'Latin American Worm Meeting 2020'
     date: '17/8/20'
-    subtitle: '#LAWM2020 Report. Rosario, Arg. February 2020.'
+    subtitle: '#LAWM2020 Report.'
     body: 'The Second Latin American C. elegans Meeting (II LAWM) was a real success. We had more than 120 participants from many Latin American that presented their work in oral or poster presentations. In addition, 15 outstanding researchers in the field from Canada, USA, Israel, Spain, France, Austria and Scotland gave plenary and short talks. This Meeting consolidated the growing Latin American Worm Community and defined time and place for the next one: March 2022,Valparaiso-Chile. The meeting was divided into short talk sessions that included among other topics: neural mechanisms of aging, stress and neurodegeneration, germline development, autophagy, apoptosis, and worm metabolism. There were a total of 42 talks and 57 posters. More than 6 hours were devoted for posters sessions during the 3 days. II LAWM had Dr. Victor Ambros as a keynote speaker talking about the mechanisms of microRNAs control during C.elegans development. The Meeting was scientifically enriching and an excellent up-to-date overview on C.elegans research. The network of Latin American worm labs has expanded and collaborations within the Latin American and with the international community strengthened and new ones were established.'
     imageSm: 'img/news/worm-2020-sm.jpg'
     imageBg: '../img/news/worm-pic-2020-bg.jpg'
