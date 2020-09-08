@@ -6,7 +6,13 @@ categories: news
 permalink: pages/news.html
 news:
 
-
+  - title: 'Spanish Society for Developmental Biology Meeting'
+    date: '08/09/20'
+    subtitle: 'November 18-20, 2020. Virtual SEBD-2020'
+    body: 'Abstract sibmission and Early registration finishes on September 15th. Standard registration: October 15th.'
+    imageSm: '../img/news/SEBD2020-sm.jpg'
+    imageBg: '../img/news/SEBD2020-bg.jpg'
+    URL: 'https://sebd.es/meeting-sebd-2020/'
 
   - title: 'List of virtual talks, seminars, forums'
     date: '05/08/20'
@@ -54,14 +60,6 @@ More information will be available at the ISDB webpage.'
     imageBg: '../img/news/lasdb2019report-bg.jpg'
     URL: 'http://lasdb-development.org/pages/previous-meetings.html'
 
-  - title: 'Neuromesodermal progenitors in development, evolution and regeneration'
-    date: '05/08/20'
-    subtitle: 'Virtual EMBO Workshop. REGISTRATION DEADLINE 20 August 2020'
-    body: 'This EMBO Workshop is intended to cover the most recent work on the different aspects of the biology of a group of axial progenitors, often referred to as neuromesodermal progenitors (NMPs), that play a fundamental role in the development of vertebrate embryos. We will stimulate discussions on the normal development and regeneration potential of these cells by bringing together a diverse group of researchers studying the activity of NMPs in a variety of animal models with those developing robust protocols to induce NMPs from pluripotent cells of mouse and human origin, as well as methods to further direct them towards specific cell lineages. An additional important goal for this workshop is to include researchers working on biological processes or cell-types exhibiting features that might suggest involvement of NMP-like activities, despite the fact that this cell-type is not the primary focus of their research. We expect this EMBO Workshop to act as a catalyst for interactions among researchers working in a variety of experimental paradigms in order to expand our knowledge of NMPs and their potential for regenerative medicine approaches in humans.'
-    imageSm: '../img/news/Neuromesodermal-sm.jpg'
-    imageBg: '../img/news/Neuromesodermal-bg.jpg'
-    URL: 'https://meetings.embo.org/event/20-progenitors'
-
   - title: 'LASDB Prize in Developmental Biology 2019'
     date: '2/5/19'
     subtitle: 'Eugenia del Pino was awarded the LASDB Prize 2019 !!.'
@@ -81,6 +79,14 @@ Juan Riesgo-Escovar'
     imageSm: 'img/news/Riesgo_Escovar-sm.png'
     imageBg: '../img/news/Riesgo_Escovar-sm.png'
     URL: 'http://lasdb-development.org/pages/board.html'
+
+  - title: 'Neuromesodermal progenitors in development, evolution and regeneration'
+    date: '05/08/20'
+    subtitle: 'Virtual EMBO Workshop. REGISTRATION DEADLINE 20 August 2020'
+    body: 'This EMBO Workshop is intended to cover the most recent work on the different aspects of the biology of a group of axial progenitors, often referred to as neuromesodermal progenitors (NMPs), that play a fundamental role in the development of vertebrate embryos. We will stimulate discussions on the normal development and regeneration potential of these cells by bringing together a diverse group of researchers studying the activity of NMPs in a variety of animal models with those developing robust protocols to induce NMPs from pluripotent cells of mouse and human origin, as well as methods to further direct them towards specific cell lineages. An additional important goal for this workshop is to include researchers working on biological processes or cell-types exhibiting features that might suggest involvement of NMP-like activities, despite the fact that this cell-type is not the primary focus of their research. We expect this EMBO Workshop to act as a catalyst for interactions among researchers working in a variety of experimental paradigms in order to expand our knowledge of NMPs and their potential for regenerative medicine approaches in humans.'
+    imageSm: '../img/news/Neuromesodermal-sm.jpg'
+    imageBg: '../img/news/Neuromesodermal-bg.jpg'
+    URL: 'https://meetings.embo.org/event/20-progenitors'
 
   - title: '6th Latin American Zebrafish Network Course and Symposium'
     date: '20/6/19'
