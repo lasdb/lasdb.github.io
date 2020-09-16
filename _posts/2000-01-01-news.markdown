@@ -8,7 +8,7 @@ news:
 
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
     date: '16/09/20'
-    subtitle: 'November 18-20, 2020. Virtual SEBD-2020'
+    subtitle: ''
     body: 'We are very sad to learn that Jose Luis Gomez-Skarmeta passed away today. A terrific scientist and friend who will be missed and remembered. Our sincere condolences to his family and friends.<br>
 We share here a letter by his colleagues in the Developmenal Biology lab in Chile.<br><br>
 Ha partido nuestro amigo y colega luego de una batalla corta contra un cáncer. José Luis era investigador del Centro Andaluz de Biología del Desarrollo en Sevilla, España. Su investigación más reciente se relacionaba con los mecanismos genómicos que regulan el desarrollo y que impactan en la evolución de los vertebrados.<br>
