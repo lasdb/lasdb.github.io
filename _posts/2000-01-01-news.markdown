@@ -36,16 +36,6 @@ Alvaro Glavic, Miguel Allende, Verónica Palma, friends and colleagues'
     imageSm: '../img/news/onlinetalks-sm.jpg'
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
-
-  - title: 'Obituary. Oscar D. Perez'
-    date: '28/08/20'
-    subtitle: ''
-    body: 'We are very sad for the premature loss of Oscar D. Pérez, representative for Ecuador in our Society.<br>
-Oscar was intensively involved in experimental Embryology courses at the Universidad Católica del Ecuador and the promotion of Developmental Biology in his country. He was a student with Eugenia del Pino to later become Professor at PUCE. He served as President of the Sociedad Ecuatoriana de Biología and member of the LASDB Board for Ecuador. Our thoughts are with his family, friends and colleagues in Ecuador. <br><br>
-Please follow this link to the obituary published by the Facultad de Ciencias, PUCE.'
-    imageSm: '../img/news/OscarPerez-sm.jpg'
-    imageBg: '../img/news/OscarPerez-bg.jpg'
-    URL: 'http://www.remcb-puce.edu.ec/index.php/remcb/article/view/238/215'
     
   - title: 'IJDB, Latin America Dev Biol issue'
     date: '12/08/20'
@@ -56,6 +46,17 @@ Please follow this link to the obituary published by the Facultad de Ciencias, P
     imageSm: '../img/news/ijdb-sm.jpg'
     imageBg: '../img/news/ijdb-bg.jpg'
     URL: 'http://www.ijdb.ehu.es/web/issues/contents/vol/52/issue/Next'
+
+  - title: 'Obituary. Oscar D. Perez'
+    date: '28/08/20'
+    subtitle: ''
+    body: 'We are very sad for the premature loss of Oscar D. Pérez, representative for Ecuador in our Society.<br>
+Oscar was intensively involved in experimental Embryology courses at the Universidad Católica del Ecuador and the promotion of Developmental Biology in his country. He was a student with Eugenia del Pino to later become Professor at PUCE. He served as President of the Sociedad Ecuatoriana de Biología and member of the LASDB Board for Ecuador. Our thoughts are with his family, friends and colleagues in Ecuador. <br><br>
+Please follow this link to the obituary published by the Facultad de Ciencias, PUCE.'
+    imageSm: '../img/news/OscarPerez-sm.jpg'
+    imageBg: '../img/news/OscarPerez-bg.jpg'
+    URL: 'http://www.remcb-puce.edu.ec/index.php/remcb/article/view/238/215'
+
 
   - title: 'Latin American Worm Meeting 2020'
     date: '17/8/20'
