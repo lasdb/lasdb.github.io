@@ -32,17 +32,14 @@ Alvaro Glavic, Miguel Allende, Verónica Palma, friends and colleagues'
     subtitle: 'Developmental biology and adjacent.'
     body: 'Various organizations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded. <br>
     <strong>This is an incomplete list of online seminars:</strong><br><br>
-<strong>Vertebrate Gastrulation Zoom Talks:&nbsp;</strong>&nbsp;<a href="https://twitter.com/VGZT2020_21" target="_blank">https://twitter.com/VGZT2020_21</a><br>
-<strong>World Wide Neuro &ndash; Neuroscience seminars online:</strong>&nbsp;<a href="https://www.worldwideneuro.com/" target="_blank">https://www.worldwideneuro.com/</a><br>
-<strong>International Zebrafish Society Webinars</strong>: &nbsp;<a href="https://www.izfs.org/education/webinars" target="_blank">https://www.izfs.org/education/webinars</a><br>
-<strong>Development presents&hellip; :&nbsp;</strong><a href="https://thenode.biologists.com/devpres/" target="_blank">https://thenode.biologists.com/devpres/</a><br>
-<strong>List at The Node:&nbsp;</strong><a href="https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/">https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/</a><br>
-<strong>List at SFBD:</strong>&nbsp;<a href="https://sfbd.fr/en/online-events/" target="_blank">https://sfbd.fr/en/online-events/</a><br>
-<strong>SDB&nbsp;Postdoctoral Seminar</strong>:&nbsp;<a href="https://www.sdbonline.org/sdb_postdoctoral_seminar_series" target="_blank">https://www.sdbonline.org/sdb_postdoctoral_seminar_series</a><br>
-<strong>Cell Migration Seminars:</strong>&nbsp;<a href="https://cellmigration.wixsite.com/seminars" target="_blank">https://cellmigration.wixsite.com/seminars</a>
-    
-    <a href="https://sfbd.fr/en/online-events/" target="_blank">Link SFDB events</a> <br>
-    <a href="https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/" target="_blank">Link The Node post</a>'
+    <strong>Vertebrate Gastrulation Zoom Talks:&nbsp;</strong>&nbsp;<a href="https://twitter.com/VGZT2020_21" target="_blank">https://twitter.com/VGZT2020_21</a><br>
+    <strong>World Wide Neuro &ndash; Neuroscience seminars online:</strong>&nbsp;<a href="https://www.worldwideneuro.com/" target="_blank">https://www.worldwideneuro.com/</a><br>
+    <strong>International Zebrafish Society Webinars</strong>: &nbsp;<a href="https://www.izfs.org/education/webinars" target="_blank">https://www.izfs.org/education/webinars</a><br>
+    <strong>Development presents&hellip; :&nbsp;</strong><a href="https://thenode.biologists.com/devpres/" target="_blank">https://thenode.biologists.com/devpres/</a><br>
+    <strong>List at The Node:&nbsp;</strong><a href="https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/">https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/</a><br>
+    <strong>List at SFBD:</strong>&nbsp;<a href="https://sfbd.fr/en/online-events/" target="_blank">https://sfbd.fr/en/online-events/</a><br>
+    <strong>SDB&nbsp;Postdoctoral Seminar</strong>:&nbsp;<a href="https://www.sdbonline.org/sdb_postdoctoral_seminar_series" target="_blank">https://www.sdbonline.org/sdb_postdoctoral_seminar_series</a><br>
+    <strong>Cell Migration Seminars:</strong>&nbsp;<a href="https://cellmigration.wixsite.com/seminars" target="_blank">https://cellmigration.wixsite.com/seminars</a>'
     imageSm: '../img/news/onlinetalks-sm.jpg'
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
