@@ -6,6 +6,15 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+  - title: 'LASDB Meeting posponed'
+    date: '08/09/20'
+    subtitle: ''
+    body: 'Due to the uncertainties associated with the pandemic, we have made the decision to postpone the next LASDB Meeting to 2022. As planned, LASDB-2022 will be in Chile. We are now working on the organization of a virtual meeting for 2021. Information will be available soon'
+    imageSm: '../img/news/Chile2022a-sm.jpg'
+    imageBg: '../img/news/Chile2022a-bg.jpg'
+    URL: ''
+
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
     date: '16/09/20'
     subtitle: ''
