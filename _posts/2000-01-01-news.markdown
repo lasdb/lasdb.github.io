@@ -14,7 +14,8 @@ news:
     imageSm: '../img/news/Chile2022a-sm.jpg'
     imageBg: '../img/news/Chile2022a-bg.jpg'
     URL: ''
-
+    
+<a name="gomez-skarmeta">Content</a>
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
     date: '16/09/20'
     subtitle: ''
