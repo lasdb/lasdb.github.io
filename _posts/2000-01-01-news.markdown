@@ -15,6 +15,14 @@ news:
     imageBg: '../img/news/Chile2022a-bg.jpg'
     URL: ''
     
+  - title: 'New representative for Argentina at LASDB Board'
+    date: '30/10/20'
+    subtitle: ''
+    body: 'We welcome Gabriela Pagnussat (IIB-CONICET, Mar del Plata, Prov. Buenos Aires) as a new Argentinean representative at LASDB. Gabriela is replacing Guillermo Lanuza, and together with Pablo Strobl-Mazzula, will represent the country in the LASDB Board.'
+    imageSm: '../img/news/Pagnussat-sm.png'
+    imageBg: '../img/news/Pagnussat-bg.png'
+    URL: ''
+    
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
     date: '16/09/20'
     subtitle: ''
