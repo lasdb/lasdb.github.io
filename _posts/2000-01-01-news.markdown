@@ -20,7 +20,7 @@ news:
     subtitle: ''
     body: 'We welcome Gabriela Pagnussat and Andrés Romero-Carbajal to the LASDB Board.<br>
     Gabriela Pagnussat(IIB-CONICET, Mar del Plata, Prov. Buenos Aires) is a new Argentinean representative at LASDB. Gabriela is replacing Guillermo Lanuza, and together with Pablo Strobl-Mazzula, will represent the country in the LASDB Board.<br>
-    Andrés Romero Carbajal is the new representative for Ecuador at LASDB, in replacement of Oscar D. Perez.'
+    Andrés Romero Carbajal (Pontificia Universidad Católica del Ecuador) is the new representative for Ecuador at LASDB, in replacement of Oscar D. Perez.'
     imageSm: '../img/news/PagnussatRomero-sm.jpg'
     imageBg: '../img/news/PagnussatRomero-bg.jpg'
     URL: 'http://lasdb-development.org/pages/board.html'
