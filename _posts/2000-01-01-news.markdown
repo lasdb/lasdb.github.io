@@ -15,12 +15,14 @@ news:
     imageBg: '../img/news/Chile2022a-bg.jpg'
     URL: ''
     
-  - title: 'New representative for Argentina at LASDB Board'
+  - title: 'New representatives for Argentina and Ecuador at LASDB Board'
     date: '30/10/20'
     subtitle: ''
-    body: 'We welcome Gabriela Pagnussat (IIB-CONICET, Mar del Plata, Prov. Buenos Aires) as a new Argentinean representative at LASDB. Gabriela is replacing Guillermo Lanuza, and together with Pablo Strobl-Mazzula, will represent the country in the LASDB Board.'
-    imageSm: '../img/news/Pagnussat-sm.jpg'
-    imageBg: '../img/news/Pagnussat-bg.jpg'
+    body: 'We welcome Gabriela Pagnussat and Andrés Romero-Carbajal to the LASDB Board.<br>
+    Gabriela Pagnussat(IIB-CONICET, Mar del Plata, Prov. Buenos Aires) is a new Argentinean representative at LASDB. Gabriela is replacing Guillermo Lanuza, and together with Pablo Strobl-Mazzula, will represent the country in the LASDB Board.<br>
+    Andrés Romero Carbajal is the new representative for Ecuador at LASDB, in replacement of Oscar D. Perez.'
+    imageSm: '../img/news/PagnussatRomero-sm.jpg'
+    imageBg: '../img/news/PagnussatRomero-bg.jpg'
     URL: 'http://lasdb-development.org/pages/board.html'
     
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
