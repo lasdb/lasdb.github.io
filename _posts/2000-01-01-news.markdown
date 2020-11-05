@@ -15,7 +15,7 @@ news:
     imageBg: '../img/news/Chile2022a-bg.jpg'
     URL: ''
     
-  - title: 'New representatives for Argentina and Ecuador at LASDB Board'
+  - title: 'New representatives for Argentina and Ecuador at the LASDB Board'
     date: '30/10/20'
     subtitle: ''
     body: 'We welcome Gabriela Pagnussat and Andrés Romero-Carbajal to the LASDB Board.<br>
