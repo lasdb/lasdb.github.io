@@ -6,6 +6,29 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'POSTDOCTORAL POSITION IN ORGAN-SPECIFIC LYMPHATIC VASCULATURE FUNCTIONS IN HEALTH AND DISEASE'
+    date: '16/12/20'
+    subtitle: 'Guillermo Oliver Lab. Northwestern University, Chicago, IL, USA'
+    body: 'POSTDOCTORAL POSITION is immediately available to follow up on our recent published work identifying that lymphatic-secreted signals are required for organ growth
+and repair using a variety of available mouse models (https://www.nature.com/articles/s41586-020-2998-x). <br>
+Highly motivated individuals who recently obtained a PhD or MD degree and have a strong background in mouse cardiovascular, molecular and developmental biology are encouraged to apply. <br>
+For information about our lab see: <br>
+http://labs.feinberg.northwestern.edu/oliver/    <br>
+https://twitter.com/NU_Lymphatics <br>
+https://www.feinberg.northwestern.edu/sites/scrb/ '
+    par2: 'Interested individuals should send their curriculum vitae, a brief description of their research interests, and the names of three references to:
+Guillermo Oliver, Ph.D. Thomas D Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Developmental Biology Northwestern University Feinberg School of Medicine. Chicago, Illinois 60611 <br>
+Email: guillermo.oliver@northwestern.edu'
+    URL: 'http://labs.feinberg.northwestern.edu/oliver/'
+
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
   - title: 'Two postdoc positions, São Paulo, Brazil'
     date: '6/1/20'
     subtitle: 'Laboratory of the Biochemistry of Cell Signalling, University of São Paulo’s Institute of Chemistry, Brazil'
@@ -21,14 +44,6 @@ This opportunity is open to candidates of any nationalities. The selected candid
 Details regarding Postdoctoral fellowships by FAPESP can be found at http://www.fapesp.br/en/postdoc. <br>
 More information about the fellowship is at fapesp.br/oportunidades/3789'
     URL: 'http://www.fapesp.br/oportunidades/caracterizacao_e_desenvolvimento_de_novos_moduladores_das_vias_da_trka_e_pkmz_na_dor_inflamatoria_e_cronica/3789/'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Multiple research positions in Mechanobiology of Development.'
     date: '6/1/20'
