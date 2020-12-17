@@ -13,11 +13,11 @@ jobs:
 and repair using a variety of available mouse models (https://www.nature.com/articles/s41586-020-2998-x). <br>
 Highly motivated individuals who recently obtained a PhD or MD degree and have a strong background in mouse cardiovascular, molecular and developmental biology are encouraged to apply. <br>
 For information about our lab see: <br>
-http://labs.feinberg.northwestern.edu/oliver/    <br>
-https://twitter.com/NU_Lymphatics <br>
-https://www.feinberg.northwestern.edu/sites/scrb/ '
+<a href="http://labs.feinberg.northwestern.edu/oliver/" target="_blank">http://labs.feinberg.northwestern.edu/oliver/</a> <br>
+<a href="https://twitter.com/NU_Lymphatics" target="_blank">https://twitter.com/NU_Lymphatics</a> <br>
+<a href="https://www.feinberg.northwestern.edu/sites/scrb/" target="_blank">https://www.feinberg.northwestern.edu/sites/scrb/</a>  '
     par2: 'Interested individuals should send their curriculum vitae, a brief description of their research interests, and the names of three references to:
-Guillermo Oliver, Ph.D. Thomas D Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Developmental Biology Northwestern University Feinberg School of Medicine. Chicago, Illinois 60611 <br>
+Guillermo Oliver, Ph.D. Thomas Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Devel. Biology. Northwestern University Feinberg School of Medicine. Chicago, Illinois, USA.<br>
 Email: guillermo.oliver@northwestern.edu'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
