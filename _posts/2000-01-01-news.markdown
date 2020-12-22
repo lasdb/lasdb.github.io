@@ -16,7 +16,7 @@ news:
     URL: ''
 
   - title: 'Virtual LASDB-SMBD Meeting 2021'
-    date: '20/09/20'
+    date: '20/11/20'
     subtitle: ''
     body: 'For 2021 we will be co-organizing the XI LASDB Meeting together with the SMBD (Sociedad Mexicana de Biología del Desarrollo), that will be entirely virtual. <br>
  Information will be available soon!'
@@ -33,6 +33,16 @@ news:
     imageSm: '../img/news/PagnussatRomero-sm.jpg'
     imageBg: '../img/news/PagnussatRomero-bg.jpg'
     URL: 'http://lasdb-development.org/pages/board.html'
+ 
+ <!-- 
+  - title: 'Cells & Development'
+    date: '27/12/19'
+    subtitle: ''
+    body: ''
+    imageSm: '../img/news/Cells&Dev-sm.jpg'
+    imageBg: '../img/news/Cells&Dev-bg.jpg'
+    URL: 'https://twitter.com/cellsdev'
+ -->
  
   - title: '2021 ISDB Congress'
     date: '27/12/19'
