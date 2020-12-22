@@ -15,7 +15,7 @@ news:
     imageBg: '../img/news/Chile2022a-bg.jpg'
     URL: ''
 
-  - title: 'Virtual LASDB Meeting 2021'
+  - title: 'Virtual LASDB-SMBD Meeting 2021'
     date: '20/09/20'
     subtitle: ''
     body: 'For 2021 we will be co-organizing the XI LASDB Meeting together with the SMBD (Sociedad Mexicana de Biología del Desarrollo), that will be entirely virtual. <br>
