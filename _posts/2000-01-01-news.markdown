@@ -7,7 +7,7 @@ permalink: pages/news.html
 news:
 
 
-  - title: 'LASDB Meeting posponed'
+  - title: 'The LASDB Meeting in Chile is postponed to 2022'
     date: '20/09/20'
     subtitle: ''
     body: 'Due to the uncertainties associated with the pandemic, we have made the decision to postpone the next LASDB Meeting to 2022. As planned, LASDB-2022 will be in Chile.'
@@ -20,8 +20,8 @@ news:
     subtitle: ''
     body: 'For 2021 we will be co-organizing the XI LASDB Meeting together with the SMBD (Sociedad Mexicana de Biología del Desarrollo), that will be entirely virtual. <br>
  Information will be available soon!'
-    imageSm: ''
-    imageBg: ''
+    imageSm: '../img/news/smbd-lasdb-sm.jpg'
+    imageBg: '../img/news/smbd-lasdb-bg.jpg'
     URL: ''
 
   - title: 'New representatives for Argentina and Ecuador at the LASDB Board'
