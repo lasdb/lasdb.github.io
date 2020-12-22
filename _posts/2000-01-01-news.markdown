@@ -24,7 +24,17 @@ news:
     imageSm: '../img/news/PagnussatRomero-sm.jpg'
     imageBg: '../img/news/PagnussatRomero-bg.jpg'
     URL: 'http://lasdb-development.org/pages/board.html'
-    
+ 
+  - title: '2021 ISDB Congress'
+    date: '27/12/19'
+    subtitle: 'Algarve, Portugal. October 17-21, 2021'
+    body: 'The International Society of Developmental Biologists (ISDB) is pleased to announce the 19th International Congress of Developmental Biology that will take place in the Algarve, Portugal on 17-21 October 2021. 
+We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
+More information is available at the ISDB webpage.'
+    imageSm: '../img/news/ISDB2021-sm.jpg'
+    imageBg: '../img/news/ISDB2021-bg.jpg'
+    URL: 'https://isdb2021.com/'
+
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
     date: '16/09/20'
     subtitle: ''
@@ -37,14 +47,6 @@ Alvaro Glavic, Miguel Allende, Verónica Palma, friends and colleagues'
     imageSm: '../img/news/GomezSkarmeta-sm.jpg'
     imageBg: '../img/news/GomezSkarmeta-bg.jpg'
     URL: ''
-
-  - title: 'Spanish Society for Developmental Biology Meeting'
-    date: '08/09/20'
-    subtitle: 'November 18-20, 2020. Virtual SEBD-2020'
-    body: 'Abstract submission and Early registration is extended deadline until OCTOBER 1st !. Standard registration deadline: October 15th.'
-    imageSm: '../img/news/SEBD2020-sm.jpg'
-    imageBg: '../img/news/SEBD2020-bg.jpg'
-    URL: 'https://sebd.es/meeting-sebd-2020/'
 
   - title: 'List of virtual talks, seminars, forums'
     date: '05/09/20'
@@ -83,6 +85,13 @@ Please follow this link to the obituary published by the Facultad de Ciencias, P
     imageBg: '../img/news/OscarPerez-bg.jpg'
     URL: 'http://www.remcb-puce.edu.ec/index.php/remcb/article/view/238/215'
 
+  - title: 'Spanish Society for Developmental Biology Meeting'
+    date: '08/09/20'
+    subtitle: 'November 18-20, 2020. Virtual SEBD-2020'
+    body: 'Abstract submission and Early registration is extended deadline until OCTOBER 1st !. Standard registration deadline: October 15th.'
+    imageSm: '../img/news/SEBD2020-sm.jpg'
+    imageBg: '../img/news/SEBD2020-bg.jpg'
+    URL: 'https://sebd.es/meeting-sebd-2020/'
 
   - title: 'Latin American Worm Meeting 2020'
     date: '17/8/20'
@@ -91,15 +100,6 @@ Please follow this link to the obituary published by the Facultad de Ciencias, P
     imageSm: 'img/news/worm-2020-sm.jpg'
     imageBg: '../img/news/worm-pic-2020-bg.jpg'
     URL: 'https://lawm2020.webnode.es/'
- 
-  - title: '2021 ISDB Congress'
-    date: '27/12/19'
-    subtitle: 'Algarve, Portugal. October 17-21, 2021'
-    body: 'The next meeting of the International Society of Developmental Biologists will happen in less than two years from now in Algarve, Portugal, October 17-21, 2021. The congress will take place at a seaside resort, with excellent congress facilities allowing maximal interaction among participants and very affordable onsite accommodation for all. In addition to keynote talks, the venue is prepared to run 3 parallel symposia, and we expect to cover a large variety of topics in Developmental Biology.
-More information will be available at the ISDB webpage.'
-    imageSm: '../img/news/ISDB2021-sm.jpg'
-    imageBg: '../img/news/ISDB2021-bg.jpg'
-    URL: 'http://www.developmental-biology.org/news/2019-isdb-meeting-algarve/'
 
   - title: 'LASDB 2019. Buenos Aires, Argentina'
     date: '27/01/20'
