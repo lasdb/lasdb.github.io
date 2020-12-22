@@ -45,19 +45,6 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/isdb2021-bg.jpg'
     URL: 'https://isdb2021.com/'
 
-  - title: 'In memoriam: José Luis Gómez-Skarmeta'
-    date: '16/09/20'
-    subtitle: ''
-    body: 'We are very sad to learn that Jose Luis Gomez-Skarmeta passed away today. A terrific scientist and friend who will be missed and remembered. Our sincere condolences to his family and friends.<br>
-We share here a letter by his colleagues in the Developmental Biology lab in Chile.<br><br>
-Ha partido nuestro amigo y colega luego de una batalla corta contra un cáncer. José Luis era investigador del Centro Andaluz de Biología del Desarrollo en Sevilla, España. Su investigación más reciente se relacionaba con los mecanismos genómicos que regulan el desarrollo y que impactan en la evolución de los vertebrados.<br>
-José Luis tenía raíces chilenas (sobrino del escritor Antonio Skarmeta) pero creció y estudió en España. Su doctorado lo realizó en el Centro de Biología Molecular Severo Ochoa de Madrid, en el laboratorio del genetista Juan Modolell. Allí hizo estudios pioneros en Drosófila, desentrañando los mecanismos que inician los procesos de neurogénesis del sistema sensorial. Descubrió los genes de la familia Iroquois y nombró a dos de ellos como araucan y caupolican, en honor a los guerreros de Arauco. Al terminar su doctorado, resolvió trasladarse a Chile, a nuestro Departamento de Biología, donde estuvo desde 1997 al 2000. Allí, junto a Roberto Mayor y Miguel Allende, refundaron el laboratorio de Biología del Desarrollo que quedó vacante con la partida de Luis Izquierdo. Durante su estadía en Chile, trabajó con el anfibio Xenopus laevis, estudiando los genes involucrados en neurogénesis en ese modelo. En ese periodo, se formaron en el grupo Verónica Palma y Alvaro Glavic, quienes hoy suceden a José Luis y a Roberto Mayor como integrantes del grupo. José Luis retornó a España, primero brevemente en Madrid para luego obtener su plaza en Sevilla. Formó numerosos estudiantes y postdocs, entre ellos varios chilenos, y publicó trabajos de altísimo impacto, trabajando en pez cebra y en otros modelos.<br>
-Recordamos a José Luis como un carismático y brillante científico. Por sobre todo, era un excelente amigo y colaborador desinteresado, era una persona de gran transparencia, tanto en lo científico como en lo humano. Hizo muchas amistades en su paso por la Facultad, tanto entre académicos como con los funcionarios, todos quienes lo recuerdan con cariño. Se mantuvo siempre vinculado con nosotros y pudimos disfrutar de su compañía por última vez en enero del 2019, cuando organizó un simposio con nosotros sobre genómica. Tuvimos mucha suerte de poder tenerlo cerca y contarlo entre nuestros buenos amigos.<br>
-Alvaro Glavic, Miguel Allende, Verónica Palma, friends and colleagues'
-    imageSm: '../img/news/GomezSkarmeta-sm.jpg'
-    imageBg: '../img/news/GomezSkarmeta-bg.jpg'
-    URL: ''
-
   - title: 'List of virtual talks, seminars, forums'
     date: '05/09/20'
     subtitle: 'Developmental biology and adjacent.'
@@ -75,6 +62,19 @@ Alvaro Glavic, Miguel Allende, Verónica Palma, friends and colleagues'
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
     
+  - title: 'In memoriam: José Luis Gómez-Skarmeta'
+    date: '16/09/20'
+    subtitle: ''
+    body: 'We are very sad to learn that Jose Luis Gomez-Skarmeta passed away today. A terrific scientist and friend who will be missed and remembered. Our sincere condolences to his family and friends.<br>
+We share here a letter by his colleagues in the Developmental Biology lab in Chile.<br><br>
+Ha partido nuestro amigo y colega luego de una batalla corta contra un cáncer. José Luis era investigador del Centro Andaluz de Biología del Desarrollo en Sevilla, España. Su investigación más reciente se relacionaba con los mecanismos genómicos que regulan el desarrollo y que impactan en la evolución de los vertebrados.<br>
+José Luis tenía raíces chilenas (sobrino del escritor Antonio Skarmeta) pero creció y estudió en España. Su doctorado lo realizó en el Centro de Biología Molecular Severo Ochoa de Madrid, en el laboratorio del genetista Juan Modolell. Allí hizo estudios pioneros en Drosófila, desentrañando los mecanismos que inician los procesos de neurogénesis del sistema sensorial. Descubrió los genes de la familia Iroquois y nombró a dos de ellos como araucan y caupolican, en honor a los guerreros de Arauco. Al terminar su doctorado, resolvió trasladarse a Chile, a nuestro Departamento de Biología, donde estuvo desde 1997 al 2000. Allí, junto a Roberto Mayor y Miguel Allende, refundaron el laboratorio de Biología del Desarrollo que quedó vacante con la partida de Luis Izquierdo. Durante su estadía en Chile, trabajó con el anfibio Xenopus laevis, estudiando los genes involucrados en neurogénesis en ese modelo. En ese periodo, se formaron en el grupo Verónica Palma y Alvaro Glavic, quienes hoy suceden a José Luis y a Roberto Mayor como integrantes del grupo. José Luis retornó a España, primero brevemente en Madrid para luego obtener su plaza en Sevilla. Formó numerosos estudiantes y postdocs, entre ellos varios chilenos, y publicó trabajos de altísimo impacto, trabajando en pez cebra y en otros modelos.<br>
+Recordamos a José Luis como un carismático y brillante científico. Por sobre todo, era un excelente amigo y colaborador desinteresado, era una persona de gran transparencia, tanto en lo científico como en lo humano. Hizo muchas amistades en su paso por la Facultad, tanto entre académicos como con los funcionarios, todos quienes lo recuerdan con cariño. Se mantuvo siempre vinculado con nosotros y pudimos disfrutar de su compañía por última vez en enero del 2019, cuando organizó un simposio con nosotros sobre genómica. Tuvimos mucha suerte de poder tenerlo cerca y contarlo entre nuestros buenos amigos.<br>
+Alvaro Glavic, Miguel Allende, Verónica Palma, friends and colleagues'
+    imageSm: '../img/news/GomezSkarmeta-sm.jpg'
+    imageBg: '../img/news/GomezSkarmeta-bg.jpg'
+    URL: ''
+
   - title: 'IJDB, Latin America Dev Biol issue'
     date: '12/08/20'
     subtitle: 'articles in press'
