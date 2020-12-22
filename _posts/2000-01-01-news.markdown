@@ -34,15 +34,33 @@ news:
     imageBg: '../img/news/PagnussatRomero-bg.jpg'
     URL: 'http://lasdb-development.org/pages/board.html'
  
- <!-- 
   - title: 'Cells & Development'
-    date: '27/12/19'
-    subtitle: ''
-    body: ''
+    date: '22/12/20'
+    subtitle: 'Cells & Development: the future of MoD'
+    body: 'The journal “MECHANISMS OF DEVELOPMENT” (MoD) was born almost half a century ago under the name of “CELL DIFFERENTIATION”. Moving forward, this journal will open its pages to the study of the CELL and its role in DEVELOPMENT, and to reflect this change it will be renamed “CELLS & DEVELOPMENT”.  Furthermore, QUANTITATIVE BIOLOGY papers will be an important addition to our journal.  To reflect these changes, we have added the following subtitle: CELL AND DEVELOPMENTAL BIOLOGY AND THEIR QUANTITATIVE APPROCHES.<br>
+In addition to the above changes in topic and title, the new journal will create new sections and new activities that will directly benefit the cell, developmental and quantitative biology community. To achieve all these changes a new Editor-in-Chief has been appointed: Roberto Mayor, University College London, UK; and we have named a new panel of Associate Editors: Carl-Philipp Heisenberg (Institute of Science and Technology Austria, Austria), Sally Horne-Badovinac (University of Chicago, Chicago, United States), Ana-Maria Lennon-Duménil (Institut Curie, Paris, France), Guillaume Salbreux (Francis Crick Institute, London, United Kingdom) and Didier Stainier (Max Planck Institute for Heart and Lung Research, Bad Nauheim, Germany).  This group of outstanding cell and developmental biologists will help us to guide the new “CELLS & DEVELOPMENT” journal toward the future. <br>
+CELLS & DEVELOPMENT will consider papers in any area of cell biology or developmental biology, in any model system like animals and plants, using a variety of approaches, such as cellular, biomechanical, molecular, quantitative, computational and theoretical biology.
+Areas of particular interest include: 
+•	Cell and tissue morphogenesis
+•	Cell adhesion and migration
+•	Cell shape and polarity
+•	Biomechanics
+•	Theoretical modelling of cell and developmental biology
+•	Quantitative biology
+•	Stem cell biology
+•	Cell differentiation
+•	Cell proliferation and cell death
+•	Evo-Devo
+•	Membrane traffic
+•	Metabolic regulation
+•	Organ and organoid development
+•	Regeneration <br>
+
+CELLS & DEVELOPMENT  is the official journal of The International Society of Developmental Biologists which supports the world-wide community of developmental biologists and we will create new tools to equally support the cell biology community. <br>
+It is our hope that this new phase of this half-centennial journal will be become a forum for interdisciplinary research that combines biology, physics and mathematics to understand how a cell works and how a single cell, the egg, develops into an embryo.'
     imageSm: '../img/news/Cells&Dev-sm.jpg'
     imageBg: '../img/news/Cells&Dev-bg.jpg'
     URL: 'https://twitter.com/cellsdev'
- -->
  
   - title: '2021 ISDB Congress'
     date: '27/12/19'
