@@ -28,11 +28,12 @@ news:
   - title: '2021 ISDB Congress'
     date: '27/12/19'
     subtitle: 'Algarve, Portugal. October 17-21, 2021'
-    body: 'The International Society of Developmental Biologists (ISDB) is pleased to announce the 19th International Congress of Developmental Biology that will take place in the Algarve, Portugal on 17-21 October 2021. 
-We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
+    body: 'The International Society of Developmental Biologists (ISDB) is pleased to announce the 19th International Congress of Developmental Biology that will take place in the Algarve, Portugal on 17-21 October 2021. <br>
+We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. <br>
+The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
 More information is available at the ISDB webpage.'
     imageSm: '../img/news/ISDB2021-sm.jpg'
-    imageBg: '../img/news/ISDB2021-bg.jpg'
+    imageBg: '../img/news/isdb2021-bg.jpg'
     URL: 'https://isdb2021.com/'
 
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
