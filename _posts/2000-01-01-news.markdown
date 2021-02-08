@@ -6,6 +6,17 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'MBL Practical Course in Developmental Biology'
+    date: '8/2/21'
+    subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+    <a href="Website: http://biodesarrollo.unab.cl" target="_blank">http://biodesarrollo.unab.cl</a> <br>
+    <a href="Twitter: @DevBioQuintay" target="_blank">https://twitter.com/DevBioQuintay</a> <br>
+    <a href="Facebook: DevBio Course Quintay" target="_blank">https://www.facebook.com/profile.php?id=100017148704480</a> <br>' 
+    imageSm: 'img/news/Quintay2022-sm.jpg'
+    imageBg: '../img/news/Quintay2022-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
+
   - title: 'MBL Embryology Course 2021 at Woods Hole'
     date: '19/1/21'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 24 – June 30, 2021. <br>Application deadline: TBD'
