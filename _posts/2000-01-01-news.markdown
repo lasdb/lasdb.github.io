@@ -26,14 +26,6 @@ Eddy also received the 2021 Lifetime Achievement Award by The Society for Develo
     imageBg: '../img/news/EddyDeRobertis-bg.jpg'
     URL: 'https://www.sdbonline.org/lifetime_achievement_award'
 
-  - title: 'MBL Embryology Course 2021 at Woods Hole'
-    date: '19/1/21'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 24 – June 30, 2021. <br>Application deadline: TBD'
-    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
-    imageSm: 'img/news/mbl-sm.jpg'
-    imageBg: '../img/news/mbl-bg.jpg'
-    URL: 'http://www.mbl.edu/education/courses/embryology/'
-
   - title: 'Virtual LASDB-SMBD Meeting 2021'
     date: '20/11/20'
     subtitle: ''
@@ -74,7 +66,6 @@ Areas of particular interest include:
 •	Metabolic regulation
 •	Organ and organoid development
 •	Regeneration <br>
-
 CELLS & DEVELOPMENT  is the official journal of The International Society of Developmental Biologists which supports the world-wide community of developmental biologists and we will create new tools to equally support the cell biology community. <br>
 It is our hope that this new phase of this half-centennial journal will be become a forum for interdisciplinary research that combines biology, physics and mathematics to understand how a cell works and how a single cell, the egg, develops into an embryo.'
     imageSm: '../img/news/Cells&Dev-sm.jpg'
@@ -92,13 +83,13 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/isdb2021-bg.jpg'
     URL: 'https://isdb2021.com/'
 
-  - title: 'The LASDB Meeting in Chile is postponed to 2022'
-    date: '20/09/20'
-    subtitle: ''
-    body: 'Due to the uncertainties associated with the pandemic, we have made the decision to postpone the next LASDB Meeting to 2022. As planned, LASDB-2022 will be in Chile.'
-    imageSm: '../img/news/Chile2022a-sm.jpg'
-    imageBg: '../img/news/Chile2022a-bg.jpg'
-    URL: ''
+  - title: 'MBL Embryology Course 2021 at Woods Hole'
+    date: '19/1/21'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 24 – June 30, 2021. <br>Application deadline: TBD'
+    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
+    imageSm: 'img/news/mbl-sm.jpg'
+    imageBg: '../img/news/mbl-bg.jpg'
+    URL: 'http://www.mbl.edu/education/courses/embryology/'
 
   - title: 'List of virtual talks, seminars, forums'
     date: '05/09/20'
@@ -116,7 +107,15 @@ More information is available at the ISDB webpage.'
     imageSm: '../img/news/onlinetalks-sm.jpg'
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
-    
+
+  - title: 'The LASDB Meeting in Chile is postponed to 2022'
+    date: '20/09/20'
+    subtitle: ''
+    body: 'Due to the uncertainties associated with the pandemic, we have made the decision to postpone the next LASDB Meeting to 2022. As planned, LASDB-2022 will be in Chile.'
+    imageSm: '../img/news/Chile2022a-sm.jpg'
+    imageBg: '../img/news/Chile2022a-bg.jpg'
+    URL: ''
+
   - title: 'In memoriam: José Luis Gómez-Skarmeta'
     date: '16/09/20'
     subtitle: ''
