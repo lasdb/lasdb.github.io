@@ -6,6 +6,15 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'Prof Lewis Wolpert Memorial Lecture'
+    date: '2/3/21'
+    subtitle: 'Thursday, 20th May 2021. 13:30 to 15:00 BST'
+    body: 'Lewis Wolpert touched the live of many people and has been one of the mosts influential developmental biologists.<br>
+    To Honour his life and work the "Prof Lewis Wolpert Memorial Lecture was created by UCL. Join the talk by Professor Claudio Stern (UCL Department of Cell and Developmental Biology) on the life and research of Professor Lewis Wolpert and a lecture by guest speaker Professor Clive Tabin (Harvard University). Plese register in the link below: '
+    imageSm: 'img/news/Wolpert-sm.jpg'
+    imageBg: '../img/news/Wolpert-bg.jpg'
+    URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
+
   - title: 'MBL Practical Course in Developmental Biology'
     date: '8/2/21'
     subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
