@@ -6,6 +6,16 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'Welcome to the International Society for Regenerative Biology'
+    date: '19/3/21'
+    subtitle: 'Virtual Launch Meeting, April 8-9, 2021'
+    body: 'The International Society for Regenerative Biology has been just founded to promote Community, Research, & Education in the field of regeneration worldwide. The virtual launch will be held on April 8-9, 2021 on portions of each day. We will have two six invited talks including two Keynotes. <br>
+Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB to greater science community. <a href="https://dev.biologists.org/content/148/3/dev199474" target="_blank">Read article</a> <br>
+    For information on the meeting and the Society, foloow the link below:' 
+    imageSm: 'img/news/ISRB-sm.jpg'
+    imageBg: '../img/news/ISRB-bg.jpg'
+    URL: 'https://internationalsocietyforregenerativebiology.org/'
+
   - title: 'Prof Lewis Wolpert Memorial Lecture'
     date: '2/3/21'
     subtitle: 'Thursday, 20th May 2021. 13:30 to 15:00 BST'
