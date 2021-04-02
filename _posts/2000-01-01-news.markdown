@@ -6,17 +6,6 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'MBL Practical Course in Developmental Biology'
-    date: '8/2/21'
-    subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
-    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
-    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
-    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
-    imageSm: 'img/news/Quintay2022-sm.jpg'
-    imageBg: '../img/news/Quintay2022-bg.jpg'
-    URL: 'http://biodesarrollo.unab.cl/'
-
   - title: 'The International Journal of Developmental Biology'
     date: '27/3/21'
     subtitle: 'Special Issue: Developmental Biology in Ibero-America'
@@ -31,15 +20,16 @@ Articles can be accessed at: <br>
     imageBg: '../img/news/IJDBissue-bg.jpg'
     URL: 'http://www.ijdb.ehu.es/web/'
 
-  - title: 'Welcome to the International Society for Regenerative Biology'
-    date: '19/3/21'
-    subtitle: 'Virtual Launch Meeting, April 8-9, 2021'
-    body: 'The International Society for Regenerative Biology has been just founded to promote Community, Research, & Education in the field of regeneration worldwide. The virtual launch will be held on April 8-9, 2021 on portions of each day. We will have two six invited talks including two Keynotes. <br>
-Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB to greater science community. <a href="https://dev.biologists.org/content/148/3/dev199474" target="_blank">Read article</a> <br>
-    For information on the meeting and the Society, foloow the link below:' 
-    imageSm: 'img/news/ISRB-sm.jpg'
-    imageBg: '../img/news/ISRB-bg.jpg'
-    URL: 'https://internationalsocietyforregenerativebiology.org/'
+  - title: 'MBL Practical Course in Developmental Biology'
+    date: '8/2/21'
+    subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
+    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
+    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
+    imageSm: 'img/news/Quintay2022-sm.jpg'
+    imageBg: '../img/news/Quintay2022-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'Prof Lewis Wolpert Memorial Lecture'
     date: '2/3/21'
@@ -51,6 +41,16 @@ Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB 
     imageSm: 'img/news/Wolpert-sm.jpg'
     imageBg: '../img/news/Wolpert-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
+
+  - title: 'Welcome to the International Society for Regenerative Biology'
+    date: '19/3/21'
+    subtitle: 'Virtual Launch Meeting, April 8-9, 2021'
+    body: 'The International Society for Regenerative Biology has been just founded to promote Community, Research, & Education in the field of regeneration worldwide. The virtual launch will be held on April 8-9, 2021 on portions of each day. We will have two six invited talks including two Keynotes. <br>
+Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB to greater science community. <a href="https://dev.biologists.org/content/148/3/dev199474" target="_blank">Read article</a> <br>
+    For information on the meeting and the Society, foloow the link below:' 
+    imageSm: 'img/news/ISRB-sm.jpg'
+    imageBg: '../img/news/ISRB-bg.jpg'
+    URL: 'https://internationalsocietyforregenerativebiology.org/'
 
   - title: '2021 ISDB Congress'
     date: '27/12/19'
