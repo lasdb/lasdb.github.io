@@ -16,7 +16,7 @@
                 <ul style="padding-left:10px; border-bottom: 3px solid #515151;">
                     {% for post in site.posts %}
                         {% if post.categories contains 'jobs' %}
-                            {% for job in post.jobs limit:4 %}
+                            {% for job in post.jobs limit:3 %}
                                 <li>     
                                     <p> {{job.title}}.  {{job.subtitle}} </p>
                                 </li>
