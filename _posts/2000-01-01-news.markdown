@@ -42,16 +42,6 @@ Articles can be accessed at: <br>
     imageBg: '../img/news/Wolpert-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
 
-  - title: 'Welcome to the International Society for Regenerative Biology'
-    date: '19/3/21'
-    subtitle: 'Virtual Launch Meeting, April 8-9, 2021'
-    body: 'The International Society for Regenerative Biology has been just founded to promote Community, Research, & Education in the field of regeneration worldwide. The virtual launch will be held on April 8-9, 2021 on portions of each day. We will have two six invited talks including two Keynotes. <br>
-Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB to greater science community. <a href="https://dev.biologists.org/content/148/3/dev199474" target="_blank">Read article</a> <br>
-    For information on the meeting and the Society, foloow the link below:' 
-    imageSm: 'img/news/ISRB-sm.jpg'
-    imageBg: '../img/news/ISRB-bg.jpg'
-    URL: 'https://internationalsocietyforregenerativebiology.org/'
-
   - title: '2022 ISDB Congress'
     date: '12/4/21'
     subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
@@ -135,6 +125,16 @@ It is our hope that this new phase of this half-centennial journal will be becom
     imageSm: '../img/news/smbd-lasdb-sm.jpg'
     imageBg: '../img/news/smbd-lasdb-bg.jpg'
     URL: ''
+
+  - title: 'Welcome to the International Society for Regenerative Biology'
+    date: '19/3/21'
+    subtitle: 'Virtual Launch Meeting, April 8-9, 2021'
+    body: 'The International Society for Regenerative Biology has been just founded to promote Community, Research, & Education in the field of regeneration worldwide. The virtual launch will be held on April 8-9, 2021 on portions of each day. We will have two six invited talks including two Keynotes. <br>
+Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB to greater science community. <a href="https://dev.biologists.org/content/148/3/dev199474" target="_blank">Read article</a> <br>
+    For information on the meeting and the Society, foloow the link below:' 
+    imageSm: 'img/news/ISRB-sm.jpg'
+    imageBg: '../img/news/ISRB-bg.jpg'
+    URL: 'https://internationalsocietyforregenerativebiology.org/'
 
   - title: 'New representatives for Argentina and Ecuador at the LASDB Board'
     date: '30/10/20'
