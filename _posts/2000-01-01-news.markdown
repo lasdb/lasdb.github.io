@@ -60,7 +60,7 @@ We hope this will be a great forum for discussions on scientific breakthroughs a
 The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
 More information is available at the ISDB webpage.'
     imageSm: '../img/news/ISDB2022-sm.jpg'
-    imageBg: '../img/news/isdb2022-bg.jpg'
+    imageBg: '../img/news/ISDB2022-bg.jpg'
     URL: 'https://isdb2021.com/'
 
   - title: 'List of virtual talks, seminars, forums'
