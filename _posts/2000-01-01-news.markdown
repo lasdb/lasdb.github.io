@@ -99,14 +99,6 @@ Eddy also received the 2021 Lifetime Achievement Award by The Society for Develo
     imageBg: '../img/news/EddyDeRobertis-bg.jpg'
     URL: 'https://www.sdbonline.org/lifetime_achievement_award'
 
-  - title: 'MBL Embryology Course 2021 at Woods Hole'
-    date: '19/1/21'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 24 – June 30, 2021. <br>Application deadline: TBD'
-    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
-    imageSm: 'img/news/mbl-sm.jpg'
-    imageBg: '../img/news/mbl-bg.jpg'
-    URL: 'http://www.mbl.edu/education/courses/embryology/'
-
   - title: 'Cells & Development'
     date: '22/12/20'
     subtitle: 'Cells & Development: the future of MoD'
@@ -153,7 +145,15 @@ Development published an editorial by Ken Poss and Elly Tanaka to announce ISRB 
     imageSm: '../img/news/PagnussatRomero-sm.jpg'
     imageBg: '../img/news/PagnussatRomero-bg.jpg'
     URL: 'http://lasdb-development.org/pages/board.html'
- 
+
+  - title: 'MBL Embryology Course 2021 at Woods Hole'
+    date: '19/1/21'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 24 – June 30, 2021. <br>Application deadline: TBD'
+    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
+    imageSm: 'img/news/mbl-sm.jpg'
+    imageBg: '../img/news/mbl-bg.jpg'
+    URL: 'http://www.mbl.edu/education/courses/embryology/'
+
   - title: 'The LASDB Meeting in Chile is postponed to 2022'
     date: '20/09/20'
     subtitle: ''
