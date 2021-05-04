@@ -90,15 +90,6 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/smbd-lasdb-bg.jpg'
     URL: ''
 
-  - title: 'Eddy De Robertis receives the Kowalevsky medal and the Lifetime Achievement Award from Society for Developmental Biology'
-    date: '8/2/21'
-    subtitle: ''
-    body: 'Eddy De Robertis from UCLA has received the 2020 A.O. Kovalevsky Medal for his extraordinary achievements in evolutionary developmental biology. This award is given by an international committee of the St. Petersburg Society of Naturalists to commemorate A. O. Kowalevsky, one of the founders of comparative embryology who discovered that ascidians and amphioxus were chordate ancestors of the vertebrates. Eddy joins the list of distinguished Evo-Devo scientist recipient of this award for the discovery of vertebrate Hox genes and of the Chordin/Tolloid/BMP gradient that was present in Urbilateria, the last common ancestor of all bilateral animals. <br>
-Eddy also received the 2021 Lifetime Achievement Award by The Society for Developmental Biology. SDB confers this award to senior developmental biologists in recognition of their outstanding and sustained contributions in the field, exceptional mentoring and service to the scientific community. The complete list of Lifetime Achievement Award recipients can be found at' 
-    imageSm: 'img/news/EddyDeRobertis-sm.jpg'
-    imageBg: '../img/news/EddyDeRobertis-bg.jpg'
-    URL: 'https://www.sdbonline.org/lifetime_achievement_award'
-
   - title: 'Cells & Development'
     date: '22/12/20'
     subtitle: 'Cells & Development: the future of MoD'
@@ -125,6 +116,15 @@ It is our hope that this new phase of this half-centennial journal will be becom
     imageSm: '../img/news/Cells&Dev-sm.jpg'
     imageBg: '../img/news/Cells&Dev-bg.jpg'
     URL: 'https://twitter.com/cellsdev'
+
+  - title: 'Eddy De Robertis receives the Kowalevsky medal and the Lifetime Achievement Award from Society for Developmental Biology'
+    date: '8/2/21'
+    subtitle: ''
+    body: 'Eddy De Robertis from UCLA has received the 2020 A.O. Kovalevsky Medal for his extraordinary achievements in evolutionary developmental biology. This award is given by an international committee of the St. Petersburg Society of Naturalists to commemorate A. O. Kowalevsky, one of the founders of comparative embryology who discovered that ascidians and amphioxus were chordate ancestors of the vertebrates. Eddy joins the list of distinguished Evo-Devo scientist recipient of this award for the discovery of vertebrate Hox genes and of the Chordin/Tolloid/BMP gradient that was present in Urbilateria, the last common ancestor of all bilateral animals. <br>
+Eddy also received the 2021 Lifetime Achievement Award by The Society for Developmental Biology. SDB confers this award to senior developmental biologists in recognition of their outstanding and sustained contributions in the field, exceptional mentoring and service to the scientific community. The complete list of Lifetime Achievement Award recipients can be found at' 
+    imageSm: 'img/news/EddyDeRobertis-sm.jpg'
+    imageBg: '../img/news/EddyDeRobertis-bg.jpg'
+    URL: 'https://www.sdbonline.org/lifetime_achievement_award'
 
   - title: 'Welcome to the International Society for Regenerative Biology'
     date: '19/3/21'
