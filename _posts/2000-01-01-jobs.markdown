@@ -6,6 +6,16 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoc and Research Assistant positions at the Ocular Stem Cell and Regeneration Program, University of Colorado'
+    date: '6/4/21'
+    subtitle: 'Project: Multiscale mechanics and self-organizing processes in developing systems. Leadership: Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Institutions: Pontificia Universidad Católica de Chile and Universidad de Chile'
+    body: 'CellSight, the Ocular Stem Cell and Regeneration Program at the Department of Ophthalmology, University of Colorado, Anschutz Medical Campus, is seeking candidates for several Postdoctoral and Professional Research Assistant (laboratory technician) positions to carry out research in the areas of retinal biology, stem cell technologies, and regenerative medicine. <br>
+CellSight is expanding and we are recruiting a team of Postdoctoral Fellows and Professional Research Assistants with an array of qualifications to complement our programmatic growth. CellSight is a cross-disciplinary team of investigators working in a highly collaborative environment with the common goal of developing novel stem cell-based therapeutics to treat ocular diseases. For more information about research performed by CellSight teams please visit: https://medschool.cuanschutz.edu/ophthalmology/research/cellsight-program <br>
+The successful candidates will participate in research projects aimed at: (1) developing innovative models of retinal degenerative diseases, (2) understanding the molecular mechanisms associated with disease, and (3) evaluating novel potential therapeutic strategies. They will report to CellSight principal investigators Joseph Brzezinski, Ph.D., Natalia Vergara, PhD, or Valeria Canto-Soler, Ph.D, based on the lab/project each candidate joins. This is an exciting, new line of work using cutting-edge technologies in the stem cell field and we are looking for motivated and independent scientists willing to contribute their expertise and knowledge.'
+    par2: 'Candidates interested in the available Postdoctoral Fellow positions please find additional information here: https://cu.taleo.net/careersection/2/jobdetail.ftl?job=20625&lang=en 
+Candidates interested in the available Professional Research Assistant positions please find additional information here: https://cu.taleo.net/careersection/2/jobdetail.ftl?job=20638&lang=en'
+    URL: 'http://lasdb-development.org/pdfs/2021-Postdoc and PRA- UColorado.pdf'
+
   - title: 'Junior postdoc positions in embryo development and mechanobiology'
     date: '6/4/21'
     subtitle: 'Project: Multiscale mechanics and self-organizing processes in developing systems. Leadership: Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Institutions: Pontificia Universidad Católica de Chile and Universidad de Chile'
