@@ -7,14 +7,14 @@ permalink: /pages/jobs.html
 jobs:
 
   - title: 'Postdoctoral Position'
-    date: '6/4/21'
+    date: '11/5/21'
     subtitle: 'Eddy De Robertis lab at the University of California, Los Angeles, USA'
     body: 'A postdoctoral opportunity is available to work on patterning of the Xenopus embryo by Chordin and the early Wnt signal. This 2-year position is available immediately. Candidate will be trained in embryology by Eddy De Robertis in a small lab setting.  This is an excellent opportunity for for someone with not more than three years of postdoctoral training.  This is an opportunity to train in embryology directly with someone that has mentored many distinguished alumni.'
     par2: 'To apply please email:  1) cover letter with experience and motivation for training in Developmental Biology, 2) CV including list of publications, 3) contact information for three references.  Address is: Eddy@mednet.ucla.edu, Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles.  See <a href="http://www.hhmi.ucla.edu/derobertis/index.html" target="_blank">Lab webpage</a> and <a href="https://www.hhmi.ucla.edu/derobertis/index.html" target="_blank">Publications</a>.'
     URL: 'http://www.hhmi.ucla.edu/derobertis/index.html'
 
   - title: 'Postdoc and Research Assistant positions'
-    date: '6/4/21'
+    date: '5/5/21'
     subtitle: 'Ocular Stem Cell and Regeneration Program, University of Colorado'
     body: 'CellSight, the Ocular Stem Cell and Regeneration Program at the Department of Ophthalmology, University of Colorado, Anschutz Medical Campus, is seeking candidates for several Postdoctoral and Professional Research Assistant (laboratory technician) positions to carry out research in the areas of retinal biology, stem cell technologies, and regenerative medicine. <br>
 CellSight is expanding and we are recruiting a team of Postdoctoral Fellows and Professional Research Assistants with an array of qualifications to complement our programmatic growth. CellSight is a cross-disciplinary team of investigators working in a highly collaborative environment with the common goal of developing novel stem cell-based therapeutics to treat ocular diseases. For more information about research performed by CellSight teams please visit:  
