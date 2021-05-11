@@ -6,6 +6,13 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoctoral Position'
+    date: '6/4/21'
+    subtitle: 'Eddy De Robertis lab at the University of California, Los Angeles, USA'
+    body: 'A postdoctoral opportunity is available to work on patterning of the Xenopus embryo by Chordin and the early Wnt signal. This 2-year position is available immediately. Candidate will be trained in embryology by Eddy De Robertis in a small lab setting.  This is an excellent opportunity for for someone with not more than three years of postdoctoral training.  This is an opportunity to train in embryology directly with someone that has mentored many distinguished alumni.'
+    par2: 'To apply please email:  1) cover letter with experience and motivation for training in Developmental Biology, 2) CV including list of publications, 3) contact information for three references.  Address is: Eddy@mednet.ucla.edu, Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles.  See <a href="Lab webpage" target="_blank">http://www.hhmi.ucla.edu/derobertis/index.html</a> and <a href="Publications" target="_blank">https://www.hhmi.ucla.edu/derobertis/index.html</a>'
+    URL: 'http://www.hhmi.ucla.edu/derobertis/index.html'
+
   - title: 'Postdoc and Research Assistant positions'
     date: '6/4/21'
     subtitle: 'Ocular Stem Cell and Regeneration Program, University of Colorado'
