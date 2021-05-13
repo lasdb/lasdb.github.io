@@ -6,30 +6,6 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'The International Journal of Developmental Biology'
-    date: '27/3/21'
-    subtitle: 'Special Issue: Developmental Biology in Ibero-America'
-    body: 'The International Journal of Developmental Biology has already published the Special Issue Developmental Biology in Ibero-America. <br>
-The First Part of Developmental Biology in Ibero-America Special Issue contains articles on the History of LASDB, the Quintay Devel Biol Course, as well as the trajectory and history of the research in Developmental Biology in several Iberoamerican countries. This issue also includes Interviews and personal reminiscences. <br>
-The Second Part - Research in Ibero-America contains research articles from groups in Latin America. <br>
-We thank Eugenia del Pino for coordinating this special issue. <br><br>
-Articles can be accessed at: <br>
-    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/1-2-3" target="_blank">IJDB-IberoAmerica Special Issue-Part 1</a> <br>
-    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/4-5-6" target="_blank">IJDB-IberoAmerica Special Issue-Part 2</a> <br>' 
-    imageSm: 'img/news/IJDBissue-sm.jpg'
-    imageBg: '../img/news/IJDBissue-bg.jpg'
-    URL: 'http://www.ijdb.ehu.es/web/'
-
-  - title: 'MBL Practical Course in Developmental Biology'
-    date: '8/2/21'
-    subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
-    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
-    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
-    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
-    imageSm: 'img/news/Quintay2022-sm.jpg'
-    imageBg: '../img/news/Quintay2022-bg.jpg'
-    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'Prof Lewis Wolpert Memorial Lecture'
     date: '2/3/21'
@@ -41,6 +17,17 @@ Articles can be accessed at: <br>
     imageSm: 'img/news/Wolpert-sm.jpg'
     imageBg: '../img/news/Wolpert-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
+
+  - title: 'MBL Practical Course in Developmental Biology'
+    date: '8/2/21'
+    subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
+    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
+    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
+    imageSm: 'img/news/Quintay2022-sm.jpg'
+    imageBg: '../img/news/Quintay2022-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'Society of Developmental Biologists 2021 Annual Meeting'
     date: '4/7/21'
@@ -56,6 +43,20 @@ Check the SDB webpage for more information.'
     imageSm: '../img/news/SDB2021-sm.jpg'
     imageBg: '../img/news/SDB2021-bg.jpg'
     URL: 'https://www.sdbonline.org/2021mtg'
+
+  - title: 'The International Journal of Developmental Biology'
+    date: '27/3/21'
+    subtitle: 'Special Issue: Developmental Biology in Ibero-America'
+    body: 'The International Journal of Developmental Biology has already published the Special Issue Developmental Biology in Ibero-America. <br>
+The First Part of Developmental Biology in Ibero-America Special Issue contains articles on the History of LASDB, the Quintay Devel Biol Course, as well as the trajectory and history of the research in Developmental Biology in several Iberoamerican countries. This issue also includes Interviews and personal reminiscences. <br>
+The Second Part - Research in Ibero-America contains research articles from groups in Latin America. <br>
+We thank Eugenia del Pino for coordinating this special issue. <br><br>
+Articles can be accessed at: <br>
+    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/1-2-3" target="_blank">IJDB-IberoAmerica Special Issue-Part 1</a> <br>
+    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/4-5-6" target="_blank">IJDB-IberoAmerica Special Issue-Part 2</a> <br>' 
+    imageSm: 'img/news/IJDBissue-sm.jpg'
+    imageBg: '../img/news/IJDBissue-bg.jpg'
+    URL: 'http://www.ijdb.ehu.es/web/'
 
 
   - title: 'Pew Latin America Postdoctoral Fellowships 2022'
