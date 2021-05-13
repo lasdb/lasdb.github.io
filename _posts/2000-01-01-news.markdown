@@ -29,9 +29,9 @@ news:
     imageBg: '../img/news/Quintay2022-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
-  - title: 'Society of Developmental Biology 2021 Annual Meeting'
+  - title: 'Society for Developmental Biology 2021 Annual Meeting'
     date: '4/7/21'
-    subtitle: 'Virtual. July 12-16, 2021'
+    subtitle: 'Virtual. July 12-16, 2021. #SDB2021'
     body: 'The Society for Developmental Biology 80th Annual Meeting will be held Virtually July 12-16, 2021. Registration Deadline: June 14, 2021, 11:59 PM ET. <br>
 Important Deadlines: <br>
 April 19, 2021. Abstract Submission (For Short Talks, Hilde Mangold Postdoctoral Symposium, Best Student Poster Competition), Student and Postdoc Annual Meeting Grant Application, Teaching and Junior Faculty Annual Meeting Grant Application.<br>
