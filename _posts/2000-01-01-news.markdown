@@ -44,6 +44,15 @@ Check the SDB webpage for more information.'
     imageBg: '../img/news/SDB2021-bg.jpg'
     URL: 'https://www.sdbonline.org/2021mtg'
 
+  - title: 'The Node Network'
+    date: '5/17/21'
+    subtitle: 'Complete your profile !!'
+    body: 'The Node Network is a global directory of developmental and stem cell biologists. It exists to help those organising conferences, assembling committees, seeking speakers for seminar series, looking for referees and so on to identify individuals who might not otherwise come to mind.<br>
+The Network is entirely inclusive – any member of the developmental and stem cell biology community, at any stage of their career, can join. It is also designed to help promote diversity in our field – as well as providing information on scientific field, model organism, place of work and career stage, members can also voluntarily provide details on aspects of diversity such as gender, race/ethnicity, LGBTQ+ identity and disability status. '
+    imageSm: '../img/news/TheNodeNetwork-sm.jpg'
+    imageBg: '../img/news/TheNodeNetwork-bg.jpg'
+    URL: 'https://thenode.biologists.com/networkinfo/'
+
   - title: 'The International Journal of Developmental Biology'
     date: '27/3/21'
     subtitle: 'Special Issue: Developmental Biology in Ibero-America'
