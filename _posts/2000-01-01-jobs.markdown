@@ -21,7 +21,7 @@ Minimum qualifications: Basic bioinformatic skills<br>'
     subtitle: 'Guillermo Oliver Lab. Northwestern University, Chicago, IL, USA'
     body: 'Postdoc position is available to work in aspects related to 2 of our ongoing projects in lymphangiogenesis in projects related to: <br>
     1) functional roles of lymphatic-produced paracrine factors in organ growth and repair (Ref: <a href="https://www.nature.com/articles/s41586-020-2998-x" target="_blank">Liu et at, Nature (2020)</a>). <br>
-    2) metabolism as a regulator of cell fate and lymphangiogenesis (Ref: <a href="https://advances.sciencemag.org/content/7/18/eabe7359" target="_blank">Ma et at, Sceince Advances (2021)</a>). '
+    2) metabolism as a regulator of cell fate and lymphangiogenesis (Ref: <a href="https://advances.sciencemag.org/content/7/18/eabe7359" target="_blank">Ma et at, Science Advances (2021)</a>). '
     par2: 'Highly motivated individuals with a strong background in organogenesis and familiar with the use of mouse models are encouraged to apply. Our laboratory is in a new state of the art research facility in downtown Chicago. <br>
 For information about our lab see: <br>
 <a href="http://labs.feinberg.northwestern.edu/oliver/" target="_blank">http://labs.feinberg.northwestern.edu/oliver/</a> <br>
