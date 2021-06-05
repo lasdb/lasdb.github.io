@@ -6,6 +6,16 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoctoral Position Neural development, Stem cells'
+    date: '4/6/21'
+    subtitle: 'Mazzoni lab, NYU, New York, USA'
+    body: 'We are recruiting postdocs that would like to use new synthetic DNA technologies to understand Hox gene regulation and cell programming tools to identify mechanisms that protect specific neurons from neurodegeneration. <br>
+Scientific fields: Development and disease, Neural development, Stem cells<br>
+Model systems: Cell culture, Mouse, Human<br>
+Minimum qualifications: Basic bioinformatic skills<br>'
+    par2: 'As a lab, we foster an inclusive and respectful environment where everyone is an integral lab member with an equal voice and weight. Understanding that individuals have different goals and priorities, we provide mentorship that maximizes personal growth so that each lab member can explore their individual interests and career pathways.<br>  For more information visit <a href="https://www.mazzonilab.org/" target="_blank">https://www.mazzonilab.org/</a>'
+    URL: 'https://www.mazzonilab.org/'
+
   - title: 'Postdoctoral Position'
     date: '11/5/21'
     subtitle: 'Eddy De Robertis lab at the University of California, Los Angeles, USA'
