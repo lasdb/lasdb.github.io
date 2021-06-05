@@ -53,6 +53,14 @@ The Network is entirely inclusive – any member of the developmental and stem c
     imageBg: '../img/news/Wolpert-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
 
+  - title: 'Pew Latin America Postdoctoral Fellowships 2022'
+    date: '16/4/21'
+    subtitle: 'Deadline: August 25, 2021'
+    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by August 25, 2021.'
+    imageSm: 'img/news/pew-sm.jpg'
+    imageBg: '../img/news/pew-bg.jpg'
+    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
+
   - title: 'The International Journal of Developmental Biology'
     date: '27/3/21'
     subtitle: 'Special Issue: Developmental Biology in Ibero-America'
@@ -66,15 +74,6 @@ Articles can be accessed at: <br>
     imageSm: 'img/news/IJDBissue-sm.jpg'
     imageBg: '../img/news/IJDBissue-bg.jpg'
     URL: 'http://www.ijdb.ehu.es/web/'
-
-
-  - title: 'Pew Latin America Postdoctoral Fellowships 2022'
-    date: '16/4/21'
-    subtitle: 'Deadline: August 25, 2021'
-    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by August 25, 2021.'
-    imageSm: 'img/news/pew-sm.jpg'
-    imageBg: '../img/news/pew-bg.jpg'
-    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
 
   - title: '2022 ISDB Congress'
     date: '12/4/21'
