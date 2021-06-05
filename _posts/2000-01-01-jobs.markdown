@@ -54,8 +54,8 @@ Candidates interested in the available Professional Research Assistant positions
 
   - title: 'Junior postdoc positions in embryo development and mechanobiology'
     date: '6/4/21'
-    subtitle: 'Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Pontificia Universidad Católica de Chile and Universidad de Chile'
-    body: 'Project: Multiscale mechanics and self-organizing processes in developing systems. <br>
+    subtitle: 'Ravasio, Rudge, Cerda, Bertocchi and Concha labs. PUC y UCh, Chile'
+    body: 'Project: Multiscale mechanics and self-organizing processes in developing systems. Leaders: Andrea Ravasio, Tim Rudge, Mauricio Cerda, Cristina Bertocchi and Miguel Concha. Pontificia Universidad Católica de Chile and Universidad de Chile. <br>
     The interdisciplinary research team of the Anillo for Developmental Mechanobiology (DevMech) project is seeking highly motivated and creative individuals to be involved in an exciting interdisciplinary project aiming to understand the mechanical bases of biological processes driving embryonic development.'
     par2: 'We are looking a junior research fellow (postdoc) to work in strongly interconnected teams. Highly motivated individuals with background in either one of the following disciplines cell biology, development and/or microscopy are strongly encouraged to apply. Previous experience with one or more of the following topics will be an advantage: cell biology, developmental biology, mechanobiology, microscopy and image analysis. A good level of written and spoken English is necessary.<br>
     To apply please send an email to mconcha@uchile.cl including a letter of interest, Curriculum Vitae and a short description of previous experience. Please include a short description of the most relevant papers you have published explaining how their previous experience is relevant to this call. Please use the subject ¨anillo-2020-application¨ in your email to avoid being directed to the spam. Applications must be in English. For more information and for any questions, do not hesitate to contact us at mconcha@uchile.cl.'
