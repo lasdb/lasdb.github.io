@@ -19,15 +19,9 @@ news:
 
   - title: 'Society for Developmental Biology 2021 Annual Meeting'
     date: '4/7/21'
-    subtitle: 'Virtual. July 12-16, 2021. #SDB2021'
+    subtitle: 'Virtual. July 12-16, 2021. Grants for undergrads from low, low-mid, upper-mid countries'
     body: 'The Society for Developmental Biology 80th Annual Meeting will be held Virtually July 12-16, 2021. Registration Deadline: June 14, 2021, 11:59 PM ET. <br>
-Important Deadlines: <br>
-April 19, 2021. Abstract Submission (For Short Talks, Hilde Mangold Postdoctoral Symposium, Best Student Poster Competition), Student and Postdoc Annual Meeting Grant Application, Teaching and Junior Faculty Annual Meeting Grant Application.<br>
-May 10, 2021. LAte Abstract Submission. Dependent Care Grant Application.<br>
-June 14, 2021. Meeting Registration. <br>
-July 12-16, 2021. SDB 80th Annual Meeting.<br>
-<br>
-Check the SDB webpage for more information.'
+Important: A limited number of Grants are available for undergraduate students from low, lower-middle, and upper-middle income countries. Deadline: June 11 <a href="https://www.sdbonline.org/2021mtg_meeting_assistance_grants#Undergraduate" target="_blank">Apply here</a>'
     imageSm: '../img/news/SDB2021-sm.jpg'
     imageBg: '../img/news/SDB2021-bg.jpg'
     URL: 'https://www.sdbonline.org/2021mtg'
