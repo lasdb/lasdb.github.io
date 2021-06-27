@@ -17,14 +17,13 @@ news:
     imageBg: '../img/news/Quintay2022-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
-  - title: 'Society for Developmental Biology 2021 Annual Meeting'
-    date: '4/7/21'
-    subtitle: 'Virtual. July 12-16, 2021. Grants for undergrads from low, low-mid, upper-mid countries'
-    body: 'The Society for Developmental Biology 80th Annual Meeting will be held Virtually July 12-16, 2021. Registration Deadline: June 17, 2021, 11:59 PM ET. <br>
-Important: A limited number of Grants are available for undergraduate students from low, lower-middle, and upper-middle income countries. Deadline: June 11 <a href="https://www.sdbonline.org/2021mtg_meeting_assistance_grants#Undergraduate" target="_blank">Apply here</a>'
-    imageSm: '../img/news/SDB2021-sm.jpg'
-    imageBg: '../img/news/SDB2021-bg.jpg'
-    URL: 'https://www.sdbonline.org/2021mtg'
+  - title: 'Pew Latin America Postdoctoral Fellowships 2022'
+    date: '16/4/21'
+    subtitle: 'Deadline: August 25, 2021'
+    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by August 25, 2021.'
+    imageSm: 'img/news/pew-sm.jpg'
+    imageBg: '../img/news/pew-bg.jpg'
+    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
 
   - title: 'The Node Network'
     date: '5/17/21'
@@ -46,14 +45,6 @@ The Network is entirely inclusive – any member of the developmental and stem c
     imageSm: 'img/news/Wolpert-sm.jpg'
     imageBg: '../img/news/Wolpert-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
-
-  - title: 'Pew Latin America Postdoctoral Fellowships 2022'
-    date: '16/4/21'
-    subtitle: 'Deadline: August 25, 2021'
-    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by August 25, 2021.'
-    imageSm: 'img/news/pew-sm.jpg'
-    imageBg: '../img/news/pew-bg.jpg'
-    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
 
   - title: 'The International Journal of Developmental Biology'
     date: '27/3/21'
@@ -109,6 +100,15 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/smbd-lasdb-bg.jpg'
     URL: ''
 
+  - title: 'Society for Developmental Biology 2021 Annual Meeting'
+    date: '4/7/21'
+    subtitle: 'Virtual. July 12-16, 2021. Grants for undergrads from low, low-mid, upper-mid countries'
+    body: 'The Society for Developmental Biology 80th Annual Meeting will be held Virtually July 12-16, 2021. Registration Deadline: June 17, 2021, 11:59 PM ET. <br>
+Important: A limited number of Grants are available for undergraduate students from low, lower-middle, and upper-middle income countries. Deadline: June 11 <a href="https://www.sdbonline.org/2021mtg_meeting_assistance_grants#Undergraduate" target="_blank">Apply here</a>'
+    imageSm: '../img/news/SDB2021-sm.jpg'
+    imageBg: '../img/news/SDB2021-bg.jpg'
+    URL: 'https://www.sdbonline.org/2021mtg'
+    
   - title: 'Eddy De Robertis receives the Kowalevsky medal and the Lifetime Achievement Award from Society for Developmental Biology'
     date: '8/2/21'
     subtitle: ''
