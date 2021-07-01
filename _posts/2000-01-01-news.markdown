@@ -6,6 +6,16 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'Join the Latin America Developmental Biology Network'
+    date: '1/7/21'
+    subtitle: 'Complete your profile'
+    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a global directory of developmental and stem cell biology researchers in Latin American countries. <br>
+We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. A search engine will be publicly available soon.<br> 
+The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.' 
+    imageSm: 'img/news/map-sm.jpg'
+    imageBg: '../img/news/map-bg.jpg'
+    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
+
   - title: 'MBL Practical Course in Developmental Biology'
     date: '8/2/21'
     subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
@@ -24,15 +34,6 @@ news:
     imageSm: 'img/news/pew-sm.jpg'
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
-
-  - title: 'The Node Network'
-    date: '5/17/21'
-    subtitle: 'Complete your profile !!'
-    body: 'The Node Network is a global directory of developmental and stem cell biologists. It exists to help those organising conferences, assembling committees, seeking speakers for seminar series, looking for referees and so on to identify individuals who might not otherwise come to mind.<br>
-The Network is entirely inclusive – any member of the developmental and stem cell biology community, at any stage of their career, can join. It is also designed to help promote diversity in our field – as well as providing information on scientific field, model organism, place of work and career stage, members can also voluntarily provide details on aspects of diversity such as gender, race/ethnicity, LGBTQ+ identity and disability status. '
-    imageSm: '../img/news/TheNodeNetwork-sm.jpg'
-    imageBg: '../img/news/TheNodeNetwork-bg.jpg'
-    URL: 'https://thenode.biologists.com/networkinfo/'
 
   - title: 'Prof Lewis Wolpert Memorial Lecture'
     date: '2/3/21'
@@ -99,6 +100,15 @@ More information is available at the ISDB webpage.'
     imageSm: '../img/news/smbd-lasdb-sm.jpg'
     imageBg: '../img/news/smbd-lasdb-bg.jpg'
     URL: ''
+
+  - title: 'The Node Network'
+    date: '5/17/21'
+    subtitle: 'Complete your profile !!'
+    body: 'The Node Network is a global directory of developmental and stem cell biologists. It exists to help those organising conferences, assembling committees, seeking speakers for seminar series, looking for referees and so on to identify individuals who might not otherwise come to mind.<br>
+The Network is entirely inclusive – any member of the developmental and stem cell biology community, at any stage of their career, can join. It is also designed to help promote diversity in our field – as well as providing information on scientific field, model organism, place of work and career stage, members can also voluntarily provide details on aspects of diversity such as gender, race/ethnicity, LGBTQ+ identity and disability status. '
+    imageSm: '../img/news/TheNodeNetwork-sm.jpg'
+    imageBg: '../img/news/TheNodeNetwork-bg.jpg'
+    URL: 'https://thenode.biologists.com/networkinfo/'
 
   - title: 'Society for Developmental Biology 2021 Annual Meeting'
     date: '4/7/21'
