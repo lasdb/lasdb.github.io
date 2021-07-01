@@ -6,10 +6,10 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'Join the Latin America Developmental Biology Network'
+  - title: 'Join the Latin America Developmental Biologists Network'
     date: '1/7/21'
     subtitle: 'Complete your profile'
-    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a global directory of developmental and stem cell biology researchers in Latin American countries. <br>
+    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
 We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
 The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
 A search engine will be publicly available soon. <br>
