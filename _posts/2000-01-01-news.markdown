@@ -12,7 +12,7 @@ news:
     body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a global directory of developmental and stem cell biology researchers in Latin American countries. <br>
 We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
 The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
-A search engine will be publicly available soon.
+A search engine will be publicly available soon <br>.
 <a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank">Fill the form here</a> ' 
     imageSm: 'img/news/map-sm.jpg'
     imageBg: '../img/news/map-bg.jpg'
