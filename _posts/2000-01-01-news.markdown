@@ -18,7 +18,7 @@ A search engine will be publicly available soon. <br>
     imageBg: '../img/news/map-bg.jpg'
     URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
 
-  - title: 'MBL Practical Course in Developmental Biology'
+  - title: 'EMBO Practical Course in Developmental Biology'
     date: '8/2/21'
     subtitle: 'CIMARQ-Quintay, Chile. 5-17th January 2022. Application deadline July 31, 2021.'
     body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
