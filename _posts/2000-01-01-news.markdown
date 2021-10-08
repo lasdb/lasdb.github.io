@@ -18,6 +18,17 @@ A search engine will be publicly available soon. <br>
     imageBg: '../img/news/map-bg.jpg'
     URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
 
+  - title: '2022 ISDB Congress'
+    date: '12/4/21'
+    subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
+    body: 'The International Society of Developmental Biologists (ISDB) announced that the 19th International Congress of Developmental Biology will take place in the Algarve, Portugal on 16-20 October 2022. <br>
+We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. <br>
+The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
+More information is available at the ISDB webpage.'
+    imageSm: '../img/news/ISDB2022-sm.jpg'
+    imageBg: '../img/news/ISDB2022-bg.jpg'
+    URL: 'https://isdb2021.com/'
+
   - title: 'EMBO Practical Course in Developmental Biology'
     date: '8/2/21'
     subtitle: 'POSTPONED UNTIL 4-16 January 2023 <br>
@@ -63,17 +74,6 @@ Articles can be accessed at: <br>
     imageSm: 'img/news/IJDBissue-sm.jpg'
     imageBg: '../img/news/IJDBissue-bg.jpg'
     URL: 'http://www.ijdb.ehu.es/web/'
-
-  - title: '2022 ISDB Congress'
-    date: '12/4/21'
-    subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
-    body: 'The International Society of Developmental Biologists (ISDB) announced that the 19th International Congress of Developmental Biology will take place in the Algarve, Portugal on 16-20 October 2022. <br>
-We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. <br>
-The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
-More information is available at the ISDB webpage.'
-    imageSm: '../img/news/ISDB2022-sm.jpg'
-    imageBg: '../img/news/ISDB2022-bg.jpg'
-    URL: 'https://isdb2021.com/'
 
   - title: 'List of virtual talks, seminars, forums'
     date: '05/09/20'
