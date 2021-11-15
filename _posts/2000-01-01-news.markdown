@@ -29,7 +29,7 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/ISDB2022-bg.jpg'
     URL: 'https://isdb2021.com/'
 
-- title: 'MBL Embryology Course 2022  at Woods Hole'
+  - title: 'MBL Embryology Course 2022  at Woods Hole'
     date: '15/11/21'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 5-July 18, 2022. <br>Application deadline: February 1, 2022'
     body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
