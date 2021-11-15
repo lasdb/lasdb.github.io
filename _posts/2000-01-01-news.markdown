@@ -29,19 +29,7 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/ISDB2022-bg.jpg'
     URL: 'https://isdb2021.com/'
 
-  - title: 'EMBO Practical Course in Developmental Biology'
-    date: '8/2/21'
-    subtitle: 'POSTPONED UNTIL 4-16 January 2023 <br>
-    CIMARQ-Quintay, Chile. 5-17th January 2022.'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
-    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
-    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
-    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
-    imageSm: 'img/news/Quintay2022-sm.jpg'
-    imageBg: '../img/news/Quintay2022-bg.jpg'
-    URL: 'http://biodesarrollo.unab.cl/'
-
-  - title: 'MBL Embryology Course 2022  at Woods Hole'
+- title: 'MBL Embryology Course 2022  at Woods Hole'
     date: '15/11/21'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 5-July 18, 2022. <br>Application deadline: February 1, 2022'
     body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
@@ -63,7 +51,39 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/mbl2-bg.jpg'
     URL: 'https://www.mbl.edu/education/courses/'
 
-  - title: 'Pew Latin America Postdoctoral Fellowships 2022'
+  - title: 'EMBO Practical Course in Developmental Biology'
+    date: '8/2/21'
+    subtitle: 'POSTPONED UNTIL 4-16 January 2023 <br>
+    CIMARQ-Quintay, Chile. 5-17th January 2022.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2021. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
+    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
+    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
+    imageSm: 'img/news/Quintay2022-sm.jpg'
+    imageBg: '../img/news/Quintay2022-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
+
+  - title: 'List of virtual talks, seminars, forums'
+    date: '05/09/20'
+    subtitle: 'Developmental biology and adjacent.'
+    body: 'Various organizations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded. <br>
+    <strong>This is an incomplete list of online seminars:</strong><br><br>
+    <strong>Vertebrate Gastrulation Zoom Talks:&nbsp;</strong>&nbsp;<a href="https://twitter.com/VGZT2020_21" target="_blank">https://twitter.com/VGZT2020_21</a><br>
+    <strong>World Wide Neuro Devel &ndash; Neuroscience seminars online:</strong>&nbsp;<a href="https://www.world-wide.org/Neuro/WWNDev/" target="_blank">https://www.world-wide.org/Neuro/WWNDev/</a><br>
+    <strong>International Zebrafish Society Webinars</strong>: &nbsp;<a href="https://www.izfs.org/education/webinars" target="_blank">https://www.izfs.org/education/webinars</a><br>
+    <strong>Development presents&hellip; :&nbsp;</strong><a href="https://thenode.biologists.com/devpres/" target="_blank">https://thenode.biologists.com/devpres/</a><br>
+    <strong>List at The Node:&nbsp;</strong><a href="https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/">https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/</a><br>
+    <strong>List at SFBD:</strong>&nbsp;<a href="https://sfbd.fr/en/online-events/" target="_blank">https://sfbd.fr/en/online-events/</a><br>
+    <strong>SDB&nbsp;Postdoctoral Seminar</strong>:&nbsp;<a href="https://www.sdbonline.org/sdb_postdoctoral_seminar_series" target="_blank">https://www.sdbonline.org/sdb_postdoctoral_seminar_series</a><br>
+    <strong>Cell Migration Seminars:</strong>&nbsp;<a href="https://cellmigration.wixsite.com/seminars" target="_blank">https://cellmigration.wixsite.com/seminars</a><br>
+    <strong>Stowers Research Conferences</strong>&nbsp;<a href="https://www.stowers.org/conferences" target="_blank">https://www.stowers.org/conferences</a><br>
+    <strong>Neural Crest Research Colloquia (NCRC)</strong>&nbsp;<a href="https://www.devbiorna.com/neural-crest-research-colloquia" target="_blank">https://www.devbiorna.com/neural-crest-research-colloquia</a><br>
+    <strong>ANS Developmental Neuroscience Forum</strong>&nbsp;<a href="https://www.ans.org.au/meetings-events/australasian-developmental-neuroscience-forum-adnf" target="_blank">https://www.ans.org.au/meetings-events/australasian-developmental-neuroscience-forum-adnf</a>'
+    imageSm: '../img/news/onlinetalks-sm.jpg'
+    imageBg: '../img/news/onlinetalks-bg.jpg'
+    URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
+
+- title: 'Pew Latin America Postdoctoral Fellowships 2022'
     date: '16/4/21'
     subtitle: 'Deadline: August 25, 2021'
     body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by August 25, 2021.'
@@ -96,26 +116,6 @@ Articles can be accessed at: <br>
     imageSm: 'img/news/IJDBissue-sm.jpg'
     imageBg: '../img/news/IJDBissue-bg.jpg'
     URL: 'http://www.ijdb.ehu.es/web/'
-
-  - title: 'List of virtual talks, seminars, forums'
-    date: '05/09/20'
-    subtitle: 'Developmental biology and adjacent.'
-    body: 'Various organizations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded. <br>
-    <strong>This is an incomplete list of online seminars:</strong><br><br>
-    <strong>Vertebrate Gastrulation Zoom Talks:&nbsp;</strong>&nbsp;<a href="https://twitter.com/VGZT2020_21" target="_blank">https://twitter.com/VGZT2020_21</a><br>
-    <strong>World Wide Neuro Devel &ndash; Neuroscience seminars online:</strong>&nbsp;<a href="https://www.world-wide.org/Neuro/WWNDev/" target="_blank">https://www.world-wide.org/Neuro/WWNDev/</a><br>
-    <strong>International Zebrafish Society Webinars</strong>: &nbsp;<a href="https://www.izfs.org/education/webinars" target="_blank">https://www.izfs.org/education/webinars</a><br>
-    <strong>Development presents&hellip; :&nbsp;</strong><a href="https://thenode.biologists.com/devpres/" target="_blank">https://thenode.biologists.com/devpres/</a><br>
-    <strong>List at The Node:&nbsp;</strong><a href="https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/">https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/</a><br>
-    <strong>List at SFBD:</strong>&nbsp;<a href="https://sfbd.fr/en/online-events/" target="_blank">https://sfbd.fr/en/online-events/</a><br>
-    <strong>SDB&nbsp;Postdoctoral Seminar</strong>:&nbsp;<a href="https://www.sdbonline.org/sdb_postdoctoral_seminar_series" target="_blank">https://www.sdbonline.org/sdb_postdoctoral_seminar_series</a><br>
-    <strong>Cell Migration Seminars:</strong>&nbsp;<a href="https://cellmigration.wixsite.com/seminars" target="_blank">https://cellmigration.wixsite.com/seminars</a><br>
-    <strong>Stowers Research Conferences</strong>&nbsp;<a href="https://www.stowers.org/conferences" target="_blank">https://www.stowers.org/conferences</a><br>
-    <strong>Neural Crest Research Colloquia (NCRC)</strong>&nbsp;<a href="https://www.devbiorna.com/neural-crest-research-colloquia" target="_blank">https://www.devbiorna.com/neural-crest-research-colloquia</a><br>
-    <strong>ANS Developmental Neuroscience Forum</strong>&nbsp;<a href="https://www.ans.org.au/meetings-events/australasian-developmental-neuroscience-forum-adnf" target="_blank">https://www.ans.org.au/meetings-events/australasian-developmental-neuroscience-forum-adnf</a>'
-    imageSm: '../img/news/onlinetalks-sm.jpg'
-    imageBg: '../img/news/onlinetalks-bg.jpg'
-    URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
 
   - title: 'Virtual LASDB-SMBD Meeting 2021'
     date: '20/11/20'
