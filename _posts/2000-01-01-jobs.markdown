@@ -6,6 +6,16 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoctoral Position: Transcriptional and Epigenetic Control of Organ Morphogenesis in Development, Evolution, and Disease'
+    date: '14/1/22'
+    subtitle: 'Selleri lab, UCSF, CA, USA'
+    body: 'Positions for highly motivated postdocs are available in the laboratory of Dr. Licia Selleri in the Institute for Human Genetics of the University of California, San Francisco. We study the epigenetic and transcriptional regulation of morphogenesis in development, evolution, and disease. To this end, we use genome-wide, systems biology approaches coupled with in vivo imaging, leveraging the strengths of different organismal systems, including mouse, chick, pig, and human embryos. A special focus is on organogenesis of the craniofacial & appendicular skeleton (Some relevant papers during the past 10 years: Vitobello et al, Dev. Cell 2011; Ferretti et al, Dev. Cell 2011; Koss et al, Dev Cell 2012; Handschuh et al, Cell Reports 2014; Vierstra J & Mouse ENCODE Consortium, Science 2014; Cheng & Mouse ENCODE Consortium, Nature 2014; Yue & Mouse ENCODE Consortium, Nature 2014; Prescott et al, Cell 2015; Losa et al, Development 2018; Samuels & FaceBase Consortium, Development 2020; Cozzitorto et al, Dev Cell 2020; Long et al, Cell Stem Cell 2020).<br>
+The project for the available position will be aimed at understanding the cellular, genetic, and regulatory mechanisms underlying face morphogenesis using mouse and human embryos. The successful candidate will also have the opportunity to participate in an ongoing collaboration with the group of Dr. Axel Visel at the Lawrence Berkeley National Laboratory (LBNL), based on a recently funded collaborative R01 grant focused on the characterization of enhancer variants, identified at the single-cell resolution, which are associated with human craniofacial malformations.'
+    par2: 'Candidates must hold a PhD degree in genetics, molecular biology, biochemistry, or relevant field. The ideal candidate should have strong interests in gene regulation in morphogenesis and/or evo-devo. Bioinformatic skills and experience in next generation sequencing are desirable. Our lab is located within the stimulating scientific environment of UCSF on the Parnassus Campus, within one of the strongest US communities devoted to the study of craniofacial development, the UCSF Program in Craniofacial Biology. Our group has also established collaborations with other outstanding laboratories that focus on craniofacial development in the Bay Area, both at Stanford and at the LBNL. It is of note that the UC system recently adjusted its compensation guidelines to provide highly competitive postdoc salary. <br>
+Qualified applicants should send their CV, a brief description (less than 1 page) of research experience and interests, a statement of career goals, and contacts of three referees to Licia.Selleri@ucsf.edu <br>  
+<a href="https://selleri.ucsf.edu/" target="_blank">https://selleri.ucsf.edu/</a> </a>'
+    URL: 'https://t.co/xgFVYXVTJn'
+
   - title: 'Post doc position  - Cardoso Lab'
     date: '14/1/22'
     subtitle: 'Columbia Center for Human Development (CCHD), Columbia University, NY, USA'
