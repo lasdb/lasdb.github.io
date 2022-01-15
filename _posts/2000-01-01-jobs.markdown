@@ -6,6 +6,17 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Post doc position  - Cardoso Lab'
+    date: '14/1/22'
+    subtitle: 'Columbia Center for Human Development (CCHD), Columbia University, NY, USA'
+    body: 'A postdoctoral position is available immediately at the Cardoso Lab to investigate SARS-CoV-2 -host interactions in the respiratory system. We are looking for candidates (MD, PhD or both) with skills in molecular-cell biology, culture  of primary cells, immunofluorescence/confocal microscopy and single cell analysis approaches. Candidates with experience in informatics and  flow cytometry are strongly encouraged to apply, although not a requirement. The successful candidate will conduct studies to identify targets of SARS-CoV-2 in the airway epithelium and  perform drug screen to revert viral-induced programs as a collaborative project of the Cardoso lab (CCHD, Columbia) with the Califano (Systems Biology, Columbia) and Garcia-Sastre labs (Mount Sinai).  Career development potential and opportunities are high.'
+    par2: 'Please contact: Wellington V. Cardoso, MD, PhD <br>
+Professor of Medicine and Genetics and Development. Associate Vice-Chair for Research and Director of Interdisciplinary Programs, Department of Medicine.  Columbia Center for Human Development (Founding Director). Division of Pulmonary, Allergy and Critical Care Medicine. Columbia University Medical Center, New York, NY, USA. <br>
+Email: wvc2104@cumc.columbia.edu <br>  
+<a href="https://www.cardosolabcolumbia.com" target="_blank">https://www.cardosolabcolumbia.com</a> <br>
+<a href="http://cchd.columbiamedicine.org/about.html" target="_blank">http://cchd.columbiamedicine.org/about.html</a>'
+    URL: 'https://www.cardosolabcolumbia.com'
+
   - title: 'Postdoctoral Position Neural development, Stem cells'
     date: '4/6/21'
     subtitle: 'Mazzoni lab, NYU, New York, USA'
