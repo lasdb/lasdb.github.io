@@ -6,6 +6,22 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Junior postdoc position in embryo development and morphogenesis'
+    date: '20/1/22'
+    subtitle: 'Ravasio, Rudge, Cerda, Bertocchi and Concha labs. PUC y UCh, Chile'
+    body: 'Full project title: Early embryo development and morphogenesis <br>
+Leadership: Andrea Ravasio, Miguel Concha, Mauricio Cerda, Cristina Bertocchi and Tim Rudge, <br>
+Institutions: Pontifical Universidad Católica de Chile and Universidad de Chile. Santiago de Chile, Chile <br>
+Collaborating Institutes: CNRS (France), Centre for Genomic Regulation (Barcelona, Spain), Max Planck Institute Heidelberg (Germany), Weizmann Inst. (Israel), Nagoya
+University (Japan), Mechanobiology Institute of Singapore, James Hutton Institute (UK), <br>
+Salary range: Competitive, commensurate with category level and experience <br>
+Vacancies deadline: Open until filled – only selected candidates will be notified <br>
+Project: The project seeks highly motivated and creative individuals to participate in an exciting interdisciplinary project aimed at understanding the morphogenetic basis of early embryo formation in the annual killifish. The proper organization of embryonic tissues and the execution of developmental processes depend on the ability of cells to migrate in a coordinated manner, a process that is guided by chemical and physical cues from the environment. Our goal is to understand the morphogenetic and mechanical determinants that drive this process during exit formation using state-of-theart in vivo imaging based on light-sheet, spinning-disk and confocal microscopy combined with image analysis, embryo manipulation and ex vivo approaches. The successful candidate will work in an exciting interdisciplinary and international environment.'
+    par2: 'Position: We are looking for a junior postdoc (PhD obtained after January 2019), ideally with experience in cell/developmental biology and/or microscopy, although candidates from related disciplines are also welcome. A good level of written and spoken English is required.<br>
+To apply please send an email to and.ravasio@gmail.com including a letter of interest, Curriculum Vitae and a short description of previous experience. Please include a short description of the most relevant papers you have published explaining how the previous experience is relevant to this call. Please use the subject ¨anillo-2022-application¨ in your email to avoid being directed to the spam. Applications must be in English. <br>
+For more information and for any questions, do not hesitate to contact us at and.ravasio@gmail.com '
+    URL: 'http://lasdb-development.org/pdfs/2022-CallPostdocMechanobiologyDevelopment.pdf'
+
   - title: 'Postdoctoral Position: Transcriptional and Epigenetic Control of Organ Morphogenesis in Development, Evolution, and Disease'
     date: '14/1/22'
     subtitle: 'Selleri lab, UCSF, CA, USA'
@@ -73,6 +89,14 @@ Candidates interested in the available Professional Research Assistant positions
     <a href="https://cu.taleo.net/careersection/2/jobdetail.ftl?job=20638&lang=en" target="_blank">https://cu.taleo.net/careersection/2/jobdetail.ftl?job=20638&lang=en</a>'
     URL: 'http://lasdb-development.org/pdfs/2021-Postdoc_PRA-UColorado.pdf'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
   - title: 'Junior postdoc positions in embryo development and mechanobiology'
     date: '6/4/21'
     subtitle: 'Ravasio, Rudge, Cerda, Bertocchi and Concha labs. PUC y UCh, Chile'
@@ -81,14 +105,6 @@ Candidates interested in the available Professional Research Assistant positions
     par2: 'We are looking a junior research fellow (postdoc) to work in strongly interconnected teams. Highly motivated individuals with background in either one of the following disciplines cell biology, development and/or microscopy are strongly encouraged to apply. Previous experience with one or more of the following topics will be an advantage: cell biology, developmental biology, mechanobiology, microscopy and image analysis. A good level of written and spoken English is necessary.<br>
     To apply please send an email to mconcha@uchile.cl including a letter of interest, Curriculum Vitae and a short description of previous experience. Please include a short description of the most relevant papers you have published explaining how their previous experience is relevant to this call. Please use the subject ¨anillo-2020-application¨ in your email to avoid being directed to the spam. Applications must be in English. For more information and for any questions, do not hesitate to contact us at mconcha@uchile.cl.'
     URL: 'http://lasdb-development.org/pdfs/2021-CallPostdocMechanobiologyDevelopment_MC.pdf'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Postdoc in polyploidy: from cell physiology to tissue-scale effects of nuclear structure'
     date: '11/01/21'
