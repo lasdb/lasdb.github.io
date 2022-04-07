@@ -6,18 +6,6 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'Join the Latin America Developmental Biologists Network'
-    date: '1/7/21'
-    subtitle: 'Complete your profile'
-    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
-We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
-The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
-A search engine will be publicly available soon. <br>
-<a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank"> >> Fill the form here</a>' 
-    imageSm: 'img/news/map-sm.jpg'
-    imageBg: '../img/news/map-bg.jpg'
-    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
-
   - title: '2022 ISDB Congress'
     date: '12/4/21'
     subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
@@ -29,27 +17,25 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/ISDB2022-bg.jpg'
     URL: 'https://isdb2021.com/'
 
-  - title: 'MBL Embryology Course 2022  at Woods Hole'
-    date: '15/11/21'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 5-July 18, 2022. <br>Application deadline: February 1, 2022'
-    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
-    imageSm: 'img/news/mbl2-sm.jpg'
-    imageBg: '../img/news/mbl-bg.jpg'
-    URL: 'http://www.mbl.edu/education/courses/embryology/'
+  - title: 'Pew Latin America Postdoctoral Fellowships 2023'
+    date: '7/4/22'
+    subtitle: 'Deadline: August 17, 2022'
+    body: 'The Pew Latin American Fellows Program in the Biomedical Sciences provides support for young scientists from Latin America to receive postdoctoral training in the United States. The program gives these individuals an opportunity to further their scientific knowledge by promoting exchange and collaboration between investigators in the United States and Latin America resulting in advances in research in Latin America. Applications must be submitted electronically by Aug. 17, 2022.'
+    imageSm: 'img/news/pew-sm.jpg'
+    imageBg: '../img/news/pew-bg.jpg'
+    URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
 
-  - title: 'MBL Advanced Research Training Courses'
-    date: '15/11/21'
-    subtitle: 'Reproduction and Development. <br> 2022 Course Schedule '
-    body: 'Students are empowered to pursue science at the very highest levels and work directly with outstanding faculty from around the world, day after day, pursuing novel experiments that test new ideas and foster a globe-spanning network of collaboration. <br>
-    Frontiers in Reproduction: Molecular and Cellular Concepts and Applications. April 30-June 12 <br>
-    Embryology: Concepts and Techniques in Modern Developmental Biology. June 5-July 18 <br>
-    Workshop on Molecular Evolution. May 27-June 6<br>
-    Zebrafish Development and Genetics. July 28-August 11<br>
-    Frontiers in Stem Cells and Regeneration. October 2-October 9<br>
-    Gene Regulatory Networks for Development. October 9-October 22'
-    imageSm: 'img/news/mbl2-sm.jpg'
-    imageBg: '../img/news/mbl2-bg.jpg'
-    URL: 'https://www.mbl.edu/education/courses/'
+  - title: 'Join the Latin America Developmental Biologists Network'
+    date: '1/7/21'
+    subtitle: 'Complete your profile'
+    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
+We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
+The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
+A search engine will be publicly available soon. <br>
+<a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank"> >> Fill the form here</a>' 
+    imageSm: 'img/news/map-sm.jpg'
+    imageBg: '../img/news/map-bg.jpg'
+    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
 
   - title: 'EMBO Practical Course in Developmental Biology'
     date: '8/2/21'
@@ -83,6 +69,42 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/onlinetalks-bg.jpg'
     URL: 'https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/'
 
+  - title: 'MBL Embryology Course 2022  at Woods Hole'
+    date: '15/11/21'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. June 5-July 18, 2022. <br>Application deadline: February 1, 2022'
+    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Carole LaBonne, Northwestern University; and David Sherwood, Duke University'
+    imageSm: 'img/news/mbl2-sm.jpg'
+    imageBg: '../img/news/mbl-bg.jpg'
+    URL: 'http://www.mbl.edu/education/courses/embryology/'
+
+  - title: 'MBL Advanced Research Training Courses'
+    date: '15/11/21'
+    subtitle: 'Reproduction and Development. <br> 2022 Course Schedule '
+    body: 'Students are empowered to pursue science at the very highest levels and work directly with outstanding faculty from around the world, day after day, pursuing novel experiments that test new ideas and foster a globe-spanning network of collaboration. <br>
+    Frontiers in Reproduction: Molecular and Cellular Concepts and Applications. April 30-June 12 <br>
+    Embryology: Concepts and Techniques in Modern Developmental Biology. June 5-July 18 <br>
+    Workshop on Molecular Evolution. May 27-June 6<br>
+    Zebrafish Development and Genetics. July 28-August 11<br>
+    Frontiers in Stem Cells and Regeneration. October 2-October 9<br>
+    Gene Regulatory Networks for Development. October 9-October 22'
+    imageSm: 'img/news/mbl2-sm.jpg'
+    imageBg: '../img/news/mbl2-bg.jpg'
+    URL: 'https://www.mbl.edu/education/courses/'
+
+  - title: 'The International Journal of Developmental Biology'
+    date: '27/3/21'
+    subtitle: 'Special Issue: Developmental Biology in Ibero-America'
+    body: 'The International Journal of Developmental Biology has already published the Special Issue Developmental Biology in Ibero-America. <br>
+The First Part of Developmental Biology in Ibero-America Special Issue contains articles on the History of LASDB, the Quintay Devel Biol Course, as well as the trajectory and history of the research in Developmental Biology in several Iberoamerican countries. This issue also includes Interviews and personal reminiscences. <br>
+The Second Part - Research in Ibero-America contains research articles from groups in Latin America. <br>
+We thank Eugenia del Pino for coordinating this special issue. <br><br>
+Articles can be accessed at: <br>
+    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/1-2-3" target="_blank">IJDB-IberoAmerica Special Issue-Part 1</a> <br>
+    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/4-5-6" target="_blank">IJDB-IberoAmerica Special Issue-Part 2</a> <br>' 
+    imageSm: 'img/news/IJDBissue-sm.jpg'
+    imageBg: '../img/news/IJDBissue-bg.jpg'
+    URL: 'http://www.ijdb.ehu.es/web/'
+
   - title: 'Pew Latin America Postdoctoral Fellowships 2022'
     date: '16/4/21'
     subtitle: 'Deadline: August 25, 2021'
@@ -102,29 +124,6 @@ More information is available at the ISDB webpage.'
     imageSm: 'img/news/Wolpert-sm.jpg'
     imageBg: '../img/news/Wolpert-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/ucl-cdb-seminars-lewis-wolpert-memorial-lecture-tickets-141828929145'
-
-  - title: 'The International Journal of Developmental Biology'
-    date: '27/3/21'
-    subtitle: 'Special Issue: Developmental Biology in Ibero-America'
-    body: 'The International Journal of Developmental Biology has already published the Special Issue Developmental Biology in Ibero-America. <br>
-The First Part of Developmental Biology in Ibero-America Special Issue contains articles on the History of LASDB, the Quintay Devel Biol Course, as well as the trajectory and history of the research in Developmental Biology in several Iberoamerican countries. This issue also includes Interviews and personal reminiscences. <br>
-The Second Part - Research in Ibero-America contains research articles from groups in Latin America. <br>
-We thank Eugenia del Pino for coordinating this special issue. <br><br>
-Articles can be accessed at: <br>
-    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/1-2-3" target="_blank">IJDB-IberoAmerica Special Issue-Part 1</a> <br>
-    <a href="http://www.ijdb.ehu.es/web/issues/contents/vol/65/issue/4-5-6" target="_blank">IJDB-IberoAmerica Special Issue-Part 2</a> <br>' 
-    imageSm: 'img/news/IJDBissue-sm.jpg'
-    imageBg: '../img/news/IJDBissue-bg.jpg'
-    URL: 'http://www.ijdb.ehu.es/web/'
-
-  - title: 'Virtual LASDB-SMBD Meeting 2021'
-    date: '20/11/20'
-    subtitle: ''
-    body: 'For 2021 we will be co-organizing the XI LASDB Meeting together with the SMBD (Sociedad Mexicana de Biología del Desarrollo), that will be entirely virtual. <br>
- Information will be available soon!'
-    imageSm: '../img/news/smbd-lasdb-sm.jpg'
-    imageBg: '../img/news/smbd-lasdb-bg.jpg'
-    URL: ''
 
   - title: 'The Node Network'
     date: '5/17/21'
