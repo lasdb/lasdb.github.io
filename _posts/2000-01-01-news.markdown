@@ -29,6 +29,16 @@ More information is available at the ISDB webpage.'
     imageBg: '../img/news/ISDB2022-bg.jpg'
     URL: 'https://isdb2021.com/'
 
+  - title: 'Eugenia del Pino receives the Lifetime Achievement Award from Society for Developmental Biology'
+    date: '28/3/22'
+    subtitle: ''
+    body: 'Congratulations to Eugenia del Pino (Pontificia Universidad del Ecuador, PUCE) on receiving the 2022 Lifetime Achievement Award from the Society for Developmental Biology for her pioneering studies on development in terrestrial & aquatic frogs enhancing our understanding of evolution & development in amphibians. <br>
+SDB confers this award to senior developmental biologists in recognition of their outstanding and sustained contributions in the field, exceptional mentoring and service to the scientific community.' 
+    imageSm: 'img/news/delPinoSDB-sm.jpg'
+    imageBg: '../img/news/delPinoSDB-bg.jpg'
+    URL: 'https://www.sdbonline.org/lifetime_achievement_award'
+
+
   - title: 'Frontiers in Stem Cells & Regeneration'
     date: '7/6/22'
     subtitle: '2-9 October 2023, Woods Hole, MA, USA <br>
