@@ -18,6 +18,14 @@ news:
     imageBg: '../img/news/Quintay2023-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
+  - title: 'Course: Small Brains, Big Ideas'
+    date: '23/6/22'
+    subtitle: 'Chile, October 20-28, 2022. Deadline: July 15th, 2022'
+    body: 'The “Small Brains, Big Ideas” course is aimed at students and early stage investigators who need to gain first hand experience in the use of these invertebrate model systems. Application period ends July 15th, 2022. Updated information can be found at the course webpage'
+    imageSm: 'img/news/small-brains-2022-sm.jpg'
+    imageBg: '../img/news/small-brains-2022-bg.jpg'
+    URL: 'http://smallbrains.org/'
+
   - title: '2022 ISDB Congress'
     date: '12/4/21'
     subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
