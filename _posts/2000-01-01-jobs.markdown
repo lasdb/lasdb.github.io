@@ -15,7 +15,7 @@ For information about our lab and ongoing projects: <br>
 <a href="https://www.nature.com/articles/s41586-020-2998-x" target="_blank">https://www.nature.com/articles/s41586-020-2998-x</a> <br>
 <a href="https://www.science.org/doi/10.1126/sciadv.abe7359" target="_blank">https://www.science.org/doi/10.1126/sciadv.abe7359</a>'
     par2: 'Candidates should have a recently obtained PhD or MD degree and have experience working with mouse models.<br> 
-Interested individuals email their CV and brief description of research interests to: Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliverenorthwestern.edu<br>'
+Interested individuals email their CV and brief description of research interests to: Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliver@northwestern.edu<br>'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
   - title: 'Junior postdoc position in embryo development and morphogenesis'
