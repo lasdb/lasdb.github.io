@@ -18,6 +18,28 @@ news:
     imageBg: '../img/news/Quintay2023-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
+  - title: 'Company of Biologists: Propose a Global South Workshops for 2024'
+    date: '2/6/22'
+    subtitle: 'Deadline for Workshop proposals: Friday 29 July 2022'
+    body: 'NEWS FROM COMPANY OF BIOLOGISTS / DEVELOPMENT: <br>
+    In 2024 we will be looking to diversify our Workshop programme so that we are able to support a wider selection of research communities around the world. <br>
+To help us to achieve this goal, we will be reserving one of our 2024 Workshops for an application from a Global South (GS) country to host an event overseas. Our aim is to provide easier access for The Company of Biologists Workshops, bringing together world class scientists from home and abroad, and giving opportunities to local early-career researchers to attend.<br>
+For your application to qualify for this funding, you will need to be applying to host the Workshop in one of the GS countries listed here: <br>
+<a href="http://www.fc-ssc.org/en/partnership_program/south_south_countries" target="_blank">http://www.fc-ssc.org/en/partnership_program/south_south_countries</a><br>
+To be successful, we will be looking for applications that include the following: <br>
+* At least one organiser who is based in host region to act as a local contact throughout<br>
+* Recommendations for a local venue to host the Workshop <br>
+* Recommendations for accommodation and food for all attendees <br>
+* An explanation of how this Workshop will benefit scientific research in your region <br>
+* The focus should be on cutting-edge scientific research in topic areas that are novel and not covered by traditional conferences <br>
+* Proposals that concentrate on emerging or cross-disciplinary themes are particularly encouraged <br>
+Organisers should be experts in their field, or have sufficient standing to attract world-class speakers and attendees. Each Workshop will consist of 35 delegates including 15 speakers and 20 early-career researchers (places to be applied for). Proposers should ensure maximum diversity in the proposed attendee list. <br>
+As the scientific organiser, your involvement will be focused on the science. We will undertake most of the logistical arrangements, liaise with the venue, organise speaker travel and assist with the programme construction. We hope to work closely with our local contact to help put on the best possible Workshop for all of our attendees, so we would welcome any local knowledge and support to make the event a success. We may also require some assistance in finding local suppliers and technical support for the event in some cases. <br>
+The Workshop will be entirely funded by The Company of Biologists, including all accommodation, venue and travel costs throughout the event. We will also provide travel bursaries for qualifying early-career researchers to help them get to the Workshop.'
+    imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
+    imageBg: '../img/news/South-Workshop-CoB-bg.jpg'
+    URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
+
   - title: 'Course: Small Brains, Big Ideas'
     date: '23/6/22'
     subtitle: 'Chile, October 20-28, 2022. Deadline: July 15th, 2022'
