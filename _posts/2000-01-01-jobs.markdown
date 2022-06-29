@@ -55,6 +55,14 @@ Email: wvc2104@cumc.columbia.edu <br>
 <a href="http://cchd.columbiamedicine.org/about.html" target="_blank">http://cchd.columbiamedicine.org/about.html</a>'
     URL: 'https://www.cardosolabcolumbia.com'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
   - title: 'Postdoctoral Position Neural development, Stem cells'
     date: '4/6/21'
     subtitle: 'Mazzoni lab, NYU, New York, USA'
@@ -100,14 +108,6 @@ Interested individuals should send their curriculum vitae, a brief description o
 Guillermo Oliver, Ph.D. Thomas Spies Professor of Lymphatic Metabolism. Director Center for Vascular and Devel. Biology. Northwestern University Feinberg School of Medicine. Chicago, Illinois, USA.<br>
 Email: guillermo.oliver@northwestern.edu'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Junior postdoc positions in embryo development and mechanobiology'
     date: '6/4/21'
