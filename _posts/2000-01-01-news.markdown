@@ -66,8 +66,8 @@ More information is available at the ISDB webpage.'
     subtitle: ''
     body: 'Congratulations to Eugenia del Pino (Pontificia Universidad del Ecuador, PUCE) on receiving the 2022 Lifetime Achievement Award from the Society for Developmental Biology for her pioneering studies on development in terrestrial & aquatic frogs enhancing our understanding of evolution & development in amphibians. <br>
 SDB confers this award to senior developmental biologists in recognition of their outstanding and sustained contributions in the field, exceptional mentoring and service to the scientific community. <br>
-<a href="Article in TWAS" target="_blank">https://twas.org/article/building-career-through-ecuadorian-frogs</a><br>
-<a href="SDB Lifetiem Achivement Awards" target="_blank">https://www.sdbonline.org/lifetime_achievement_award</a><br>' 
+<a href="https://twas.org/article/building-career-through-ecuadorian-frogs" target="_blank">Article in TWAS</a><br>
+<a href="https://www.sdbonline.org/lifetime_achievement_award" target="_blank">SDB Lifetiem Achivement Awards</a><br>' 
     imageSm: 'img/news/delPinoSDB-sm.jpg'
     imageBg: '../img/news/delPinoSDB-bg.jpg'
     URL: 'https://www.sdbonline.org/lifetime_achievement_award'
