@@ -36,8 +36,8 @@ To be successful, we will be looking for applications that include the following
 Organisers should be experts in their field, or have sufficient standing to attract world-class speakers and attendees. Each Workshop will consist of 35 delegates including 15 speakers and 20 early-career researchers (places to be applied for). Proposers should ensure maximum diversity in the proposed attendee list. <br>
 As the scientific organiser, your involvement will be focused on the science. We will undertake most of the logistical arrangements, liaise with the venue, organise speaker travel and assist with the programme construction. We hope to work closely with our local contact to help put on the best possible Workshop for all of our attendees, so we would welcome any local knowledge and support to make the event a success. We may also require some assistance in finding local suppliers and technical support for the event in some cases. <br>
 The Workshop will be entirely funded by The Company of Biologists, including all accommodation, venue and travel costs throughout the event. We will also provide travel bursaries for qualifying early-career researchers to help them get to the Workshop.<br>
-<a href="https://www.biologists.com/workshops/propose-new-workshop/#global_south" target="_blank">More information and applications</a><br>
-<a href="https://www.biologists.com/stories/reasons-to-organise-a-workshop/" target="_blank">Article Reasons to organise a Workshop</a>'
+<a href="https://www.biologists.com/workshops/propose-new-workshop/#global_south" target="_blank">More information and applications: https://www.biologists.com/workshops/propose-new-workshop/#global_south</a><br>
+<a href="https://www.biologists.com/stories/reasons-to-organise-a-workshop/" target="_blank">Article Reasons to organise a Workshop: https://www.biologists.com/stories/reasons-to-organise-a-workshop/</a>'
     imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
     imageBg: '../img/news/South-Workshop-CoB-bg.jpg'
     URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
