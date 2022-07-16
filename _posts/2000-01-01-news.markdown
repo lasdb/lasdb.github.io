@@ -83,15 +83,6 @@ SDB confers this award to senior developmental biologists in recognition of thei
     imageBg: '../img/news/delPinoSDB-bg.jpg'
     URL: 'https://www.sdbonline.org/lifetime_achievement_award'
 
-  - title: 'Frontiers in Stem Cells & Regeneration'
-    date: '7/6/22'
-    subtitle: '2-9 October 2023, Woods Hole, MA, USA <br>
-    Deadline for applications: July 5, 2022.'
-    body: 'The Frontiers in Stem Cells and Regeneration Course is a laboratory and lecture based course that includes a complete array of biological and medical perspectives from fundamental basic biology of “stemness” and mechanisms of regeneration through evaluation of pluripotent stem cells for therapeutic benefit. This dynamic, evolving course features world class lectures from experts in stem cells and regeneration biology, including a keynote Pioneer Lecture delivered by a leading expert. The laboratories explore a variety of timely topics including stem cell derivation, pluripotency, directed differentiation, and spinal cord and limb regeneration, using an array of experimental models ranging from planarians to human stem cells.' 
-    imageSm: 'img/news/MBL_stem&regen2022-sm.jpg'
-    imageBg: '../img/news/MBL_stem&regen2022-bg.jpg'
-    URL: 'https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/frontiers-stem-cells-regeneration'
-
   - title: 'Pew Latin America Postdoctoral Fellowships 2023'
     date: '7/4/22'
     subtitle: 'Deadline: August 17, 2022'
@@ -111,6 +102,15 @@ A search engine will be publicly available soon. <br>
     imageSm: 'img/news/map-sm.jpg'
     imageBg: '../img/news/map-bg.jpg'
     URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
+
+  - title: 'Frontiers in Stem Cells & Regeneration'
+    date: '7/6/22'
+    subtitle: '2-9 October 2023, Woods Hole, MA, USA <br>
+    Deadline for applications: July 5, 2022.'
+    body: 'The Frontiers in Stem Cells and Regeneration Course is a laboratory and lecture based course that includes a complete array of biological and medical perspectives from fundamental basic biology of “stemness” and mechanisms of regeneration through evaluation of pluripotent stem cells for therapeutic benefit. This dynamic, evolving course features world class lectures from experts in stem cells and regeneration biology, including a keynote Pioneer Lecture delivered by a leading expert. The laboratories explore a variety of timely topics including stem cell derivation, pluripotency, directed differentiation, and spinal cord and limb regeneration, using an array of experimental models ranging from planarians to human stem cells.' 
+    imageSm: 'img/news/MBL_stem&regen2022-sm.jpg'
+    imageBg: '../img/news/MBL_stem&regen2022-bg.jpg'
+    URL: 'https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/frontiers-stem-cells-regeneration'
 
   - title: 'List of virtual talks, seminars, forums'
     date: '05/09/20'
