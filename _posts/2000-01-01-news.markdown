@@ -61,6 +61,17 @@ The Workshop will be entirely funded by The Company of Biologists, including all
     imageBg: '../img/news/small-brains-2022-bg.jpg'
     URL: 'http://smallbrains.org/'
 
+  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
+    date: '15/7/22'
+    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
+    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
+More information will be available soon in the webpage and social networks <br>
+Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
+Twitter @tallerBCD: https://twitter.com/tallerBCD '
+    imageSm: 'img/news/chascomus2022-sm.jpg'
+    imageBg: '../img/news/chascomus2022-bg.jpg'
+    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+
   - title: '2022 ISDB Congress'
     date: '12/4/21'
     subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
