@@ -8,14 +8,13 @@ news:
 
   - title: '2022 ISDB Meeting'
     date: '14/7/21'
-    subtitle: 'Discount on early registration for LASDB members'
+    subtitle: 'Discount on early registration for LASDB members. Early registration ends July 29.'
     body: 'There’s only one week left to the #ISDB2021 𝗲𝗮𝗿𝗹𝘆 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 deadline! As a member of LASDB you will get an 𝗲𝘅𝘁𝗿𝗮 €100 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁.<br>
     To renew or activate your LASDB membership follow this link:
     <a href="http://lasdb-development.org/pages/pay-annual-dues.html" target="_blank">LASDB Membership: http://lasdb-development.org/pages/pay-annual-dues.html</a>'
     imageSm: '../img/news/ISDB-regist-sm.jpg'
     imageBg: '../img/news/ISDB-regist-bg.jpg'
     URL: 'https://isdb2021.com/'
-
 
   - title: 'EMBO Practical Course in Developmental Biology'
     date: '7/4/22'
@@ -53,13 +52,15 @@ The Workshop will be entirely funded by The Company of Biologists, including all
     imageBg: '../img/news/South-Workshop-CoB-bg.jpg'
     URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
 
-  - title: 'Course: Small Brains, Big Ideas'
-    date: '23/6/22'
-    subtitle: 'Chile, October 20-28, 2022. Deadline: July 31st, 2022'
-    body: 'The “Small Brains, Big Ideas” course is aimed at students and early stage investigators who need to gain first hand experience in the use of these invertebrate model systems. Application was extended until July 31st, 2022. Updated information can be found at the course webpage'
-    imageSm: 'img/news/small-brains-2022-sm.jpg'
-    imageBg: '../img/news/small-brains-2022-bg.jpg'
-    URL: 'http://smallbrains.org/'
+  - title: 'A Meeting in Memory of Lewis Wolpert'
+    date: '23/7/22'
+    subtitle: '13th-14th September 2022. Attendance is free for all.'
+    body: 'Join us, on-line or in person, for two days of talks celebrating Lewis's extraordinary life and achievements, beginning with Lewis the man and continuing with his scientific contributions. The meeting is supported by the British Society for Developmental Biology.<br>
+    Register now to attend one or both days, in person or online. Attendance is free for all.
+    Follow the link below: '
+    imageSm: 'img/news/Wolpert2022-sm.jpg'
+    imageBg: '../img/news/Wolpert2022-bg.jpg'
+    URL: 'https://www.eventbrite.co.uk/e/in-memory-of-lewis-wolpert-tickets-168940620945'
 
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
     date: '15/7/22'
@@ -71,6 +72,14 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageSm: 'img/news/chascomus2022-sm.jpg'
     imageBg: '../img/news/chascomus2022-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+
+  - title: 'Course: Small Brains, Big Ideas'
+    date: '23/6/22'
+    subtitle: 'Chile, October 20-28, 2022. Deadline: July 31st, 2022'
+    body: 'The “Small Brains, Big Ideas” course is aimed at students and early stage investigators who need to gain first hand experience in the use of these invertebrate model systems. Application was extended until July 31st, 2022. Updated information can be found at the course webpage'
+    imageSm: 'img/news/small-brains-2022-sm.jpg'
+    imageBg: '../img/news/small-brains-2022-bg.jpg'
+    URL: 'http://smallbrains.org/'
 
   - title: '2022 ISDB Congress'
     date: '12/4/21'
