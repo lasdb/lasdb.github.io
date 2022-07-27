@@ -56,7 +56,7 @@ The Workshop will be entirely funded by The Company of Biologists, including all
     date: '23/7/22'
     subtitle: '13th-14th September 2022. Attendance is free for all.'
     body: 'Join us, on-line or in person, for two days of talks celebrating Lewis's extraordinary life and achievements, beginning with Lewis the man and continuing with his scientific contributions. The meeting is supported by the British Society for Developmental Biology.<br>
-    Register now to attend one or both days, in person or online. Attendance is free for all.
+    Register now to attend one or both days, in person or online. Attendance is free for all.<br>
     Follow the link below: '
     imageSm: 'img/news/Wolpert2022-sm.jpg'
     imageBg: '../img/news/Wolpert2022-bg.jpg'
