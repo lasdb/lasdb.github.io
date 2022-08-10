@@ -6,6 +6,39 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'EMBO Practical Course in Developmental Biology'
+    date: '7/4/22'
+    subtitle: '4-16 January 2023, CIMARQ-Quintay, Chile. <br>
+    Deadline for applications: 15th August 2022.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 15th August 2022. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
+    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
+    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
+    imageSm: 'img/news/Quintay2023-sm.jpg'
+    imageBg: '../img/news/Quintay2023b-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
+
+  - title: 'A Meeting in Memory of Lewis Wolpert'
+    date: '23/7/22'
+    subtitle: '13th-14th September 2022. Attendance is free for all.'
+    body: 'Join us, on-line or in person, for two days of talks celebrating Lewiss extraordinary life and achievements, beginning with Lewis the man and continuing with his scientific contributions. The meeting is supported by the British Society for Developmental Biology.<br>
+    Register now to attend one or both days, in person or online. Attendance is free for all.<br>
+    Follow the link below: '
+    imageSm: 'img/news/Wolpert2022-sm.jpg'
+    imageBg: '../img/news/Wolpert2022-bg.jpg'
+    URL: 'https://www.eventbrite.co.uk/e/in-memory-of-lewis-wolpert-tickets-168940620945'
+
+  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
+    date: '15/7/22'
+    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
+    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
+More information will be available soon in the webpage and social networks <br>
+Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
+Twitter @tallerBCD: https://twitter.com/tallerBCD '
+    imageSm: 'img/news/chascomus2022-sm.jpg'
+    imageBg: '../img/news/chascomus2022-bg.jpg'
+    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+
   - title: '2022 ISDB Meeting'
     date: '14/7/21'
     subtitle: 'Discount on early registration for LASDB members. Early registration ends July 29.'
@@ -15,18 +48,6 @@ news:
     imageSm: '../img/news/ISDB-regist-sm.jpg'
     imageBg: '../img/news/ISDB-regist-bg.jpg'
     URL: 'https://isdb2021.com/'
-
-  - title: 'EMBO Practical Course in Developmental Biology'
-    date: '7/4/22'
-    subtitle: '4-16 January 2023, CIMARQ-Quintay, Chile. <br>
-    Deadline for applications: 31st July 2022.'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 31st July 2022. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
-    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
-    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
-    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
-    imageSm: 'img/news/Quintay2023-sm.jpg'
-    imageBg: '../img/news/Quintay2023-bg.jpg'
-    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'Company of Biologists: Propose a Global South Workshops for 2024'
     date: '2/6/22'
@@ -52,27 +73,6 @@ The Workshop will be entirely funded by The Company of Biologists, including all
     imageBg: '../img/news/South-Workshop-CoB-bg.jpg'
     URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
 
-  - title: 'A Meeting in Memory of Lewis Wolpert'
-    date: '23/7/22'
-    subtitle: '13th-14th September 2022. Attendance is free for all.'
-    body: 'Join us, on-line or in person, for two days of talks celebrating Lewiss extraordinary life and achievements, beginning with Lewis the man and continuing with his scientific contributions. The meeting is supported by the British Society for Developmental Biology.<br>
-    Register now to attend one or both days, in person or online. Attendance is free for all.<br>
-    Follow the link below: '
-    imageSm: 'img/news/Wolpert2022-sm.jpg'
-    imageBg: '../img/news/Wolpert2022-bg.jpg'
-    URL: 'https://www.eventbrite.co.uk/e/in-memory-of-lewis-wolpert-tickets-168940620945'
-
-  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
-    date: '15/7/22'
-    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
-    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
-More information will be available soon in the webpage and social networks <br>
-Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
-Twitter @tallerBCD: https://twitter.com/tallerBCD '
-    imageSm: 'img/news/chascomus2022-sm.jpg'
-    imageBg: '../img/news/chascomus2022-bg.jpg'
-    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
-
   - title: 'Course: Small Brains, Big Ideas'
     date: '23/6/22'
     subtitle: 'Chile, October 20-28, 2022. Deadline: July 31st, 2022'
@@ -80,17 +80,6 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageSm: 'img/news/small-brains-2022-sm.jpg'
     imageBg: '../img/news/small-brains-2022-bg.jpg'
     URL: 'http://smallbrains.org/'
-
-  - title: '2022 ISDB Congress'
-    date: '12/4/21'
-    subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
-    body: 'The International Society of Developmental Biologists (ISDB) announced that the 19th International Congress of Developmental Biology will take place in the Algarve, Portugal on 16-20 October 2022. <br>
-We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. <br>
-The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
-More information is available at the ISDB webpage.'
-    imageSm: '../img/news/ISDB2022-sm.jpg'
-    imageBg: '../img/news/ISDB2022-bg.jpg'
-    URL: 'https://isdb2021.com/'
 
   - title: 'Eugenia del Pino receives the Lifetime Achievement Award from SDB'
     date: '28/3/22'
@@ -122,6 +111,17 @@ A search engine will be publicly available soon. <br>
     imageSm: 'img/news/map-sm.jpg'
     imageBg: '../img/news/map-bg.jpg'
     URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
+
+  - title: '2022 ISDB Congress'
+    date: '12/4/21'
+    subtitle: 'Algarve, Portugal. NEW DATE: October 16-20, 2022'
+    body: 'The International Society of Developmental Biologists (ISDB) announced that the 19th International Congress of Developmental Biology will take place in the Algarve, Portugal on 16-20 October 2022. <br>
+We hope this will be a great forum for discussions on scientific breakthroughs and emerging aspects of Developmental Biology research in a stimulating and presential environment. <br>
+The program will include Scientific Symposia on From Gastruloids to Organoids, Morphogenesis, Chromatin Dynamics & Epigenetics, Computational Modelling & Quantitative Biology, Evo-devo, Neural Development, Signaling in Development, Development, Nutrition & Metabolism, Regeneration, From Development to Disease Therapies, Robustness & Plasticity, Cell & Tissue Mechanics.
+More information is available at the ISDB webpage.'
+    imageSm: '../img/news/ISDB2022-sm.jpg'
+    imageBg: '../img/news/ISDB2022-bg.jpg'
+    URL: 'https://isdb2021.com/'
 
   - title: 'Frontiers in Stem Cells & Regeneration'
     date: '7/6/22'
