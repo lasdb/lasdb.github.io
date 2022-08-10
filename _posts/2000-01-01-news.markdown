@@ -49,6 +49,18 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageBg: '../img/news/ISDB-regist-bg.jpg'
     URL: 'https://isdb2021.com/'
 
+  - title: 'Join the Latin America Developmental Biologists Network'
+    date: '1/7/21'
+    subtitle: 'Complete your profile'
+    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
+We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
+The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
+A search engine will be publicly available soon. <br>
+<a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank"> >> Fill the form here</a>' 
+    imageSm: 'img/news/map-sm.jpg'
+    imageBg: '../img/news/map-bg.jpg'
+    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
+
   - title: 'Company of Biologists: Propose a Global South Workshops for 2024'
     date: '2/6/22'
     subtitle: 'Deadline for Workshop proposals: Friday 29 July 2022'
@@ -72,18 +84,6 @@ The Workshop will be entirely funded by The Company of Biologists, including all
     imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
     imageBg: '../img/news/South-Workshop-CoB-bg.jpg'
     URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
-
-  - title: 'Join the Latin America Developmental Biologists Network'
-    date: '1/7/21'
-    subtitle: 'Complete your profile'
-    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
-We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
-The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
-A search engine will be publicly available soon. <br>
-<a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank"> >> Fill the form here</a>' 
-    imageSm: 'img/news/map-sm.jpg'
-    imageBg: '../img/news/map-bg.jpg'
-    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
 
   - title: 'Eugenia del Pino receives the Lifetime Achievement Award from SDB'
     date: '28/3/22'
