@@ -6,6 +6,42 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'International Workshop – BioIMG Net High Resolution Microscopy Applied to Biomedical Research'
+    date: '15/9/22'
+    subtitle: '27th – 29th September, 2022. Free registration'
+    body: 'Bioimaging Network for the Advancement of Biomedical Research (BioIMG Net) and the Chan Zuckerberg Initiative (CZI) in the Expanding Global Access to Bioimaging Program. <br>
+This workshop will focus on recent advances being developed and implemented in both academic research and applied biomedical imaging. These methods are allowing researchers to obtain unprecedented three-dimensional images of tissues, cells, organelles, protein complexes and even individual molecules with applications in basic biology and medicine, as well as drug development. Imaging scientists from around the world will describe their recent work. The goal of the workshop is to make the research community aware that these methods are becoming accessible throughout South America via interactions of international networks.<br>
+The workshop and presentations will be freely open to everyone online. '
+    imageSm: 'img/news/BioImgNet-sm.jpg'
+    imageBg: '../img/news/BioImgNet-bg.jpg'
+    URL: 'http://www.microscopiamg.org.br/bioimgnet/eventos/'
+
+  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
+    date: '15/7/22'
+    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
+    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
+More information will be available soon in the webpage and social networks <br>
+Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
+Twitter @tallerBCD: https://twitter.com/tallerBCD '
+    imageSm: 'img/news/chascomus2022-sm.jpg'
+    imageBg: '../img/news/chascomus2022-bg.jpg'
+    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+
+
+
+
+  - title: 'Join the Latin America Developmental Biologists Network'
+    date: '1/7/21'
+    subtitle: 'Complete your profile'
+    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
+We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
+The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
+A search engine will be publicly available soon. <br>
+<a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank"> >> Fill the form here</a>' 
+    imageSm: 'img/news/map-sm.jpg'
+    imageBg: '../img/news/map-bg.jpg'
+    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
+
   - title: 'EMBO Practical Course in Developmental Biology'
     date: '7/4/22'
     subtitle: '4-16 January 2023, CIMARQ-Quintay, Chile. <br>
@@ -28,17 +64,6 @@ news:
     imageBg: '../img/news/Wolpert2022-bg.jpg'
     URL: 'https://www.eventbrite.co.uk/e/in-memory-of-lewis-wolpert-tickets-168940620945'
 
-  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
-    date: '15/7/22'
-    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
-    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
-More information will be available soon in the webpage and social networks <br>
-Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
-Twitter @tallerBCD: https://twitter.com/tallerBCD '
-    imageSm: 'img/news/chascomus2022-sm.jpg'
-    imageBg: '../img/news/chascomus2022-bg.jpg'
-    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
-
   - title: '2022 ISDB Meeting'
     date: '14/7/21'
     subtitle: 'Discount on early registration for LASDB members. Early registration ends July 29.'
@@ -48,18 +73,6 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageSm: '../img/news/ISDB-regist-sm.jpg'
     imageBg: '../img/news/ISDB-regist-bg.jpg'
     URL: 'https://isdb2021.com/'
-
-  - title: 'Join the Latin America Developmental Biologists Network'
-    date: '1/7/21'
-    subtitle: 'Complete your profile'
-    body: 'We are organizing the LASDB Developmental Biology Laboratories Database, a directory of developmental and stem cell biology researchers in Latin American countries. <br>
-We hope that the Database-Map will be a valuable resource for the community, and a link to establish potential collaborations. <br> 
-The database is aimed at investigators (either Principal Investigators/PIs or Associate Investigators/Staff Scientists) in Latin America. The form is open to be completed by any investigator in Dev Biol lab in Latin America (not restricted to currently active LASDB members). It takes less than 5 min to complete.<br>
-A search engine will be publicly available soon. <br>
-<a href="https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html" target="_blank"> >> Fill the form here</a>' 
-    imageSm: 'img/news/map-sm.jpg'
-    imageBg: '../img/news/map-bg.jpg'
-    URL: 'https://lasdb-development.org/pages/LatAm_DevBiol_labs_map.html'
 
   - title: 'Company of Biologists: Propose a Global South Workshops for 2024'
     date: '2/6/22'
