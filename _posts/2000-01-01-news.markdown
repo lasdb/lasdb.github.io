@@ -6,6 +6,21 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+
+  - title: 'CZI: Expanding Access to Advanced Bioimaging Technology in Latin America'
+    date: '15/9/22'
+    subtitle: 'November, 2022. Montevideo, Uruguay'
+    body: 'Applications are open for two important activities at the #UBA next November: <br>
+🔵 Annual Workshop in Advanced Microscpy and Biophotonics (in-person+virtual) <br>
+🔴 Train the Trainers program. <br>
+Fellowship open for the region.<br>
+Unidad Bioimagenología Avanzada (Unidad Mixta Universidad de la República - Institut Pasteur de Montevideo). 
+Check the link for more information'
+    imageSm: 'img/news/AdBioUnit-MVD-sm.jpg'
+    imageBg: '../img/news/AdBioUnit-MVD-bg.jpg'
+    URL: 'https://twitter.com/advanced_unit/status/1568568595369558022'
+
   - title: 'International Workshop – BioIMG Net High Resolution Microscopy Applied to Biomedical Research'
     date: '15/9/22'
     subtitle: '27th – 29th September, 2022. Free registration'
