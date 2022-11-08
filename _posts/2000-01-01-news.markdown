@@ -18,8 +18,8 @@ More information can be foun at the website <br>
     <a href="http://lasdb-development.org/pdfs/PhD programme slide 2023.pdf" target="_blank">PhD programme slide 2023.pdf</a> <br>
     <a href="http://lasdb-development.org/pdfs/PhD programme poster 2023.pdf" target="_blank">PhD programme poster 2023.pdf</a> <br>
     <a href="http://lasdb-development.org/pdfs/PhD programme advert 2023.pdf" target="_blank">PhD programme advert 2023.pdf</a> <br>' 
-    imageSm: 'img/news/PhD UCL2023-sm.jpg'
-    imageBg: '../img/news/PhD UCL2023-bg.jpg'
+    imageSm: 'img/news/PhD_UCL2023-sm.jpg'
+    imageBg: '../img/news/PhD_UCL2023-bg.jpg'
     URL: 'https://opticalbiology.org/'
 
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
