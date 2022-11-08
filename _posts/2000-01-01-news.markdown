@@ -8,7 +8,7 @@ news:
 
   - title: 'OPTICAL BIOLOGY. WELLCOME PHD PROGRAMME AT UCL'
     date: '11/8/22'
-    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
+    subtitle: ''
     body: 'Optical Biology is an interdisciplinary field which involves developing new optical technology for studying the interaction of light (i.e. photons) with biological organisms, tissues, cells, and molecules in order to solve fundamental open questions in biology. <br>
 The Wellcome Optical Biology PhD Programme at UCL is inviting applications. Deadline: 9 January 2023
 Research areas: Cell biology, Developmental Biology, Microscope development, Biophysics, Neuroscience, Phytochemistry
