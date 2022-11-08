@@ -6,7 +6,32 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'OPTICAL BIOLOGY. WELLCOME PHD PROGRAMME AT UCL'
+    date: '11/8/22'
+    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
+    body: 'Optical Biology is an interdisciplinary field which involves developing new optical technology for studying the interaction of light (i.e. photons) with biological organisms, tissues, cells, and molecules in order to solve fundamental open questions in biology. <br>
+The Wellcome Optical Biology PhD Programme at UCL is inviting applications. Deadline: 9 January 2023
+Research areas: Cell biology, Developmental Biology, Microscope development, Biophysics, Neuroscience, Phytochemistry
+Programme highlights: 4-year Wellcome fellowship, World-class interdisciplinary research environment, Internship opportunities in academia
+and industry, 60+ labs for thesis research, Support for careers and academic excellence within a culture of diversity and inclusion, Scholarship opportunities for overseas and UK students
+More information can be foun at the website <br>
+    <a href="http://lasdb-development.org/pdfs/PhD programme slide 2023.pdf" target="_blank">PhD programme slide 2023.pdf</a> <br>
+    <a href="http://lasdb-development.org/pdfs/PhD programme poster 2023.pdf" target="_blank">PhD programme poster 2023.pdf</a> <br>
+    <a href="http://lasdb-development.org/pdfs/PhD programme advert 2023.pdf" target="_blank">PhD programme advert 2023.pdf</a> <br>' 
+    imageSm: 'img/news/PhD UCL2023-sm.jpg'
+    imageBg: '../img/news/PhD UCL2023-bg.jpg'
+    URL: 'https://opticalbiology.org/'
 
+  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
+    date: '15/7/22'
+    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
+    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
+More information will be available soon in the webpage and social networks <br>
+Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
+Twitter @tallerBCD: https://twitter.com/tallerBCD '
+    imageSm: 'img/news/chascomus2022-sm.jpg'
+    imageBg: '../img/news/chascomus2022-bg.jpg'
+    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
   - title: 'CZI: Expanding Access to Advanced Bioimaging Technology in Latin America'
     date: '15/9/22'
@@ -30,20 +55,6 @@ The workshop and presentations will be freely open to everyone online. '
     imageSm: 'img/news/BioImgNet-sm.jpg'
     imageBg: '../img/news/BioImgNet-bg.jpg'
     URL: 'http://www.microscopiamg.org.br/bioimgnet/eventos/'
-
-  - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
-    date: '15/7/22'
-    subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
-    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2018.  The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
-More information will be available soon in the webpage and social networks <br>
-Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
-Twitter @tallerBCD: https://twitter.com/tallerBCD '
-    imageSm: 'img/news/chascomus2022-sm.jpg'
-    imageBg: '../img/news/chascomus2022-bg.jpg'
-    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
-
-
-
 
   - title: 'Join the Latin America Developmental Biologists Network'
     date: '1/7/21'
