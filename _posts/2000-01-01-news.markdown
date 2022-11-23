@@ -33,6 +33,15 @@ Twitter @tallerBCD: https://twitter.com/tallerBCD '
     imageBg: '../img/news/chascomus2022-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
+  - title: 'Third Latin American Worm Meeting'
+    date: '22/11/22'
+    subtitle: 'March 15-19 of 2023 in Valparaíso, Chile. Abstract deadline Dec 20'
+    body: 'The Latin American Worm Meeting brings scientists and friends together from all over the world. We aim at developing a strong new community of C. elegans researchers in our region, working together with global worm breeders. This is our third edition following two exciting and productive reunions in Uruguay (2017) and Argentina (2020). <br>
+Detailed information on program, registration, abstract submission and fellowships can be found in the meeting website'
+    imageSm: 'img/news/worm2023-sm.jpg'
+    imageBg: '../img/news/worm2023-bg.jpg'
+    URL: 'https://cinv.uv.cl/en/3rd-la-worm-meeting/'
+
   - title: 'CZI: Expanding Access to Advanced Bioimaging Technology in Latin America'
     date: '15/9/22'
     subtitle: 'November, 2022. Montevideo, Uruguay'
