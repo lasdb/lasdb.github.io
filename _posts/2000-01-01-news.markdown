@@ -19,22 +19,6 @@ More information can be found at the website <br>'
     imageBg: '../img/news/LABI-bg.jpg'
     URL: 'https://latambioimaging.org/index.php/training'
 
-  - title: 'OPTICAL BIOLOGY. WELLCOME PHD PROGRAMME AT UCL'
-    date: '11/8/22'
-    subtitle: ''
-    body: 'Optical Biology is an interdisciplinary field which involves developing new optical technology for studying the interaction of light (i.e. photons) with biological organisms, tissues, cells, and molecules in order to solve fundamental open questions in biology. <br>
-The Wellcome Optical Biology PhD Programme at UCL is inviting applications. Deadline: 9 January 2023
-Research areas: Cell biology, Developmental Biology, Microscope development, Biophysics, Neuroscience, Phytochemistry
-Programme highlights: 4-year Wellcome fellowship, World-class interdisciplinary research environment, Internship opportunities in academia
-and industry, 60+ labs for thesis research, Support for careers and academic excellence within a culture of diversity and inclusion, Scholarship opportunities for overseas and UK students
-More information can be found at the website <br>
-    <a href="http://lasdb-development.org/pdfs/PhD programme slide 2023.pdf" target="_blank">PhD programme slide 2023.pdf</a> <br>
-    <a href="http://lasdb-development.org/pdfs/PhD programme poster 2023.pdf" target="_blank">PhD programme poster 2023.pdf</a> <br>
-    <a href="http://lasdb-development.org/pdfs/PhD programme advert 2023.pdf" target="_blank">PhD programme advert 2023.pdf</a> <br>' 
-    imageSm: 'img/news/PhD_UCL2023-sm.jpg'
-    imageBg: '../img/news/PhD_UCL2023-bg.jpg'
-    URL: 'https://opticalbiology.org/'
-
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
     date: '15/7/22'
     subtitle: '5th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 16-18 November 2022'
@@ -54,6 +38,22 @@ Detailed information on program, registration, abstract submission and fellowshi
     imageSm: 'img/news/worm2023-sm.jpg'
     imageBg: '../img/news/worm2023-bg.jpg'
     URL: 'https://cinv.uv.cl/en/3rd-la-worm-meeting/'
+
+  - title: 'OPTICAL BIOLOGY. WELLCOME PHD PROGRAMME AT UCL'
+    date: '11/8/22'
+    subtitle: ''
+    body: 'Optical Biology is an interdisciplinary field which involves developing new optical technology for studying the interaction of light (i.e. photons) with biological organisms, tissues, cells, and molecules in order to solve fundamental open questions in biology. <br>
+The Wellcome Optical Biology PhD Programme at UCL is inviting applications. Deadline: 9 January 2023
+Research areas: Cell biology, Developmental Biology, Microscope development, Biophysics, Neuroscience, Phytochemistry
+Programme highlights: 4-year Wellcome fellowship, World-class interdisciplinary research environment, Internship opportunities in academia
+and industry, 60+ labs for thesis research, Support for careers and academic excellence within a culture of diversity and inclusion, Scholarship opportunities for overseas and UK students
+More information can be found at the website <br>
+    <a href="http://lasdb-development.org/pdfs/PhD programme slide 2023.pdf" target="_blank">PhD programme slide 2023.pdf</a> <br>
+    <a href="http://lasdb-development.org/pdfs/PhD programme poster 2023.pdf" target="_blank">PhD programme poster 2023.pdf</a> <br>
+    <a href="http://lasdb-development.org/pdfs/PhD programme advert 2023.pdf" target="_blank">PhD programme advert 2023.pdf</a> <br>' 
+    imageSm: 'img/news/PhD_UCL2023-sm.jpg'
+    imageBg: '../img/news/PhD_UCL2023-bg.jpg'
+    URL: 'https://opticalbiology.org/'
 
   - title: 'CZI: Expanding Access to Advanced Bioimaging Technology in Latin America'
     date: '15/9/22'
