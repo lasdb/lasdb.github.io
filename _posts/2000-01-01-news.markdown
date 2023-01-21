@@ -6,6 +6,19 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'Bioimaging Training & Professional Developmental Programs'
+    date: '20/1/23'
+    subtitle: 'Apply until January 31, 2023'
+    body: 'Latin America Bioimaging (LABI) is a network of scientists that seeks to enhance bioimaging capacities in the region, through international cooperation. LABI will provide financial support for training and professional development activities. Three programs are open to strengthen bioimaging capacities in Latin America, to optimize education and training resources in the region and to expand access to them. <br>
+Deadline is January 31, 2023.<br>
+Program 1 - Travel grants to attend Bioimaging courses, aimed at users and researchers.<br>
+Program 2 - Travel grants to attend Bioimaging courses, aimed at personnel from bioimaging service units. <br>
+Program 3 - Travel grants for professional development and networking of Imaging Facilities in Latin America, aimed at personnel from bioimaging service units.
+More information can be found at the website <br>' 
+    imageSm: 'img/news/LABI-sm.jpg'
+    imageBg: '../img/news/LABI-bg.jpg'
+    URL: 'https://latambioimaging.org/index.php/training'
+
   - title: 'OPTICAL BIOLOGY. WELLCOME PHD PROGRAMME AT UCL'
     date: '11/8/22'
     subtitle: ''
@@ -14,7 +27,7 @@ The Wellcome Optical Biology PhD Programme at UCL is inviting applications. Dead
 Research areas: Cell biology, Developmental Biology, Microscope development, Biophysics, Neuroscience, Phytochemistry
 Programme highlights: 4-year Wellcome fellowship, World-class interdisciplinary research environment, Internship opportunities in academia
 and industry, 60+ labs for thesis research, Support for careers and academic excellence within a culture of diversity and inclusion, Scholarship opportunities for overseas and UK students
-More information can be foun at the website <br>
+More information can be found at the website <br>
     <a href="http://lasdb-development.org/pdfs/PhD programme slide 2023.pdf" target="_blank">PhD programme slide 2023.pdf</a> <br>
     <a href="http://lasdb-development.org/pdfs/PhD programme poster 2023.pdf" target="_blank">PhD programme poster 2023.pdf</a> <br>
     <a href="http://lasdb-development.org/pdfs/PhD programme advert 2023.pdf" target="_blank">PhD programme advert 2023.pdf</a> <br>' 
