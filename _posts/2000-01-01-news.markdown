@@ -8,17 +8,16 @@ news:
 
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
     date: '15/7/22'
-    subtitle: 'Report of the meeting'
-    body: 'The 5th Argentine Workshop on Developmental and Cellular Biology was held on November, 2022 in Chascomús, Province of Buenos Aires. The Meeting was exciting and successful. The presentations by speakers (both investigators and students) as well as the poster presentations were exceptional. 
+    subtitle: 'Report from the organizers'
+    body: 'The 5th Argentine Workshop on Developmental and Cellular Biology was held in November, 2022 in Chascomús, Province of Buenos Aires. The Meeting was exciting and successful. The presentations by speakers (both investigators and students) as well as the poster presentations were exceptional. 
 This was the fifth meeting we organized since 2013. Our goal has been to generate an environment that promotes active discussions of the latest advances in Developmental and Cell Biology in our local scientific community. The sustained attendance and enthusiastic participation confirms that it continues covering a vacancy of interest for a considerable number of research groups in Argentina.
-A total of more than 60 graduate students and postdocs, and 30 junior/senior investigators were part of the Meeting. Thirty-five 15-minute talks (plus 5 minutes Q&A) were delivered by students and investigators from institutes throughout the country. To encourage participation, the registration costs were kept very low and fellowships to partially covered the expenses were granted to all attendants. 
+A total of more than 60 graduate students and postdocs and 30 junior/senior investigators were part of the Meeting. Thirty-five talks were delivered by students and investigators from institutes throughout the country. To encourage participation, the registration costs were kept very low and fellowships to partially covered the expenses were granted to all attendants. 
 To promote scientific discussion and participation of the youngsters, the symposium was organized in such a way that students and more established investigators, all delivered talks of the same duration in joined sessions without differences. This format was extremely successful, as the it developed in a highly productive and informal atmosphere with intense discussions that usually continued at the coffee breaks after the talks. 
-Two poster sessions of three-hour duration complemented the program, so that every student had the chance to present and discuss his/her research work (~50 posters). Different model organisms were represented in the program, including mouse, chick, frog, zebrafish, Drosophila, C. elegans and plants. 
-In summary, the meeting was a big success because of the excellent quality of the science and the fruitful interaction between students and investigators. <br>
+Two poster sessions complemented the program, so that every student had the chance to present and discuss his/her research work (~50 posters). Different model organisms were represented in the program, including mouse, chick, frog, zebrafish, Drosophila, C. elegans and plants. 
+In summary, the meeting was a big success because of the excellent quality of the science, the great atmosphere and the fruitful interaction between students and investigators. <br>
 Organizers: Guillermo Lanuza, Gaby Pagnussat, Pablo Strobl, Juan Fernandino, Pablo Wappner. <br>
-    <a href="http://tallerbcd.wixsite.com/tallerbcd" target="_blank">Website</a>
-    <a href="https://twitter.com/tallerBCD" target="_blank">Twitter @tallerBCD</a>
-    <a href="https://www.facebook.com/media/set/?set=oa.362508976082523&type=3" target="_blank">Photos of the meeting</a>'
+    <a href="https://www.facebook.com/media/set/?set=oa.362508976082523&type=3" target="_blank">Photos of the meeting</a><br>
+    <a href="https://twitter.com/tallerBCD" target="_blank">Twitter @tallerBCD</a>'
     imageSm: 'img/news/chascomus2022-sm.jpg'
     imageBg: '../img/news/TBCD2022rep-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
