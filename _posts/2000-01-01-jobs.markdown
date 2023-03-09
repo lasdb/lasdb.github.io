@@ -27,6 +27,14 @@ For information about our lab and ongoing projects: <br>
 Interested individuals email their CV and brief description of research interests to: Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliver@northwestern.edu<br>'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
   - title: 'Junior postdoc position in embryo development and morphogenesis'
     date: '20/1/22'
     subtitle: 'Ravasio, Rudge, Cerda, Bertocchi and Concha labs. PUC y UCh, Chile'
@@ -63,14 +71,6 @@ Email: wvc2104@cumc.columbia.edu <br>
 <a href="https://www.cardosolabcolumbia.com" target="_blank">https://www.cardosolabcolumbia.com</a> <br>
 <a href="http://cchd.columbiamedicine.org/about.html" target="_blank">http://cchd.columbiamedicine.org/about.html</a>'
     URL: 'https://www.cardosolabcolumbia.com'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Postdoctoral Position Neural development, Stem cells'
     date: '4/6/21'
