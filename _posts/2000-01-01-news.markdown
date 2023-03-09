@@ -7,7 +7,7 @@ permalink: pages/news.html
 news:
 
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
-    date: '15/7/22'
+    date: '7/3/23'
     subtitle: 'Report from the organizers'
     body: 'The 5th Argentine Workshop on Developmental and Cellular Biology was held in November, 2022 in Chascomús, Province of Buenos Aires. The Meeting was exciting and successful. The presentations by speakers (both investigators and students) as well as the poster presentations were exceptional. 
 This was the fifth meeting we organized since 2013. Our goal has been to generate an environment that promotes active discussions of the latest advances in Developmental and Cell Biology in our local scientific community. The sustained attendance and enthusiastic participation confirms that it continues covering a vacancy of interest for a considerable number of research groups in Argentina.
@@ -23,7 +23,7 @@ Organizers: Guillermo Lanuza, Gaby Pagnussat, Pablo Strobl, Juan Fernandino, Pab
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
   - title: 'EMBO Practical Course in Developmental Biology'
-    date: '7/3/23'
+    date: '1/3/23'
     subtitle: ''
     body: 'We share the note published by MBL on the Developmental Biology Course Quintay 2023'
     imageSm: 'img/news/Quintay2023-sm.jpg'
