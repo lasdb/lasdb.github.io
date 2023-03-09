@@ -6,6 +6,15 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'ACADEMIC POSITION FOR ASSISTANT OR ASSOCIATE PROFESSOR IN DEVELOPMENTAL AND STEM CELL BIOLOGY'
+    date: '8/3/23'
+    subtitle: 'Facultad Ciencias Biologicas, Pontificia Universidad Católica de Chile'
+    body: 'Tenure-track position in the Faculty of Biological Sciences at the Pontificia Universidad Católica de Chile. Applicants must demonstrate successful and independent research in Developmental and Stem Cell Biology, in areas including mechanisms of cell type specification, early development, organogenesis, cell movement, models to study developmental malformations, organoids, embryonic and adult stem cell biology, cellular reprogramming or regeneration, among others. Applicants should demonstrate abilities to teach undergraduate and graduate students in these areas.'
+    par2: 'Responsibilities include: (1) leading independent and internationally recognized research in Developmental and Stem Cell Biology; (2) establishing collaborations with researchers from other areas of the Faculty of Biological Sciences or other academic units within the University to develop interdisciplinary research; (3) teaching undergraduate and graduate students; (4) enrolling in the teaching certificate from the Centro de Desarrollo Docente (mandatory for all new Faculty), (5) train future scientists by advising or mentoring undergraduate or graduate research students; (6) participate in academic and administrative activities within the University, (7) develop outreach activities with an impact on society and the general public.<br>
+    Deadline: April 15th 2023, at 17:00 h (Santiago local time) <br>
+    For application requirements and procedure, please go directly to the following institutional link (below):'
+    URL: 'https://biologia.uc.cl/call-for-applications-academic-position-for-assistant-or-associate-professor-in-developmental-and-stem-cell-biology/'
+
   - title: 'Postdoc position in lymphatic biology'
     date: '2/6/22'
     subtitle: 'Guillermo Oliver Lab. Northwestern University, Chicago, IL, USA'
