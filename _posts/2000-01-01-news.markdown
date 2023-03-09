@@ -9,7 +9,7 @@ news:
   - title: 'EMBO Practical Course in Developmental Biology'
     date: '7/3/23'
     subtitle: ''
-    body: 'We share the note published by MBL on the Developmental Biology Course Quintay 2023 <br>
+    body: 'We share the note published by MBL on the Developmental Biology Course Quintay 2023'
     imageSm: 'img/news/Quintay2023-sm.jpg'
     imageBg: '../img/news/Quintay2023-note-bg.jpg'
     URL: 'https://www.mbl.edu/news/quintay-practical-course-brings-mbl-experience-latin-america'
