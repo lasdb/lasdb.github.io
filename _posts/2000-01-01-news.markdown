@@ -22,6 +22,14 @@ Organizers: Guillermo Lanuza, Gaby Pagnussat, Pablo Strobl, Juan Fernandino, Pab
     imageBg: '../img/news/TBCD2022rep-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
+  - title: 'HFSP Postdoctoral Fellowships 2024'
+    date: '1/3/23'
+    subtitle: 'Call for Letters of Intent. Applications: 15 March - 11 May'
+    body: 'HFSP is launching the 2024 edition of the Postdoctoral Fellowship Program. Submission of bold, creative and high-risk research ideas is open from 15 March until 11 May 2023. Check the HFSP Postdoctoral Fellowships application guidelines on the website.'
+    imageSm: 'img/news/hfsp-sm.jpg'
+    imageBg: '../img/news/hfsp-bg.jpg'
+    URL: 'https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships'
+
   - title: 'EMBO Practical Course in Developmental Biology'
     date: '1/3/23'
     subtitle: ''
