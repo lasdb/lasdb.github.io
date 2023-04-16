@@ -6,6 +6,23 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoc position in lymphatic biology'
+    date: '15/4/23'
+    subtitle: 'Guillermo Oliver Lab. Northwestern University, Chicago, IL, USA'
+    body: 'Postdoc positions are immediately available in Guillermo Oliver’s lab in downtown Chicago to work in different aspects related to functional roles of the
+mammalian lymphatic vasculature in mammalian organogenesis. Information about some of our recent work can be found in these links:<br>
+<a href="https://www.jci.org/articles/view/140685/pdf" target="_blank">https://www.jci.org/articles/view/140685/pdf</a>
+<a href="https://www.nature.com/articles/s41586-020-2998-x" target="_blank">https://www.nature.com/articles/s41586-020-2998-x</a>
+<a href="https://advances.sciencemag.org/content/7/18/eabe7359" target="_blank">https://advances.sciencemag.org/content/7/18/eabe7359</a>
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30816-3" target="_blank">https://www.cell.com/cell/fulltext/S0092-8674(20)30816-3</a>
+    par2: 'Highly motivated individuals who recently obtained a PhD. or MD degree and have a strong background in the use of mouse models, and molecular and developmental biology are encouraged to apply.<br> 
+For information about our lab and ongoing projects: <br>
+<a href="http://labs.feinberg.northwestern.edu/oliver/" target="_blank">http://labs.feinberg.northwestern.edu/oliver/</a> <br>
+<a href="https://twitter.com/NU_Lymphatics" target="_blank">https://twitter.com/NU_Lymphatics</a> <br>
+Interested individuals should send their curriculum vitae, a brief description of their research interests, and the names of three references to: 
+Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliver@northwestern.edu<br>'
+    URL: 'http://labs.feinberg.northwestern.edu/oliver/'
+
   - title: 'ACADEMIC POSITION FOR ASSISTANT OR ASSOCIATE PROFESSOR IN DEVELOPMENTAL AND STEM CELL BIOLOGY'
     date: '8/3/23'
     subtitle: 'Facultad Ciencias Biologicas, Pontificia Universidad Católica de Chile'
@@ -14,18 +31,6 @@ jobs:
     Deadline: April 15th 2023, at 17:00 h (Santiago local time) <br>
     For application requirements and procedure, please go directly to the following institutional link (below):'
     URL: 'https://biologia.uc.cl/call-for-applications-academic-position-for-assistant-or-associate-professor-in-developmental-and-stem-cell-biology/'
-
-  - title: 'Postdoc position in lymphatic biology'
-    date: '2/6/22'
-    subtitle: 'Guillermo Oliver Lab. Northwestern University, Chicago, IL, USA'
-    body: 'Postdoc position immediately available to join our team working in the characterization of the functional roles of the mammalian lymphatic vasculature in organ growth and regeneration in health and disease.<br>
-For information about our lab and ongoing projects: <br>
-<a href="http://labs.feinberg.northwestern.edu/oliver/" target="_blank">http://labs.feinberg.northwestern.edu/oliver/</a> <br>
-<a href="https://www.nature.com/articles/s41586-020-2998-x" target="_blank">https://www.nature.com/articles/s41586-020-2998-x</a> <br>
-<a href="https://www.science.org/doi/10.1126/sciadv.abe7359" target="_blank">https://www.science.org/doi/10.1126/sciadv.abe7359</a>'
-    par2: 'Candidates should have a recently obtained PhD or MD degree and have experience working with mouse models.<br> 
-Interested individuals email their CV and brief description of research interests to: Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliver@northwestern.edu<br>'
-    URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
   - title: 'See Job Opportunities at The Node'
     date: ''
