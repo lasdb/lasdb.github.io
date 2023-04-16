@@ -14,7 +14,7 @@ mammalian lymphatic vasculature in mammalian organogenesis. Information about so
 <a href="https://www.jci.org/articles/view/140685/pdf" target="_blank">https://www.jci.org/articles/view/140685/pdf</a>
 <a href="https://www.nature.com/articles/s41586-020-2998-x" target="_blank">https://www.nature.com/articles/s41586-020-2998-x</a>
 <a href="https://advances.sciencemag.org/content/7/18/eabe7359" target="_blank">https://advances.sciencemag.org/content/7/18/eabe7359</a>
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30816-3" target="_blank">https://www.cell.com/cell/fulltext/S0092-8674(20)30816-3</a>
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30816-3" target="_blank">https://www.cell.com/cell/fulltext/S0092-8674(20)30816-3</a>'
     par2: 'Highly motivated individuals who recently obtained a PhD. or MD degree and have a strong background in the use of mouse models, and molecular and developmental biology are encouraged to apply.<br> 
 For information about our lab and ongoing projects: <br>
 <a href="http://labs.feinberg.northwestern.edu/oliver/" target="_blank">http://labs.feinberg.northwestern.edu/oliver/</a> <br>
