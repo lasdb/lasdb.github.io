@@ -15,6 +15,23 @@ More information will published soon.'
     imageBg: '../img/news/LASDB-2024-bg.jpg'
     URL: ''
 
+  - title: 'Avian Model Systems Meeting'
+    date: '27/4/23'
+    subtitle: '11-14 September 2023. University of Portsmouth, UK'
+    body: 'The 11th meeting will take place on 11-14 September 2023 at the University of Portsmouth, UK. <br>
+The conference will bring together scientists from across the world whose research focuses on birds. The conference website is now open for registration and abstract submission.<br>
+Session topics include: <br>
+Dynamics of development, morphogenesis, organogenesis<br>
+Stem cells and differentiation<br>
+New technologies and resources<br>
+Pharmaceutical and medical applications<br>
+Comparative genomics, evolution and conservation<br>
+Avian immunity, disease resistance, animal welfare<br>
+We have lined up exciting keynote speakers. Further speakers will be selected from abstracts, and all attendees will be able to present posters. We will have a plenary discussion with funders and stakeholders on the future of avian models and avian research, and we have set time aside for a PI meeting to discuss the development of resources for the avian research community.'
+    imageSm: 'img/news/avian-Portsmounth-sm.jpg'
+    imageBg: '../img/news/avian-Portsmounth-bg.jpg'
+    URL: 'https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=97028&ef_sel_menu=1982&eventID=252'
+
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
     date: '7/3/23'
     subtitle: 'Report from the organizers'
