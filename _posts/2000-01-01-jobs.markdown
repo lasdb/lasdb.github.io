@@ -6,6 +6,16 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'POST-DOC and PHD POSITIONs'
+    date: '15/4/23'
+    subtitle: 'STEFANO PICCOLO lab, Dept. Molecular Medicine, University of Padua, Padua, Italy'
+    body: 'Our lab pioneered cellular mechanotransduction, advancing on how cell and tissue shape dictate cell behavior (Dupont et al. Nature 2011; Chang et al; Nature 2018; Sladitschek-Martens et al.,Nature 2022; Panciera et al., NRMCB 2017). We are now looking for PhD candidates & Post-Doctoral fellows, interested in carrying pioneering work in Cancer Biology and Ageing. <br>
+<a href="For mor information, check the Flyer here" target="_blank">http://lasdb-development.org/pdfs/Piccolo_Lab_Job_Post_2023.pdf</a>'
+    par2: 'We are searching for fellows interested in working in a stimulating research environment, and willing to challenge her/himself with high-gain/high-risk research topics. Our fellows receive multidisciplinary training, from mouse models to single cell analyses, organoids, biochemistry,
+spatial multiomics and bioengineering technologies. We can offer a very competitive salary, depending on research experience.<br>
+If you are interested, please write to Stefano Piccolo (stefano.piccolo@unipd.it)<br>'
+    URL: 'http://www.bio.unipd.it/piccolo'
+
   - title: 'Postdoc position in lymphatic biology'
     date: '15/4/23'
     subtitle: 'Guillermo Oliver Lab. Northwestern University, Chicago, IL, USA'
