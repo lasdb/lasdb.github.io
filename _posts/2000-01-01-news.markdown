@@ -17,8 +17,8 @@ Nominations should be sent directly to Juan Riesgo-Escovar, LASDB president (Ema
 <b>Deadline is June 15, 2023.</b> <br> 
 Thanking in advance and looking forward for nominations.<br> <br>
     <a href="http://lasdb-development.org/pages/prize.html" target="_blank">Previous awardees</a>'
-    imageSm: 'img/news/LASDB-sm.jpg'
-    imageBg: '../img/news/LASDBred-bg.png'
+    imageSm: 'img/news/LASDB-prize-sm.jpg'
+    imageBg: '../img/news/LASDB-prize-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
   - title: 'LASDB MEETING 2024'
