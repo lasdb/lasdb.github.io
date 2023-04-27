@@ -6,7 +6,7 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'LASDB Prize in Developmental Biology 2023'
+  - title: 'LASDB Prize in Developmental Biology'
     date: '1/4/23'
     subtitle: 'Nominations are open !!!'
     body: 'We are happy to announce that nominations for the LASDB Prize is now open <br>
