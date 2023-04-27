@@ -8,7 +8,7 @@ news:
 
   - title: 'LASDB MEETING 2024'
     date: '27/4/23'
-    subtitle: 'March 17-24, 2024. Valparaiso, Chile'
+    subtitle: 'March 17-20, 2024. Valparaiso, Chile'
     body: 'We are happy to announce that the next meeting of the Society will take place in Valparaiso, Chile from 17th to 21th of March 2024. <br>
 More information will published soon.'
     imageSm: 'img/news/LASDB-2024-sm.jpg'
