@@ -9,7 +9,7 @@ news:
   - title: 'LASDB Prize in Developmental Biology'
     date: '1/4/23'
     subtitle: 'Nominations are open !!!'
-    body: 'We are happy to announce that nominations for the LASDB Prize is now open <br>
+    body: 'We are happy to announce that nominations for the LASDB Prize are now open <br>
 The LASDB Prize is awarded to a scientist who has made a major contribution to developmental biology. The award will be made at the LASDB meeting 2024, where the winner will be invited to give a plenary lecture. <br><br>
 <b>Nominations:</b> <br>
 Nominees should be outstanding developmental biologists. Nominations should consist of a short statement of support (maximum 1 page A4), stating why the candidate is suitable for the prize. Self-nomination is not allowed. Neither the proposer, nor the candidate need to be LASDB members. It is desirable, but not essential, for the nominee to have shown an involvement, or active interest in Latin American science. <br>
