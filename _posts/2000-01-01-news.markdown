@@ -6,6 +6,15 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'LASDB MEETING 2024'
+    date: '27/4/23'
+    subtitle: 'March 17-24, 2024. Valparaiso, Chile'
+    body: 'We are happy to announce that the next meeting of the Society will take place in Valparaiso, Chile from 17th to 21th of March 2024. <br>
+More information will published soon.'
+    imageSm: 'img/news/LASDB-2024-sm.jpg'
+    imageBg: '../img/news/LASDB-2024-bg.jpg'
+    URL: ''
+
   - title: 'ARGENTINA. Developmental and Cell Biology Meeting 2022'
     date: '7/3/23'
     subtitle: 'Report from the organizers'
