@@ -15,7 +15,7 @@ The LASDB Prize is awarded to a scientist who has made a major contribution to d
 Nominees should be outstanding developmental biologists. Nominations should consist of a short statement of support (maximum 1 page A4), stating why the candidate is suitable for the prize. Self-nomination is not allowed. Neither the proposer, nor the candidate need to be LASDB members. It is desirable, but not essential, for the nominee to have shown an involvement, or active interest in Latin American science. <br>
 Nominations should be sent directly to Juan Riesgo-Escovar, LASDB president (Email address:  riesgo@unam.mx). Please cc to LASDB email:  lasdb.development@gmail.com.  <br>
 <b>Deadline is June 30, 2023.</b> <br> 
-Thanking in advance and looking forward for nominations.<br> <br>
+Thanking in advance and looking forward to receiving nominations.<br> <br>
     <a href="http://lasdb-development.org/pages/prize.html" target="_blank">Previous awardees</a>'
     imageSm: 'img/news/LASDB-prize-sm.jpg'
     imageBg: '../img/news/LASDB-prize-bg.jpg'
