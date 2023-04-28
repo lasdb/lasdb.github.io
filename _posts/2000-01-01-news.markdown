@@ -24,11 +24,20 @@ Thanking in advance and looking forward for nominations.<br> <br>
   - title: 'LASDB MEETING 2024'
     date: '27/4/23'
     subtitle: 'March 17-20, 2024. Valparaiso, Chile'
-    body: 'We are happy to announce that the next meeting of the Society will take place in Valparaiso, Chile from 17th to 21th of March 2024. <br>
+    body: 'We are very happy to announce that the next meeting of the Society will take place in Valparaiso, Chile from 17th to 21th of March 2024. <br>
 More information will published soon.'
     imageSm: 'img/news/LASDB-2024-sm.jpg'
     imageBg: '../img/news/LASDB-2024-bg.jpg'
     URL: ''
+
+  - title: 'ISDB-SDB-LASDB joint Meeting 2025'
+    date: '27/4/23'
+    subtitle: '19-22 June, 2025. San Juan, Puerto Rico'
+    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.'
+    imageSm: 'img/news/meeting2025-sm.jpg'
+    imageBg: '../img/news/meeting2025-bg.jpg'
+    URL: ''
+
 
   - title: 'Avian Model Systems Meeting'
     date: '27/4/23'
