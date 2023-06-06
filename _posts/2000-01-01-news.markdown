@@ -38,6 +38,15 @@ More information will published soon.'
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
 
+  - title: 'SDB 2023 Annual Meeting'
+    date: '6/6/23'
+    subtitle: 'Society for Developmental Biology <br>Chicago, IL, USA. <br>July 20-23, 2023'
+    body: '82nd Annual Meeting of the Society for Developmental Biology  <br>
+    Abstract Deadline: May 2, 2023; Registration Deadline: June 20, 2023; Housing Deadline: June 28, 2023'
+    imageSm: 'img/news/sbd2023-sm.jpg'
+    imageBg: '../img/news//sbd2023-bg.jpg'
+    URL: 'https://www.sdbonline.org/2023mtg'
+
   - title: 'Course Comparative Embryology of Marine Invertebrates 2023'
     date: '10/5/23'
     subtitle: 'CEBIMar-USP (Aug. 7-20), São Sebastião, SP, Brazil'
