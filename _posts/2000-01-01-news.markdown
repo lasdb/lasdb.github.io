@@ -39,7 +39,7 @@ More information will published soon.'
     URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
 
   - title: 'SDB 2023 Annual Meeting'
-    date: '6/6/23'
+    date: '1/5/23'
     subtitle: 'Society for Developmental Biology <br>Chicago, IL, USA. <br>July 20-23, 2023'
     body: '82nd Annual Meeting of the Society for Developmental Biology  <br>
     Abstract Deadline: May 2, 2023; Registration Deadline: June 20, 2023; Housing Deadline: June 28, 2023'
