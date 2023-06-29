@@ -21,6 +21,18 @@ Thanking in advance and looking forward to receiving nominations.<br> <br>
     imageBg: '../img/news/LASDB-prize-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
+  - title: 'European Developmental Biology Congress'
+    date: '27/4/23'
+    subtitle: 'September 25-28, 2023'
+    body: 'The 2023 European Developmental Biology Congress will take place in Oxford, UK, with additional activities in Paris (Institut Pasteur) and Barcelona (IRB).  In the spirit of increasing accessibility to the conference the entire meeting will be available to access online.
+For more information, please go to:
+<a href="https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&eventID=236&traceRedir=4" target="_blank">https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&eventID=236&traceRedir=4</a><br>
+Remote attendees might even feel inspired to organise a “Watch Party” for their lab or their institute, see this comment on the Node:
+<a href="https://thenode.biologists.com/get-the-edbc-watch-party-started/events/" target="_blank">https://thenode.biologists.com/get-the-edbc-watch-party-started/events/</a>'
+    imageSm: 'img/news/EBDB2023-sm.jpg'
+    imageBg: '../img/news/EBDB2023-bg.jpg'
+    URL: 'https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&eventID=236&traceRedir=4'
+
   - title: 'LASDB MEETING 2024'
     date: '27/4/23'
     subtitle: 'March 17-20, 2024. Valparaiso, Chile'
