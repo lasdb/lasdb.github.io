@@ -8,13 +8,13 @@ news:
 
   - title: 'LASDB Prize in Developmental Biology'
     date: '1/4/23'
-    subtitle: 'Nominations are open !!!'
+    subtitle: 'Nominations are still open !!! Extended deadlin: July 31, 2023'
     body: 'We are happy to announce that nominations for the LASDB Prize are now open <br>
 The LASDB Prize is awarded to a scientist who has made a major contribution to developmental biology. The award will be made at the LASDB meeting 2024, where the winner will be invited to give a plenary lecture. <br><br>
 <b>Nominations:</b> <br>
 Nominees should be outstanding developmental biologists. Nominations should consist of a short statement of support (maximum 1 page A4), stating why the candidate is suitable for the prize. Self-nomination is not allowed. Neither the proposer, nor the candidate need to be LASDB members. It is desirable, but not essential, for the nominee to have shown an involvement, or active interest in Latin American science. <br>
 Nominations should be sent directly to Juan Riesgo-Escovar, LASDB president (Email address:  riesgo@unam.mx). Please cc to LASDB email:  lasdb.development@gmail.com.  <br>
-<b>Deadline is June 30, 2023.</b> <br> 
+<b>Deadline is July 31, 2023.</b> <br> 
 Thanking in advance and looking forward to receiving nominations.<br> <br>
     <a href="http://lasdb-development.org/pages/prize.html" target="_blank">Previous awardees</a>'
     imageSm: 'img/news/LASDB-prize-sm.jpg'
