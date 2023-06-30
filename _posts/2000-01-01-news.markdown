@@ -8,7 +8,7 @@ news:
 
   - title: 'LASDB Prize in Developmental Biology'
     date: '1/4/23'
-    subtitle: 'Nominations are still open !!! Extended deadlin: July 31, 2023'
+    subtitle: 'Nominations are still open !!! Extended deadline: July 31, 2023'
     body: 'We are happy to announce that nominations for the LASDB Prize are now open <br>
 The LASDB Prize is awarded to a scientist who has made a major contribution to developmental biology. The award will be made at the LASDB meeting 2024, where the winner will be invited to give a plenary lecture. <br><br>
 <b>Nominations:</b> <br>
