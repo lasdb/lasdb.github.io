@@ -6,6 +6,29 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+
+  - title: 'LASDB New Investigator Award'
+    date: '1/7/23'
+    subtitle: 'Nominations are open !!! Deadline: September 30, 2023'
+    body: 'The Society has established the Award for Young Latin American Researchers to recognize a new investigator performing outstanding research in developmental biology in Latin America during the early stages of their independent career. <br><br> 
+Please follow the link to know how to submit your nomination<br>:
+    <b><a href="http://lasdb-development.org/pages/young_investigator_award.html" target="_blank">New Investigator Award - Instructions</a></b>'
+    imageSm: 'img/news/young_award_lasdb-sm.jpg'
+    imageBg: '../img/news/young_award_lasdb-bg.jpg'
+    URL: 'http://lasdb-development.org/pages/young_investigator_award.html'
+
+  - title: 'LASDB MEETING 2024'
+    date: '20/8/23'
+    subtitle: 'March 17-20, 2024. Valparaiso, Chile'
+    body: 'Dear Latin American Developmental Biologists, <br>
+In March 2024 we will have our long-awaited Latin American Developmental Biology Conference, which will bring together an interdisciplinary group of researchers with a shared focus on emerging issues in developmental biology. It will be held in the picturesque coastal city of Valparaíso, Chile, and is a shared effort of the Latin American Society for Developmental Biology, the International Society for Differentiation, the Pan American Society for Evolutionary Developmental Biology and the Chilean Society for Developmental Biology. The conference will contribute to a long tradition of training students, postdoctoral fellows and young researchers in Latin America and has a mandate to promote diversity and gender balance at all levels. We have made efforts to keep registration fees as low as possible, there will also be special rates for active members of the organising societies, and there will be registration fee waivers and travel grants. In addition to the invited speakers there will be 40% of short talks selected from among the participants, flash talks, poster sessions and various social activities.<br>
+Please register before November 30th, and see you in Valparaiso!<br>
+The Organisers'
+    imageSm: 'img/news/LASDB2024b-sm.jpg'
+    imageBg: '../img/news/LASDB2024b-bg.jpg'
+    URL: 'https://meetings.embo.org/event/24-dev-bio'
+
   - title: 'LASDB Prize in Developmental Biology'
     date: '1/4/23'
     subtitle: 'Nominations are still open !!! Extended deadline: July 31, 2023'
@@ -20,16 +43,7 @@ Thanking in advance and looking forward to receiving nominations.<br> <br>
     imageSm: 'img/news/LASDB-prize-sm.jpg'
     imageBg: '../img/news/LASDB-prize-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
-
-  - title: 'LASDB New Investigator Award'
-    date: '1/7/23'
-    subtitle: 'Nominations are open !!! Deadline: September 30, 2023'
-    body: 'The Society has established the Award for Young Latin American Researchers to recognize a new investigator performing outstanding research in developmental biology in Latin America during the early stages of their independent career. <br><br> 
-Please follow the link to know how to submit your nomination<br>:
-    <b><a href="http://lasdb-development.org/pages/young_investigator_award.html" target="_blank">New Investigator Award - Instructions</a></b>'
-    imageSm: 'img/news/young_award_lasdb-sm.jpg'
-    imageBg: '../img/news/young_award_lasdb-bg.jpg'
-    URL: 'http://lasdb-development.org/pages/young_investigator_award.html'
+    
 
   - title: 'European Developmental Biology Congress'
     date: '27/4/23'
@@ -43,14 +57,7 @@ Remote attendees might even feel inspired to organise a “Watch Party” for th
     imageBg: '../img/news/EBDB2023-bg.jpg'
     URL: 'https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&eventID=236&traceRedir=4'
 
-  - title: 'LASDB MEETING 2024'
-    date: '27/4/23'
-    subtitle: 'March 17-20, 2024. Valparaiso, Chile'
-    body: 'We are very happy to announce that the next meeting of the Society will take place in Valparaiso, Chile from 17th to 21th of March 2024. <br>
-More information will published soon.'
-    imageSm: 'img/news/LASDB-2024-sm.jpg'
-    imageBg: '../img/news/LASDB-2024-bg.jpg'
-    URL: ''
+
 
   - title: 'Pew Latin America Postdoctoral Fellowships 2024'
     date: '6/6/23'
