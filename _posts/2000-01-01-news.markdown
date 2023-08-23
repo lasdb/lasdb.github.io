@@ -111,7 +111,9 @@ The Workshop will be entirely funded by The Company of Biologists, including all
   - title: 'ISDB-SDB-LASDB joint Meeting 2025'
     date: '27/4/23'
     subtitle: '19-22 June, 2025. San Juan, Puerto Rico'
-    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.'
+    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.<br><br>
+    We are looking to integrate the selection committee for the joint LASDB-SDB-ISDB developmental biology meeting in San Juan, Puerto Rico, in June 2025. We need to incorporate two participants, one of which would ideally come from South America, and one from Mexico/Central America/Caribbean. Young people early in their careers as well as new faces are welcome. Please submit all candidates as soon as possible to :  riesgo@unam.mx <br>
+Thank you very much for your help!'
     imageSm: 'img/news/meeting2025-sm.jpg'
     imageBg: '../img/news/meeting2025-bg.jpg'
     URL: ''
