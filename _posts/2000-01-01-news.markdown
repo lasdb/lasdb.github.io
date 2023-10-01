@@ -10,7 +10,7 @@ news:
 
   - title: 'LASDB New Investigator Award'
     date: '1/7/23'
-    subtitle: 'Nominations are open !!! Deadline: September 30, 2023'
+    subtitle: 'Nominations are open !!! Deadline: Extended until October 15, 2023'
     body: 'The Society has established the Award for Young Latin American Researchers to recognize a new investigator performing outstanding research in developmental biology in Latin America during the early stages of their independent career. <br><br> 
 Please follow the link to know how to submit your nomination<br>:
     <b><a href="http://lasdb-development.org/pages/young_investigator_award.html" target="_blank">New Investigator Award - Instructions</a></b>'
