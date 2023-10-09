@@ -33,7 +33,7 @@ The Organisers <br><br>
   - title: 'Course "Optics, Forces & Development"'
     date: '10/9/23'
     subtitle: 'Santiago, Chile. March 5-14 2024 <br>
-    Satelite course LASDB-2024'
+    Satellite course LASDB-2024'
     body: 'We cordially invite you to participate at the Course "Optics, Forces & Development, to be held in Santiago, Chile, between March 5-14 2024. This Course aims at training a selected group of students, postdocs and junior investigators (mainly from Latin America) in theoretical and practical aspects of in vivo microscopy and strategies for the visualization and manipulation of forces in developing tissues. It offers a stimulating inter-disciplinary environment that gathers specialists from the fields of developmental biology, physics, computer science, & electrical engineering. The course is a satellite activity of the Latin American Developmental Biology Conference to be held in Valparaiso on March 17-20 2024.<br>
     <b><a href="http://www.cellmorphodynamics.cl/course2024/" target="_blank">Course webpage</a></b><br>'
     imageSm: 'img/news/Optics-Dev-2024-sm.jpg'
