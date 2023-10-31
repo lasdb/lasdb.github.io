@@ -28,6 +28,18 @@ The Organisers <br><br>
     imageBg: '../img/news/Optics-Dev-2024-bg.jpg'
     URL: 'http://www.cellmorphodynamics.cl/course2024/'
 
+  - title: 'Self-Organization in Biology. 
+Freiburg Spemann-Mangold Centennial Symposium'
+    date: '31/10/23'
+    subtitle: '16-19 September 2024 | University of Freiburg, Germany'
+    body: 'Self-Organization in Biology: Freiburg Spemann-Mangold Centennial Symposium celebrates 100 years of scientific advances rooted in Hilde Mangold’s and Hans Spemann’s discovery of the gastrula organizer in vertebrate development, published in 1924 and awarded the Nobel Prize in Physiology or Medicine in 1935.<br>
+It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
+<a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
+More information can be found at the website '
+    imageSm: 'img/news/Speamann_Mangold-2024-sm.jpg'
+    imageBg: '../img/news/Speamann_Mangold-bg.jpg'
+    URL: 'https://www.elsevier.com/events/conferences/Freiburg-Spemann-Mangold-Symposium'
+
   - title: 'ISDB-SDB-LASDB joint Meeting 2025'
     date: '27/4/23'
     subtitle: '19-22 June, 2025. San Juan, Puerto Rico'
