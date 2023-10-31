@@ -36,7 +36,7 @@ Freiburg Spemann-Mangold Centennial Symposium'
 It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
 <a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
 More information can be found at the website '
-    imageSm: 'img/news/Speamann_Mangold-2024-sm.jpg'
+    imageSm: 'img/news/Speamann_Mangold-sm.jpg'
     imageBg: '../img/news/Speamann_Mangold-bg.jpg'
     URL: 'https://www.elsevier.com/events/conferences/Freiburg-Spemann-Mangold-Symposium'
 
