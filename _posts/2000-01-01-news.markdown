@@ -52,7 +52,7 @@ Thank you very much for your help!'
 
   - title: 'SDB 2023 Annual Meeting'
     date: '1/11/23'
-    subtitle: 'Society for Developmental Biology <br>Chicago, IL, USA. <br>July 14-17, 2024'
+    subtitle: 'Society for Developmental Biology <br>Atlanta, GA, USA. <br>July 14-17, 2024'
     body: '83rd Annual Meeting of the Society for Developmental Biology  <br>
     Abstract Deadline: April 10, 2024; Registration Deadline: June 20, 2024'
     imageSm: 'img/news/sbd2024-sm.jpg'
