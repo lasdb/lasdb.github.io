@@ -50,6 +50,15 @@ Thank you very much for your help!'
     imageBg: '../img/news/meeting2025-bg.jpg'
     URL: ''
 
+  - title: 'SDB 2023 Annual Meeting'
+    date: '1/11/23'
+    subtitle: 'Society for Developmental Biology <br>Chicago, IL, USA. <br>July 14-17, 2024'
+    body: '83rd Annual Meeting of the Society for Developmental Biology  <br>
+    Abstract Deadline: April 10, 2024; Registration Deadline: June 20, 2024'
+    imageSm: 'img/news/sbd2024-sm.jpg'
+    imageBg: '../img/news//sbd2024-bg.jpg'
+    URL: 'https://www.sdbonline.org/2024mtg'
+
   - title: 'LASDB New Investigator Award'
     date: '1/7/23'
     subtitle: 'Nominations are open !!! Deadline: Extended until October 17, 2023'
