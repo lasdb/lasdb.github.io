@@ -6,6 +6,15 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+
+  - title: 'Research Positions'
+    date: '25/4/23'
+    subtitle: 'GARCIA-CASTRO LAB, UCRiverside: “Induction, specification and differentiation potential of Neural Crest Cells”'
+    body: '
+<a href="http://lasdb-development.org/pdfs/2023-PostdocPos-Garcia-CastroLab231129.pdf" target="_blank">Flyer PostdocPos-Garcia-CastroLab</a>'
+    par2: ''
+    URL: ''
+
   - title: 'POST-DOC and PHD POSITIONs'
     date: '25/4/23'
     subtitle: 'STEFANO PICCOLO lab, Dept. Molecular Medicine, University of Padua, Padua, Italy'
