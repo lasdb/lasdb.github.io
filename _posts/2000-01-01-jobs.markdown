@@ -7,7 +7,7 @@ permalink: /pages/jobs.html
 jobs:
 
 
-  - title: 'Research Positions'
+  - title: 'POST-DOC POSITION'
     date: '10/12/23'
     subtitle: 'GARCIA-CASTRO LAB, UCRiverside: “Induction, specification and differentiation potential of Neural Crest Cells”'
     body: '
