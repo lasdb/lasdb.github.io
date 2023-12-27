@@ -8,7 +8,7 @@ jobs:
 
 
   - title: 'Research Positions'
-    date: '25/4/23'
+    date: '10/12/23'
     subtitle: 'GARCIA-CASTRO LAB, UCRiverside: “Induction, specification and differentiation potential of Neural Crest Cells”'
     body: '
 <a href="http://lasdb-development.org/pdfs/2023-PostdocPos-Garcia-CastroLab231129.pdf" target="_blank">Flyer PostdocPos-Garcia-CastroLab</a>'
