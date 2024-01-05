@@ -42,6 +42,14 @@ Interested individuals should send their curriculum vitae, a brief description o
 Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliver@northwestern.edu<br>'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+    
   - title: 'ACADEMIC POSITION FOR ASSISTANT OR ASSOCIATE PROFESSOR IN DEVELOPMENTAL AND STEM CELL BIOLOGY'
     date: '8/3/23'
     subtitle: 'Facultad Ciencias Biologicas, Pontificia Universidad Católica de Chile'
@@ -50,14 +58,6 @@ Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Fei
     Deadline: April 15th 2023, at 17:00 h (Santiago local time) <br>
     For application requirements and procedure, please go directly to the following institutional link (below):'
     URL: 'https://biologia.uc.cl/call-for-applications-academic-position-for-assistant-or-associate-professor-in-developmental-and-stem-cell-biology/'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Junior postdoc position in embryo development and morphogenesis'
     date: '20/1/22'
