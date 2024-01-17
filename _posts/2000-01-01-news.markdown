@@ -2,7 +2,7 @@
 layout: news
 title:  "News"
 date:   2000-01-01 00:00:00
-categories: news
+categories: news 
 permalink: pages/news.html
 news:
 
