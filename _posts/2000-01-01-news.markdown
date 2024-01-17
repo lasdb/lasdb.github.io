@@ -6,7 +6,14 @@ categories: news
 permalink: pages/news.html
 news:
 
-
+  - title: 'SDB 2023 Annual Meeting'
+    date: '1/11/23'
+    subtitle: 'Society for Developmental Biology <br>Atlanta, GA, USA. <br>July 14-17, 2024'
+    body: '83rd Annual Meeting of the Society for Developmental Biology  <br>
+    Abstract Deadline: April 10, 2024; Registration Deadline: June 20, 2024'
+    imageSm: 'img/news/DevPathIndep-sm.jpg'
+    imageBg: '../img/news/DevPathIndep-bg.jpg'
+    URL: 'https://journals.biologists.com/dev/pages/pi-programme-2024'
 
   - title: 'LASDB MEETING 2024'
     date: '20/8/23'
