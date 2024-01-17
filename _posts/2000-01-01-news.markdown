@@ -9,7 +9,7 @@ news:
 
   - title: 'Development's Pathway to Independence programme'
     date: '16/1/24'
-    subtitle: ''
+    subtitle: 'test'
     body: 'Following a successful initial year of supporting eight international postdocs as they search for an independent position, Development is now announcing the second call for applications for Development’s Pathway to Independence. This programme offers mentoring, training and networking opportunities to the successful candidates as they navigate this challenging period in their career. We are particularly keen to see applications from a geographically and scientifically diverse range of postdocs planning on going on the job market in 2024.'
     imageSm: 'img/news/DevPathIndep-sm.jpg'
     imageBg: '../img/news/DevPathIndep-bg.jpg'
