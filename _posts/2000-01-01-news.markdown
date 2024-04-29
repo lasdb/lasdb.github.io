@@ -6,6 +6,24 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'EMBO Practical Course in Developmental Biology'
+    date: '29/4/24'
+    subtitle: '3-17 January 2025, CIMARQ-Quintay, Chile. <br>
+    Deadline for applications: 30th July 2024.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 30th July 2024. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+<br>
+<b>HOW TO APPLY </b>
+<a href="http://lasdb-development.org/pdfs/Quintay2025-How to apply.pdf" target="_blank">Instructions How to apply</a> <br>
+<a href="http://lasdb-development.org/pdfs/Quintay2025-Latin-American-students.doc" target="_blank">Form for Latin American Students</a> <br>
+<a href="http://lasdb-development.org/pdfs/Quintay2025-NON-Latin-American-students.doc" target="_blank">Form for non-Latin American Students</a> <br>
+<br><br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
+    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
+    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
+    imageSm: 'img/news/Quintay2025-sm.jpg'
+    imageBg: '../img/news/Quintay2025-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
+
   - title: 'Development Pathway to Independence programme'
     date: '16/01/24'
     subtitle: ''
@@ -13,6 +31,18 @@ news:
     imageSm: 'img/news/DevPathIndep-sm.jpg'
     imageBg: '../img/news/DevPathIndep-bg.jpg'
     URL: 'https://journals.biologists.com/dev/pages/pi-programme-2024'
+
+  - title: 'Self-Organization in Biology. 
+Freiburg Spemann-Mangold Centennial Symposium'
+    date: '31/10/23'
+    subtitle: '16-19 September 2024 | University of Freiburg, Germany'
+    body: 'Self-Organization in Biology: Freiburg Spemann-Mangold Centennial Symposium celebrates 100 years of scientific advances rooted in Hilde Mangold’s and Hans Spemann’s discovery of the gastrula organizer in vertebrate development, published in 1924 and awarded the Nobel Prize in Physiology or Medicine in 1935.<br>
+It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
+<a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
+More information can be found at the website '
+    imageSm: 'img/news/Speamann_Mangold-sm.jpg'
+    imageBg: '../img/news/Speamann_Mangold-bg.jpg'
+    URL: 'https://www.elsevier.com/events/conferences/all/freiburg-spemann-mangold-symposium'
 
   - title: 'LASDB MEETING 2024'
     date: '20/8/23'
@@ -41,18 +71,6 @@ New payment deadline: 19 January, 2024<br><br>
     imageSm: 'img/news/Optics-Dev-2024-sm.jpg'
     imageBg: '../img/news/Optics-Dev-2024-bg.jpg'
     URL: 'http://www.cellmorphodynamics.cl/course2024/'
-
-  - title: 'Self-Organization in Biology. 
-Freiburg Spemann-Mangold Centennial Symposium'
-    date: '31/10/23'
-    subtitle: '16-19 September 2024 | University of Freiburg, Germany'
-    body: 'Self-Organization in Biology: Freiburg Spemann-Mangold Centennial Symposium celebrates 100 years of scientific advances rooted in Hilde Mangold’s and Hans Spemann’s discovery of the gastrula organizer in vertebrate development, published in 1924 and awarded the Nobel Prize in Physiology or Medicine in 1935.<br>
-It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
-<a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
-More information can be found at the website '
-    imageSm: 'img/news/Speamann_Mangold-sm.jpg'
-    imageBg: '../img/news/Speamann_Mangold-bg.jpg'
-    URL: 'https://www.elsevier.com/events/conferences/all/freiburg-spemann-mangold-symposium'
 
   - title: 'ISDB-SDB-LASDB joint Meeting 2025'
     date: '27/4/23'
