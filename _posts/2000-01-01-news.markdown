@@ -6,13 +6,13 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'EMBO Practical Course in Developmental Biology'
+  - title: 'Practical Course in Developmental Biology'
     date: '29/4/24'
     subtitle: '3-17 January 2025, CIMARQ-Quintay, Chile. <br>
     Deadline for applications: 30th July 2024.'
     body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 30th July 2024. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
 <br>
-<b>HOW TO APPLY </b>
+<b>HOW TO APPLY </b><br>
 <a href="http://lasdb-development.org/pdfs/Quintay2025-How to apply.pdf" target="_blank">Instructions How to apply</a> <br>
 <a href="http://lasdb-development.org/pdfs/Quintay2025-Latin-American-students.doc" target="_blank">Form for Latin American Students</a> <br>
 <a href="http://lasdb-development.org/pdfs/Quintay2025-NON-Latin-American-students.doc" target="_blank">Form for non-Latin American Students</a> <br>
