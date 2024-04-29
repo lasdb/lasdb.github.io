@@ -14,8 +14,8 @@ news:
 <br>
 <b>HOW TO APPLY </b><br>
 <a href="http://lasdb-development.org/pdfs/Quintay2025-How to apply.pdf" target="_blank">Instructions How to apply</a> <br>
-<a href="http://lasdb-development.org/pdfs/Quintay2025-Latin-American-students.doc" target="_blank">Form for Latin American Students</a> <br>
-<a href="http://lasdb-development.org/pdfs/Quintay2025-NON-Latin-American-students.doc" target="_blank">Form for non-Latin American Students</a> <br>
+<a href="http://lasdb-development.org/pdfs/Quintay2025-Latin-American-students.doc" download>Form for Latin American Students</a> <br>
+<a href="http://lasdb-development.org/pdfs/Quintay2025-NON-Latin-American-students.doc" download>Form for non-Latin American Students</a> <br>
 <br><br>
     <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> <br>
     <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
