@@ -24,6 +24,17 @@ news:
     imageBg: '../img/news/Quintay2025-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
+  - title: 'Company of Biologists: Propose a Global South Workshops for 2026'
+    date: '30/4/24'
+    subtitle: ''
+    body: 'NEWS FROM COMPANY OF BIOLOGISTS: <br>
+    In 2026 we will be continuing our efforts to diversify our Workshop programme so that we are able to support a wider selection of research communities around the world.<br>
+We will be reserving one of our Workshops for an application from a Global South (GS) country to host an event overseas. Our aim is to provide easier access for The Company of Biologists Workshops, bringing together world class scientists from home and abroad, and giving opportunities to local early-career researchers to attend.<br>
+Applications to propose a new Workshop will close on 19 July 2024.'
+    imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
+    imageBg: '../img/news/South-Workshop-2026-CoB-bg.png'
+    URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
+
   - title: 'Development Pathway to Independence programme'
     date: '16/01/24'
     subtitle: ''
