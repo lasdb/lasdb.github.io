@@ -6,6 +6,13 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoc Position'
+    date: '3/5/24'
+    subtitle: 'Múnera lab Medical. University of South Carolina, USA'
+    body: 'The laboratory of Dr. Jorge Múnera in the Department of Regenerative Medicine and Cell Biology is looking for a postdoctoral fellow to study hindgut development using animal models and human pluripotent stem cell derived small intestinal, colonic and urothelial organoids.'
+    par2: 'The Múnera lab is part of the NIH funded MUSC Digestive Disease Research Core Center (DDRCC). In addition, the lab is also part of the MUSC Center of Biomedical Research Excellence (COBRE) in Digestive & Liver Disease (CDLD) which is funded through the National Institutes of General Medical Sciences (NIGMS). We are seeking a highly self-motivated applicant with a strong interest in stem cell research. The postdoctoral fellow will have access to multiple DDRCC and COBRE cores. Qualified applicants will have a recent PhD with peer-reviewed research publications, a demonstrated expertise in cell biology, morphogenesis and a keen interest to establish an independent research program in developmental and stem cell biology. Recent PhD graduates will be given priority. Interested applicants can contact Dr. Múnera directly by email: munera@musc.edu <br>
+    The Medical University of South Carolina is located in Charleston, South Carolina, USA. Charleston is a beautiful coastal city with a temperate climate, beautiful beaches, and diverse wildlife.'
+    URL: 'https://medicine.musc.edu/departments/dom/divisions/gastroenterology/research/labs-and-centers/ddrcc/member-directory/munera'
 
   - title: 'POST-DOC POSITION'
     date: '10/12/23'
