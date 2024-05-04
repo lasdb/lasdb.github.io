@@ -52,9 +52,9 @@ More information can be found at the website '
     subtitle: '6th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 20-22 November 2024'
     body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2024.<br>
     The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
-More information will be available soon in the webpage and social networks <br>
-Website: http://tallerbcd.wixsite.com/tallerbcd  <br>
-Twitter @tallerBCD: https://twitter.com/tallerBCD '
+More information will be available soon in the webpage and social networks: <br>
+<a href="http://tallerbcd.wixsite.com/tallerbcd" target="_blank">Website: http://tallerbcd.wixsite.com/tallerbcd</a> <br>
+<a href="https://twitter.com/tallerBCD" target="_blank">Twitter: @tallerBCD</a> '
     imageSm: 'img/news/chascomus2022-sm.jpg'
     imageBg: '../img/news/chascomus2024-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
