@@ -24,7 +24,7 @@ news:
     imageBg: '../img/news/Quintay2025-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
-  - title: '25 years of Developmental Biology Course in Latin America'
+  - title: '25 years of the Developmental Biology Course in Latin America'
     date: '5/5/24'
     subtitle: 'Alumni Symposium'
     body: 'To celebrate the 25 anniversary of this course we will host a special symposium with course alumni. If you have been a student in any version of this course in Chile and will be in Chile on January 10, 2025, please contact R. Mayor (<b>r.mayor@ucl.ac.uk</b>).<br>
