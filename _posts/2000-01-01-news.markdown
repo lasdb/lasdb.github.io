@@ -69,26 +69,6 @@ More information will be available soon in the webpage and social networks: <br>
     imageBg: '../img/news/chascomus2024-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
-<!--
-  - title: 'LASDB New Investigator Award 2024'
-    date: '2/5/24'
-    subtitle: 'Pablo Strobl-Mazzulla was awarded the Prize 2024 !!.'
-    body: '<b>Please follow this link:  
-    <a href="https://lasdb-development.org/pages/young_investigator_award.html">LASDB New Investigator Award</a></b>' 
-    imageSm: 'img/news/Strobl_award-sm.jpg'
-    imageBg: '../img/news/Strobl_award-bg.jpg'
-    URL: 'https://lasdb-development.org/pages/young_investigator_award.html'
-
-  - title: 'LASDB Prize in Developmental Biology 2024'
-    date: '2/5/24'
-    subtitle: 'Eddy de Robertis was awarded the LASDB Prize 2024 !!.'
-    body: 'Please follow this link:  
-    <a href="http://lasdb-development.org/pages/prize.html">LASDB Prize in DevBiol</a>' 
-    imageSm: 'img/news/Eddy_prize-sm.jpg'
-    imageBg: '../img/news/Eddy_prize-bg.jpg'
-    URL: 'http://lasdb-development.org/pages/prize.html'
-
--->
   - title: 'Development Pathway to Independence programme'
     date: '16/01/24'
     subtitle: ''
