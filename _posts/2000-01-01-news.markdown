@@ -35,7 +35,7 @@ news:
     URL: ''
 
   - title: 'LASDB Prize in Developmental Biology 2024'
-    date: '2/5/24'
+    date: '7/5/24'
     subtitle: 'Eddy de Robertis was awarded the LASDB Prize 2024 !!'
     body: 'Based on the scientific achievements and outstanding contributions to developmental biology, along with the promotion of developmental biology and science in Latin America, Eddy De Robertis received the LASDB Prize in Developmental Biology 2024.<br>
     The award was made at 11th Congress of the LASDB-2024 Valparaíso, where Eddy gave a plenary lecture.<br>
