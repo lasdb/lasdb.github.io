@@ -40,7 +40,6 @@ news:
     body: 'Based on the scientific achievements and outstanding contributions to developmental biology, along with the promotion of developmental biology and science in Latin America, Eddy De Robertis received the LASDB Prize in Developmental Biology 2024.<br>
     The award was made at 11th Congress of the LASDB-2024 Valparaíso, where Eddy gave a plenary lecture.<br>
 <b>Congratulations Eddy !!! <br><br>
-
 READ MORE:  
     <a href="http://lasdb-development.org/pages/prize.html">Eddy De Robertis LASDB Prize 2024</a></b>' 
     imageSm: 'img/news/Eddy_prize-sm.jpg'
@@ -76,6 +75,7 @@ Freiburg Spemann-Mangold Centennial Symposium'
     subtitle: '16-19 September 2024 | University of Freiburg, Germany'
     body: 'Self-Organization in Biology: Freiburg Spemann-Mangold Centennial Symposium celebrates 100 years of scientific advances rooted in Hilde Mangold’s and Hans Spemann’s discovery of the gastrula organizer in vertebrate development, published in 1924 and awarded the Nobel Prize in Physiology or Medicine in 1935.<br>
 It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
+Deadline: May 17, 2024<br>
 <a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
 More information can be found at the website '
     imageSm: 'img/news/Speamann_Mangold-sm.jpg'
