@@ -69,6 +69,14 @@ More information will be available soon in the webpage and social networks: <br>
     imageBg: '../img/news/chascomus2024-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
 
+  - title: 'ISDB-SDB-LASDB joint Meeting 2025'
+    date: '20/5/24'
+    subtitle: '18-22 June, 2025. San Juan, Puerto Rico'
+    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.'
+    imageSm: 'img/news/meeting_2025-sm.jpg'
+    imageBg: '../img/news/meeting_2025-bg.jpg'
+    URL: 'https://www.sdbonline.org/2025icdb'
+
   - title: 'Self-Organization in Biology. 
 Freiburg Spemann-Mangold Centennial Symposium'
     date: '31/10/23'
