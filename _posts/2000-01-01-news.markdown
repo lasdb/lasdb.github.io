@@ -12,12 +12,9 @@ news:
     Deadline for applications: 30th July 2024.'
     body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 30th July 2024. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
 <br>
-<b>HOW TO APPLY </b><br>
-<a href="http://lasdb-development.org/pdfs/Quintay2025-How to apply.pdf" target="_blank">Instructions How to apply</a> <br>
-<a href="https://drive.google.com/uc?export=download&id=1GKceD8OLWujRDCxbCFOisDxX93Fklpgu">Download Application Form for Latin American Students</a> <br>
-<a href="https://drive.google.com/uc?export=download&id=12glKl0uEPqTtwYSK9tJCN4QICfUBojyl">Download Application Form for non-Latin American Students</a> <br>
+<a href="https://biodesarrollo.unab.cl/how-to-apply" target="_blank"><b>Apply here</b></a> <br>
 <br><br>
-    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a> (information for course 2025 will be updated soon)<br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a><br>
     <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
     <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
     imageSm: 'img/news/Quintay2025-sm.jpg'
