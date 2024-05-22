@@ -46,6 +46,19 @@ READ MORE:
     imageBg: '../img/news/Eddy_prize-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
+
+  - title: 'LASDB New Investigator Award 2024'
+    date: '20/5/24'
+    subtitle: 'Pablo Strobl-Mazzulla was awarded the LASDB Prize 2024 !!'
+    body: 'In recognition of his outstanding research in developmental biology in Latin America during the early stages of his independent career, Pablo Strobl received the LASDB New Investigator Prize 2024.<br>
+    The award was made at 11th Congress of the LASDB-2024 Valparaíso, where Pablo gave a plenary lecture about his contributions to understand the role of the epigenetic control of cell specification and differentiation during vertebrate development.<br>
+<b>Congratulations Pablo !!! <br><br>
+READ MORE:  
+    <a href="https://lasdb-development.org/pages/young_investigator_award.html">Pablo Strobl LASDB New Investigator Prize 2024</a></b>' 
+    imageSm: 'img/news/Strobl_award-sm.jpg'
+    imageBg: '../img/news/Strobl_award-bg.jpg'
+    URL: 'https://lasdb-development.org/pages/young_investigator_award.html'
+
   - title: 'Company of Biologists: Propose a Global South Workshops for 2026'
     date: '30/4/24'
     subtitle: ''
