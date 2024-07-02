@@ -12,10 +12,10 @@ jobs:
     body: 'The laboratory oorganids.El Departamento de Biología Celular ofrece un ambiente de trabajo ideal para incorporar una nueva línea de investigación en Biología del Desarrollo. Actualmente cuenta con grupos dedicados a la investigación utilizando diversos modelos experimentales incluyendo ratón, pollo, rana, pez cebra y mosca de la fruta. Nuevos modelos son también bienvenidos.'
     par2: 'Enlace al sitio web del Departamento de Biología Celular
 Enlace al llamado
-<a href="https://cienciasbiologicasudec.cl/departamentos/biologiacelular/" target="_blank">Sitio web del Departamento de Biología Celular, U.Concepción</a>
-<a href="https://udec.trabajando.cl/empleos/ofertas/5706354/Academico---Departamento-de-Biologia-Celular---Facultad-de-Ciencias-Biologicas--Jornada-Completa-.html" target="_blank">Detalles del llamado a concurso</a>
-Dirigir sus consultas a la Dra. Susana Poblete, directora del Departamento de Biología Celular: supoblet@udec.cl
-    <a href="http://lasdb-development.org/pdfs/Concurso_UConcepcion_2024.pdf" target="_blank">Flyer llamado UConcepcion</a>''
+<a href="https://cienciasbiologicasudec.cl/departamentos/biologiacelular/" target="_blank">Sitio web del Departamento de Biología Celular, U.Concepción</a> <br>
+<a href="https://udec.trabajando.cl/empleos/ofertas/5706354/Academico---Departamento-de-Biologia-Celular---Facultad-de-Ciencias-Biologicas--Jornada-Completa-.html" target="_blank">Detalles del llamado a concurso</a>  <br>
+Dirigir sus consultas a la Dra. Susana Poblete, directora del Departamento de Biología Celular: supoblet@udec.cl  <br>
+    <a href="http://lasdb-development.org/pdfs/Concurso_UConcepcion_2024.pdf" target="_blank">Flyer llamado UConcepcion</a>'
     URL: 'https://udec.trabajando.cl/empleos/ofertas/5706354/Academico---Departamento-de-Biologia-Celular---Facultad-de-Ciencias-Biologicas--Jornada-Completa-.html'
 
   - title: 'POST-DOC POSITION'
