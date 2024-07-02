@@ -18,6 +18,14 @@ Dirigir sus consultas a la Dra. Susana Poblete, directora del Departamento de Bi
     <a href="http://lasdb-development.org/pdfs/Concurso_UConcepcion_2024.pdf" target="_blank">Flyer llamado UConcepcion</a>'
     URL: 'https://udec.trabajando.cl/empleos/ofertas/5706354/Academico---Departamento-de-Biologia-Celular---Facultad-de-Ciencias-Biologicas--Jornada-Completa-.html'
 
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'http://thenode.biologists.com/category/jobs'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+    
   - title: 'POST-DOC POSITION'
     date: '10/12/23'
     subtitle: 'GARCIA-CASTRO LAB, UCRiverside: “Induction, specification and differentiation potential of Neural Crest Cells”'
@@ -69,13 +77,6 @@ Interested individuals should send their curriculum vitae, a brief description o
 Guillermo Oliver, PhD Director Center for Vascular and Developmental Biology Feinberg Cardiovascular and Renal Research Institute, Northwestern  University Chicago, Illinois 60611 Email: guillermo.oliver@northwestern.edu<br>'
     URL: 'http://labs.feinberg.northwestern.edu/oliver/'
 
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
     
   - title: 'ACADEMIC POSITION FOR ASSISTANT OR ASSOCIATE PROFESSOR IN DEVELOPMENTAL AND STEM CELL BIOLOGY'
     date: '8/3/23'
