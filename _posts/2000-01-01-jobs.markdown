@@ -6,6 +6,15 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoc, School of Biological Sciences of the Pontificia Universidad Católica de Chile'
+    date: '24/7/24'
+    subtitle: ''
+    body: 'We are looking for researchers with a PhD degree, interested in Biomedicine to develop a project studying the cellular and molecular bases of autism spectrum disorder using cellular models of hiPSCs. This project would be carried out under the sponsorship and supervision of Dr. Ignacio Cancino. It is not required to have prior knowledge of autism or the cellular model, but the PhD must be in Natural Sciences (biology, physiology, genetics, neuroscience, etc.).'
+    par2: ' 
+<a href="https://biologia.uc.cl/convocatoria-para-plaza-postdoctoral-en-la-facultad-de-ciencias-biologicas/" target="_blank">Link CONCURSO PARA PLAZA POSTDOCTORAL EN LA FACULTAD DE CIENCIAS BIOLÓGICAS</a>  <br>
+Those interested can contact Ignacio Cancino at gcancino@uc.cl'
+    URL: 'https://biologia.uc.cl/convocatoria-para-plaza-postdoctoral-en-la-facultad-de-ciencias-biologicas/'
+
   - title: 'Llamado a concurso académico para un cargo en el Departamento de Biología Celular de la Universidad de Concepción, Chile'
     date: '2/7/24'
     subtitle: 'Recepción de Antecedentes: 31/07/2024'
