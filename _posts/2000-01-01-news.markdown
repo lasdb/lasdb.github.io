@@ -9,8 +9,8 @@ news:
   - title: 'Practical Course in Developmental Biology'
     date: '29/4/24'
     subtitle: '3-17 January 2025, CIMARQ-Quintay, Chile. <br>
-    Deadline for applications: 30th July 2024.'
-    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 30th July 2024. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
+    Deadline for applications: Extended until 15th August 2024.'
+    body: 'New edition of the Quintay Dev Biol Course! The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Deadline: 15th August 2024. Travel fellowships will be available. The course is an official activity of LASDB, hosted by Universidad Andres Bello and co-organized by Universidad Andres Bello and the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso. <br>
 <br>
 <a href="https://biodesarrollo.unab.cl/how-to-apply" target="_blank"><b>Apply here</b></a> <br>
 <br><br>
@@ -18,7 +18,7 @@ news:
     <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
     <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>' 
     imageSm: 'img/news/Quintay2025-sm.jpg'
-    imageBg: '../img/news/Quintay2025-bg.jpg'
+    imageBg: '../img/news/Quintay2025b-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
   - title: '25 years of the Developmental Biology Course in Latin America'
