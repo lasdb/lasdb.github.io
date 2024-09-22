@@ -6,6 +6,26 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'ISDB-SDB-LASDB joint Meeting 2025'
+    date: '20/5/24'
+    subtitle: '18-22 June, 2025. San Juan, Puerto Rico'
+    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.'
+    imageSm: 'img/news/meeting_2025-sm.jpg'
+    imageBg: '../img/news/meeting_2025-bg.jpg'
+    URL: 'https://www.sdbonline.org/2025icdb'
+
+  - title: 'ARGENTINA. Developmental Biology Meeting 2024'
+    date: '1/5/24'
+    subtitle: '6th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 20-22 November 2024'
+    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2024.<br>
+    The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
+More information will be available soon in the webpage and social networks: <br>
+<a href="http://tallerbcd.wixsite.com/tallerbcd" target="_blank">Website: http://tallerbcd.wixsite.com/tallerbcd</a> <br>
+<a href="https://twitter.com/tallerBCD" target="_blank">Twitter: @tallerBCD</a> '
+    imageSm: 'img/news/chascomus2022-sm.jpg'
+    imageBg: '../img/news/chascomus2024-bg.jpg'
+    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
+
   - title: 'Practical Course in Developmental Biology'
     date: '29/4/24'
     subtitle: '3-17 January 2025, CIMARQ-Quintay, Chile. <br>
@@ -67,18 +87,6 @@ Applications to propose a new Workshop will close on 19 July 2024.'
     imageBg: '../img/news/South-Workshop-2026-CoB-bg.png'
     URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
 
-  - title: 'ARGENTINA. Developmental Biology Meeting 2024'
-    date: '1/5/24'
-    subtitle: '6th Workshop Developmental and Cellular Biology, Chascomus, Argentina. 20-22 November 2024'
-    body: 'The Vth edition of the "Taller de Biología Celular y del Desarrollo" will be held in Chascomus, Pcia de Buenos Aires, Argentina in November 2024.<br>
-    The goals of this meeting are to foster the scientific interaction in Argentina, promote the participation of young researchers and students, and the collaboration between groups. <br>
-More information will be available soon in the webpage and social networks: <br>
-<a href="http://tallerbcd.wixsite.com/tallerbcd" target="_blank">Website: http://tallerbcd.wixsite.com/tallerbcd</a> <br>
-<a href="https://twitter.com/tallerBCD" target="_blank">Twitter: @tallerBCD</a> '
-    imageSm: 'img/news/chascomus2022-sm.jpg'
-    imageBg: '../img/news/chascomus2024-bg.jpg'
-    URL: 'http://tallerbcd.wixsite.com/tallerbcd'
-
   - title: 'Pew Latin America Postdoctoral Fellowships 2025'
     date: '4/6/24'
     subtitle: 'Deadline: August 14, 2024'
@@ -86,14 +94,6 @@ More information will be available soon in the webpage and social networks: <br>
     imageSm: 'img/news/pew-sm.jpg'
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
-
-  - title: 'ISDB-SDB-LASDB joint Meeting 2025'
-    date: '20/5/24'
-    subtitle: '18-22 June, 2025. San Juan, Puerto Rico'
-    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.'
-    imageSm: 'img/news/meeting_2025-sm.jpg'
-    imageBg: '../img/news/meeting_2025-bg.jpg'
-    URL: 'https://www.sdbonline.org/2025icdb'
 
   - title: 'Self-Organization in Biology. 
 Freiburg Spemann-Mangold Centennial Symposium'
