@@ -52,6 +52,20 @@ More information will be available soon in the webpage and social networks: <br>
     imageBg: '../img/news/quintay25y-bg.png'
     URL: ''
 
+
+  - title: 'Self-Organization in Biology. 
+Freiburg Spemann-Mangold Centennial Symposium'
+    date: '31/10/23'
+    subtitle: '16-19 September 2024 | University of Freiburg, Germany'
+    body: 'Self-Organization in Biology: Freiburg Spemann-Mangold Centennial Symposium celebrates 100 years of scientific advances rooted in Hilde Mangold’s and Hans Spemann’s discovery of the gastrula organizer in vertebrate development, published in 1924 and awarded the Nobel Prize in Physiology or Medicine in 1935.<br>
+It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
+Deadline: May 17, 2024<br>
+<a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
+More information can be found at the website '
+    imageSm: 'img/news/Speamann_Mangold-sm.jpg'
+    imageBg: '../img/news/Speamann_Mangold-bg.jpg'
+    URL: 'https://www.elsevier.com/events/conferences/all/freiburg-spemann-mangold-symposium'
+
   - title: 'LASDB Prize in Developmental Biology 2024'
     date: '7/5/24'
     subtitle: 'Eddy de Robertis was awarded the LASDB Prize 2024 !!'
@@ -95,19 +109,6 @@ Applications to propose a new Workshop will close on 19 July 2024.'
     imageSm: 'img/news/pew-sm.jpg'
     imageBg: '../img/news/pew-bg.jpg'
     URL: 'https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/program-details'
-
-  - title: 'Self-Organization in Biology. 
-Freiburg Spemann-Mangold Centennial Symposium'
-    date: '31/10/23'
-    subtitle: '16-19 September 2024 | University of Freiburg, Germany'
-    body: 'Self-Organization in Biology: Freiburg Spemann-Mangold Centennial Symposium celebrates 100 years of scientific advances rooted in Hilde Mangold’s and Hans Spemann’s discovery of the gastrula organizer in vertebrate development, published in 1924 and awarded the Nobel Prize in Physiology or Medicine in 1935.<br>
-It builds a bridge to today’s molecular and cellular understanding self-organization in developing systems, including gastrulation, stem cell organoids, morphogen gradients, invertebrate systems, Evo-Devo, and emerging fields deriving from the discovery of embryonic induction.<br>
-Deadline: May 17, 2024<br>
-<a href="http://lasdb-development.org/pdfs/Spemann_Mangold_2024_POSTER.pdf" target="_blank">Conference Poster.pdf</a><br>
-More information can be found at the website '
-    imageSm: 'img/news/Speamann_Mangold-sm.jpg'
-    imageBg: '../img/news/Speamann_Mangold-bg.jpg'
-    URL: 'https://www.elsevier.com/events/conferences/all/freiburg-spemann-mangold-symposium'
 
   - title: 'Development Pathway to Independence programme'
     date: '16/01/24'
