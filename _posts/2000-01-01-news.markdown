@@ -17,7 +17,7 @@ Nominations should be sent directly to Juan Riesgo-Escovar, <b>riesgo@unam.mx</b
 <b>Deadline is March 1st, 2025.</b> <br> <br>
 Thanking in advance and looking forward to receiving nominations.<br> <br><br> <br>
     <a href="http://lasdb-development.org/pages/prize.html" target="_blank">Previous awardees</a>'
-    imageSm: 'img/news/LASDB-prize2-sm.jpg'
+    imageSm: 'img/news/lasdb-prize2-sm.jpg'
     imageBg: '../img/news/LASDB-prize-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
