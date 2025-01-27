@@ -6,6 +6,18 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Job Opening Universidad de Valparaiso'
+    date: '26/1/25'
+    subtitle: 'Assistant Professor in Genetics and Development of the Nervous System'
+    body: 'The Institute of Neuroscience in the Faculty of Science, University of Valparaiso is looking to expand its research program in the area of Genetics and Development of the Nervous System including comparative genomics related to development and evolution of the nervous system. We are specifically interested in candidates using zebrafish (and/or other fish species) as a model system. The successful candidate is expected to develop an extramurally funded research program, participate in the department’s Ph.D. program in Neuroscience, and contribute to excellence in training of graduate and undergraduate students. Because of the requirements of the job opening, only female candidates will be considered. We expect that the successful candidate will have a research program that complements the current research in genetics and development in the Institute of Neuroscience/ Interdisciplinary Center for Neuroscience of Valparaiso. '
+    par2: ' 
+<a href="https://cinv.uv.cl/" target="_blank">https://cinv.uv.cl/</a>  <br>
+Qualifications: PhD in Biology or a related field, Postdoctoral Experience <br>
+Closing Date: Applications must be received on or before Tuesday March 25, 2025 <br>
+To Apply: Please submit: (1) a cover letter, (2) curriculum vitae, (3) research statement, (4) teaching statement, (5) three letters of recommendation, to:<br>
+Dr. Kathleen Whitlock.  Chair, Search Committee.  kathleen.whitlock@uv.cl'
+    URL: 'https://cinv.uv.cl/'
+
   - title: 'Postdoc, School of Biological Sciences of the Pontificia Universidad Católica de Chile'
     date: '24/7/24'
     subtitle: ''
@@ -14,6 +26,15 @@ jobs:
 <a href="https://biologia.uc.cl/convocatoria-para-plaza-postdoctoral-en-la-facultad-de-ciencias-biologicas/" target="_blank">Link CONCURSO PARA PLAZA POSTDOCTORAL EN LA FACULTAD DE CIENCIAS BIOLÓGICAS</a>  <br>
 Those interested can contact Ignacio Cancino at gcancino@uc.cl'
     URL: 'https://biologia.uc.cl/convocatoria-para-plaza-postdoctoral-en-la-facultad-de-ciencias-biologicas/'
+
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'https://thenode.biologists.com/jobs/'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
 
   - title: 'Llamado a concurso académico para un cargo en el Departamento de Biología Celular de la Universidad de Concepción, Chile'
     date: '2/7/24'
@@ -27,13 +48,6 @@ Dirigir sus consultas a la Dra. Susana Poblete, directora del Departamento de Bi
     <a href="http://lasdb-development.org/pdfs/Concurso_UConcepcion_2024.pdf" target="_blank">Flyer llamado UConcepcion</a>'
     URL: 'https://udec.trabajando.cl/empleos/ofertas/5706354/Academico---Departamento-de-Biologia-Celular---Facultad-de-Ciencias-Biologicas--Jornada-Completa-.html'
 
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'https://thenode.biologists.com/jobs/'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
     
   - title: 'POST-DOC POSITION'
     date: '10/12/23'
