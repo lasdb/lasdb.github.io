@@ -39,7 +39,7 @@ Please follow the link to know how to submit your nomination<br>:
     body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.<br>
     Program and more information about the meeting: <a href="https://www.sdbonline.org/2025icdb" target="_blank">https://www.sdbonline.org/2025icdb</a>'
     imageSm: 'img/news/meeting_2025-sm.jpg'
-    imageBg: '../img/news/meeting_2025-bg.jpg'
+    imageBg: '../img/news/meeting_2025b-bg.jpg'
     URL: 'https://www.sdbonline.org/2025icdb'
 
   - title: 'ARGENTINA. Developmental Biology Meeting 2024'
