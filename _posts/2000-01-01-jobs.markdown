@@ -29,7 +29,7 @@ Dirigir sus consultas a la Dra. Susana Poblete, directora del Departamento de Bi
 
   - title: 'See Job Opportunities at The Node'
     date: ''
-    URL: 'http://thenode.biologists.com/category/jobs'
+    URL: 'https://thenode.biologists.com/jobs/'
   
   - title: 'See Job Opportunities at SDB'
     date: ''
