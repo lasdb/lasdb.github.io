@@ -21,7 +21,6 @@ Thanking in advance and looking forward to receiving nominations.<br> <br><br> <
     imageBg: '../img/news/LASDB-prize-bg.jpg'
     URL: 'http://lasdb-development.org/pages/prize.html'
 
-
   - title: 'LASDB New Investigator Award 2025'
     date: '1/11/24'
     subtitle: 'Nominations  open !!! Deadline: March 1, 2025'
@@ -32,6 +31,15 @@ Please follow the link to know how to submit your nomination<br>:
     imageBg: '../img/news/young_award_lasdb-bg.jpg'
     URL: 'http://lasdb-development.org/pages/young_investigator_award.html'
 
+  - title: 'Democratising Microscopy in Latin America: Imaging Across Scales and Regions'
+    date: '7/2/25'
+    subtitle: 'Workshop. The Company of Biologists - Global South'
+    body: 'The Company of Biologists is organising a <b>Workshop in Ecuador in October 2025 - Democratising Microscopy in Latin America: Imaging Across Scales and Regions</b>. This event will provide opportunities to network with leading experts in microscopy from across the world, to exchange ideas on microscopy technology and applications and to discuss approaches for future research in the field.<br>
+    20 funded places for early-career researchers from Global South countries are offered to attend this event and particularly encourage applications from Latin America. Further details of the website and funding available can be found online.<br>
+    The application deadline is currently set as <b>14 February</b>'
+    imageSm: 'img/news/MicroscopyLatAm-sm.jpg'
+    imageBg: '../img/news/MicroscopyLatAm-bg.jpg'
+    URL: 'https://www.biologists.com/workshops/global_south_2025/'
 
   - title: 'ISDB-SDB-LASDB joint Meeting 2025'
     date: '20/5/24'
