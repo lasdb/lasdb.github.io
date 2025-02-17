@@ -43,9 +43,8 @@ Please follow the link to know how to submit your nomination<br>:
 
   - title: 'Company of Biologists: Propose a Global South Workshops for 2027'
     date: '17/2/25'
-    subtitle: ''
-    body: Deadline: 30 May 2025<br>
-    In 2027 The Company of Biologists will be continuing their efforts to diversify the Workshop programme supportting a wider selection of research communities around the world.<br>
+    subtitle: 'Deadline: 30 May 2025'
+    body: 'In 2027 The Company of Biologists will be continuing their efforts to diversify the Workshop programme supportting a wider selection of research communities around the world.<br>
 CoB will be reserving one of our Workshops for an application from a Global South (GS) country to host an event overseas. The aim is to provide easier access for The Company of Biologists Workshops, bringing together world class scientists from home and abroad, and giving opportunities to local early-career researchers to attend.<br>
 Applications to propose a new Workshop will close on 30 May 2025.'
     imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
