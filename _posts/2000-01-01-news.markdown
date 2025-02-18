@@ -36,7 +36,7 @@ Please follow the link to know how to submit your nomination<br>:
     subtitle: 'Workshop. The Company of Biologists - Global South'
     body: 'The Company of Biologists is organising a <b>Workshop in Ecuador in October 2025 - Democratising Microscopy in Latin America: Imaging Across Scales and Regions</b>. This event will provide opportunities to network with leading experts in microscopy from across the world, to exchange ideas on microscopy technology and applications and to discuss approaches for future research in the field.<br>
     20 funded places for early-career researchers from Global South countries are offered to attend this event and particularly encourage applications from Latin America. Further details of the website and funding available can be found online.<br>
-    The application deadline is currently set as <b>14 February</b>'
+    The application deadline is currently set as <b>4 April 2025</b>'
     imageSm: 'img/news/MicroscopyLatAm-sm.jpg'
     imageBg: '../img/news/MicroscopyLatAm-bg.jpg'
     URL: 'https://www.biologists.com/workshops/global_south_2025/'
