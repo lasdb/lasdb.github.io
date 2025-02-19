@@ -2,11 +2,11 @@
     <div class="panel panel-default" id="sidebar">
         <div class="panel-body">
             
-            <a href="https://meetings.embo.org/event/24-dev-bio" target="_blank">
-                <p style="font-weight:bold; margin-top: 5px; font-size: 1.6em;">LASDB-2024 Meeting</p> <br>
-                17-20 March 2024. Valparaiso, Chile<br><br>
-                <img src="{{site.baseurl}}/img/carrousel-lasdb-2024b.jpg" class="img-meeting img-responsive" style="margin-bottom:20px;"/>
-                <p style="font-weight:bold; font-size: 1.2em;">Enter LASDB-2024 Meeting website</p>
+            <a href="https://www.sdbonline.org/2025icdb" target="_blank">
+                <p style="font-weight:bold; margin-top: 5px; font-size: 1.6em;">International Congress of Developmental Biology ISDB-SDB-LASDB</p> <br>
+                18-22 June 2025. Puerto Rico<br><br>
+                <img src="{{site.baseurl}}/img/carrousel-PuertoRico_2025" class="img-meeting img-responsive" style="margin-bottom:20px;"/>
+                <p style="font-weight:bold; font-size: 1.2em;">Enter the Meeting website</p>
                 <br>
 
                 <ul style="padding-left:10px; border-bottom: 3px solid #515151;"></ul>
@@ -27,7 +27,7 @@
                 <ul style="padding-left:10px; border-bottom: 3px solid #515151;">
                     {% for post in site.posts %}
                         {% if post.categories contains 'jobs' %}
-                            {% for job in post.jobs limit:6 %}
+                            {% for job in post.jobs limit:4 %}
                                 <li>     
                                     <p> {{job.title}}.  {{job.subtitle}} </p>
                                 </li>
