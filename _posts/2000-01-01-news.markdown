@@ -8,13 +8,13 @@ news:
 
   - title: 'LASDB Prize in Developmental Biology 2025'
     date: '1/11/24'
-    subtitle: 'Nominations are open !!! Deadline: March 1, 2025'
+    subtitle: 'Nominations are open !!! Extended Deadline: March 9, 2025'
     body: 'We are happy to announce that nominations for the LASDB Prize 2025 are now open. <br>
 The LASDB Prize is awarded to a scientist who has made a major contribution to developmental biology. The award will be made at the LASDB-ISDB-SDB joint meeting in Puerto Rico in June 2025, where the winner will be invited to give a plenary lecture. <br><br>
         <b>Nominations:</b> <br>
 Nominees should be outstanding developmental biologists. Nominations should consist of a short statement of support (maximum 1 page A4), stating why the candidate is suitable for the prize. Self-nomination is not allowed. Neither the proposer, nor the candidate need to be LASDB members. It is desirable, but not essential, for the nominee to have shown an involvement, or active interest in Latin American science. <br><br>
 Nominations should be sent directly to Juan Riesgo-Escovar, <b>riesgo@unam.mx</b>. Please cc to LASDB email: <b>lasdb.development@gmail.com</b>. <br>
-<b>Deadline is March 1st, 2025.</b> <br> <br>
+<b>Deadline is March 9th, 2025.</b> <br> <br>
 Thanking in advance and looking forward to receiving nominations.<br> <br><br> <br>
     <a href="http://lasdb-development.org/pages/prize.html" target="_blank">Previous awardees</a>'
     imageSm: 'img/news/lasdb-prize2-sm.jpg'
@@ -23,7 +23,7 @@ Thanking in advance and looking forward to receiving nominations.<br> <br><br> <
 
   - title: 'LASDB New Investigator Award 2025'
     date: '1/11/24'
-    subtitle: 'Nominations  open !!! Deadline: March 1, 2025'
+    subtitle: 'Nominations  open !!! Extended Deadline: March 9, 2025'
     body: ' The LASDB New Investigator Award recognizes a new investigator performing outstanding research in developmental biology in Latin America during the early stages of their independent career.  <br><br> 
 Please follow the link to know how to submit your nomination<br>:
     <b><a href="http://lasdb-development.org/pages/young_investigator_award.html" target="_blank">New Investigator Award - Instructions</a></b>'
