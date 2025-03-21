@@ -6,6 +6,16 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'ISDB-SDB-LASDB joint Meeting 2025'
+    date: '20/5/24'
+    subtitle: '18-22 June, 2025. San Juan, Puerto Rico'
+    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.<br>
+    <b>Late Abstract Submission Deadline: April 2, 2025</b>
+    Program, more information and registration: <a href="https://www.sdbonline.org/2025icdb" target="_blank">https://www.sdbonline.org/2025icdb</a>'
+    imageSm: 'img/news/meeting_2025-sm.jpg'
+    imageBg: '../img/news/meeting_2025b-bg.jpg'
+    URL: 'https://www.sdbonline.org/2025icdb'
+
   - title: 'LASDB Prize in Developmental Biology 2025'
     date: '1/11/24'
     subtitle: 'Nominations are open !!! Extended Deadline: March 9, 2025'
@@ -50,15 +60,6 @@ Applications to propose a new Workshop will close on 30 May 2025.'
     imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
     imageBg: '../img/news/South-Workshop-2027-CoB-bg.png'
     URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
-
-  - title: 'ISDB-SDB-LASDB joint Meeting 2025'
-    date: '20/5/24'
-    subtitle: '18-22 June, 2025. San Juan, Puerto Rico'
-    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.<br>
-    Program and more information about the meeting: <a href="https://www.sdbonline.org/2025icdb" target="_blank">https://www.sdbonline.org/2025icdb</a>'
-    imageSm: 'img/news/meeting_2025-sm.jpg'
-    imageBg: '../img/news/meeting_2025b-bg.jpg'
-    URL: 'https://www.sdbonline.org/2025icdb'
 
   - title: 'ARGENTINA. Developmental Biology Meeting 2024'
     date: '1/5/24'
