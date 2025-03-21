@@ -9,8 +9,8 @@ news:
   - title: 'ISDB-SDB-LASDB joint Meeting 2025'
     date: '20/5/24'
     subtitle: '18-22 June, 2025. San Juan, Puerto Rico'
-    body: 'This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.<br>
-    <b>Late Abstract Submission Deadline: April 2, 2025</b>
+    body: '<b>Late Abstract Submission Deadline: April 2, 2025</b><br>
+    This joint meeting 2025 will be co-sponsored by the International Society of Developmental Biology, the Society for Developmental Biology, and the Latin American Society for Developmental Biology.<br>
     Program, more information and registration: <a href="https://www.sdbonline.org/2025icdb" target="_blank">https://www.sdbonline.org/2025icdb</a>'
     imageSm: 'img/news/meeting_2025-sm.jpg'
     imageBg: '../img/news/meeting_2025b-bg.jpg'
