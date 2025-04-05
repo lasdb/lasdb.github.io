@@ -27,6 +27,24 @@ news:
     imageBg: '../img/news/meeting_2025b-bg.jpg'
     URL: 'https://www.sdbonline.org/2025icdb'
 
+  - title: 'HFSP Postdoctoral Fellowships'
+    date: '1/4/25'
+    subtitle: ''
+    body: 'The application window for the 2025 HFSP Postdoctoral Fellowships is now open. These fellowships offer a unique opportunity for postdoctoral researchers to pursue innovative projects in the life sciences. Interested applicants must submit a Letter of Intent by May 14, 2024.'
+    imageSm: 'img/news/hfsp-sm.jpg'
+    imageBg: '../img/news/hfsp-bg.png'
+    URL: 'https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships'
+
+  - title: 'Company of Biologists: Propose a Global South Workshops for 2027'
+    date: '17/2/25'
+    subtitle: 'Deadline: 30 May 2025'
+    body: 'In 2027 The Company of Biologists will be continuing their efforts to diversify the Workshop programme supportting a wider selection of research communities around the world.<br>
+CoB will be reserving one of our Workshops for an application from a Global South (GS) country to host an event overseas. The aim is to provide easier access for The Company of Biologists Workshops, bringing together world class scientists from home and abroad, and giving opportunities to local early-career researchers to attend.<br>
+Applications to propose a new Workshop will close on 30 May 2025.'
+    imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
+    imageBg: '../img/news/South-Workshop-2027-CoB-bg.png'
+    URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
+
   - title: 'LASDB Prize in Developmental Biology 2025'
     date: '1/11/24'
     subtitle: 'Nominations are open !!! Extended Deadline: March 9, 2025'
@@ -62,15 +80,6 @@ Please follow the link to know how to submit your nomination<br>:
     imageBg: '../img/news/MicroscopyLatAm-bg.jpg'
     URL: 'https://www.biologists.com/workshops/global_south_2025/'
 
-  - title: 'Company of Biologists: Propose a Global South Workshops for 2027'
-    date: '17/2/25'
-    subtitle: 'Deadline: 30 May 2025'
-    body: 'In 2027 The Company of Biologists will be continuing their efforts to diversify the Workshop programme supportting a wider selection of research communities around the world.<br>
-CoB will be reserving one of our Workshops for an application from a Global South (GS) country to host an event overseas. The aim is to provide easier access for The Company of Biologists Workshops, bringing together world class scientists from home and abroad, and giving opportunities to local early-career researchers to attend.<br>
-Applications to propose a new Workshop will close on 30 May 2025.'
-    imageSm: 'img/news/South-Workshop-CoB-sm.jpg'
-    imageBg: '../img/news/South-Workshop-2027-CoB-bg.png'
-    URL: 'https://www.biologists.com/workshops/propose-new-workshop/#global_south'
 
   - title: 'ARGENTINA. Developmental Biology Meeting 2024'
     date: '1/5/24'
