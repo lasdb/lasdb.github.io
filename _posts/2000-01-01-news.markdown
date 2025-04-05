@@ -9,10 +9,10 @@ news:
   - title: 'Submit nominees for the NEW LASDB PRESIDENT'
     date: '4/4/25'
     subtitle: ''
-    body: 'The LASDB seeks nominations for the next LASDB President.<br>
+    body: '<b>The LASDB seeks nominations for the next LASDB President.</b><br>
     The LASDB president term will begin after the LASDB-ISDB-SDB Congress (Puerto Rico) and end after the following two LASDB Meetings<br>
     Please submit candidates to Dr. Roberto Mayor, who has accepted to oversee the election, r.mayor@ucl.ac.uk, please copy lasdb.development@gmail.com.<br>
-    This call is open until April 30, 2025. '
+    This call is open until <b> April 30, 2025.</b> '
     imageSm: 'img/news/LASDB_logo-sm.jpg'
     imageBg: '../img/news/LASDB_logo-bg.png'
     URL: ''
