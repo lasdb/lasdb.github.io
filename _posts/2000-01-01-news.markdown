@@ -32,7 +32,7 @@ news:
     subtitle: ''
     body: 'The application window for the 2025 HFSP Postdoctoral Fellowships is now open. These fellowships offer a unique opportunity for postdoctoral researchers to pursue innovative projects in the life sciences. Interested applicants must submit a Letter of Intent by May 14, 2024.'
     imageSm: 'img/news/hfsp-sm.jpg'
-    imageBg: '../img/news/hfsp-bg.png'
+    imageBg: '../img/news/hfsp-bg.jpg'
     URL: 'https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships'
 
   - title: 'Company of Biologists: Propose a Global South Workshops for 2027'
