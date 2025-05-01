@@ -6,7 +6,7 @@ layout: home
 <div class="row">
     {% for post in site.posts %}
     {% if post.categories contains 'news' %}
-    {% for noticia in post.news limit:7 %}
+    {% for noticia in post.news limit:5 %}
         <div class=" col-xs-12 col-sm-6">
             <div class="panel panel-default">
                 <div class="panel-heading"> 
