@@ -10,8 +10,8 @@ news:
     date: '1/5/25'
     subtitle: 'Congrats to the 2025 LASDB Award Winners!'
     body: 'The LASDB prizes jury selected this year LASDB award winners: <br>
-LASDB Lifetime Award: Dr María Leptin, Germany and Dr. MIguel Concha, Chile <br>
-LASDB New Invetigator Award: Dr. Natalia Pabón, Colombia <br>
+LASDB Lifetime Award: Dr Maria Leptin, Germany and Dr. Miguel Concha, Chile <br>
+LASDB New Investigator Award: Dr. Natalia Pabón, Colombia <br>
 Congratulations!'
     imageSm: 'img/news/LASDB_Prizes_2005-sm.jpg'
     imageBg: '../img/news/LASDB_Prizes_2005-bg.jpg'
