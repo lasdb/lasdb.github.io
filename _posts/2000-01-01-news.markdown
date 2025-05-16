@@ -13,8 +13,8 @@ news:
 LASDB Lifetime Award: Dr Maria Leptin, Germany and Dr. Miguel Concha, Chile <br>
 LASDB New Investigator Award: Dr. Natalia Pabón, Colombia <br>
 Congratulations!'
-    imageSm: 'img/news/LASDB_Prizes_2005-sm.jpg'
-    imageBg: '../img/news/LASDB_Prizes_2005-bg.jpg'
+    imageSm: 'img/news/LASDB_Prizes_2025-sm.jpg'
+    imageBg: '../img/news/LASDB_Prizes_2025-bg.jpg'
     URL: ''
 
   - title: 'ISDB-SDB-LASDB joint Meeting 2025'
