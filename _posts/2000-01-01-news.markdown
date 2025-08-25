@@ -6,6 +6,20 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+  - title: 'Latin America Bioimaging LABI Meeting 2025'
+    date: '1/7/25'
+    subtitle: ''
+    body: 'LABI events bring together leading voices from the Latin American bioimaging ecosystem and international partners to foster dialogue, innovation, and collaboration. Under the theme “From Data to Discovery”. <br>
+    Latin America and the Caribbean comprise a vast and diverse region with significant disparities in scientific development and infrastructure. Based on a solid belief that international cooperation is essential to encompass the challenges of modern science, Latin America Bioimaging (LABI) has quickly emerged as a pioneering regional initiative aimed at harnessing the transformative power of collaboration to drive research innovation and address both regional and global challenges. We aim to unite imaging scientists, facility staff, technology and software developers with researchers to address complex biological challenges using bioimaging technologies, thereby accelerating our understanding of health and disease.<br>
+Registration Opens: August 13th, 2025<br>
+Travel Grants Opens: August 13th, 2025
+Travel Grants Deadline: September 10th, 2025 (23:59 GMT-3)
+In-Person Registration Deadline: October 1st, 2025'
+    imageSm: 'img/news/labi-2025-sm.jpg'
+    imageBg: '../img/news/labi-2025-bg.jpg'
+    URL: 'https://www.labimeeting.com/'
+
   - title: 'LASDB 2025 Awards'
     date: '1/5/25'
     subtitle: 'Congrats to the 2025 LASDB Award Winners!'
