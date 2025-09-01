@@ -7,6 +7,18 @@ permalink: pages/news.html
 news:
 
 
+  - title: 'EMBO Course "Optics, Forces & Development"'
+    date: '01/09/25'
+    subtitle: 'January 2026, Santiago, Chile.  <br>
+    Application deadline: 10 October 2025'
+    body: 'We warmly invite you to apply for the EMBO Practical Course: Optics, Forces & Development, which will take place in Santiago, Chile, from 7 to 17 January 2026.<br>
+This international and interdisciplinary course is aimed at graduate students and postdoctoral researchers in the fields of developmental biology, cell biology, physics, and computer engineering, among others, who are interested in an immersive and interactive experience. The programme will focus on advanced microscopy, image analysis, quantitative biology, and modelling, applied to fundamental questions in developmental biology and tissue mechanics.<br>
+With a strong regional emphasis, the course will provide fellowships and travel support for students from Latin America, fostering scientific exchange and regional integration.<br>
+The application deadline is 10 October 2025.'
+    imageSm: 'img/news/Optics-Dev-2024-sm.jpg'
+    imageBg: '../img/news/Optics-Dev-2026-bg.jpg'
+    URL: 'https://meetings.embo.org/event/26-optics'
+    
   - title: 'Latin America Bioimaging LABI Meeting 2025'
     date: '25/8/25'
     subtitle: 'November 2025'
