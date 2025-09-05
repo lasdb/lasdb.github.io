@@ -191,7 +191,7 @@ nav .dropdown li a{
 
 .panel-body>p, .panel-body>a.btn-default{
     color: #515151;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .panel-body>a.btn-default{
@@ -444,4 +444,5 @@ h3.modal-title {
         clear: left;
     }
 }
+
 
