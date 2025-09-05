@@ -16,7 +16,7 @@ This international and interdisciplinary course is aimed at graduate students an
 With a strong regional emphasis, the course will provide fellowships and travel support for students from Latin America, fostering scientific exchange and regional integration.<br>
 The application deadline is 10 October 2025.<br>
 Organising Committee: Miguel Concha (U. Chile), Nicoletta Petridou (EMBL Heidelberg), Marcela Torrejón (UDEC), Mauricio Cerda (U Chile), Ana-María Lennon-Dumenil (Institut Curie), Steffen Hartel (U. Chile)'
-    imageSm: 'img/news/Optics-Dev-2024-sm.jpg'
+    imageSm: 'img/news/Optics-Dev-2026-sm.png'
     imageBg: '../img/news/Optics-Dev-2026-bg.jpg'
     URL: 'https://meetings.embo.org/event/26-optics'
     
