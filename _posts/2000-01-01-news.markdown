@@ -6,6 +6,26 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'Call for proposals to host the LASDB Meeting 2027'
+    date: '17/09/25'
+    subtitle: ''
+    body: 'We are pleased to announce the public call for proposals to host and organise the next LASDB Biennial Meeting, scheduled for 2027.<br>
+The LASDB Meeting has become a cornerstone event for our community, bringing together scientists, postdoctoral fellows, students, and collaborators from across Latin America and the world to share advances in developmental biology, foster collaborations, and support the training of the next generation of researchers.<br>
+We now invite research groups, institutions, or consortia of laboratories from across Latin America interested in participating in the organization of the 2027 LASDB Meeting to submit a proposal. All proposals will be evaluated by the LASDB Board of Directors, and based on this process the host location will be defined. The selected host will work closely with the LASDB Board to develop the scientific program, secure funding, and ensure broad participation across the region, in accordance with LASDB guidelines.<br>
+Proposals should align with the spirit of the <a href="https://lasdb-development.org/pages/LASDB_meeting_guidelines.html" target="_blank">Guidelines for the LASDB Meetings</a> and include:<br>
+- A proposed venue (city, institution, facilities).<br>
+- Preliminary dates.<br>
+- Rationale for hosting the meeting at the proposed site (accessibility, infrastructure, potential local support).<br>
+- A preliminary organisational committee and contact person.<br>
+- Strategies for fundraising and ensuring inclusivity, student participation, and regional diversity.<br>
+<br>
+Submission deadline:  October 31st, 2025.<br>
+Submission format: A PDF document (max. 3 pages) sent to lasdb.development@gmail.com.<br>
+All proposals will be reviewed by the LASDB Board, and the selected host site will be announced to all LASDB members by email and on the LASDB website.<br>
+We look forward to receiving your proposals and working together to continue strengthening the developmental biology community in Latin America.'
+    imageSm: 'img/news/call_prop_2027-sm.jpg'
+    imageBg: '../img/news/call_prop_2027-bg.jpg'
+    URL: ''
 
   - title: 'EMBO Course "Optics, Forces & Development"'
     date: '01/09/25'
