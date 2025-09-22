@@ -66,7 +66,7 @@ nav a {
 .navbar.navbar-dark.bg-primary {
     border: 0;
     border-radius: 0;
-    box-shadow:inset 0 40px 40px -10px #276091;
+    box-shadow:inset 0 40px 40px -10px #0081c8;
 }
 
 #bs-example-navbar-collapse-1 {
@@ -232,7 +232,7 @@ nav .dropdown li a{
                    Footer
 *******************************************/
 footer {
-    background-color: #276091;
+    background-color: #0081c8;
     padding: 20px 20px;
     box-shadow:inset 0 40px 40px -10px #337AB7;
     color: #fff;
@@ -444,5 +444,6 @@ h3.modal-title {
         clear: left;
     }
 }
+
 
 
