@@ -158,7 +158,7 @@ nav .dropdown li a{
 }
 
 .panel-default>.panel-heading {
-    background-color: #fff;
+    background-color: #f9f9f9;
     margin-bottom: 10px;
     border: 0;
     border-radius: 0;
@@ -444,6 +444,7 @@ h3.modal-title {
         clear: left;
     }
 }
+
 
 
 
