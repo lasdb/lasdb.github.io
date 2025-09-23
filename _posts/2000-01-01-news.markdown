@@ -61,7 +61,7 @@ Travel Grants Opens: August 13th, 2025
 Travel Grants Deadline: September 10th, 2025 (23:59 GMT-3)
 In-Person Registration Deadline: October 1st, 2025'
     imageSm: 'img/news/labi-2025-sm.png'
-    imageBg: '../img/news/labi-2025-bg.jpg'
+    imageBg: '../img/news/labi-2025-bg.png'
     URL: 'https://www.labimeeting.com/'
 
   - title: 'LASDB Awards 2025'
