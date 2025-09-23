@@ -64,7 +64,7 @@ In-Person Registration Deadline: October 1st, 2025'
     imageBg: '../img/news/labi-2025-bg.jpg'
     URL: 'https://www.labimeeting.com/'
 
-  - title: 'LASDB 2025 Awards'
+  - title: 'LASDB Awards 2025'
     date: '1/5/25'
     subtitle: 'Congrats to the 2025 LASDB Award Winners!'
     body: 'The LASDB prizes jury selected this year LASDB award winners: <br>
