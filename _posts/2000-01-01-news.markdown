@@ -34,7 +34,7 @@ We look forward to receiving your proposals and working together to continue str
     <b>We warmly invite you to contribute by completing the <a href="https://forms.gle/WPg8vwJaFf68fKiHA" target="_blank"> online form here</a></b>.<br>
 This survey is meant both for developmental biologists (investigators, postdocs, students, and technicians) working within Latin America, as well as for Latin American developmental biologists working abroad.<br>
 Please help us spread the word by sharing it !!' 
-    imageSm: 'img/news/databaseDevBiol-sm.jpg'
+    imageSm: 'img/news/databaseDevBiol-sm.png'
     imageBg: '../img/news/databaseDevBiol-bg.jpg'
     URL: 'https://forms.gle/WPg8vwJaFf68fKiHA'
 
