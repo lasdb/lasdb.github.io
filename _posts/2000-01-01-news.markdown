@@ -50,7 +50,17 @@ Organising Committee: Miguel Concha (U. Chile), Nicoletta Petridou (EMBL Heidelb
     imageSm: 'img/news/Optics-Dev-2026-sm.png'
     imageBg: '../img/news/Optics-Dev-2026-bg.jpg'
     URL: 'https://meetings.embo.org/event/26-optics'
-    
+
+  - title: 'Cell & Developmental Biology of Xenopus: Gene Discovery & Disease'
+    date: '08/10/25'
+    subtitle: 'CSH Course. April 7 21, 2026'
+    body: 'Application Deadline: January 16, 2026 <br>
+CSHL Courses are intensive, running all day and often including evenings and weekends; students are expected to attend all sessions and reside on campus for the duration of the course. 
+Instructors: Rachel Miller, UTHealth Houston, McGovern Medical School; Peter Walentek Universitätsklinikum Freiburg, Germany'
+    imageSm: 'img/news/CSHL_Xen-sm.png'
+    imageBg: '../img/news/CSHL_Xen-bg.jpg'
+    URL: 'https://meetings.cshl.edu/courses.aspx?course=C-XENO'
+
   - title: 'Latin America Bioimaging LABI Meeting 2025'
     date: '25/8/25'
     subtitle: 'Buenos Aires, November 2025'
