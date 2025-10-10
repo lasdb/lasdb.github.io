@@ -53,7 +53,7 @@ Organising Committee: Miguel Concha (U. Chile), Nicoletta Petridou (EMBL Heidelb
 
   - title: 'Cell & Developmental Biology of Xenopus: Gene Discovery & Disease'
     date: '08/10/25'
-    subtitle: 'CSH Course. April 7 21, 2026'
+    subtitle: 'CSHL Course. April 7 21, 2026'
     body: 'Application Deadline: January 16, 2026 <br>
 CSHL Courses are intensive, running all day and often including evenings and weekends; students are expected to attend all sessions and reside on campus for the duration of the course. 
 Instructors: Rachel Miller, UTHealth Houston, McGovern Medical School; Peter Walentek Universitätsklinikum Freiburg, Germany'
