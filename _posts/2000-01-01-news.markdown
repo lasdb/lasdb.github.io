@@ -41,8 +41,8 @@ Please help us spread the word by sharing it !!'
   - title: 'EMBO Course "Optics, Forces & Development"'
     date: '01/09/25'
     subtitle: 'January 2026, Santiago, Chile.  <br>
-    Application deadline: extended until 31 October 2025 <br>
-    Fellowships for Latin American students are available'
+    Application deadline extended to 31 October 2025 <br>
+    News!! Fellowships for Latin American students are available thanks to UNU-BIOLAC'
     body: 'We warmly invite you to apply for the EMBO Practical Course: Optics, Forces & Development, which will take place in Santiago, Chile, from 7 to 17 January 2026.<br><br>
 This international and interdisciplinary course is aimed at graduate students and postdoctoral researchers in the fields of developmental biology, cell biology, physics, and computer engineering, among others, who are interested in an immersive and interactive experience. The programme will focus on advanced microscopy, image analysis, quantitative biology, and modelling, applied to fundamental questions in developmental biology and tissue mechanics.<br>
 With a strong regional emphasis, the course will provide fellowships and travel support for students from Latin America, fostering scientific exchange and regional integration.<br><br>
