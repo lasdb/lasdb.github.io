@@ -30,9 +30,10 @@ We look forward to receiving your proposals and working together to continue str
   - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
     date: '15/9/25'
     subtitle: 'Complete your profile and join the Network !'
-    body: 'We have developed an online platform to collect information on <b>Latin American developmental biologists, research areas and animal models</b>. This initiative will help us better understand the scope and diversity of our community and will be made available as a searchable database on the LASDB website, fostering collaboration and exchange among members. <br>
-    <b>We warmly invite you to contribute by completing the <a href="https://forms.gle/WPg8vwJaFf68fKiHA" target="_blank"> online form here</a></b>.<br>
-This survey is meant both for developmental biologists (investigators, postdocs, students, and technicians) working within Latin America, as well as for Latin American developmental biologists working abroad.<br>
+    body: 'We have developed an online platform to collect information on <b>Latin American developmental biologists, research areas and animal models</b>.<br>
+    This initiative will help us better understand the scope and diversity of our community and will be made available as a searchable database on the LASDB website, fostering collaboration and exchange among members. <br>
+    <b>We warmly invite you to contribute by completing the <a href="https://forms.gle/WPg8vwJaFf68fKiHA" target="_blank"> online form here</a></b>.<br><br>
+This survey is meant both for <b>developmental biologists (investigators, postdocs, students, and technicians) working within Latin America, as well as for Latin American developmental biologists working abroad</b>.<br><br>
 Please help us spread the word by sharing it !!' 
     imageSm: 'img/news/databaseDevBiol-sm.png'
     imageBg: '../img/news/databaseDevBiol-bg.jpg'
