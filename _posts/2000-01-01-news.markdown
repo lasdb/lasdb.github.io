@@ -55,6 +55,20 @@ Organising Committee: Miguel Concha (U. Chile), Nicoletta Petridou (EMBL Heidelb
     imageBg: '../img/news/Optics-Dev-2026-bg.jpg'
     URL: 'https://meetings.embo.org/event/26-optics'
 
+  - title: 'EMBO and The Company of Biologists Workshop "𝘊. 𝘦𝘭𝘦𝘨𝘢𝘯𝘴 Biology"'
+    date: '20/10/25'
+    subtitle: '24–28 February 2026. Merida, México<br>
+    Abstracts deadline and financial request are due by October 31, 2025.<br>
+    Travel grants and registration fee waivers are available for participants !!'
+    body: 'The overall mission of the IV Latin American Worm Meeting is to create an inclusive environment that provides trainees, early-career, established, and senior scientists from Latin America and around the world the opportunity to learn about the state of the art in C. elegans research and build collaborations with leading experts from across the globe.<br><br>
+The scientific programme will cover topics such as genetics, genomics, computational biology, germ cell biology, neurobiology and behavior, plasticity, cell reprogramming, the microbiome, stress responses, toxicology, neurodegeneration, pathogenesis, and epigenetic regulation. The goal of such a multidisciplinary programme is to foster a holistic and systems-level approach to C. elegans research.<br>
+Contact: Rosa Navarro and Julián Valdés  fourthlawm@gmail.com<br><br>
+The Abstract deadline is <b>31 October 2025</b>.<br>
+<b>Registration fee waivers</b> and <b>Travel grants</b> will be available for participants'
+    imageSm: 'img/news/C_elegans_2026-sm.jpg'
+    imageBg: '../img/news/C_elegans_2026-bg.jpg'
+    URL: 'https://meetings.embo.org/event/26-worm'
+
   - title: 'Cell & Developmental Biology of Xenopus: Gene Discovery & Disease'
     date: '08/10/25'
     subtitle: 'CSHL Course. April 7 21, 2026'
