@@ -69,6 +69,14 @@ The Abstract deadline is <b>31 October 2025</b>.<br>
     imageBg: '../img/news/C_elegans_2026-bg.jpg'
     URL: 'https://meetings.embo.org/event/26-worm'
 
+  - title: 'MBL Embryology Course 2026  at Woods Hole'
+    date: '30/10/25'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
+    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Tatjana Piotrowski, Stowers Institute; and Athula Wikramanayake, University of Miami'
+    imageSm: 'img/news/mbl2-sm.jpg'
+    imageBg: '../img/news/mbl-bg.jpg'
+    URL: 'http://www.mbl.edu/education/courses/embryology/'
+
   - title: 'Cell & Developmental Biology of Xenopus: Gene Discovery & Disease'
     date: '08/10/25'
     subtitle: 'CSHL Course. April 7 21, 2026'
