@@ -55,7 +55,7 @@ Organising Committee: Miguel Concha (U. Chile), Nicoletta Petridou (EMBL Heidelb
     imageBg: '../img/news/Optics-Dev-2026-bg.jpg'
     URL: 'https://meetings.embo.org/event/26-optics'
 
-  - title: 'EMBO and The Company of Biologists Workshop "𝘊. 𝘦𝘭𝘦𝘨𝘢𝘯𝘴 Biology"'
+  - title: 'EMBO and The Company of Biologists Workshop "<i>C. elegans</i> Biology"'
     date: '20/10/25'
     subtitle: '24–28 February 2026. Merida, México<br>
     Abstracts deadline and financial request are due by October 31, 2025.<br>
