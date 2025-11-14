@@ -6,7 +6,6 @@ categories: news
 permalink: pages/news.html
 news:
 
-
   - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
     date: '15/9/25'
     subtitle: 'Complete your profile and join the Network !'
@@ -23,7 +22,7 @@ Please help us spread the word by sharing it !!'
     date: '30/10/25'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
     body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Tatjana Piotrowski, Stowers Institute; and Athula Wikramanayake, University of Miami'
-    imageSm: 'img/news/mbl2-sm.jpg'
+    imageSm: 'img/news/mbl2-sm.png'
     imageBg: '../img/news/mbl-bg.jpg'
     URL: 'http://www.mbl.edu/education/courses/embryology/'
 
