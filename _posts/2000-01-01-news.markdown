@@ -6,26 +6,6 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'Call for proposals to host the LASDB Meeting 2027'
-    date: '17/09/25'
-    subtitle: 'Submission deadline: October 31st, 2025'
-    body: 'We are pleased to announce the public call for <b>proposals to host and organise</b> the next <b>LASDB Biennial Meeting, scheduled for 2027</b>.<br>
-The LASDB Meeting has become a cornerstone event for our community, bringing together scientists, postdoctoral fellows, students, and collaborators from across Latin America and the world to share advances in developmental biology, foster collaborations, and support the training of the next generation of researchers.<br>
-We now invite research groups, institutions, or consortia of laboratories from across Latin America interested in participating in the organization of the 2027 LASDB Meeting to submit a proposal. All proposals will be evaluated by the LASDB Board of Directors, and based on this process the host location will be defined. The selected host will work closely with the LASDB Board to develop the scientific program, secure funding, and ensure broad participation across the region, in accordance with LASDB guidelines.<br>
-<b>Proposals should align with the spirit of the <a href="https://lasdb-development.org/pages/LASDB_meeting_guidelines.html" target="_blank">Guidelines for the LASDB Meetings</a> and include:<br>
-- A proposed venue (city, institution, facilities).<br>
-- Preliminary dates.<br>
-- Rationale for hosting the meeting at the proposed site (accessibility, infrastructure, potential local support).<br>
-- A preliminary organisational committee and contact person.<br>
-- Strategies for fundraising and ensuring inclusivity, student participation, and regional diversity.<br></b>
-<br>
-<b>Submission deadline: October 31st, 2025.<br>
-Submission format: A PDF document (max. 3 pages) sent to lasdb.development@gmail.com.<br></b>
-All proposals will be reviewed by the LASDB Board, and the selected host site will be announced to all LASDB members by email and on the LASDB website.<br>
-We look forward to receiving your proposals and working together to continue strengthening the developmental biology community in Latin America.'
-    imageSm: 'img/news/call_prop_2027-sm.jpg'
-    imageBg: '../img/news/call_prop_2027-bg.jpg'
-    URL: ''
 
   - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
     date: '15/9/25'
@@ -38,6 +18,24 @@ Please help us spread the word by sharing it !!'
     imageSm: 'img/news/databaseDevBiol-sm.png'
     imageBg: '../img/news/databaseDevBiol-bg.jpg'
     URL: 'https://forms.gle/WPg8vwJaFf68fKiHA'
+
+  - title: 'MBL Embryology Course 2026  at Woods Hole'
+    date: '30/10/25'
+    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
+    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Tatjana Piotrowski, Stowers Institute; and Athula Wikramanayake, University of Miami'
+    imageSm: 'img/news/mbl2-sm.jpg'
+    imageBg: '../img/news/mbl-bg.jpg'
+    URL: 'http://www.mbl.edu/education/courses/embryology/'
+
+  - title: 'Cell & Developmental Biology of Xenopus: Gene Discovery & Disease'
+    date: '08/10/25'
+    subtitle: 'CSHL Course. April 7 21, 2026'
+    body: 'Application Deadline: January 16, 2026 <br>
+CSHL Courses are intensive, running all day and often including evenings and weekends; students are expected to attend all sessions and reside on campus for the duration of the course. 
+Instructors: Rachel Miller, UTHealth Houston, McGovern Medical School; Peter Walentek Universitätsklinikum Freiburg, Germany'
+    imageSm: 'img/news/CSHL_Xen-sm.png'
+    imageBg: '../img/news/CSHL_Xen-bg.jpg'
+    URL: 'https://meetings.cshl.edu/courses.aspx?course=C-XENO'
 
   - title: 'EMBO Course "Optics, Forces & Development"'
     date: '01/09/25'
@@ -69,23 +67,26 @@ The Abstract deadline is <b>31 October 2025</b>.<br>
     imageBg: '../img/news/C_elegans_2026-bg.jpg'
     URL: 'https://meetings.embo.org/event/26-worm'
 
-  - title: 'MBL Embryology Course 2026  at Woods Hole'
-    date: '30/10/25'
-    subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
-    body: 'The course, held each summer at the Marine Biological Lab at Woods Hole, is an intensive six-week laboratory and lecture course for graduate students, postdoctoral fellows, and senior researchers who seek a broad view of the modern issues of developmental biology and the experimental approaches used to address these ongoing questions. Directors: Tatjana Piotrowski, Stowers Institute; and Athula Wikramanayake, University of Miami'
-    imageSm: 'img/news/mbl2-sm.jpg'
-    imageBg: '../img/news/mbl-bg.jpg'
-    URL: 'http://www.mbl.edu/education/courses/embryology/'
-
-  - title: 'Cell & Developmental Biology of Xenopus: Gene Discovery & Disease'
-    date: '08/10/25'
-    subtitle: 'CSHL Course. April 7 21, 2026'
-    body: 'Application Deadline: January 16, 2026 <br>
-CSHL Courses are intensive, running all day and often including evenings and weekends; students are expected to attend all sessions and reside on campus for the duration of the course. 
-Instructors: Rachel Miller, UTHealth Houston, McGovern Medical School; Peter Walentek Universitätsklinikum Freiburg, Germany'
-    imageSm: 'img/news/CSHL_Xen-sm.png'
-    imageBg: '../img/news/CSHL_Xen-bg.jpg'
-    URL: 'https://meetings.cshl.edu/courses.aspx?course=C-XENO'
+  - title: 'Call for proposals to host the LASDB Meeting 2027'
+    date: '17/09/25'
+    subtitle: 'Submission deadline: October 31st, 2025'
+    body: 'We are pleased to announce the public call for <b>proposals to host and organise</b> the next <b>LASDB Biennial Meeting, scheduled for 2027</b>.<br>
+The LASDB Meeting has become a cornerstone event for our community, bringing together scientists, postdoctoral fellows, students, and collaborators from across Latin America and the world to share advances in developmental biology, foster collaborations, and support the training of the next generation of researchers.<br>
+We now invite research groups, institutions, or consortia of laboratories from across Latin America interested in participating in the organization of the 2027 LASDB Meeting to submit a proposal. All proposals will be evaluated by the LASDB Board of Directors, and based on this process the host location will be defined. The selected host will work closely with the LASDB Board to develop the scientific program, secure funding, and ensure broad participation across the region, in accordance with LASDB guidelines.<br>
+<b>Proposals should align with the spirit of the <a href="https://lasdb-development.org/pages/LASDB_meeting_guidelines.html" target="_blank">Guidelines for the LASDB Meetings</a> and include:<br>
+- A proposed venue (city, institution, facilities).<br>
+- Preliminary dates.<br>
+- Rationale for hosting the meeting at the proposed site (accessibility, infrastructure, potential local support).<br>
+- A preliminary organisational committee and contact person.<br>
+- Strategies for fundraising and ensuring inclusivity, student participation, and regional diversity.<br></b>
+<br>
+<b>Submission deadline: October 31st, 2025.<br>
+Submission format: A PDF document (max. 3 pages) sent to lasdb.development@gmail.com.<br></b>
+All proposals will be reviewed by the LASDB Board, and the selected host site will be announced to all LASDB members by email and on the LASDB website.<br>
+We look forward to receiving your proposals and working together to continue strengthening the developmental biology community in Latin America.'
+    imageSm: 'img/news/call_prop_2027-sm.jpg'
+    imageBg: '../img/news/call_prop_2027-bg.jpg'
+    URL: ''
 
   - title: 'Latin America Bioimaging LABI Meeting 2025'
     date: '25/8/25'
