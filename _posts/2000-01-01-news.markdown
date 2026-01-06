@@ -35,7 +35,8 @@ Instructors: Rachel Miller, UTHealth Houston, McGovern Medical School; Peter Wal
     imageSm: 'img/news/CSHL_Xen-sm.png'
     imageBg: '../img/news/CSHL_Xen-bg.jpg'
     URL: 'https://meetings.cshl.edu/courses.aspx?course=C-XENO'
-  - title: 'Development Pathway to Independence programme'
+
+    - title: 'Development Pathway to Independence programme'
     date: '30/12/25'
     subtitle: ''
     body: 'Development is now accepting applications for our 'Pathway to Independence' programme, aiming to support a small number of researchers in the fields of developmental biology, stem cells or regeneration as they transition from postdoc to independent group leader. It's the fourth year that we've run our  <a href="https://doi.org/10.1242/dev.205392" target="_blank">successful programmes</a>, which offers mentoring, training, profile-raising and network opportunities. For more details on the programme, please visit our journal website: <a href="https://journals.biologists.com/dev/pages/pifellows" target="_blank">https://journals.biologists.com/dev/pages/pifellows</a>.  <br>
