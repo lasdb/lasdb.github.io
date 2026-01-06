@@ -58,7 +58,7 @@ The deadline for applications is 2 February 2026.'
     date: '02/01/26'
     subtitle: ''
     body: 'We share the article "Sir John Gurdon and the rise of molecular developmental biology" by Eddy De Robertis in Cell & Development' 
-    imageSm: 'img/news/Gurdon-sm.png'
+    imageSm: 'img/news/Gurdon-sm.jpg'
     imageBg: '../img/news/Gurdon-bg.png'
     URL: 'https://www.sciencedirect.com/science/article/pii/S2667290125000634#f0005'
 
