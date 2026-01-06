@@ -45,7 +45,15 @@ The deadline for applications is 2 February 2026.'
     imageSm: 'img/news/DevPathIndep-sm.png'
     imageBg: '../img/news/DevPathIndep-bg.png'
     URL: 'https://www.biologists.com/grants/development-pathway-independence/'
- 
+
+  - title: 'Honouring Antonio García-Bellido'
+    date: '02/01/26'
+    subtitle: 'Posted by Sociedad Española Biologia Desarrollo'
+    body: 'We share the message of SEBD remembering Antonio García-Bellido'
+    imageSm: 'img/news/GarciaBellido-sm.png'
+    imageBg: '../img/news/GarciaBellido-bg.png'
+    URL: 'https://thenode.biologists.com/sebd-honours-antonio-garcia-bellido/uncategorized/'
+
   - title: 'EMBO Course "Optics, Forces & Development"'
     date: '01/09/25'
     subtitle: 'January 2026, Santiago, Chile.  <br>
