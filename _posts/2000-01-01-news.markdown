@@ -64,7 +64,7 @@ The deadline for applications is 2 February 2026.'
 
   - title: 'Society for Developmental Biology 85th Annual Meeting'
     date: '1/12/25'
-    subtitle: 'Planet Hollywood Las Vegas, Las Vegas, NV | July 23-26, 2026'
+    subtitle: 'Las Vegas, NV | July 23-26, 2026'
     body: 'Important Deadlines: <br>
 February 2026: Registration & Abstract Submission Open<br>
 April 15, 2026: Abstract Submission; SDB Trainee Travel Assistance; SDB Teaching and Junior Faculty Grant; SDB International Scholar Travel Grant; Paul D. Henion Graduate Student Travel Award; SDB Dependent Care Grant.<br>
