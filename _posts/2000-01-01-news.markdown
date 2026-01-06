@@ -36,6 +36,19 @@ Instructors: Rachel Miller, UTHealth Houston, McGovern Medical School; Peter Wal
     imageBg: '../img/news/CSHL_Xen-bg.jpg'
     URL: 'https://meetings.cshl.edu/courses.aspx?course=C-XENO'
 
+  - title: 'Development Pathway to Independence programme'
+    date: '30/12/25'
+    subtitle: ''
+    body: 'Development is now accepting applications for our 'Pathway to Independence' programme, aiming to support a small number of researchers in the fields of developmental biology, stem cells or regeneration as they transition from postdoc to independent group leader. It's the fourth year that we've run our  <a href="https://doi.org/10.1242/dev.205392" target="_blank">successful programmes</a>, which offers mentoring, training, profile-raising and network opportunities. For more details on the programme, please visit our journal website: <a href="https://journals.biologists.com/dev/pages/pifellows" target="_blank">https://journals.biologists.com/dev/pages/pifellows</a>
+    <br>
+We welcome applications from around the world and full details of eligibility, as well as more information on how to apply, can be found on the grants website of Development's not-for-profit publisher, The Company of Biologists:
+<a href="https://www.biologists.com/grants/development-pathway-independence/" target="_blank">https://www.biologists.com/grants/development-pathway-independence/</a>.
+    <br>
+The deadline for applications is 2 February 2026.'
+    imageSm: 'img/news/DevPathIndep-sm.png'
+    imageBg: '../img/news/DevPathIndep-bg.png'
+    URL: 'https://www.biologists.com/grants/development-pathway-independence/'
+
   - title: 'EMBO Course "Optics, Forces & Development"'
     date: '01/09/25'
     subtitle: 'January 2026, Santiago, Chile.  <br>
@@ -292,8 +305,8 @@ Applications to propose a new Workshop will close on 19 July 2024.'
     date: '16/01/24'
     subtitle: ''
     body: 'Following a successful initial year of supporting eight international postdocs as they search for an independent position, Development is now announcing the second call for applications for Development’s Pathway to Independence. This programme offers mentoring, training and networking opportunities to the successful candidates as they navigate this challenging period in their career. We are particularly keen to see applications from a geographically and scientifically diverse range of postdocs planning on going on the job market in 2024'
-    imageSm: 'img/news/DevPathIndep-sm.jpg'
-    imageBg: '../img/news/DevPathIndep-bg.jpg'
+    imageSm: 'img/news/DevPathIndep-sm.png'
+    imageBg: '../img/news/DevPathIndep-bg.png'
     URL: 'https://journals.biologists.com/dev/pages/pi-programme-2024'
 
   - title: 'LASDB MEETING 2024'
