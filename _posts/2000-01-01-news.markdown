@@ -62,6 +62,18 @@ The deadline for applications is 2 February 2026.'
     imageBg: '../img/news/Gurdon-bg.png'
     URL: 'https://www.sciencedirect.com/science/article/pii/S2667290125000634#f0005'
 
+  - title: 'Society for Developmental Biology 85th Annual Meeting'
+    date: '1/12/25'
+    subtitle: 'Planet Hollywood Las Vegas, Las Vegas, NV | July 23-26, 2026'
+    body: 'Important Deadlines: <br>
+February 2026: Registration & Abstract Submission Open<br>
+April 15, 2026: Abstract Submission; SDB Trainee Travel Assistance; SDB Teaching and Junior Faculty Grant; SDB International Scholar Travel Grant; Paul D. Henion Graduate Student Travel Award; SDB Dependent Care Grant.<br>
+May 20, 2026: Early, Discounted Meeting Registration.<br>
+June 24, 2026	Meeting Registration'
+    imageSm: 'img/news/SDB_2026-sm.jpg'
+    imageBg: '../img/news//SDB_2026-bg.jpg'
+    URL: 'https://www.sdbonline.org/2026mtg'
+
   - title: 'EMBO Course "Optics, Forces & Development"'
     date: '01/09/25'
     subtitle: 'January 2026, Santiago, Chile.  <br>
