@@ -6,6 +6,18 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'UNIVERSIDAD DE PUERTO RICO - Tenure Track Faculty Position - DEVELOPMENTAL BIOLOGY'
+    date: '06/12/25'
+    subtitle: ''
+    body: 'The Department of Biology of the College of Natural Sciences, Rio Piedras Campus, University of Puerto, is inviting highly
+qualified candidates to apply for a tenure-track faculty position in Developmental Biology. This position will be available
+from August 1,2026. <br>
+For more information, requirements and application check the folowing link: <br>
+<a href="http://lasdb-development.org/pdfs/2026-Univ_Puerto_Rico-Faculty_Position-Devel_Biol.pdf
+" target="_blank">Univ Puerto Rico - Dev Biol Faculty Position</a>'
+    par2: ''
+    URL: 'https://natsci.uprrp.edu/biology/'
+
   - title: 'Applying a multidisciplinary approach to uncover the mechanisms underpinning successful regeneration of the spinal cord after injury'
     date: '14/10/25'
     subtitle: 'The University of Manchester. Division of Developmental Biology and Medicine.<br>
