@@ -30,6 +30,19 @@ June 24, 2026	Meeting Registration'
     imageBg: '../img/news//SDB_2026-bg.jpg'
     URL: 'https://www.sdbonline.org/2026mtg'
 
+  - title: 'Society for Developmental Biology 85th Annual Meeting'
+    date: '1/12/25'
+    subtitle: 'Las Vegas, NV | July 23-26, 2026'
+    body: 'Important Deadlines: <br>
+February 2026: Registration & Abstract Submission Open<br>
+April 15, 2026: Abstract Submission; SDB Trainee Travel Assistance; SDB Teaching and Junior Faculty Grant; SDB International Scholar Travel Grant; Paul D. Henion Graduate Student Travel Award; SDB Dependent Care Grant.<br>
+May 20, 2026: Early, Discounted Meeting Registration.<br>
+June 24, 2026	Meeting Registration'
+    imageSm: 'img/news/SDB_2026-sm.jpg'
+    imageBg: '../img/news//SDB_2026-bg.jpg'
+    URL: 'https://www.sdbonline.org/2026mtg'
+
+
   - title: 'MBL Embryology Course 2026  at Woods Hole'
     date: '30/10/25'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
