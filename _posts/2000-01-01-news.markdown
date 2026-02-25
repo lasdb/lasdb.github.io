@@ -33,7 +33,7 @@ June 24, 2026	Meeting Registration'
   - title: 'Sociedad Mexicana de Biología del Desarrollo Meeting'
     date: '22/02/26'
     subtitle: 'September 2-5, 2026. Querétaro, Mexico
-    body: 'The XIV SMBD National Congress is getting closer. 
+    body: 'The XIV SMBD National Congress is getting closer. <br>
 Details of the Meeting will be published soon in the SMBD webpage'
     imageSm: 'img/news/SMBD_2026-sm.png'
     imageBg: '../img/news//SMBD_2026-bg.jpg'
