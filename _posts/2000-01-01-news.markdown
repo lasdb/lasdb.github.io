@@ -39,6 +39,16 @@ More details of the meeting will be published soon in the SMBD website.'
     imageBg: '../img/news//SMBD_2026-bg.jpg'
     URL: 'https://www.facebook.com/SociedadMexicanadeBiologiadelDesarrollo'
 
+  - title: 'LatinX in Developmental Biology'
+    date: '20/02/26'
+    subtitle: 'Interview series'
+    body: 'Latinx DevBio is launching a series of interviews.<br>
+Latinx DevBio is a community of Latinx scientists, dedicated to advancing research in developmental biology and fostering connections among Latinx researchers worldwide. <br>
+The first conversation features Dr. Rosa Navarro: Leading Developmental Biology research in Mexico.'
+    imageSm: 'img/news/latinxdb-sm.png'
+    imageBg: '../img/news//latinxDB-inter-bg.jpg'
+    URL: 'https://sites.google.com/view/latinxindb/interviews'
+
   - title: 'MBL Embryology Course 2026  at Woods Hole'
     date: '30/10/25'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
