@@ -35,7 +35,7 @@ June 24, 2026	Meeting Registration'
     subtitle: 'September 2-5, 2026. Querétaro, Mexico'
     body: 'The XIV SMBD National Congress is getting closer. <br>
 More details of the meeting will be published soon in the SMBD website.'
-    imageSm: 'img/news/SMBD_2026-sm.jpg'
+    imageSm: 'img/news/SMBD_2026-sm.png'
     imageBg: '../img/news//SMBD_2026-bg.jpg'
     URL: 'https://www.facebook.com/SociedadMexicanadeBiologiadelDesarrollo'
 
