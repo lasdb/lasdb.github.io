@@ -30,6 +30,15 @@ June 24, 2026	Meeting Registration'
     imageBg: '../img/news//SDB_2026-bg.jpg'
     URL: 'https://www.sdbonline.org/2026mtg'
 
+  - title: 'Sociedad Mexicana de Biología del Desarrollo Meeting'
+    date: '22/02/26'
+    subtitle: 'September 2-5, 2026. Querétaro, Mexico
+    body: 'The XIV SMBD National Congress is getting closer. <br>
+Details of the Meeting will be published soon in the SMBD webpage'
+    imageSm: 'img/news/SMBD_2026-sm.png'
+    imageBg: '../img/news//SMBD_2026-bg.jpg'
+    URL: 'https://www.facebook.com/SociedadMexicanadeBiologiadelDesarrollo'
+
   - title: 'MBL Embryology Course 2026  at Woods Hole'
     date: '30/10/25'
     subtitle: 'Embryology: Concepts & Techniques in Modern Developmental Biology Course. May 30 - Jul 10, 2026. <br>Application deadline: February 3, 2026'
