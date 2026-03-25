@@ -6,6 +6,14 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'Postdoc position in ascidian developmental biology and regeneration (3 years)'
+    date: '25/03/26'
+    subtitle: 'Universidade de São Paulo – Instituto de Biociências<br>
+Application deadline: April 10th, 2026'
+    body: 'We are recruiting a highly skilled researcher to investigate regeneration in ascidians and the cellular and immunological mechanisms associated with invasive success in a context of climate change. The postdoc will work in a Brazil–Chile collaboration, integrating experimental and comparative approaches between populations from different climatic regions. The objectives include the study of regeneration in ascidians, characterization of hemocyte dynamics, and analysis of the immune response under different thermal conditions. Techniques and approaches: regeneration and budding trials; maintenance of marine organisms; flow cytometry for hemocyte analysis; histology; light and electron microscopy; RNA extraction and gene expression analysis (qPCR); integration with environmental data.'
+    par2: 'Requirements: doctorate in Biological Sciences or related areas; training in cellular and molecular biology applied to invertebrate immunology; experience with microscopy and experimental design. The ability to conduct an independent project, work in international collaboration and co-supervise students is expected. Excellent communication skills in English (spoken and written). Proficiency in Portuguese and/or Spanish, as well as experience with ascidian research is desirable. We welcome applicants from all backgrounds, and particularly encourage women and those from underrepresented groups to apply. For more info, or to apply please send letter of interest, CV, and contact details of up to 3 referees to Federico D. Brown (fdbrown@usp.br).'
+    URL: ''
+
   - title: 'UNIVERSIDAD DE PUERTO RICO - Tenure Track Faculty Position - DEVELOPMENTAL BIOLOGY'
     date: '06/12/25'
     subtitle: ''
