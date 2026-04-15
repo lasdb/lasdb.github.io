@@ -49,7 +49,7 @@ The LASDB Board<br><br><br>
 -The new logo will be officially in use as soon as the process is finished.<br>
 -Author(s) will be acknowledged on the LASDB webpage which will also mention the logo legend. Also, the logo will become an intellectual property of the LASDB.' 
     imageSm: 'img/news/new_logo-sm.png'
-    imageBg: '../img/newsnew_logo-bg.png'
+    imageBg: '../img/news/new_logo-bg.png'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
 
   - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
