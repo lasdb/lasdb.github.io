@@ -24,8 +24,7 @@ We look forward to welcoming you to Búzios for what promises to be a vibrant an
   - title: 'LASDB Logo Design Contest'
     date: '14/4/26'
     subtitle: 'Submit your proposal for a new LASDB logo !'
-    body: '
-    <b>Dear community of Latin American Developmental Biologists,<br><br>
+    body: 'Dear community of Latin American Developmental Biologists,<br><br>
 The LASDB was founded in 2003, and represents the main organization dedicated to developmental biology research in Latin America. Today, 23 years after its creation, we believe that it is time for a logo refresh ! <br><br>
 We are therefore thrilled to launch a call for the renewal of the society´s logo, and invite Developmental Biologists working in LA, as well as Latin American Developmental Biologists working abroad to participate in this contest.<br><br>
 Each member of the LASDB community will be invited to select up to three of its favorite options, which will define a short list of three logos having received the highest number of votes. A “technical committee” involving artists/designers will then select the winner whose author will be awarded a fantastic prize consisting in a full waiver of the registration fees, as well as free accommodation for our next LADB meeting to be held in Búzios in Brazil in October 2027. 
