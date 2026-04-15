@@ -9,7 +9,7 @@ news:
   - title: '13th International LASDB Congress'
     date: '13/04/26'
     subtitle: 'Buzios, Brazil. October 2027'
-    body: 'Dear Latin American Developmental Biologists,<br><br>
+    body: '<br>Dear Latin American Developmental Biologists,<br><br>
 We are pleased to announce the 13th Latin American Society for Developmental Biology (LASDB) Conference, to be held in October 2027 in the beautiful coastal town of Búzios, Rio de Janeiro, Brazil.<br><br>
 This meeting will bring together an interdisciplinary community of researchers focused on emerging questions in developmental biology, spanning molecular, cellular, evolutionary, and regenerative biology perspectives. The conference continues a strong tradition of fostering scientific exchange and training students, postdoctoral fellows, and early-career researchers across Latin America.<br><br>
 The 2027 meeting is organized under the auspices of the Latin American Society for Developmental Biology (LASDB), with the collaboration of regional and international partner societies. As in previous editions, the conference is committed to promoting diversity, inclusion, and gender balance at all levels of participation.<br><br>
