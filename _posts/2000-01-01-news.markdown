@@ -25,12 +25,15 @@ MORE INFORMATION WILL BE AVAILABLE SOON'
     subtitle: 'Submit your proposal for a new LASDB logo !'
     body: 'Dear community of Latin American Developmental Biologists,<br><br>
 The LASDB was founded in 2003, and represents the main organization dedicated to developmental biology research in Latin America. Today, 23 years after its creation, we believe that it is time for a logo refresh ! <br><br>
-We are therefore thrilled to launch <b>a call for the renewal of the society´s logo, and invite Developmental Biologists working in LA, as well as Latin American Developmental Biologists working abroad to participate in this contest</b>.<br><br>
-Each member of the LASDB community will be invited to select up to three of its favorite options, which will define a short list of three logos having received the highest number of votes. A “technical committee” involving artists/designers will then select the winner whose author will be awarded a fantastic prize consisting in a full waiver of the registration fees, as well as free accommodation for our next LADB meeting to be held in Búzios in Brazil in October 2027. 
-In addition, the authors of the logos ranking 2nd and 3rd will benefit from a full waiver for the registration fees of this meeting! <br><br>
-Please submit your logo before <b>Tuesday the 30th of June 2026</b> through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097" target="_blank"> GoogleForm</a>, following the instructions detailed below.<br>
-Voting will be performed during July and the results will be communicated immediately afterwards.<br><br>
-We are eager to receive your original ideas, with warm regards,<br>
+We are therefore delighted to launch a call for the <b>renewal of the Society’s logo, and we invite developmental biologists working in Latin America, as well as Latin American developmental biologists working abroad, to participate in this contest</b>.<br><br>
+You may submit as many logo proposals as you wish. Please follow the instructions provided below and submit your proposal through this Google Form.<br><br>
+Once all logo proposals have been received, the LASDB community will be invited to select its three favourite options. With the support of a technical committee involving artists and designers, these three finalists will then be ranked and awarded first, second, and third prizes.<br><br>
+The prizes will be as follows:<br>
+First prize: full waiver of the registration fee, together with free accommodation for the next LASDB meeting, to be held in Búzios, Brazil, in October 2027.<br>
+Second and third prizes: full waiver of the registration fee for the same meeting.<br><br>
+Please submit your logo by Tuesday, 30 June 2026. Voting will take place during July, and the results will be communicated shortly thereafter.<br><br>
+We look forward to receiving your original ideas.<br>
+With warm regards,<br>
 The LASDB Board<br><br>'
     imageSm: 'img/news/new_logo-sm.png'
     imageBg: '../img/news/new_logo-bg.png'
