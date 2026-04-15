@@ -24,27 +24,7 @@ We look forward to welcoming you to Búzios for what promises to be a vibrant an
   - title: 'LASDB Logo Design Contest'
     date: '14/4/26'
     subtitle: 'Submit your proposal for a new LASDB logo !'
-    body: 'Dear community of Latin American Developmental Biologists,<br><br>
-The LASDB was founded in 2003, and represents the main organization dedicated to developmental biology research in Latin America. Today, 23 years after its creation, we believe that it is time for a logo refresh ! <br><br>
-We are therefore thrilled to launch <b>a call for the renewal of the society´s logo, and invite Developmental Biologists working in LA, as well as Latin American Developmental Biologists working abroad to participate in this contest</b>.<br><br>
-Each member of the LASDB community will be invited to select up to three of its favorite options, which will define a short list of three logos having received the highest number of votes. A “technical committee” involving artists/designers will then select the winner whose author will be awarded a fantastic prize consisting in a full waiver of the registration fees, as well as free accommodation for our next LADB meeting to be held in Búzios in Brazil in October 2027. 
-In addition, the authors of the logos ranking 2nd and 3rd will benefit from a full waiver for the registration fees of this meeting! <br><br>
-Please submit your logo before <b>Tuesday the 30th of June 2026</b> through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097" target="_blank"> GoogleForm</a>, following the instructions detailed below.<br>
-Voting will be performed during July and the results will be communicated immediately afterwards.<br><br>
-We are eager to receive your original ideas, with warm regards,<br>
-The LASDB Board<br><br>
-
-<b>Instructions for logo design:</b><br>
--Your submission should be made as a PDF file (suggested resolution, 300 DPI, weighting less than 10 Mb) of letter paper size (8,5 x 11 inches or 216 x 280 millimeters).<br>
--The logo should be accompanied by a brief descriptive legend.<br>
--While co-authorship is accepted, only the main author will be the recipient for the prize.<br>
--Use of AI is not allowed.<br>
--Submitting more than one logo is allowed. These should be done as separate submissions.<br>
--Draft versions are welcome, as priority will be given to “good and original ideas” rather than to “nice artistic finish”. The selected Logo might be improved later, by a professional artist/designer, in collaboration with the main author.<br>
--Avoid including too many small details as the logo should be visible as a header.<br>
--Avoid including identifiable animal/plant models, as these will fail to represent the diversity of organisms used for developmental biology in LA. It is nevertheless suggested that the logo refers to the Latin American region and connects to the research which is conducted in the field.<br>
--The new logo will be officially in use as soon as the process is finished.<br>
--Author(s) will be acknowledged on the LASDB webpage which will also mention the logo legend. Also, the logo will become an intellectual property of the LASDB.' 
+    body: '' 
     imageSm: 'img/news/new_logo-sm.png'
     imageBg: '../img/news/new_logo-bg.png'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
