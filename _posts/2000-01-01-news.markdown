@@ -8,8 +8,8 @@ news:
 
   - title: '13th International LASDB Congress'
     date: '13/04/26'
-    subtitle: 'Buzios, Brazil. October 2027'
-    body: '<br>Dear Latin American Developmental Biologists,<br><br>
+    subtitle: 'Buzios, Brazil. October 2027<br>'
+    body: 'Dear Latin American Developmental Biologists,<br><br>
 We are pleased to announce the <b>13th Latin American Society for Developmental Biology (LASDB) Conference, to be held in October 2027 in the beautiful coastal town of Búzios, Rio de Janeiro, Brazil</b>.<br><br>
 This meeting will bring together an interdisciplinary community of researchers focused on emerging questions in developmental biology, spanning molecular, cellular, evolutionary, and regenerative biology perspectives. The conference continues a strong tradition of fostering scientific exchange and training students, postdoctoral fellows, and early-career researchers across Latin America.<br><br>
 The 2027 meeting is organized under the auspices of the Latin American Society for Developmental Biology (LASDB), with the collaboration of regional and international partner societies. As in previous editions, the conference is committed to promoting diversity, inclusion, and gender balance at all levels of participation.<br><br>
@@ -24,7 +24,7 @@ We look forward to welcoming you to Búzios for what promises to be a vibrant an
   - title: 'LASDB Logo Design Contest'
     date: '14/4/26'
     subtitle: 'Submit your proposal for a new LASDB logo !'
-    body: '' 
+    body: ''
     imageSm: 'img/news/new_logo-sm.png'
     imageBg: '../img/news/new_logo-bg.png'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
