@@ -20,6 +20,13 @@ MORE INFORMATION WILL BE AVAILABLE SOON'
     imageBg: '../img/news/Buzios2027-bg.png'
     URL: 'https://lasdb-development.org/pages/LASDB2027.html'
 
+  - title: 'LASDB Logo Design Contest'
+    date: '14/4/26'
+    subtitle: 'Submit your proposal for a new LASDB logo !'
+    body: ''
+    imageSm: 'img/news/new_logo-sm.png'
+    imageBg: '../img/news/new_logo-bg.png'
+    URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
 
   - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
     date: '15/9/25'
