@@ -67,10 +67,9 @@ Please help us spread the word by sharing it !!'
     date: '28/04/26'
     subtitle: 'August 11-14, 2026. Cali, Colombia'
     body: 'we would like to invite the LASDB community to participate in the III Colombian Congress of Developmental Biology SMBE satellite meeting 2026.<br>
-You can find full details about the event on our official webpage: <a href="https://www.scbd-biologia-del-desarrollo.com/en" target="_blank">https://www.scbd-biologia-del-desarrollo.com/en</a>.
-
-
-ccbd.pujc'
+You can find full details about the event on our official webpage and IG:
+<a href="https://www.scbd-biologia-del-desarrollo.com/en" target="_blank">https://www.scbd-biologia-del-desarrollo.com/en</a><br>
+<a href="https://www.instagram.com/ccbd.pujc/" target="_blank">Instagram: @ccbd.pujc</a>'
     imageSm: 'img/news/Col_2026-sm.png'
     imageBg: '../img/news//Col_2026-bg.jpg'
     URL: 'https://www.scbd-biologia-del-desarrollo.com/en'
@@ -102,7 +101,7 @@ More details of the meeting will be published soon in the SMBD website.'
 More information is available in the webpage and social networks: <br>
 <a href="http://tallerbcd.wixsite.com/tallerbcd" target="_blank">Website: http://tallerbcd.wixsite.com/tallerbcd</a> <br>
 <a href="https://twitter.com/tallerBCD" target="_blank">Twitter: @tallerBCD</a><br>
-<a href="https://www.instagram.com/taller_chascomus/" target="_blank">Instagram: @taller_chascomus/</a>'
+<a href="https://www.instagram.com/taller_chascomus/" target="_blank">Instagram: @taller_chascomus</a>'
     imageSm: 'img/news/chascomus2022-sm.jpg'
     imageBg: '../img/news/Arg_2026-bg.jpg'
     URL: 'http://tallerbcd.wixsite.com/tallerbcd'
