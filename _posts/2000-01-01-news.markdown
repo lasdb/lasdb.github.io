@@ -72,7 +72,16 @@ The first conversations feature Dr. Rosa Navarro: Leading Developmental Biology 
     imageSm: 'img/news/latinxdb-sm.png'
     imageBg: '../img/news//latinxDB-inter-bg.jpg'
     URL: 'https://sites.google.com/view/latinxindb/english/interviews'
-    
+
+  - title: 'III Colombian Congress of Developmental Biology'
+    date: '28/04/26'
+    subtitle: 'August 11-14, 2026. Cali, Colombia'
+    body: 'we would like to invite the LASDB community to participate in the III Colombian Congress of Developmental Biology SMBE satellite meeting 2026.<br>
+You can find full details about the event on our official webpage: <a href="https://www.scbd-biologia-del-desarrollo.com/en" target="_blank">https://www.scbd-biologia-del-desarrollo.com/en</a>.'
+    imageSm: 'img/news/Col_2026-sm.png'
+    imageBg: '../img/news//Col_2026-bg.jpg'
+    URL: 'https://www.scbd-biologia-del-desarrollo.com/en'
+
   - title: 'Mexican Society for Developmental Biology Meeting'
     date: '11/02/26'
     subtitle: 'September 2-5, 2026. Querétaro, Mexico'
