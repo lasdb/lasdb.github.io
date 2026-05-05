@@ -6,7 +6,9 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
-  - title: 'Full-Time Technical Training Fellow (40 h/week)'
+  
+  
+  - title: 'Full-Time Technical Training Fellow, 40h/week'
     date: '02/05/26'
     subtitle: 'Universidade de São Paulo – Instituto de Biociências'
     body: 'Position: Full-Time Technical Training Fellow (40 h/week)<br>
