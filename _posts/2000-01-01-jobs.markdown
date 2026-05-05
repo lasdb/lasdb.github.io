@@ -4,7 +4,8 @@ title:  "Jobs"
 date:   2000-01-01 00:00:00
 categories: jobs
 permalink: /pages/jobs.html
-jobs: 
+jobs:
+
   - title: 'Full-Time Technical Training Fellow, 40h/week'
     date: '02/05/26'
     subtitle: 'Universidade de São Paulo – Instituto de Biociências'
