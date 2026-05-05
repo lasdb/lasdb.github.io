@@ -15,6 +15,16 @@ Application deadline: April 10th, 2026'
     par2: 'Requirements: doctorate in Biological Sciences or related areas; training in cellular and molecular biology applied to invertebrate immunology; experience with microscopy and experimental design. The ability to conduct an independent project, work in international collaboration and co-supervise students is expected. Excellent communication skills in English (spoken and written). Proficiency in Portuguese and/or Spanish, as well as experience with ascidian research is desirable. We welcome applicants from all backgrounds, and particularly encourage women and those from underrepresented groups to apply. For more info, or to apply please send letter of interest, CV, and contact details of up to 3 referees to Federico D. Brown (fdbrown@usp.br).'
     URL: ''
 
+
+  - title: 'See Job Opportunities at The Node'
+    date: ''
+    URL: 'https://thenode.biologists.com/jobs/'
+  
+  - title: 'See Job Opportunities at SDB'
+    date: ''
+    URL: 'http://www.sdbonline.org/job_opportunities'
+
+
   - title: 'UNIVERSIDAD DE PUERTO RICO - Tenure Track Faculty Position - DEVELOPMENTAL BIOLOGY'
     date: '06/12/25'
     subtitle: ''
@@ -46,14 +56,6 @@ Closing Date: Applications must be received on or before Tuesday March 25, 2025 
 To Apply: Please submit: (1) a cover letter, (2) curriculum vitae, (3) research statement, (4) teaching statement, (5) three letters of recommendation, to:<br>
 Dr. Kathleen Whitlock.  Chair, Search Committee.  kathleen.whitlock@uv.cl'
     URL: 'https://cinv.uv.cl/'
-
-  - title: 'See Job Opportunities at The Node'
-    date: ''
-    URL: 'https://thenode.biologists.com/jobs/'
-  
-  - title: 'See Job Opportunities at SDB'
-    date: ''
-    URL: 'http://www.sdbonline.org/job_opportunities'
 
   - title: 'Postdoc, School of Biological Sciences of the Pontificia Universidad Católica de Chile'
     date: '24/7/24'
