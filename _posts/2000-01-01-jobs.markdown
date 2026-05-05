@@ -32,8 +32,10 @@ Preferred Profile:<br>
 - Microinjection experience<br>
 - Ability to handle high-precision workflows<br>
 - Hands-on molecular biology experience'
-    par2: 'Fully funded - Open to students worldwide – Deadline 15th of November 2025'
-    URL: 'https://www.findaphd.com/phds/project/bicentenary-applying-a-multidisciplinary-approach-to-uncover-the-mechanisms-underpinning-successful-regeneration-of-the-spinal-cord-after-injury/?p187350'
+    par2: 'To apply: Please send CV, Brief statement of interest, Contact information of two referees to Federico Brown (fdbrown@usp.br) or Guilherme Gainett (ggainett@gmail.com). <br>
+Deadline: May 15th, 2026 <br>
+<a href="https://fapesp.br/18121/guidelines-for-the-award-of-fellowships-under-the-technical-training-program" target="_blank">More info (see TT4)</a>'
+    URL: ''
     
   - title: 'Postdoc position in ascidian developmental biology and regeneration (3 years)'
     date: '25/03/26'
