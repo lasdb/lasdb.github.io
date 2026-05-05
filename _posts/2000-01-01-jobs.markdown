@@ -9,8 +9,7 @@ jobs:
   - title: 'Full-Time Technical Training Fellow, 40h/week'
     date: '02/05/26'
     subtitle: 'Universidade de São Paulo – Instituto de Biociências'
-    body:'P
-    '
+    body:' '
 
     
   - title: 'Postdoc position in ascidian developmental biology and regeneration (3 years)'
