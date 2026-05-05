@@ -6,8 +6,8 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
-  - title: 'Applying a multidisciplinary approach to uncover the mechanisms underpinning successful regeneration of the spinal cord after injury'
-    date: '14/10/25'
+  - title: 'Full-Time Technical Training Fellow (40 h/week)'
+    date: '02/05/26'
     subtitle: 'The University of Manchester. Division of Developmental Biology and Medicine.<br>
     Co-supervised by Karel Dorey, Raman Das and Osvaldo Chara'
     body: 'We are seeking a highly motivated PhD candidate to investigate the mechanisms underpinning spinal cord regeneration. This project will combine mathematical modelling, cutting-edge imaging with machine learning-based analyses and Crispr-Cas9 in vivo perturbation. The aim is to establish a robust pipeline combining experimental and theoretical approaches to integrate data at multiple scales that will allow us to simulate tissue dynamics and establish the parameters underpinning spinal cord regeneration.'
