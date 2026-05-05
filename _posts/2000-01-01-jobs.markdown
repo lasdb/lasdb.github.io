@@ -6,7 +6,36 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
-
+- title: 'Full-Time Technical Training Fellow (40 h/week)'
+    date: '04/05/26'
+    subtitle: 'Universidade de São Paulo – Instituto de Biociências<br>'
+    body: 'Position: Full-Time Technical Training Fellow (40 h/week)<br>
+Initial Duration: 12 months (renewable, subject to performance)<br>
+Compensation: FAPESP TT-4 Fellowship (R$ 4.520/month stipend according to FAPESP guidelines)<br>
+Overview: Highly skilled technician to support advanced workflows in cell, developmental, and molecular biology. Training provided under supervision with progressive autonomy.<br>
+<br>
+Key Responsibilities:<br>
+- TEM sample preparation and ultrathin sectioning<br>
+- Microinjection and micromanipulation<br>
+- Histology and light microscopy<br>
+- Molecular biology techniques<br>
+- Support transgenesis and organism culture<br>
+- Data organization and protocol optimization<br>
+<br>
+Requirements:<br>
+- Degree in Biology or related field<br>
+- ≥2 years experience after undergrad or Master’s degree<br>
+- Hands-on laboratory experience<br>
+<br>
+Preferred Profile:<br>
+- TEM experience<br>
+- Microinjection experience<br>
+- Ability to handle high-precision workflows<br>
+- Hands-on molecular biology experience '
+    par2: 'To apply: Please send CV, Brief statement of interest, Contact information of two referees to Federico Brown (fdbrown@usp.br) or Guilherme Gainett (ggainett@gmail.com). <br>
+Deadline: May 15th, 2026 <br>
+<a href="https://fapesp.br/18121/guidelines-for-the-award-of-fellowships-under-the-technical-training-program" target="_blank">More info (see TT4)</a>''
+    URL: ''
 
   - title: 'Postdoc position in ascidian developmental biology and regeneration (3 years)'
     date: '25/03/26'
