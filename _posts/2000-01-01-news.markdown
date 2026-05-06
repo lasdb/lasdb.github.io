@@ -63,6 +63,20 @@ Please help us spread the word by sharing it !!'
     imageBg: '../img/news/databaseDevBiol-bg.jpg'
     URL: 'https://forms.gle/WPg8vwJaFf68fKiHA'
 
+  - title: 'LatinX in Developmental Biology'
+    date: '20/02/26'
+    subtitle: 'Interview series'
+    body: 'Latinx DevBio is launching a series of interviews.<br>
+Latinx DevBio is a community of Latinx scientists, dedicated to advancing research in developmental biology and fostering connections among Latinx researchers worldwide. <br>
+The conversations feature:<br>
+Dr. Rosa Navarro: Leading Developmental Biology research in Mexico, <br>
+Dr. Martín Estermann: from Argentina to the world, <br>
+Dr. Estefanía Sánchez-Vásquez: LatinxDB Chair 2025-2026 <br>
+Dr. Ariel Waisman, Laboratory of applied research in neuroscience, FLENI, CONICET, Argentina'
+    imageSm: 'img/news/latinxdb-sm.png'
+    imageBg: '../img/news//latinxDB-inter-bg.jpg'
+    URL: 'https://sites.google.com/view/latinxindb/english/interviews'
+
   - title: 'III Colombian Congress of Developmental Biology'
     date: '28/04/26'
     subtitle: 'August 11-14, 2026. Cali, Colombia'
@@ -73,16 +87,6 @@ You can find full details about the event on our official webpage and IG:
     imageSm: 'img/news/Col_2026-sm.png'
     imageBg: '../img/news//Col_2026-bg.jpg'
     URL: 'https://www.scbd-biologia-del-desarrollo.com/en'
-
-  - title: 'LatinX in Developmental Biology'
-    date: '20/02/26'
-    subtitle: 'Interview series'
-    body: 'Latinx DevBio is launching a series of interviews.<br>
-Latinx DevBio is a community of Latinx scientists, dedicated to advancing research in developmental biology and fostering connections among Latinx researchers worldwide. <br>
-The first conversations feature Dr. Rosa Navarro: Leading Developmental Biology research in Mexico, and Dr. Martín Estermann: from Argentina to the world.'
-    imageSm: 'img/news/latinxdb-sm.png'
-    imageBg: '../img/news//latinxDB-inter-bg.jpg'
-    URL: 'https://sites.google.com/view/latinxindb/english/interviews'
 
   - title: 'Mexican Society for Developmental Biology Meeting'
     date: '11/02/26'
