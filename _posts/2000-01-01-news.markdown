@@ -68,10 +68,9 @@ We look forward to welcoming you to Búzios for what promises to be a vibrant an
 
   - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
     date: '15/5/26'
-    subtitle: ''
+    subtitle: 'Congratulations Roberto !'
     body: 'Roberto Mayor has been awarded the Viktor Hamburger Outstanding Educator Prize from the Society for Developmental Biology for excellence in teaching and global impact in developmental biology.<br>
-    The Viktor Hamburger Outstanding Educator Prize celebrates individuals worldwide who have made exceptional and innovative contributions to teaching and learning in developmental biology.Roberto has long combined world-leading research with a deep commitment to education and capacity building. In particular, his sustained efforts to promote developmental biology in Latin America have had transformative impact. Through the organisation of hands-on practical courses and training initiatives, such as the Quintay Developmental Biology Course, he has helped nurture generations of scientists, strengthening international collaboration and expanding access to high-quality research training. <br>
-    Congratulations Roberto!' 
+    The Viktor Hamburger Outstanding Educator Prize celebrates individuals worldwide who have made exceptional and innovative contributions to teaching and learning in developmental biology.Roberto has long combined world-leading research with a deep commitment to education and capacity building. In particular, his sustained efforts to promote developmental biology in Latin America have had transformative impact. Through the organisation of hands-on practical courses and training initiatives, such as the Quintay Developmental Biology Course, he has helped nurture generations of scientists, strengthening international collaboration and expanding access to high-quality research training.' 
     imageSm: 'img/news/Mayor-sm.jpg'
     imageBg: '../img/news/Mayor-bg.jpg'
     URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
