@@ -137,10 +137,10 @@ More information is available in the webpage and social networks: <br>
   - title: '2nd Congress Chilean Society for Developmental Biology'
     date: '18/05/26'
     subtitle: 'January 21-24, 2027. Viña del Mar, Chile'
-    body: '🧬 ¡Se viene el 2do Congreso de la Sociedad de Biología del Desarrollo de Chile!
+    body: '🧬 ¡Se viene el 2do Congreso de la Sociedad de Biología del Desarrollo de Chile! <br>
 📅 21 al 23 de enero 2027
-📍 Universidad Andrés Bello, Campus Viña del Mar
-Tres días para compartir ciencia, colaboración y nuevos avances en biología del desarrollo. 🔬
+📍 Universidad Andrés Bello, Campus Viña del Mar <br>
+Tres días para compartir ciencia, colaboración y nuevos avances en biología del desarrollo. 🔬 <br>
 Pronto más información sobre inscripciones y envío de resúmenes.'
     imageSm: 'img/news/SBDCh-sm.png'
     imageBg: '../img/news/SBDCh_2027-bg.jpg'
