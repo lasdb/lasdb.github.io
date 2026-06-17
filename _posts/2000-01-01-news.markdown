@@ -95,17 +95,7 @@ Please help us spread the word by sharing it !!'
     imageSm: 'img/news/databaseDevBiol-sm.png'
     imageBg: '../img/news/databaseDevBiol-bg.jpg'
     URL: 'https://forms.gle/WPg8vwJaFf68fKiHA'
-
-  - title: 'Comparative Embryology of Marine Invertebrates Course
-    subtitle: 'Nov 25 - Dec 8, 2026, CEBIMar–USP, Brazil'
-    body: 'Applications are now open for the 2026 edition of the intensive graduate course Comparative Embryology of Marine Invertebrates (CEMI), to be held from November 25th to December 8tt, 2026, at CEBIMar–USP, São Sebastião, SP, Brazil.<br>
-CEMI is a unique hands-on course focused on embryonic and larval development across marine animal phyla. Through lectures, laboratory activities, a field collection, larval cultures, microscopy, and discussions of primary literature, participants will gain practical and theoretical experience in comparative embryology, larval biology, and evolutionary developmental biology.<br>
-The course will be taught entirely in English by an international team of instructors and is open to graduate students interested in zoology, developmental biology, evolution, marine biology, and related fields.'
-    imageSm: 'img/news//CEMI2026--sm.png'
-    imageBg: '../img/news//CEMI2026-bg.jpg'
-    URL: 'https://cebimar.usp.br/divulgacao/noticia-comparative-embryology-of-marine-invertebrates-cemi/'
-
-
+    
   - title: 'LatinX in Developmental Biology'
     date: '20/02/26'
     subtitle: 'Interview series'
