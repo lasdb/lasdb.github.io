@@ -70,6 +70,15 @@ Because the axolotl is endemic to Mexico, the meeting will also feature a specia
     imageBg: '../img/news/Mayor-bg.jpg'
     URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
 
+  - title: 'Comparative Embryology of Marine Invertebrates Course'
+    date: '16/2/26'
+    subtitle: 'CCEBIMar–USP, São Sebastião, SP, Brazil'
+    body: 'Applications are now open for the 2026 edition of the intensive graduate course Comparative Embryology of Marine Invertebrates (CEMI), to be held from November 25th to December 8tt, 2026, at CEBIMar–USP, São Sebastião, SP, Brazil.
+CEMI is a unique hands-on course focused on embryonic and larval development across marine animal phyla. Through lectures, laboratory activities, a field collection, larval cultures, microscopy, and discussions of primary literature, participants will gain practical and theoretical experience in comparative embryology, larval biology, and evolutionary developmental biology.' 
+    imageSm: 'img/news/CEMI2026-sm.jpg'
+    imageBg: '../img/news/CEMI2026-bg.jpg'
+    URL: 'https://cebimar.usp.br/divulgacao/noticia-comparative-embryology-of-marine-invertebrates-cemi/'
+
   - title: '13th International LASDB Congress'
     date: '14/4/26'
     subtitle: 'Buzios, Brazil. October 2027<br>'
