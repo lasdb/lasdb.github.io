@@ -110,6 +110,7 @@ Dr. Ariel Waisman, Laboratory of applied research in neuroscience, FLENI, CONICE
     imageBg: '../img/news//latinxDB-inter-bg.jpg'
     URL: 'https://sites.google.com/view/latinxindb/english/interviews'
 
+    
   - title: 'Comparative Embryology of Marine Invertebrates Course
     subtitle: 'Nov 25 - Dec 8, 2026, CEBIMar–USP, Brazil'
     body: 'Applications are now open for the 2026 edition of the intensive graduate course Comparative Embryology of Marine Invertebrates (CEMI), to be held from November 25th to December 8tt, 2026, at CEBIMar–USP, São Sebastião, SP, Brazil.<br>
