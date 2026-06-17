@@ -7,7 +7,7 @@ permalink: /pages/jobs.html
 jobs:
 
   - title: 'DOCTORAL/ASSISTANT PROFESSOR IN DEVELOPMENTAL BIOLOGY'
-    date: '25/0/26'
+    date: '17/06/26'
     subtitle: 'Universidade de São Paulo, Brazil<br>
 Application deadline: '
     body: 'The Institute of Biomedical Sciences, University of São Paulo (USP), invites applications for a full-time Assistant Professor (MS-3) in Developmental Biology. This is a tenure-track position within the Department of Cell and Developmental Biology, under the RDIDP regime (Full-Time Dedication to Teaching and Research).<br>
