@@ -6,6 +6,17 @@ categories: jobs
 permalink: /pages/jobs.html
 jobs:
 
+  - title: 'DOCTORAL/ASSISTANT PROFESSOR IN DEVELOPMENTAL BIOLOGY'
+    date: '25/0/26'
+    subtitle: 'Universidade de São Paulo, Brazil<br>
+Application deadline: '
+    body: 'The Institute of Biomedical Sciences, University of São Paulo (USP), invites applications for a full-time Assistant Professor (MS-3) in Developmental Biology. This is a tenure-track position within the Department of Cell and Developmental Biology, under the RDIDP regime (Full-Time Dedication to Teaching and Research).<br>
+Openings: 1 position<br>
+Field: Developmental Biology<br>
+Department: Cell and Developmental Biology, Institute of Biomedical Sciences (USP)'
+    par2: 'Regime: RDIDP — Full-time teaching and research. Salary: BRL 16,353. Application period: 8:00 AM (Brasília) on May 29, 2026 — 5:00 PM (Brasília) on August 26, 2026 (90 days). Foreign graduate degrees will have to be recognized by the University prior to application. Please see pag 4 item 24 in the full description of the application process. For further information, contact ireneyan@usp.br'
+    URL: 'https://sites.usp.br/biocel/concurso/'
+
   - title: 'Full-Time Technical Training Fellow (40 h/week)'
     date: '02/05/26'
     subtitle: 'Universidade de São Paulo – Instituto de Biociências'
@@ -44,7 +55,6 @@ Application deadline: April 10th, 2026'
     body: 'We are recruiting a highly skilled researcher to investigate regeneration in ascidians and the cellular and immunological mechanisms associated with invasive success in a context of climate change. The postdoc will work in a Brazil–Chile collaboration, integrating experimental and comparative approaches between populations from different climatic regions. The objectives include the study of regeneration in ascidians, characterization of hemocyte dynamics, and analysis of the immune response under different thermal conditions. Techniques and approaches: regeneration and budding trials; maintenance of marine organisms; flow cytometry for hemocyte analysis; histology; light and electron microscopy; RNA extraction and gene expression analysis (qPCR); integration with environmental data.'
     par2: ''
     URL: ''
-
 
   - title: 'See Job Opportunities at The Node'
     date: ''
