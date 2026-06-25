@@ -52,6 +52,15 @@ The LASDB Board<br><br>
     imageBg: '../img/news/Quintay_2027-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
+  - title: 'SALAMANDER MEETING 2026'
+    date: '20/5/26'
+    subtitle: 'Regeneration and Development in Axolotls: from Xochimilco to the Lab <br> Mexico City. October 2026'
+    body: 'The 2026 SALAMANDER MEETING will take place at the National Autonomous University of Mexico (UNAM) in Mexico City from October 6 to 8, 2026. The primary aim of the meeting is to facilitate the exchange of ideas, promote collaborations, and provide students and researchers in the salamander/axolotl community with an enriched academic environment. Experts from around the world will come together to present and discuss current research on salamander regeneration, developmental biology, and related fields.<br>
+Because the axolotl is endemic to Mexico, the meeting will also feature a special cultural component. As a complement to the scientific program, a visit to Xochimilco is planned to offer participants a broader perspective on the historical and cultural context of the axolotl in Mexico.' 
+    imageSm: 'img/news/Salamander_2026-sm.png'
+    imageBg: '../img/news/Salamander_2026-bg.png'
+    URL: 'https://salamander2026.iibiomedicas.unam.mx/'
+
   - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
     date: '15/5/26'
     subtitle: 'Congratulations Roberto !'
