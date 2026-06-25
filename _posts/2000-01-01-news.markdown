@@ -52,17 +52,17 @@ Deadline for applications: 30th August 2026.'
     imageBg: '../img/news/Quintay_2027-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
-  - title: 'LASDB Online Seminar'
+  - title: 'LASDB Students Seminar Series'
     date: '20/6/26'
     subtitle: 'Showcasing Latin American Deelopmental Biology'
     body: 'First seminar: July 3rd, 2026<br>
     9.00 am Mexico<br>
     10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
-    <a href="https://lasdb-development.org/pages/news.html#3" target="_blank"><b>Zoom link July 3rd</b></a>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>
     We thank Natalia Sanchez and Aitana Castro Colabianchi for organizing LASDB seminar series!' 
     imageSm: 'img/news/LASDB_seminar20260703-sm.jpg'
     imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
-    URL: ''
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
   - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
     date: '15/5/26'
