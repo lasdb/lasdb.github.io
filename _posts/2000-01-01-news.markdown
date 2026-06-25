@@ -52,6 +52,22 @@ The LASDB Board<br><br>
     imageBg: '../img/news/Quintay_2027-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
+  - title: 'LASDB Online Seminars'
+    date: '17/5/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: ' First seminar: <br>July 3rd, 2026<br>
+9.00 am Mexico<br>
+10.00 am Colombia, Ecuador, Perú<br>
+11.00 am Chile, USA (EST), Bolivia<br>
+12.00 am Argentina, Uruguay, Brasil <br>
+<br>
+<a href="" target="_blank"><b>Zoom link July 3rd</b></a> <br>
+    imageSm: 'img/newsLASDB_seminar_20260703-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
+    URL: ''
+
+
+
   - title: 'SALAMANDER MEETING 2026'
     date: '20/5/26'
     subtitle: 'Regeneration and Development in Axolotls: from Xochimilco to the Lab <br> Mexico City. October 2026'
