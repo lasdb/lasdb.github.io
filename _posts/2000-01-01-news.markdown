@@ -35,7 +35,6 @@ The LASDB Board<br><br>
     imageSm: 'img/news/new_logo-sm.png'
     imageBg: '../img/news/new_logo-bg.png'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
-
   - title: 'LASDB Online Seminars'
     date: '17/5/26'
     subtitle: 'Showcasing Latin American Deelopmental Biology'
