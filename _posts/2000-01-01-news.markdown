@@ -80,15 +80,6 @@ Because the axolotl is endemic to Mexico, the meeting will also feature a specia
     imageBg: '../img/news/Salamander_2026-bg.png'
     URL: 'https://salamander2026.iibiomedicas.unam.mx/'
 
-  - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
-    date: '15/5/26'
-    subtitle: 'Congratulations Roberto !'
-    body: 'Roberto Mayor has been awarded the Viktor Hamburger Outstanding Educator Prize from the Society for Developmental Biology for excellence in teaching and global impact in developmental biology.<br>
-    The Viktor Hamburger Outstanding Educator Prize celebrates individuals worldwide who have made exceptional and innovative contributions to teaching and learning in developmental biology.Roberto has long combined world-leading research with a deep commitment to education and capacity building. In particular, his sustained efforts to promote developmental biology in Latin America have had transformative impact. Through the organisation of hands-on practical courses and training initiatives, such as the Quintay Developmental Biology Course, he has helped nurture generations of scientists, strengthening international collaboration and expanding access to high-quality research training.' 
-    imageSm: 'img/news/Mayor-sm.jpg'
-    imageBg: '../img/news/Mayor-bg.jpg'
-    URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
-
   - title: 'Comparative Embryology of Marine Invertebrates Course'
     date: '16/2/26'
     subtitle: 'CCEBIMar–USP, São Sebastião, SP, Brazil'
