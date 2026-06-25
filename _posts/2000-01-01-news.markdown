@@ -51,7 +51,26 @@ The LASDB Board<br><br>
     imageSm: 'img/news/Quintay_2027-sm.jpg'
     imageBg: '../img/news/Quintay_2027-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
-        
+
+  - title: 'LASDB Online Seminars'
+    date: '20/6/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology
+    body: 'First seminar: <br>July 3rd, 2026<br>9.00 am Mexico<br>
+10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
+<a href="https://lasdb-development.org/pages/news.html#3" target="_blank"><b>Zoom link July 3rd</b></a>' 
+    imageSm: 'img/news/LASDB_seminar20260703-sm.png'
+    imageBg: '../img/news/LASDB_seminar202607036-bg.png'
+    URL: ''
+
+  - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
+    date: '15/5/26'
+    subtitle: 'Congratulations Roberto !'
+    body: 'Roberto Mayor has been awarded the Viktor Hamburger Outstanding Educator Prize from the Society for Developmental Biology for excellence in teaching and global impact in developmental biology.<br>
+    The Viktor Hamburger Outstanding Educator Prize celebrates individuals worldwide who have made exceptional and innovative contributions to teaching and learning in developmental biology.Roberto has long combined world-leading research with a deep commitment to education and capacity building. In particular, his sustained efforts to promote developmental biology in Latin America have had transformative impact. Through the organisation of hands-on practical courses and training initiatives, such as the Quintay Developmental Biology Course, he has helped nurture generations of scientists, strengthening international collaboration and expanding access to high-quality research training.' 
+    imageSm: 'img/news/Mayor-sm.jpg'
+    imageBg: '../img/news/Mayor-bg.jpg'
+    URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
+
   - title: 'SALAMANDER MEETING 2026'
     date: '20/5/26'
     subtitle: 'Regeneration and Development in Axolotls: from Xochimilco to the Lab <br> Mexico City. October 2026'
