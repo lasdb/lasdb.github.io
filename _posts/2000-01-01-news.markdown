@@ -51,7 +51,7 @@ The LASDB Board<br><br>
     imageSm: 'img/news/Quintay_2027-sm.jpg'
     imageBg: '../img/news/Quintay_2027-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
-    
+
   - title: 'LASDB Online Seminars'
     date: '20/6/26'
     subtitle: 'Showcasing Latin American Deelopmental Biology
