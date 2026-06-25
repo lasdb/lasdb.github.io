@@ -38,7 +38,8 @@ The LASDB Board<br><br>
   
   - title: 'EMBO Practical Course in Developmental Biology: form cells to neural systems'
     date: '17/5/26'
-    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    subtitle: '7-20 January 2027, CIMARQ-Quintay, Chile.<br>
+Deadline for applications: 30th August 2026.'
     body: 'New edition of the great Quintay Dev Biol Course!!! <br>The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Travel fellowships will be available. The course is sponsored by EMBO, the MBL, LASDB, Universidad Andres Bell, the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso and Universidad Mayor. <br>
 <br>
 <a href="https://biodesarrollo.unab.cl/how-to-apply" target="_blank"><b>Apply here</b></a> <br>
