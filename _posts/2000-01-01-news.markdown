@@ -59,8 +59,8 @@ Deadline for applications: 30th August 2026.'
     9.00 am Mexico<br>
     10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
     <a href="https://lasdb-development.org/pages/news.html#3" target="_blank"><b>Zoom link July 3rd</b></a>' 
-    imageSm: 'img/news/LASDB_seminar20260703-sm.png'
-    imageBg: '../img/news/LASDB_seminar20260703-bg.png'
+    imageSm: 'img/news/LASDB_seminar20260703-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
     URL: ''
 
   - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
