@@ -55,8 +55,9 @@ Deadline for applications: 30th August 2026.'
   - title: 'LASDB Online Seminar'
     date: '20/6/26'
     subtitle: 'Showcasing Latin American Deelopmental Biology'
-    body: 'The 2026 SALAMANDER MEETING will take place at the National Autonomous University of Mexico (UNAM) in Mexico City from October 6 to 8, 2026. The primary aim of the meeting is to facilitate the exchange of ideas, promote collaborations, and provide students and researchers in the salamander/axolotl community with an enriched academic environment. Experts from around the world will come together to present and discuss current research on salamander regeneration, developmental biology, and related fields.<br>
-Because the axolotl is endemic to Mexico, the meeting will also feature a special cultural component. As a complement to the scientific program, a visit to Xochimilco is planned to offer participants a broader perspective on the historical and cultural context of the axolotl in Mexico.' 
+    body: 'First seminar: <br>July 3rd, 2026<br>9.00 am Mexico<br>
+10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
+<a href="https://lasdb-development.org/pages/news.html#3" target="_blank"><b>Zoom link July 3rd</b></a>' 
     imageSm: 'img/news/Salamander_2026-sm.png'
     imageBg: '../img/news/Salamander_2026-bg.png'
     URL: 'https://salamander2026.iibiomedicas.unam.mx/'
