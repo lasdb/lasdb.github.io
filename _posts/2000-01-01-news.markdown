@@ -149,7 +149,7 @@ You can find full details about the event on our official webpage and IG:
 More details of the meeting will be published soon in the SMBD website.'
     imageSm: 'img/news/SMBD_2026-sm.png'
     imageBg: '../img/news//SMBD_2026-bg.jpg'
-    URL: 'https://www.facebook.com/SociedadMexicanadeBiologiadelDesarrollo'
+    URL: 'https://smbd.mx/congreso/'
 
   - title: 'Argentine Developmental Biology Network'
     date: '1/5/24'
