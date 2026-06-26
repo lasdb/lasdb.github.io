@@ -71,7 +71,7 @@ Deadline for applications: 30th August 2026.'
 Seminars will take place on the first Friday of each month and will feature short, focused talks: 15 minutes to share your main results, plus 10 minutes for discussion. All talks will be in English.<br>
 This is a great opportunity for students, postdocs, and early-career researchers to share their work and connect with the community.
 Interested? Fill out the form below and join us! <br>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfn-P-9zoXnV7ZEjOQ9Khibhfh8-ASUSmBmbh_cw08NeX829A/viewform" target="_blank"><b>Form</b></a>' 
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfn-P-9zoXnV7ZEjOQ9Khibhfh8-ASUSmBmbh_cw08NeX829A/viewform" target="_blank"><b>Fill the Form here</b></a>' 
     imageSm: 'img/news/seminars-sm.jpg'
     imageBg: '../img/news/seminars-bg.jpg'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSfn-P-9zoXnV7ZEjOQ9Khibhfh8-ASUSmBmbh_cw08NeX829A/viewform'
