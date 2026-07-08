@@ -52,18 +52,6 @@ Deadline for applications: 30th July 2026.'
     imageBg: '../img/news/Quintay_2027-bg.jpg'
     URL: 'http://biodesarrollo.unab.cl/'
 
-  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
-    date: '20/6/26'
-    subtitle: 'Showcasing Latin American Deelopmental Biology'
-    body: 'First seminar: <b>July 3rd, 2026</b><br>
-    9.00 am Mexico<br>
-    10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
-    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>
-    We thank Natalia Sanchez and Aitana Castro Colabianchi for organizing LASDB seminar series!' 
-    imageSm: 'img/news/LASDB_seminar20260703-sm.jpg'
-    imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
-    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
-
   - title: 'LASDB Online Seminars – Call for Speakers'
     date: '24/6/26'
     subtitle: ''
@@ -102,6 +90,18 @@ CEMI is a unique hands-on course focused on embryonic and larval development acr
     imageSm: 'img/news/CEMI2026-sm.jpg'
     imageBg: '../img/news/CEMI2026-bg.jpg'
     URL: 'https://cebimar.usp.br/divulgacao/noticia-comparative-embryology-of-marine-invertebrates-cemi/'
+
+  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+    date: '20/6/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: 'First seminar: <b>July 3rd, 2026</b><br>
+    9.00 am Mexico<br>
+    10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>
+    We thank Natalia Sanchez and Aitana Castro Colabianchi for organizing LASDB seminar series!' 
+    imageSm: 'img/news/LASDB_seminar20260703-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
   - title: '13th International LASDB Congress'
     date: '14/4/26'
