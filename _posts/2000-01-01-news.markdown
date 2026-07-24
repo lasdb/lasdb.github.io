@@ -6,6 +6,20 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'LASDB Online Seminars'
+    date: '23/7/26'
+    subtitle: 'Life Cycle of a Grant in the USA'
+    body: 'This webinar will provide an overview of the U.S. grant funding process, from developing a research idea and preparing an application to peer review, funding decisions, post-award management and project completion. An excellent opportunity to gain a better understanding of how research funding works.<br>
+    <b>August 7th, 2026</b><br>
+    9.00 AM Mexico<br>
+    10.00 AM Colombia, Ecuador, Perú<br>
+    11.00 AM Chile, USA (EST), Bolivia<br>
+    12.00 AM Argentina, Uruguay, Brasil <br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>' 
+    imageSm: 'img/news/LASDB_seminar20260807-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260807-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
+
   - title: 'LASDB Logo Design Contest'
     date: '14/4/26'
     subtitle: 'Submit your proposal for a new LASDB logo !<br> Deadline extended until Monday 27 July'
