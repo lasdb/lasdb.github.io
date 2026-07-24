@@ -8,7 +8,8 @@ news:
 
   - title: 'LASDB Online Seminars'
     date: '23/7/26'
-    subtitle: 'Life Cycle of a Grant in the USA'
+    subtitle: 'Life Cycle of a Grant in the US<br>
+    August 7th, 2026'
     body: 'This webinar will provide an overview of the U.S. grant funding process, from developing a research idea and preparing an application to peer review, funding decisions, post-award management and project completion. An excellent opportunity to gain a better understanding of how research funding works.<br>
     <b>August 7th, 2026</b><br>
     9.00 AM Mexico<br>
