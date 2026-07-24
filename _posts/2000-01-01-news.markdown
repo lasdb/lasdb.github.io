@@ -89,27 +89,6 @@ Interested? Fill out the form below and join us! <br>
     imageBg: '../img/news/Mayor-bg.jpg'
     URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
 
-  - title: 'SALAMANDER MEETING 2026'
-    date: '20/5/26'
-    subtitle: 'Regeneration and Development in Axolotls: from Xochimilco to the Lab <br> Mexico City. October 2026'
-    body: 'The 2026 SALAMANDER MEETING will take place at the National Autonomous University of Mexico (UNAM) in Mexico City from October 6 to 8, 2026. The primary aim of the meeting is to facilitate the exchange of ideas, promote collaborations, and provide students and researchers in the salamander/axolotl community with an enriched academic environment. Experts from around the world will come together to present and discuss current research on salamander regeneration, developmental biology, and related fields.<br>
-Because the axolotl is endemic to Mexico, the meeting will also feature a special cultural component. As a complement to the scientific program, a visit to Xochimilco is planned to offer participants a broader perspective on the historical and cultural context of the axolotl in Mexico.' 
-    imageSm: 'img/news/Salamander_2026-sm.png'
-    imageBg: '../img/news/Salamander_2026-bg.png'
-    URL: 'https://salamander2026.iibiomedicas.unam.mx/'
-
-  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
-    date: '20/6/26'
-    subtitle: 'Showcasing Latin American Deelopmental Biology'
-    body: 'First seminar: <b>July 3rd, 2026</b><br>
-    9.00 am Mexico<br>
-    10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
-    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>
-    We thank Natalia Sanchez and Aitana Castro Colabianchi for organizing LASDB seminar series!' 
-    imageSm: 'img/news/LASDB_seminar20260703-sm.jpg'
-    imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
-    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
-
   - title: '13th International LASDB Congress'
     date: '14/4/26'
     subtitle: 'Buzios, Brazil. October 2027<br>'
@@ -149,6 +128,18 @@ Dr. Ariel Waisman, Laboratory of applied research in neuroscience, FLENI, CONICE
     imageSm: 'img/news/latinxdb-sm.png'
     imageBg: '../img/news//latinxDB-inter-bg.jpg'
     URL: 'https://sites.google.com/view/latinxindb/english/interviews'
+
+  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+    date: '20/6/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: 'First seminar: <b>July 3rd, 2026</b><br>
+    9.00 am Mexico<br>
+    10.00 am Colombia, Ecuador, Perú<br>11.00 am Chile, USA (EST), Bolivia<br>12.00 am Argentina, Uruguay, Brasil <br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>
+    We thank Natalia Sanchez and Aitana Castro Colabianchi for organizing LASDB seminar series!' 
+    imageSm: 'img/news/LASDB_seminar20260703-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260703-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
   - title: 'III Colombian Congress of Developmental Biology'
     date: '28/04/26'
@@ -194,6 +185,15 @@ Pronto más información sobre inscripciones y envío de resúmenes.'
     imageSm: 'img/news/SBDCh-sm.png'
     imageBg: '../img/news/SBDCh_2027-bg.jpg'
     URL: 'https://www.instagram.com/socbiodesarrollo/'
+
+  - title: 'SALAMANDER MEETING 2026'
+    date: '20/5/26'
+    subtitle: 'Regeneration and Development in Axolotls: from Xochimilco to the Lab <br> Mexico City. October 2026'
+    body: 'The 2026 SALAMANDER MEETING will take place at the National Autonomous University of Mexico (UNAM) in Mexico City from October 6 to 8, 2026. The primary aim of the meeting is to facilitate the exchange of ideas, promote collaborations, and provide students and researchers in the salamander/axolotl community with an enriched academic environment. Experts from around the world will come together to present and discuss current research on salamander regeneration, developmental biology, and related fields.<br>
+Because the axolotl is endemic to Mexico, the meeting will also feature a special cultural component. As a complement to the scientific program, a visit to Xochimilco is planned to offer participants a broader perspective on the historical and cultural context of the axolotl in Mexico.' 
+    imageSm: 'img/news/Salamander_2026-sm.png'
+    imageBg: '../img/news/Salamander_2026-bg.png'
+    URL: 'https://salamander2026.iibiomedicas.unam.mx/'
 
   - title: 'Comparative Embryology of Marine Invertebrates Course'
     date: '16/2/26'
