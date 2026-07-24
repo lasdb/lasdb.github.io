@@ -15,7 +15,7 @@ news:
     10.00 AM Colombia, Ecuador, Perú<br>
     11.00 AM Chile, USA (EST), Bolivia<br>
     12.00 AM Argentina, Uruguay, Brasil <br>
-    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br><br>' 
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link August 7th</b></a><br><br>' 
     imageSm: 'img/news/LASDB_seminar20260807-sm.jpg'
     imageBg: '../img/news/LASDB_seminar20260807-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
