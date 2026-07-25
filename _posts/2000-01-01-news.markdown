@@ -13,7 +13,7 @@ news:
     body: 'The <b>LASDB Online Seminar Series</b> is a space created especially for <b>young scientists</b> to connect with outstanding researchers, exchange ideas, and expand their professional networks.<br>
 We are delighted to invite you to our next seminar with: <br><br>
 <b>Dr. Martín L. Basch</b><br>
-Scientific Review Officer, NIDCD/NIH; Former Assistant Professor, Case Western Reserve University<br>
+Former Assistant Professor, Case Western Reserve University, and Scientific Review Officer, NIDCD/NIH<br>
 “Life Cycle of a Grant in the United States”<br><br>
 Whether you are an undergraduate student, graduate student, postdoctoral fellow, established or early-career researcher, we encourage you to join us for this opportunity to listen, ask questions, and engage in conversation.<br><br>
     <b>August 7th, 2026</b><br>
