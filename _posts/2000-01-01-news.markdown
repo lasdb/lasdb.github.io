@@ -10,18 +10,17 @@ news:
     date: '23/7/26'
     subtitle: 'Life Cycle of a Grant in the US<br>
     August 7th, 2026'
-    body: 'The LASDB Online Seminar Series is a space created especially for young scientists to connect with outstanding researchers, exchange ideas, and expand their professional networks.<br>
-We are delighted to invite you to our next seminar with: <br>
-Dr. Martín L. Basch<br>
+    body: 'The <b>LASDB Online Seminar Series</b> is a space created especially for <b>young scientists</b> to connect with outstanding researchers, exchange ideas, and expand their professional networks.<br>
+We are delighted to invite you to our next seminar with: <br><br>
+<b>Dr. Martín L. Basch</b><br>
 Scientific Review Officer, NIDCD/NIH; Former Assistant Professor, Case Western Reserve University<br>
-“Life Cycle of a Grant in the United States”<br>
-Whether you are an undergraduate student, graduate student, postdoctoral fellow, established or early-career researcher, we encourage you to join us for this opportunity to listen, ask questions, and engage in conversation.<br>
+“Life Cycle of a Grant in the United States”<br><br>
+Whether you are an undergraduate student, graduate student, postdoctoral fellow, established or early-career researcher, we encourage you to join us for this opportunity to listen, ask questions, and engage in conversation.<br><br>
     <b>August 7th, 2026</b><br>
     9.00 AM Mexico<br>
     10.00 AM Colombia, Ecuador, Perú<br>
     11.00 AM Chile, USA (EST), Bolivia<br>
-    12.00 AM Argentina, Uruguay, Brasil <br>
-
+    12.00 AM Argentina, Uruguay, Brasil <br><br>
 We look forward to seeing you there!<br>
     <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link August 7th</b></a><br><br>' 
     imageSm: 'img/news/LASDB_seminar20260807-sm.jpg'
