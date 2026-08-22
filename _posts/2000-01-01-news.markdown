@@ -6,6 +6,21 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+    date: '20/6/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: '<b>Friday September 4th, 2026</b><br>
+    LASDB Students/Postdocs/Early Investigators Seminar Series<br>
+    9.00 am Mexico<br>
+    10.00 am Colombia, Ecuador, Perú<br>
+    11.00 am Chile, USA (EST), Bolivia<br>
+    12.00 am Argentina, Uruguay, Brasil<br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br>
+    We look forward to seeing you there!' 
+    imageSm: 'img/news/LASDB_seminar20260904-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260904-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
+
   - title: 'LASDB Online Seminars'
     date: '23/7/26'
     subtitle: 'Life Cycle of a Grant in the US<br>
@@ -75,35 +90,7 @@ The SCZI is a conference exclusively for principal investigators studying zebraf
     URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
 
 
-  - title: 'LASDB Logo Design Contest'
-    date: '14/4/26'
-    subtitle: 'Submit your proposal for a new LASDB logo !<br> Deadline extended until Monday 27 July'
-    body: '<br>Dear community of Latin American Developmental Biologists,<br><br>
-The LASDB was founded in 2003, and represents the main organization dedicated to developmental biology research in Latin America. Today, 23 years after its creation, we believe that it is time for a logo refresh ! <br><br>
-We are therefore delighted to launch a call for the <b>renewal of the Society’s logo, and we invite developmental biologists working in Latin America, as well as Latin American developmental biologists working abroad, to participate in this contest</b>.<br><br>
-You may submit as many logo proposals as you wish. Please follow the instructions provided below and submit your proposal through this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097" target="_blank">Google Form</a></b>.<br><br>
-Once all logo proposals have been received, the LASDB community will be invited to select its three favourite options. With the support of a technical committee involving artists and designers, these three finalists will then be ranked and awarded first, second, and third prizes.<br><br>
-The prizes will be as follows:<br>
-First prize: full waiver of the registration fee, together with free accommodation for the next LASDB meeting, to be held in Búzios, Brazil, in October 2027.<br>
-Second and third prizes: full waiver of the registration fee for the same meeting.<br><br>
-<b>Please submit your logo by Friday, 27 July 2026 (new deadline)</b>. Voting will take place during July, and the results will be communicated shortly thereafter.<br><br>
-We look forward to receiving your original ideas.<br>
-With warm regards,<br>
-The LASDB Board<br><br>
-<i><u>Instructions for logo design</u>:<br>
-- Your submission should be made as a PDF file (suggested resolution, 300 DPI, weighting less than 10 Mb) of letter paper size (8,5 x 11 inches or 216 x 280 millimeters).<br>
-- The logo should be accompanied by a brief descriptive legend.<br>
-- While co-authorship is accepted, only the main author will be the recipient for the prize.<br>
-- Use of AI is not allowed.<br>
-- Submitting more than one logo is allowed. These should be done as separate submissions.<br>
-- Draft versions are welcome, as priority will be given to “good and original ideas” rather than to “nice artistic finish”. The selected Logo might be improved later, by a professional artist/designer, in collaboration with the main author.<br>
-- Avoid including too many small details as the logo should be visible as a header.<br>
-- Avoid including identifiable animal/plant models, as these will fail to represent the diversity of organisms used for developmental biology in LA. It is nevertheless suggested that the logo refers to the Latin American region and connects to the research which is conducted in the field.<br>
-- The new logo will be officially in use as soon as the process is finished.<br>
-- Author(s) will be acknowledged on the LASDB webpage which will also mention the logo legend. Also, the logo will become an intellectual property of the LASDB.<br></i>'
-    imageSm: 'img/news/new_logo-sm.png'
-    imageBg: '../img/news/new_logo-bg.png'
-    URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
+
 
   - title: '13th International LASDB Congress'
     date: '14/4/26'
@@ -198,6 +185,36 @@ Because the axolotl is endemic to Mexico, the meeting will also feature a specia
     imageSm: 'img/news/Salamander_2026-sm.png'
     imageBg: '../img/news/Salamander_2026-bg.png'
     URL: 'https://salamander2026.iibiomedicas.unam.mx/'
+
+  - title: 'LASDB Logo Design Contest'
+    date: '14/4/26'
+    subtitle: 'Submit your proposal for a new LASDB logo !<br> Deadline extended until Monday 27 July'
+    body: '<br>Dear community of Latin American Developmental Biologists,<br><br>
+The LASDB was founded in 2003, and represents the main organization dedicated to developmental biology research in Latin America. Today, 23 years after its creation, we believe that it is time for a logo refresh ! <br><br>
+We are therefore delighted to launch a call for the <b>renewal of the Society’s logo, and we invite developmental biologists working in Latin America, as well as Latin American developmental biologists working abroad, to participate in this contest</b>.<br><br>
+You may submit as many logo proposals as you wish. Please follow the instructions provided below and submit your proposal through this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097" target="_blank">Google Form</a></b>.<br><br>
+Once all logo proposals have been received, the LASDB community will be invited to select its three favourite options. With the support of a technical committee involving artists and designers, these three finalists will then be ranked and awarded first, second, and third prizes.<br><br>
+The prizes will be as follows:<br>
+First prize: full waiver of the registration fee, together with free accommodation for the next LASDB meeting, to be held in Búzios, Brazil, in October 2027.<br>
+Second and third prizes: full waiver of the registration fee for the same meeting.<br><br>
+<b>Please submit your logo by Friday, 27 July 2026 (new deadline)</b>. Voting will take place during July, and the results will be communicated shortly thereafter.<br><br>
+We look forward to receiving your original ideas.<br>
+With warm regards,<br>
+The LASDB Board<br><br>
+<i><u>Instructions for logo design</u>:<br>
+- Your submission should be made as a PDF file (suggested resolution, 300 DPI, weighting less than 10 Mb) of letter paper size (8,5 x 11 inches or 216 x 280 millimeters).<br>
+- The logo should be accompanied by a brief descriptive legend.<br>
+- While co-authorship is accepted, only the main author will be the recipient for the prize.<br>
+- Use of AI is not allowed.<br>
+- Submitting more than one logo is allowed. These should be done as separate submissions.<br>
+- Draft versions are welcome, as priority will be given to “good and original ideas” rather than to “nice artistic finish”. The selected Logo might be improved later, by a professional artist/designer, in collaboration with the main author.<br>
+- Avoid including too many small details as the logo should be visible as a header.<br>
+- Avoid including identifiable animal/plant models, as these will fail to represent the diversity of organisms used for developmental biology in LA. It is nevertheless suggested that the logo refers to the Latin American region and connects to the research which is conducted in the field.<br>
+- The new logo will be officially in use as soon as the process is finished.<br>
+- Author(s) will be acknowledged on the LASDB webpage which will also mention the logo legend. Also, the logo will become an intellectual property of the LASDB.<br></i>'
+    imageSm: 'img/news/new_logo-sm.png'
+    imageBg: '../img/news/new_logo-bg.png'
+    URL: 'https://docs.google.com/forms/d/e/1FAIpQLSd6Zx63AmNNv6qqj9QmnA-mWtJAYlNInXGsNBhHHo5OtzZ04Q/viewform?usp=sharing&ouid=108812351366470322097'
 
   - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
     date: '20/6/26'
