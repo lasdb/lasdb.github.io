@@ -7,7 +7,7 @@ permalink: pages/news.html
 news:
 
   - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
-    date: '20/6/26'
+    date: '20/8/26'
     subtitle: 'Showcasing Latin American Deelopmental Biology'
     body: '<b>Friday September 4th, 2026</b><br>
     LASDB Students/Postdocs/Early Investigators Seminar Series<br>
@@ -20,43 +20,6 @@ news:
     imageSm: 'img/news/LASDB_seminar20260904-sm.jpg'
     imageBg: '../img/news/LASDB_seminar20260904-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
-
-  - title: 'LASDB Online Seminars'
-    date: '23/7/26'
-    subtitle: 'Life Cycle of a Grant in the US<br>
-    August 7th, 2026'
-    body: 'The <b>LASDB Online Seminar Series</b> is a space created especially for <b>young scientists</b> to connect with outstanding researchers, exchange ideas, and expand their professional networks.<br>
-We are delighted to invite you to our next seminar with: <br><br>
-<b>Dr. Martín L. Basch</b><br>
-Former Assistant Professor, Case Western Reserve University, and Scientific Review Officer, NIDCD/NIH<br>
-“Life Cycle of a Grant in the United States”<br><br>
-Whether you are an undergraduate student, graduate student, postdoctoral fellow, established or early-career researcher, we encourage you to join us for this opportunity to listen, ask questions, and engage in conversation.<br><br>
-    <b>August 7th, 2026</b><br>
-    9.00 AM Mexico<br>
-    10.00 AM Colombia, Ecuador, Perú<br>
-    11.00 AM Chile, USA (EST), Bolivia<br>
-    12.00 AM Argentina, Uruguay, Brazil <br><br>
-We look forward to seeing you there!<br>
-    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link August 7th</b></a><br><br>' 
-    imageSm: 'img/news/LASDB_seminar20260807-sm.jpg'
-    imageBg: '../img/news/LASDB_seminar20260807-bg.jpg'
-    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
-  
-  - title: 'EMBO Practical Course in Developmental Biology: form cells to neural systems'
-    date: '17/5/26'
-    subtitle: '7-20 January 2027, CIMARQ-Quintay, Chile.<br>
-Deadline for applications: 30th July 2026.'
-    body: 'New edition of the great Quintay Dev Biol Course!!! <br>The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Travel fellowships will be available. The course is sponsored by EMBO, the MBL, LASDB, Universidad Andres Bell, the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso and Universidad Mayor. <br>
-<br>
-<a href="https://biodesarrollo.unab.cl/how-to-apply" target="_blank"><b>Apply here</b></a> <br>
-<br>
-    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a><br>
-    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
-    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>
-    <a href="http://lasdb-development.org/pdfs/Quintay_Poster2027.pdf" target="_blank">Course Poster.pdf</a><br>'
-    imageSm: 'img/news/Quintay_2027-sm.jpg'
-    imageBg: '../img/news/Quintay_2027-bg.jpg'
-    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'LASDB Online Seminars – Call for Speakers'
     date: '24/6/26'
@@ -88,9 +51,6 @@ The SCZI is a conference exclusively for principal investigators studying zebraf
     imageSm: 'img/news/Mayor-sm.jpg'
     imageBg: '../img/news/Mayor-bg.jpg'
     URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
-
-
-
 
   - title: '13th International LASDB Congress'
     date: '14/4/26'
@@ -176,6 +136,43 @@ Pronto más información sobre inscripciones y envío de resúmenes.'
     imageSm: 'img/news/SBDCh-sm.png'
     imageBg: '../img/news/SBDCh_2027-bg.jpg'
     URL: 'https://www.instagram.com/socbiodesarrollo/'
+
+  - title: 'LASDB Online Seminars'
+    date: '23/7/26'
+    subtitle: 'Life Cycle of a Grant in the US<br>
+    August 7th, 2026'
+    body: 'The <b>LASDB Online Seminar Series</b> is a space created especially for <b>young scientists</b> to connect with outstanding researchers, exchange ideas, and expand their professional networks.<br>
+We are delighted to invite you to our next seminar with: <br><br>
+<b>Dr. Martín L. Basch</b><br>
+Former Assistant Professor, Case Western Reserve University, and Scientific Review Officer, NIDCD/NIH<br>
+“Life Cycle of a Grant in the United States”<br><br>
+Whether you are an undergraduate student, graduate student, postdoctoral fellow, established or early-career researcher, we encourage you to join us for this opportunity to listen, ask questions, and engage in conversation.<br><br>
+    <b>August 7th, 2026</b><br>
+    9.00 AM Mexico<br>
+    10.00 AM Colombia, Ecuador, Perú<br>
+    11.00 AM Chile, USA (EST), Bolivia<br>
+    12.00 AM Argentina, Uruguay, Brazil <br><br>
+We look forward to seeing you there!<br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link August 7th</b></a><br><br>' 
+    imageSm: 'img/news/LASDB_seminar20260807-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260807-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
+  
+  - title: 'EMBO Practical Course in Developmental Biology: form cells to neural systems'
+    date: '17/5/26'
+    subtitle: '7-20 January 2027, CIMARQ-Quintay, Chile.<br>
+Deadline for applications: 30th July 2026.'
+    body: 'New edition of the great Quintay Dev Biol Course!!! <br>The course is aimed for advanced graduate students and postdoctoral fellows who seek a broad view of the modern issues of Developmental Biology and consists of intensive laboratory work and lectures. Travel fellowships will be available. The course is sponsored by EMBO, the MBL, LASDB, Universidad Andres Bell, the Centro Interdisciplinario de Neurosciences de Valparaiso, Universidad de Valparaiso and Universidad Mayor. <br>
+<br>
+<a href="https://biodesarrollo.unab.cl/how-to-apply" target="_blank"><b>Apply here</b></a> <br>
+<br>
+    <a href="http://biodesarrollo.unab.cl" target="_blank">Website: http://biodesarrollo.unab.cl</a><br>
+    <a href="https://twitter.com/DevBioQuintay" target="_blank">Twitter: @DevBioQuintay</a> <br>
+    <a href="https://www.facebook.com/profile.php?id=100017148704480" target="_blank">Facebook: DevBio Course Quintay</a> <br>
+    <a href="http://lasdb-development.org/pdfs/Quintay_Poster2027.pdf" target="_blank">Course Poster.pdf</a><br>'
+    imageSm: 'img/news/Quintay_2027-sm.jpg'
+    imageBg: '../img/news/Quintay_2027-bg.jpg'
+    URL: 'http://biodesarrollo.unab.cl/'
 
   - title: 'SALAMANDER MEETING 2026'
     date: '20/5/26'
