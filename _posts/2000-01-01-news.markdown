@@ -11,10 +11,10 @@ news:
     subtitle: 'Showcasing Latin American Deelopmental Biology'
     body: '<b>Friday September 4th, 2026</b><br>
     LASDB Students/Postdocs/Early Investigators Seminar Series<br>
-    9.00 am Mexico<br>
-    10.00 am Colombia, Ecuador, Perú<br>
-    11.00 am Chile, USA (EST), Bolivia<br>
-    12.00 am Argentina, Uruguay, Brasil<br>
+    9.00 AM Mexico<br>
+    10.00 AM Colombia, Ecuador, Perú<br>
+    11.00 AM Chile, USA (EST), Bolivia<br>
+    12.00 PM Argentina, Uruguay, Brasil<br>
     <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link July 3rd</b></a><br>
     We look forward to seeing you there!' 
     imageSm: 'img/news/LASDB_seminar20260904-sm.jpg'
