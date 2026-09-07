@@ -9,8 +9,8 @@ news:
   - title: 'LASDB Logo Design Contest'
     date: '20/8/26'
     subtitle: 'Vote for the New LASDB Logo — Your Voice Matters !!'
-    body: 'Our community is growing and it is time to change our visual identity. We recently held a logo design contest and the submissions we received perfectly capture the diversity, creativity, and spirit of our community.<br>
-    Now, we need your help to select the final winners by voting for your top 3 favorite designs.<br>
+    body: 'Our community is growing and it is time to change our visual identity. We recently held a logo design contest and the submissions we received nicely capture the diversity, creativity and spirit of our community.<br>
+    Now, we need your help to select the three finalists.<br> 
 Voting Details:<br>
 - Select 3 options that you feel best represent our LASDB community.<br>
 - Only registered email addresses are allowed to vote.<br>
