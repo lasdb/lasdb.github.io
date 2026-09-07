@@ -6,20 +6,21 @@ categories: news
 permalink: pages/news.html
 news:
 
-  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+  - title: 'LASDB Logo Design Contest'
     date: '20/8/26'
-    subtitle: 'Showcasing Latin American Deelopmental Biology'
-    body: '<b>Friday September 4th, 2026</b><br>
-    LASDB Students/Postdocs/Early Investigators Seminar Series<br>
-    9.00 AM Mexico<br>
-    10.00 AM Colombia, Ecuador, Perú<br>
-    11.00 AM Chile, USA (EST), Bolivia<br>
-    12.00 PM Argentina, Uruguay, Brasil<br>
-    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link September 4th</b></a><br>
-    We look forward to seeing you there!' 
-    imageSm: 'img/news/LASDB_seminar20260904-sm.jpg'
-    imageBg: '../img/news/LASDB_seminar20260904-bg.jpg'
-    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
+    subtitle: 'Vote your favorite designs !!'
+    body: 'Our community is growing and it is time to change our visual identity. We recently held a logo design contest and the submissions we received perfectly capture the diversity, creativity, and spirit of our community.<br>
+    Now, we need your help to select the final winners by voting for your top 3 favorite designs.<br>
+Voting Details:<br>
+- Select 3 options that you feel best represent our LASDB community.<br>
+- Only registered email addresses are allowed to vote.<br>
+- Each person can only vote once.<br>
+- Deadline: September 27, 2026<br>
+  <br>
+    <a href="https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec" target="_blank"><b>Please review the designs and log your choices here</b></a><br>' 
+    imageSm: 'img/news/new_logo-sm.png'
+    imageBg: '../img/news/logo_contest-bg.png'
+    URL: 'https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec'
 
   - title: 'LASDB Online Seminars – Call for Speakers'
     date: '24/6/26'
@@ -51,6 +52,21 @@ The SCZI is a conference exclusively for principal investigators studying zebraf
     imageSm: 'img/news/Mayor-sm.jpg'
     imageBg: '../img/news/Mayor-bg.jpg'
     URL: 'https://www.sdbonline.org/resource?ResourceID=4565'
+
+  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+    date: '20/8/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: '<b>Friday September 4th, 2026</b><br>
+    LASDB Students/Postdocs/Early Investigators Seminar Series<br>
+    9.00 AM Mexico<br>
+    10.00 AM Colombia, Ecuador, Perú<br>
+    11.00 AM Chile, USA (EST), Bolivia<br>
+    12.00 PM Argentina, Uruguay, Brasil<br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link September 4th</b></a><br>
+    We look forward to seeing you there!' 
+    imageSm: 'img/news/LASDB_seminar20260904-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20260904-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
   - title: '13th International LASDB Congress'
     date: '14/4/26'
