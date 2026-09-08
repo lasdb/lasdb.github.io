@@ -11,11 +11,11 @@ news:
     subtitle: 'Vote for the New LASDB Logo — Your Voice Matters !!'
     body: 'Our community is growing and it is time to change our visual identity. We recently held a logo design contest and the submissions we received nicely capture the diversity, creativity and spirit of our community.<br>
     Now, we need your help <b>to select the three finalists</b>.<br> 
-Voting Details:<br>
+<u>Voting Details:</u><br>
 - Select 3 options that you feel best represent our LASDB community.<br>
 - Only registered email addresses are allowed to vote.<br>
 - Each person can only vote once.<br>
-- Deadline: September 27, 2026<br>
+- <b>Deadline: September 27, 2026</b><br>
   <br>
     <a href="https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec" target="_blank"><b>Please review the designs and log your choices here</b></a><br>' 
     imageSm: 'img/news/new_logo-sm.png'
