@@ -6,6 +6,21 @@ categories: news
 permalink: pages/news.html
 news:
 
+  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+    date: '25/9/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: '<b>Friday October 2nd, 2026</b><br>
+    LASDB Students/Postdocs/Early Investigators Seminar Series<br>
+    9.00 AM Mexico<br>
+    10.00 AM Colombia, Ecuador, Perú<br>
+    11.00 AM USA (EST), Bolivia<br>
+    12.00 PM Argentina, Uruguay, BrasiL, Chile<br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link September 4th</b></a><br>
+    We look forward to seeing you there!' 
+    imageSm: 'img/news/LASDB_seminar20261002-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20261002-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
+
   - title: 'LASDB Logo Design Contest'
     date: '20/8/26'
     subtitle: 'Vote for the New LASDB Logo — Your Voice Matters !!'
