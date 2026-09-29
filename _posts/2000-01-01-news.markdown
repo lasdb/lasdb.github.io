@@ -50,15 +50,6 @@ Interested? Fill out the form below and join us! <br>
     imageBg: '../img/news/seminars-bg.jpg'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSfn-P-9zoXnV7ZEjOQ9Khibhfh8-ASUSmBmbh_cw08NeX829A/viewform'
 
-  - title: '12th Strategic Conference of Zebrafish Investigators'
-    date: '03/08/26'
-    subtitle: 'Early Bird Registration, Call for Abstracts, & Workshop Proposals NOW OPEN!'
-    body: 'The International Zebrafish Society (IZFS) is thrilled to announce that the 2027 Strategic Conference of Zebrafish Investigators (SCZI) will take place at the Hyatt Regency Merida in Merida, Mexico, on January 10-13, 2027! Early registration, call for abstracts, and workshop proposals are now open! <br>
-The SCZI is a conference exclusively for principal investigators studying zebrafish and other fish models. Attendance is limited to 200 attendees to create an environment that enables meaningful discussions. You will not want to miss the first SCZI in Mexico!' 
-    imageSm: 'img/news/izfs-sm.png'
-    imageBg: '../img/news/izfs-bg.png'
-    URL: 'https://www.izfs.org/education/2027sczi'
-
   - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
     date: '15/5/26'
     subtitle: 'Congratulations Roberto !'
@@ -83,20 +74,6 @@ The SCZI is a conference exclusively for principal investigators studying zebraf
     imageBg: '../img/news/LASDB_seminar20260904-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
-  - title: '13th International LASDB Congress'
-    date: '14/4/26'
-    subtitle: 'Buzios, Brazil. October 2027<br>'
-    body: 'We are pleased to announce the <b>13th Latin American Society for Developmental Biology (LASDB) Conference</b>, to be held in <b>October 2027 in the beautiful coastal town of Búzios, Rio de Janeiro, Brazil</b>.<br><br>
-This meeting will bring together an interdisciplinary community of researchers focused on emerging questions in developmental biology, spanning molecular, cellular, evolutionary, and regenerative biology perspectives. The conference continues a strong tradition of fostering scientific exchange and training students, postdoctoral fellows, and early-career researchers across Latin America.<br><br>
-The 2027 meeting is organized under the auspices of the Latin American Society for Developmental Biology (LASDB), with the collaboration of regional and international partner societies. As in previous editions, the conference is committed to promoting diversity, inclusion, and gender balance at all levels of participation.<br><br>
-We will made every effort to keep registration fees as accessible as possible. Reduced rates will be available for active members of the organizing societies, and we will offer registration waivers and travel grants to support student and early-career participation.<br><br>
-In addition to an outstanding lineup of invited speakers, approximately 40% of oral presentations will be selected from submitted abstracts, alongside flash talks, poster sessions, and a range of social and networking activities designed to foster collaboration across the region.<br><br>
-We look forward to welcoming you to Búzios for what promises to be a vibrant and impactful meeting.  <br><br>
-<b>MORE INFORMATION WILL BE AVAILABLE SOON</b>' 
-    imageSm: 'img/news/Buzios2027-sm.png'
-    imageBg: '../img/news/Buzios2027-bg.png'
-    URL: 'https://lasdb-development.org/pages/LASDB2027.html'
-
   - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
     date: '15/9/25'
     subtitle: 'Complete your profile and join the Network !'
@@ -118,30 +95,11 @@ The conversations feature:<br>
 Dr. Rosa Navarro: Leading Developmental Biology research in Mexico, <br>
 Dr. Martín Estermann: from Argentina to the world, <br>
 Dr. Estefanía Sánchez-Vásquez: LatinxDB Chair 2025-2026 <br>
-Dr. Ariel Waisman, Laboratory of applied research in neuroscience, FLENI, CONICET, Argentina'
+Dr. Ariel Waisman, Lab of applied research in neuroscience, FLENI, CONICET, Argentina<br>
+Dr. Bruno Vellutini, Federal University of Minas Gerais'
     imageSm: 'img/news/latinxdb-sm.png'
     imageBg: '../img/news//latinxDB-inter-bg.jpg'
     URL: 'https://sites.google.com/view/latinxindb/english/interviews'
-
-  - title: 'III Colombian Congress of Developmental Biology'
-    date: '28/04/26'
-    subtitle: 'August 11-14, 2026. Cali, Colombia'
-    body: 'we would like to invite the LASDB community to participate in the III Colombian Congress of Developmental Biology SMBE satellite meeting 2026.<br>
-You can find full details about the event on our official webpage and IG:
-<a href="https://www.scbd-biologia-del-desarrollo.com/en" target="_blank">https://www.scbd-biologia-del-desarrollo.com/en</a><br>
-<a href="https://www.instagram.com/ccbd.pujc/" target="_blank">Instagram: @ccbd.pujc</a>'
-    imageSm: 'img/news/Col_2026-sm.png'
-    imageBg: '../img/news//Col_2026-bg.jpg'
-    URL: 'https://www.scbd-biologia-del-desarrollo.com/en'
-
-  - title: 'Mexican Society for Developmental Biology Meeting'
-    date: '11/02/26'
-    subtitle: 'September 2-5, 2026. Querétaro, Mexico'
-    body: 'The XIV SMBD National Congress is getting closer. <br>
-More details of the meeting will be published soon in the SMBD website.'
-    imageSm: 'img/news/SMBD_2026-sm.png'
-    imageBg: '../img/news//SMBD_2026-bg.jpg'
-    URL: 'https://smbd.mx/congreso/'
 
   - title: 'Argentine Developmental Biology Network'
     date: '1/5/24'
@@ -168,6 +126,20 @@ Pronto más información sobre inscripciones y envío de resúmenes.'
     imageBg: '../img/news/SBDCh_2027-bg.jpg'
     URL: 'https://www.instagram.com/socbiodesarrollo/'
 
+  - title: '13th International LASDB Congress'
+    date: '14/4/26'
+    subtitle: 'Buzios, Brazil. October 2027<br>'
+    body: 'We are pleased to announce the <b>13th Latin American Society for Developmental Biology (LASDB) Conference</b>, to be held in <b>October 2027 in the beautiful coastal town of Búzios, Rio de Janeiro, Brazil</b>.<br><br>
+This meeting will bring together an interdisciplinary community of researchers focused on emerging questions in developmental biology, spanning molecular, cellular, evolutionary, and regenerative biology perspectives. The conference continues a strong tradition of fostering scientific exchange and training students, postdoctoral fellows, and early-career researchers across Latin America.<br><br>
+The 2027 meeting is organized under the auspices of the Latin American Society for Developmental Biology (LASDB), with the collaboration of regional and international partner societies. As in previous editions, the conference is committed to promoting diversity, inclusion, and gender balance at all levels of participation.<br><br>
+We will made every effort to keep registration fees as accessible as possible. Reduced rates will be available for active members of the organizing societies, and we will offer registration waivers and travel grants to support student and early-career participation.<br><br>
+In addition to an outstanding lineup of invited speakers, approximately 40% of oral presentations will be selected from submitted abstracts, alongside flash talks, poster sessions, and a range of social and networking activities designed to foster collaboration across the region.<br><br>
+We look forward to welcoming you to Búzios for what promises to be a vibrant and impactful meeting.  <br><br>
+<b>MORE INFORMATION WILL BE AVAILABLE SOON</b>' 
+    imageSm: 'img/news/Buzios2027-sm.png'
+    imageBg: '../img/news/Buzios2027-bg.png'
+    URL: 'https://lasdb-development.org/pages/LASDB2027.html'
+
   - title: 'LASDB Online Seminars'
     date: '23/7/26'
     subtitle: 'Life Cycle of a Grant in the US<br>
@@ -188,7 +160,37 @@ We look forward to seeing you there!<br>
     imageSm: 'img/news/LASDB_seminar20260807-sm.jpg'
     imageBg: '../img/news/LASDB_seminar20260807-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
-  
+
+
+  - title: '12th Strategic Conference of Zebrafish Investigators'
+    date: '03/08/26'
+    subtitle: 'Early Bird Registration, Call for Abstracts, & Workshop Proposals NOW OPEN!'
+    body: 'The International Zebrafish Society (IZFS) is thrilled to announce that the 2027 Strategic Conference of Zebrafish Investigators (SCZI) will take place at the Hyatt Regency Merida in Merida, Mexico, on January 10-13, 2027! Early registration, call for abstracts, and workshop proposals are now open! <br>
+The SCZI is a conference exclusively for principal investigators studying zebrafish and other fish models. Attendance is limited to 200 attendees to create an environment that enables meaningful discussions. You will not want to miss the first SCZI in Mexico!' 
+    imageSm: 'img/news/izfs-sm.png'
+    imageBg: '../img/news/izfs-bg.png'
+    URL: 'https://www.izfs.org/education/2027sczi'
+    
+  - title: 'III Colombian Congress of Developmental Biology'
+    date: '28/04/26'
+    subtitle: 'August 11-14, 2026. Cali, Colombia'
+    body: 'we would like to invite the LASDB community to participate in the III Colombian Congress of Developmental Biology SMBE satellite meeting 2026.<br>
+You can find full details about the event on our official webpage and IG:
+<a href="https://www.scbd-biologia-del-desarrollo.com/en" target="_blank">https://www.scbd-biologia-del-desarrollo.com/en</a><br>
+<a href="https://www.instagram.com/ccbd.pujc/" target="_blank">Instagram: @ccbd.pujc</a>'
+    imageSm: 'img/news/Col_2026-sm.png'
+    imageBg: '../img/news//Col_2026-bg.jpg'
+    URL: 'https://www.scbd-biologia-del-desarrollo.com/en'
+
+  - title: 'Mexican Society for Developmental Biology Meeting'
+    date: '11/02/26'
+    subtitle: 'September 2-5, 2026. Querétaro, Mexico'
+    body: 'The XIV SMBD National Congress is getting closer. <br>
+More details of the meeting will be published soon in the SMBD website.'
+    imageSm: 'img/news/SMBD_2026-sm.png'
+    imageBg: '../img/news//SMBD_2026-bg.jpg'
+    URL: 'https://smbd.mx/congreso/'
+
   - title: 'EMBO Practical Course in Developmental Biology: form cells to neural systems'
     date: '17/5/26'
     subtitle: '7-20 January 2027, CIMARQ-Quintay, Chile.<br>
