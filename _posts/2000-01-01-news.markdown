@@ -32,21 +32,6 @@ Upcoming Event (2027)<br>
     imageSm: 'img/news/IIHW27-sm.png'
     imageBg: '../img/news/IIHW27-bg.jpg'
     URL: 'https://4id.network/event/iihw-2027'
-
-
-  - title: 'LASDB Logo Design Contest'
-    date: '6/10/26'
-    subtitle: ''
-    body: 'The International Insect Hormone Workshop (IIHW) is a global conference dedicated to insect endocrinology, physiology, and development, evolving from the historical Ecdysone Workshops.<br>
-Upcoming Event (2027)<br>
-• Event: 8th International Insect Hormone Workshop (IIHW)<br>
-• Dates: April 18–22, 2027<br>
-• Location: Valparaíso, Chile' <br>
-    imageSm: 'img/news/IIHW27-sm.png'
-    imageBg: '../img/news/IIHW27-bg.jpg'
-    URL: 'https://4id.network/event/iihw-2027
-
-
     
   - title: 'LASDB Logo Design Contest'
     date: '20/8/26'
