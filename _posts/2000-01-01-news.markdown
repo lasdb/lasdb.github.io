@@ -21,7 +21,6 @@ news:
     imageBg: '../img/news/LASDB_seminar20261002-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
-
   - title: 'LASDB Logo Design Contest'
     date: '6/10/26'
     subtitle: 'April 2027, Valparaiso, Chile'
