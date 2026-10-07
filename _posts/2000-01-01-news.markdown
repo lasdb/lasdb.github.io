@@ -33,6 +33,7 @@ Upcoming Event (2027)<br>
     imageBg: '../img/news/IIHW27-bg.jpg'
     URL: 'https://4id.network/event/iihw-2027'
 
+
   - title: 'LASDB Logo Design Contest'
     date: '6/10/26'
     subtitle: ''
