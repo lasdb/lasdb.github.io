@@ -28,7 +28,7 @@ news:
 Upcoming Event (2027)<br>
 • Event: 8th International Insect Hormone Workshop (IIHW)<br>
 • Dates: April 18–22, 2027<br>
-• Location: Valparaíso, Chile'' 
+• Location: Valparaíso, Chile' 
     imageSm: 'img/news/IIHW27-sm.png'
     imageBg: '../img/news/IIHW27-bg.jpg'
     URL: 'https://4id.network/event/iihw-2027'
