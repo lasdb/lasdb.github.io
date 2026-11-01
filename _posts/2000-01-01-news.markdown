@@ -6,19 +6,23 @@ categories: news
 permalink: pages/news.html
 news:
 
+
+
+
+
   - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
-    date: '25/9/26'
+    date: '30/10/26'
     subtitle: 'Showcasing Latin American Deelopmental Biology'
-    body: '<b>Friday October 2nd, 2026</b><br>
+    body: '<b>Friday November 6th, 2026</b><br>
     LASDB Students/Postdocs/Early Investigators Seminar Series<br><br>
     9.00 AM Mexico<br>
-    10.00 AM Colombia, Ecuador, Perú<br>
-    11.00 AM USA (EST), Bolivia<br>
+    10.00 AM Colombia, Ecuador, Perú, USA (EST)<br>
+    11.00 AM Bolivia<br>
     12.00 PM Argentina, Uruguay, Brazil, Chile<br><br>
-    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link October 2nd</b></a><br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link November 6th</b></a><br>
     We look forward to seeing you there!' 
-    imageSm: 'img/news/LASDB_seminar20261002-sm.jpg'
-    imageBg: '../img/news/LASDB_seminar20261002-bg.jpg'
+    imageSm: 'img/news/LASDB_seminar2026Nov-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar2026Nov-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
 
   - title: 'International Insect Hormone Workshop (IIHW)'
@@ -61,6 +65,22 @@ Interested? Fill out the form below and join us! <br>
     imageSm: 'img/news/seminars-sm.jpg'
     imageBg: '../img/news/seminars-bg.jpg'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSfn-P-9zoXnV7ZEjOQ9Khibhfh8-ASUSmBmbh_cw08NeX829A/viewform'
+
+  - title: 'LASDB Students/Postdocs/Early career investigators Seminar Series'
+    date: '25/9/26'
+    subtitle: 'Showcasing Latin American Deelopmental Biology'
+    body: '<b>Friday October 2nd, 2026</b><br>
+    LASDB Students/Postdocs/Early Investigators Seminar Series<br><br>
+    9.00 AM Mexico<br>
+    10.00 AM Colombia, Ecuador, Perú<br>
+    11.00 AM USA (EST), Bolivia<br>
+    12.00 PM Argentina, Uruguay, Brazil, Chile<br><br>
+    <a href="https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09" target="_blank"><b>Zoom link October 2nd</b></a><br>
+    We look forward to seeing you there!' 
+    imageSm: 'img/news/LASDB_seminar20261002-sm.jpg'
+    imageBg: '../img/news/LASDB_seminar20261002-bg.jpg'
+    URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
+
 
   - title: 'Roberto Mayor awarded SDB Viktor Hamburger Outstanding Educator Prize'
     date: '15/5/26'
