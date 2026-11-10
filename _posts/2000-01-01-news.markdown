@@ -98,6 +98,18 @@ Pronto más información sobre inscripciones y envío de resúmenes.'
     imageBg: '../img/news/SBDCh_2027-bg.jpg'
     URL: 'https://www.instagram.com/socbiodesarrollo/'
 
+  - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
+    date: '15/9/25'
+    subtitle: 'Complete your profile and join the Network !'
+    body: 'We have developed an online platform to collect information on <b>Latin American developmental biologists, research</b> <b>areas and biological models</b>.<br>
+    This initiative will help us better understand the scope and diversity of our community and will be made available as a searchable database on the LASDB website, fostering collaboration and exchange among members. <br>
+    <b>We warmly invite you to contribute by completing the <a href="https://forms.gle/WPg8vwJaFf68fKiHA" target="_blank"> online form here</a></b>.<br><br>
+This survey is meant both for <b>developmental biologists (investigators, postdocs, students, and technicians) working within Latin America, as well as for Latin American developmental biologists working abroad</b>.<br><br>
+Please help us spread the word by sharing it !!' 
+    imageSm: 'img/news/databaseDevBiol-sm.png'
+    imageBg: '../img/news/databaseDevBiol-bg.jpg'
+    URL: 'https://forms.gle/WPg8vwJaFf68fKiHA'
+
   - title: 'LASDB Logo Design Contest'
     date: '20/8/26'
     subtitle: 'Vote for the New LASDB Logo — Your Voice Matters !!'
@@ -164,19 +176,6 @@ Upcoming Event (2027)<br>
     imageSm: 'img/news/LASDB_seminar20260904-sm.jpg'
     imageBg: '../img/news/LASDB_seminar20260904-bg.jpg'
     URL: 'https://uchile.zoom.us/j/93397672708?pwd=bnFzMXJzZnNjVGpMZzFkclRXdXlCZz09'
-
-  - title: 'A Directory of Developmental and Stem Cell Biology Researchers and Laboratories'
-    date: '15/9/25'
-    subtitle: 'Complete your profile and join the Network !'
-    body: 'We have developed an online platform to collect information on <b>Latin American developmental biologists, research</b> <b>areas and biological models</b>.<br>
-    This initiative will help us better understand the scope and diversity of our community and will be made available as a searchable database on the LASDB website, fostering collaboration and exchange among members. <br>
-    <b>We warmly invite you to contribute by completing the <a href="https://forms.gle/WPg8vwJaFf68fKiHA" target="_blank"> online form here</a></b>.<br><br>
-This survey is meant both for <b>developmental biologists (investigators, postdocs, students, and technicians) working within Latin America, as well as for Latin American developmental biologists working abroad</b>.<br><br>
-Please help us spread the word by sharing it !!' 
-    imageSm: 'img/news/databaseDevBiol-sm.png'
-    imageBg: '../img/news/databaseDevBiol-bg.jpg'
-    URL: 'https://forms.gle/WPg8vwJaFf68fKiHA'
-
 
   - title: '13th International LASDB Congress'
     date: '14/4/26'
