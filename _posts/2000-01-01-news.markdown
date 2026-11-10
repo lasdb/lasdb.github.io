@@ -29,21 +29,21 @@ news:
     imageBg: '../img/news/RobertoMayor_bg.jpg'
     URL: 'https://www.sdbonline.org/resource?ResourceID=4621'
     
-  - title: 'LASDB Logo Design Contest'
-    date: '20/8/26'
-    subtitle: 'Vote for the New LASDB Logo — Your Voice Matters !!'
-    body: 'Our community is growing and it is time to change our visual identity. We recently held a logo design contest and the submissions we received nicely capture the diversity, creativity and spirit of our community.<br>
-    Now, we need your help <b>to select the three finalists</b>.<br> 
-<u>Voting Details:</u><br>
-- Select 3 options that you feel best represent our LASDB community.<br>
-- Only registered email addresses are allowed to vote.<br>
-- Each person can only vote once.<br>
-- <b>Deadline: September 27, 2026</b><br>
-  <br>
-    <a href="https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec" target="_blank"><b>Please review the designs and log your choices here</b></a><br>' 
-    imageSm: 'img/news/new_logo-sm.png'
-    imageBg: '../img/news/logo_contest-bg.png'
-    URL: 'https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec'
+  - title: 'LASDB Logo Design Contest - UPDATE'
+    date: '20/10/26'
+    subtitle: ''
+    body: 'Dear LASDB community,<br>
+We would like to share a brief update on the LASDB logo contest launched a few weeks ago.<br>
+As you have seen, we received 35 original proposals, reflecting the remarkable creativity and enthusiasm that characterise our community ! <br>
+Following the community vote, three logo designs received the highest number of votes and were shortlisted for the next stage of the selection process.
+A panel of four artists with strong backgrounds in biology is now reviewing and refining the shortlisted designs, with the aim of establishing a final ranking and recommending a new logo for LASDB.<br>
+We expect to announce the results in early December.<br>
+In the meantime, <b> we would like to extend our sincere thanks to everyone who contributed a proposal or participated in the voting process! </b><br>
+With kind regards,<br>
+LASDB Board'
+    imageSm: 'img/news/new2_logo-sm.png'
+    imageBg: '../img/news/logo_contest2-bg.png'
+    URL: ''
 
   - title: 'LASDB Online Seminars – Call for Speakers'
     date: '24/6/26'
@@ -57,7 +57,6 @@ Interested? Fill out the form below and join us! <br>
     imageSm: 'img/news/seminars-sm.jpg'
     imageBg: '../img/news/seminars-bg.jpg'
     URL: 'https://docs.google.com/forms/d/e/1FAIpQLSfn-P-9zoXnV7ZEjOQ9Khibhfh8-ASUSmBmbh_cw08NeX829A/viewform'
-
 
   - title: 'LatinX in Developmental Biology'
     date: '20/02/26'
@@ -98,6 +97,22 @@ Pronto más información sobre inscripciones y envío de resúmenes.'
     imageSm: 'img/news/SBDCh-sm.png'
     imageBg: '../img/news/SBDCh_2027-bg.jpg'
     URL: 'https://www.instagram.com/socbiodesarrollo/'
+
+  - title: 'LASDB Logo Design Contest'
+    date: '20/8/26'
+    subtitle: 'Vote for the New LASDB Logo — Your Voice Matters !!'
+    body: 'Our community is growing and it is time to change our visual identity. We recently held a logo design contest and the submissions we received nicely capture the diversity, creativity and spirit of our community.<br>
+    Now, we need your help <b>to select the three finalists</b>.<br> 
+<u>Voting Details:</u><br>
+- Select 3 options that you feel best represent our LASDB community.<br>
+- Only registered email addresses are allowed to vote.<br>
+- Each person can only vote once.<br>
+- <b>Deadline: September 27, 2026</b><br>
+  <br>
+    <a href="https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec" target="_blank"><b>Please review the designs and log your choices here</b></a><br>' 
+    imageSm: 'img/news/new_logo-sm.png'
+    imageBg: '../img/news/logo_contest-bg.png'
+    URL: 'https://script.google.com/macros/s/AKfycby54cwAZvhIlFYvJBSlvMWpIXKBlGYuqhnxumcluo29ZIQ9tRBag8PQqFkcrOsnumK1oQ/exec'
 
   - title: 'International Insect Hormone Workshop (IIHW)'
     date: '6/10/26'
